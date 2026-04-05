@@ -1,0 +1,1712 @@
+﻿ano_mes,mes_desc,faixa_etaria,sexo_desc,cor_raca_desc,escolaridade_desc,total_pessoas,qtd_trabalhou,qtd_trabalho_remoto,qtd_bolsa_familia,qtd_auxilio_emergencial,qtd_sintomaticos,pct_trabalhou,pct_trabalho_remoto,pct_bolsa_familia,pct_auxilio_emergencial,pct_sintomaticos
+202009,Setembro/2020,0-17,Feminino,Indígena,Fundamental completo,3,0,0,1,0,0,0.0,0.0,33.33,0.0,0.0
+202009,Setembro/2020,0-17,Feminino,Branca,Fundamental completo,235,8,6,14,14,4,3.4,75.0,5.96,5.96,1.7
+202009,Setembro/2020,0-17,Feminino,Indígena,Médio incompleto,20,0,0,2,0,0,0.0,0.0,10.0,0.0,0.0
+202009,Setembro/2020,0-17,Feminino,Ignorado,Médio incompleto,3,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,0-17,Feminino,Amarela,Médio completo,3,0,0,0,1,0,0.0,0.0,0.0,33.33,0.0
+202009,Setembro/2020,0-17,Feminino,Preta,Sem instrução,638,0,0,71,50,8,0.0,0.0,11.13,7.84,1.25
+202009,Setembro/2020,0-17,Feminino,Branca,Sem instrução,5706,0,0,435,456,115,0.0,0.0,7.62,7.99,2.02
+202009,Setembro/2020,0-17,Feminino,Branca,Médio incompleto,2500,189,155,228,194,51,7.56,82.01,9.12,7.76,2.04
+202009,Setembro/2020,0-17,Feminino,Indígena,Sem instrução,49,0,0,3,3,5,0.0,0.0,6.12,6.12,10.2
+202009,Setembro/2020,0-17,Feminino,Parda,Médio incompleto,3459,199,160,303,232,72,5.75,80.4,8.76,6.71,2.08
+202009,Setembro/2020,0-17,Feminino,Branca,Superior incompleto,35,9,9,1,5,0,25.71,100.0,2.86,14.29,0.0
+202009,Setembro/2020,0-17,Feminino,Amarela,Sem instrução,53,0,0,4,6,1,0.0,0.0,7.55,11.32,1.89
+202009,Setembro/2020,0-17,Feminino,Parda,Superior incompleto,32,4,4,5,3,1,12.5,100.0,15.63,9.38,3.13
+202009,Setembro/2020,0-17,Feminino,Preta,Fundamental completo,55,1,1,5,2,0,1.82,100.0,9.09,3.64,0.0
+202009,Setembro/2020,0-17,Feminino,Preta,Médio completo,19,0,1,1,2,0,0.0,0.0,5.26,10.53,0.0
+202009,Setembro/2020,0-17,Feminino,Amarela,Médio incompleto,32,1,1,3,2,1,3.13,100.0,9.38,6.25,3.13
+202009,Setembro/2020,0-17,Feminino,Branca,Médio completo,131,16,14,8,7,2,12.21,87.5,6.11,5.34,1.53
+202009,Setembro/2020,0-17,Feminino,Ignorado,Fundamental incompleto,8,0,0,1,0,0,0.0,0.0,12.5,0.0,0.0
+202009,Setembro/2020,0-17,Feminino,Preta,Fundamental incompleto,1559,7,6,163,107,29,0.45,85.71,10.46,6.86,1.86
+202009,Setembro/2020,0-17,Feminino,Parda,Fundamental incompleto,13604,72,34,1121,870,257,0.53,47.22,8.24,6.4,1.89
+202009,Setembro/2020,0-17,Feminino,Parda,Sem instrução,6179,1,0,481,384,147,0.02,0.0,7.78,6.21,2.38
+202009,Setembro/2020,0-17,Feminino,Indígena,Fundamental incompleto,113,3,0,10,8,4,2.65,0.0,8.85,7.08,3.54
+202009,Setembro/2020,0-17,Feminino,Amarela,Fundamental incompleto,107,0,0,8,6,3,0.0,0.0,7.48,5.61,2.8
+202009,Setembro/2020,0-17,Feminino,Preta,Médio incompleto,474,22,22,53,37,5,4.64,100.0,11.18,7.81,1.05
+202009,Setembro/2020,0-17,Feminino,Parda,Médio completo,167,21,20,10,7,4,12.57,95.24,5.99,4.19,2.4
+202009,Setembro/2020,0-17,Feminino,Branca,Fundamental incompleto,9337,51,25,885,714,143,0.55,49.02,9.48,7.65,1.53
+202009,Setembro/2020,0-17,Feminino,Parda,Fundamental completo,412,15,8,34,30,7,3.64,53.33,8.25,7.28,1.7
+202009,Setembro/2020,0-17,Feminino,Amarela,Fundamental completo,4,0,0,1,0,0,0.0,0.0,25.0,0.0,0.0
+202009,Setembro/2020,0-17,Feminino,Ignorado,Sem instrução,8,0,0,0,2,0,0.0,0.0,0.0,25.0,0.0
+202009,Setembro/2020,0-17,Feminino,Preta,Superior incompleto,2,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,0-17,Feminino,Amarela,Superior incompleto,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,0-17,Masculino,Branca,Sem instrução,5851,0,0,401,460,113,0.0,0.0,6.85,7.86,1.93
+202009,Setembro/2020,0-17,Masculino,Preta,Médio incompleto,442,55,47,44,29,8,12.44,85.45,9.95,6.56,1.81
+202009,Setembro/2020,0-17,Masculino,Ignorado,Fundamental incompleto,6,0,0,2,0,0,0.0,0.0,33.33,0.0,0.0
+202009,Setembro/2020,0-17,Masculino,Preta,Médio completo,21,3,3,1,0,0,14.29,100.0,4.76,0.0,0.0
+202009,Setembro/2020,0-17,Masculino,Branca,Fundamental completo,291,20,17,26,23,4,6.87,85.0,8.93,7.9,1.37
+202009,Setembro/2020,0-17,Masculino,Branca,Fundamental incompleto,9794,119,65,865,713,163,1.22,54.62,8.83,7.28,1.66
+202009,Setembro/2020,0-17,Masculino,Parda,Médio incompleto,3319,371,277,235,225,60,11.18,74.66,7.08,6.78,1.81
+202009,Setembro/2020,0-17,Masculino,Preta,Fundamental incompleto,1745,26,21,166,105,34,1.49,80.77,9.51,6.02,1.95
+202009,Setembro/2020,0-17,Masculino,Parda,Médio completo,163,31,23,10,14,2,19.02,74.19,6.13,8.59,1.23
+202009,Setembro/2020,0-17,Masculino,Indígena,Fundamental incompleto,115,1,0,5,8,4,0.87,0.0,4.35,6.96,3.48
+202009,Setembro/2020,0-17,Masculino,Indígena,Fundamental completo,3,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,0-17,Masculino,Indígena,Sem instrução,56,0,0,5,3,1,0.0,0.0,8.93,5.36,1.79
+202009,Setembro/2020,0-17,Masculino,Indígena,Médio incompleto,25,1,1,1,1,1,4.0,100.0,4.0,4.0,4.0
+202009,Setembro/2020,0-17,Masculino,Branca,Médio incompleto,2383,306,220,194,202,44,12.84,71.9,8.14,8.48,1.85
+202009,Setembro/2020,0-17,Masculino,Amarela,Fundamental completo,2,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,0-17,Masculino,Indígena,Médio completo,1,1,0,0,0,0,100.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,0-17,Masculino,Parda,Fundamental completo,397,28,20,31,25,1,7.05,71.43,7.81,6.3,0.25
+202009,Setembro/2020,0-17,Masculino,Preta,Sem instrução,672,0,0,61,39,13,0.0,0.0,9.08,5.8,1.93
+202009,Setembro/2020,0-17,Masculino,Amarela,Médio incompleto,26,3,3,1,1,0,11.54,100.0,3.85,3.85,0.0
+202009,Setembro/2020,0-17,Masculino,Branca,Médio completo,107,20,17,6,8,2,18.69,85.0,5.61,7.48,1.87
+202009,Setembro/2020,0-17,Masculino,Parda,Superior incompleto,16,1,1,1,0,0,6.25,100.0,6.25,0.0,0.0
+202009,Setembro/2020,0-17,Masculino,Preta,Fundamental completo,70,5,3,5,4,0,7.14,60.0,7.14,5.71,0.0
+202009,Setembro/2020,0-17,Masculino,Branca,Superior incompleto,21,7,7,2,2,2,33.33,100.0,9.52,9.52,9.52
+202009,Setembro/2020,0-17,Masculino,Parda,Fundamental incompleto,14668,246,147,1153,969,254,1.68,59.76,7.86,6.61,1.73
+202009,Setembro/2020,0-17,Masculino,Amarela,Sem instrução,53,0,0,5,5,2,0.0,0.0,9.43,9.43,3.77
+202009,Setembro/2020,0-17,Masculino,Parda,Sem instrução,6587,4,4,493,448,154,0.06,100.0,7.48,6.8,2.34
+202009,Setembro/2020,0-17,Masculino,Amarela,Fundamental incompleto,139,3,2,15,17,2,2.16,66.67,10.79,12.23,1.44
+202009,Setembro/2020,0-17,Masculino,Ignorado,Sem instrução,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,0-17,Masculino,Amarela,Superior incompleto,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,0-17,Masculino,Amarela,Médio completo,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,0-17,Masculino,Preta,Superior incompleto,3,1,1,0,0,0,33.33,100.0,0.0,0.0,0.0
+202009,Setembro/2020,0-17,Masculino,Ignorado,Médio incompleto,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,18-29,Feminino,Amarela,Médio completo,78,28,30,6,6,4,35.9,107.14,7.69,7.69,5.13
+202009,Setembro/2020,18-29,Feminino,Branca,Fundamental completo,408,148,133,27,24,10,36.27,89.86,6.62,5.88,2.45
+202009,Setembro/2020,18-29,Feminino,Indígena,Sem instrução,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,18-29,Feminino,Branca,Superior completo,2186,1495,1561,81,163,36,68.39,104.41,3.71,7.46,1.65
+202009,Setembro/2020,18-29,Feminino,Branca,Superior incompleto,3099,1226,1249,269,237,65,39.56,101.88,8.68,7.65,2.1
+202009,Setembro/2020,18-29,Feminino,Indígena,Superior completo,14,12,11,2,1,0,85.71,91.67,14.29,7.14,0.0
+202009,Setembro/2020,18-29,Feminino,Preta,Superior completo,238,142,151,13,14,5,59.66,106.34,5.46,5.88,2.1
+202009,Setembro/2020,18-29,Feminino,Parda,Médio incompleto,2592,542,496,198,132,70,20.91,91.51,7.64,5.09,2.7
+202009,Setembro/2020,18-29,Feminino,Preta,Médio incompleto,441,75,86,36,32,13,17.01,114.67,8.16,7.26,2.95
+202009,Setembro/2020,18-29,Feminino,Parda,Pós-graduação,169,112,119,6,7,6,66.27,106.25,3.55,4.14,3.55
+202009,Setembro/2020,18-29,Feminino,Preta,Fundamental completo,109,29,26,6,7,1,26.61,89.66,5.5,6.42,0.92
+202009,Setembro/2020,18-29,Feminino,Parda,Superior incompleto,2737,1071,1118,173,205,73,39.13,104.39,6.32,7.49,2.67
+202009,Setembro/2020,18-29,Feminino,Amarela,Superior incompleto,52,22,22,3,6,0,42.31,100.0,5.77,11.54,0.0
+202009,Setembro/2020,18-29,Feminino,Parda,Superior completo,1491,856,923,66,102,48,57.41,107.83,4.43,6.84,3.22
+202009,Setembro/2020,18-29,Feminino,Amarela,Fundamental incompleto,19,5,5,4,1,0,26.32,100.0,21.05,5.26,0.0
+202009,Setembro/2020,18-29,Feminino,Amarela,Superior completo,34,22,21,3,2,0,64.71,95.45,8.82,5.88,0.0
+202009,Setembro/2020,18-29,Feminino,Branca,Médio completo,4460,1883,1916,240,305,101,42.22,101.75,5.38,6.84,2.26
+202009,Setembro/2020,18-29,Feminino,Amarela,Pós-graduação,6,4,4,1,0,0,66.67,100.0,16.67,0.0,0.0
+202009,Setembro/2020,18-29,Feminino,Preta,Superior incompleto,501,192,206,50,41,13,38.32,107.29,9.98,8.18,2.59
+202009,Setembro/2020,18-29,Feminino,Parda,Sem instrução,87,7,7,7,8,5,8.05,100.0,8.05,9.2,5.75
+202009,Setembro/2020,18-29,Feminino,Parda,Fundamental incompleto,1528,253,211,113,68,36,16.56,83.4,7.4,4.45,2.36
+202009,Setembro/2020,18-29,Feminino,Amarela,Médio incompleto,21,5,6,3,0,2,23.81,120.0,14.29,0.0,9.52
+202009,Setembro/2020,18-29,Feminino,Indígena,Fundamental incompleto,10,3,3,0,0,2,30.0,100.0,0.0,0.0,20.0
+202009,Setembro/2020,18-29,Feminino,Preta,Sem instrução,11,0,0,1,1,0,0.0,0.0,9.09,9.09,0.0
+202009,Setembro/2020,18-29,Feminino,Parda,Médio completo,7531,2445,2439,408,440,181,32.47,99.75,5.42,5.84,2.4
+202009,Setembro/2020,18-29,Feminino,Indígena,Pós-graduação,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,18-29,Feminino,Preta,Pós-graduação,45,33,33,2,2,2,73.33,100.0,4.44,4.44,4.44
+202009,Setembro/2020,18-29,Feminino,Preta,Médio completo,1266,449,466,79,65,32,35.47,103.79,6.24,5.13,2.53
+202009,Setembro/2020,18-29,Feminino,Indígena,Médio incompleto,30,8,6,2,3,2,26.67,75.0,6.67,10.0,6.67
+202009,Setembro/2020,18-29,Feminino,Branca,Sem instrução,57,1,1,5,4,0,1.75,100.0,8.77,7.02,0.0
+202009,Setembro/2020,18-29,Feminino,Indígena,Fundamental completo,2,1,1,0,0,0,50.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,18-29,Feminino,Branca,Fundamental incompleto,523,117,106,43,33,11,22.37,90.6,8.22,6.31,2.1
+202009,Setembro/2020,18-29,Feminino,Branca,Médio incompleto,1326,360,349,105,92,34,27.15,96.94,7.92,6.94,2.56
+202009,Setembro/2020,18-29,Feminino,Preta,Fundamental incompleto,199,35,37,13,7,7,17.59,105.71,6.53,3.52,3.52
+202009,Setembro/2020,18-29,Feminino,Indígena,Superior incompleto,16,1,1,0,1,1,6.25,100.0,0.0,6.25,6.25
+202009,Setembro/2020,18-29,Feminino,Ignorado,Superior incompleto,2,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,18-29,Feminino,Parda,Fundamental completo,720,185,178,41,36,19,25.69,96.22,5.69,5.0,2.64
+202009,Setembro/2020,18-29,Feminino,Indígena,Médio completo,70,27,25,5,4,1,38.57,92.59,7.14,5.71,1.43
+202009,Setembro/2020,18-29,Feminino,Branca,Pós-graduação,346,264,276,15,16,13,76.3,104.55,4.34,4.62,3.76
+202009,Setembro/2020,18-29,Feminino,Ignorado,Médio incompleto,1,0,0,0,1,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,18-29,Feminino,Amarela,Fundamental completo,9,1,1,1,0,1,11.11,100.0,11.11,0.0,11.11
+202009,Setembro/2020,18-29,Feminino,Ignorado,Sem instrução,1,0,0,0,1,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,18-29,Masculino,Branca,Fundamental incompleto,963,548,517,43,53,22,56.91,94.34,4.47,5.5,2.28
+202009,Setembro/2020,18-29,Masculino,Branca,Pós-graduação,157,124,129,3,13,6,78.98,104.03,1.91,8.28,3.82
+202009,Setembro/2020,18-29,Masculino,Indígena,Médio incompleto,23,10,7,2,2,1,43.48,70.0,8.7,8.7,4.35
+202009,Setembro/2020,18-29,Masculino,Preta,Médio completo,1202,734,728,54,87,30,61.06,99.18,4.49,7.24,2.5
+202009,Setembro/2020,18-29,Masculino,Ignorado,Médio completo,3,2,2,0,0,0,66.67,100.0,0.0,0.0,0.0
+202009,Setembro/2020,18-29,Masculino,Branca,Médio completo,4505,2888,2839,157,312,87,64.11,98.3,3.49,6.93,1.93
+202009,Setembro/2020,18-29,Masculino,Preta,Fundamental completo,179,103,101,11,14,2,57.54,98.06,6.15,7.82,1.12
+202009,Setembro/2020,18-29,Masculino,Indígena,Superior completo,8,2,4,0,0,0,25.0,200.0,0.0,0.0,0.0
+202009,Setembro/2020,18-29,Masculino,Amarela,Fundamental incompleto,12,10,9,0,2,0,83.33,90.0,0.0,16.67,0.0
+202009,Setembro/2020,18-29,Masculino,Parda,Sem instrução,147,20,17,4,9,5,13.61,85.0,2.72,6.12,3.4
+202009,Setembro/2020,18-29,Masculino,Branca,Médio incompleto,1707,906,861,82,135,31,53.08,95.03,4.8,7.91,1.82
+202009,Setembro/2020,18-29,Masculino,Indígena,Fundamental completo,5,3,3,1,0,0,60.0,100.0,20.0,0.0,0.0
+202009,Setembro/2020,18-29,Masculino,Parda,Superior completo,951,658,671,25,68,29,69.19,101.98,2.63,7.15,3.05
+202009,Setembro/2020,18-29,Masculino,Preta,Sem instrução,17,4,6,0,0,0,23.53,150.0,0.0,0.0,0.0
+202009,Setembro/2020,18-29,Masculino,Preta,Pós-graduação,14,11,11,2,0,0,78.57,100.0,14.29,0.0,0.0
+202009,Setembro/2020,18-29,Masculino,Preta,Superior completo,174,115,122,6,14,6,66.09,106.09,3.45,8.05,3.45
+202009,Setembro/2020,18-29,Masculino,Parda,Superior incompleto,2270,1057,1072,119,184,55,46.56,101.42,5.24,8.11,2.42
+202009,Setembro/2020,18-29,Masculino,Amarela,Médio completo,59,32,32,2,6,4,54.24,100.0,3.39,10.17,6.78
+202009,Setembro/2020,18-29,Masculino,Parda,Médio incompleto,3383,1601,1527,155,219,87,47.32,95.38,4.58,6.47,2.57
+202009,Setembro/2020,18-29,Masculino,Branca,Sem instrução,78,8,8,0,3,2,10.26,100.0,0.0,3.85,2.56
+202009,Setembro/2020,18-29,Masculino,Ignorado,Fundamental completo,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,18-29,Masculino,Branca,Fundamental completo,558,378,359,17,44,16,67.74,94.97,3.05,7.89,2.87
+202009,Setembro/2020,18-29,Masculino,Indígena,Superior incompleto,13,7,7,1,1,0,53.85,100.0,7.69,7.69,0.0
+202009,Setembro/2020,18-29,Masculino,Branca,Superior incompleto,2646,1307,1306,151,196,48,49.4,99.92,5.71,7.41,1.81
+202009,Setembro/2020,18-29,Masculino,Preta,Superior incompleto,370,173,169,24,26,12,46.76,97.69,6.49,7.03,3.24
+202009,Setembro/2020,18-29,Masculino,Indígena,Sem instrução,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,18-29,Masculino,Parda,Pós-graduação,77,55,60,0,7,0,71.43,109.09,0.0,9.09,0.0
+202009,Setembro/2020,18-29,Masculino,Amarela,Superior incompleto,41,15,15,2,3,0,36.59,100.0,4.88,7.32,0.0
+202009,Setembro/2020,18-29,Masculino,Amarela,Fundamental completo,11,8,8,0,0,0,72.73,100.0,0.0,0.0,0.0
+202009,Setembro/2020,18-29,Masculino,Parda,Fundamental completo,911,542,519,31,58,15,59.5,95.76,3.4,6.37,1.65
+202009,Setembro/2020,18-29,Masculino,Indígena,Médio completo,45,28,27,1,1,0,62.22,96.43,2.22,2.22,0.0
+202009,Setembro/2020,18-29,Masculino,Amarela,Médio incompleto,33,15,16,0,3,1,45.45,106.67,0.0,9.09,3.03
+202009,Setembro/2020,18-29,Masculino,Amarela,Superior completo,16,10,11,1,2,1,62.5,110.0,6.25,12.5,6.25
+202009,Setembro/2020,18-29,Masculino,Preta,Fundamental incompleto,411,217,212,24,26,8,52.8,97.7,5.84,6.33,1.95
+202009,Setembro/2020,18-29,Masculino,Indígena,Pós-graduação,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,18-29,Masculino,Preta,Médio incompleto,589,285,274,32,41,8,48.39,96.14,5.43,6.96,1.36
+202009,Setembro/2020,18-29,Masculino,Parda,Fundamental incompleto,2305,1187,1090,111,123,39,51.5,91.83,4.82,5.34,1.69
+202009,Setembro/2020,18-29,Masculino,Parda,Médio completo,6940,4017,3932,203,396,152,57.88,97.88,2.93,5.71,2.19
+202009,Setembro/2020,18-29,Masculino,Branca,Superior completo,1439,1092,1104,40,112,32,75.89,101.1,2.78,7.78,2.22
+202009,Setembro/2020,18-29,Masculino,Indígena,Fundamental incompleto,19,7,7,1,0,0,36.84,100.0,5.26,0.0,0.0
+202009,Setembro/2020,18-29,Masculino,Amarela,Pós-graduação,3,3,3,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,18-29,Masculino,Amarela,Sem instrução,2,1,1,0,0,0,50.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,18-29,Masculino,Ignorado,Superior incompleto,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,18-29,Masculino,Ignorado,Superior completo,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,30-39,Feminino,Indígena,Médio completo,52,19,18,3,2,0,36.54,94.74,5.77,3.85,0.0
+202009,Setembro/2020,30-39,Feminino,Branca,Pós-graduação,1142,931,1007,64,95,46,81.52,108.16,5.6,8.32,4.03
+202009,Setembro/2020,30-39,Feminino,Indígena,Fundamental completo,8,3,3,1,0,2,37.5,100.0,12.5,0.0,25.0
+202009,Setembro/2020,30-39,Feminino,Amarela,Médio completo,75,42,44,3,7,3,56.0,104.76,4.0,9.33,4.0
+202009,Setembro/2020,30-39,Feminino,Parda,Fundamental incompleto,2779,811,721,199,170,82,29.18,88.9,7.16,6.12,2.95
+202009,Setembro/2020,30-39,Feminino,Branca,Fundamental incompleto,1145,371,333,83,54,39,32.4,89.76,7.25,4.72,3.41
+202009,Setembro/2020,30-39,Feminino,Amarela,Médio incompleto,14,7,6,0,1,2,50.0,85.71,0.0,7.14,14.29
+202009,Setembro/2020,30-39,Feminino,Preta,Médio completo,1079,501,543,85,69,32,46.43,108.38,7.88,6.39,2.97
+202009,Setembro/2020,30-39,Feminino,Amarela,Fundamental completo,11,6,7,0,2,1,54.55,116.67,0.0,18.18,9.09
+202009,Setembro/2020,30-39,Feminino,Preta,Sem instrução,22,2,1,1,0,0,9.09,50.0,4.55,0.0,0.0
+202009,Setembro/2020,30-39,Feminino,Branca,Superior completo,3249,2378,2547,152,240,87,73.19,107.11,4.68,7.39,2.68
+202009,Setembro/2020,30-39,Feminino,Branca,Fundamental completo,632,301,281,42,40,23,47.63,93.36,6.65,6.33,3.64
+202009,Setembro/2020,30-39,Feminino,Parda,Sem instrução,207,29,24,13,9,5,14.01,82.76,6.28,4.35,2.42
+202009,Setembro/2020,30-39,Feminino,Parda,Superior incompleto,935,526,579,81,90,35,56.26,110.08,8.66,9.63,3.74
+202009,Setembro/2020,30-39,Feminino,Branca,Superior incompleto,950,577,616,85,102,34,60.74,106.76,8.95,10.74,3.58
+202009,Setembro/2020,30-39,Feminino,Indígena,Superior completo,18,10,10,0,1,0,55.56,100.0,0.0,5.56,0.0
+202009,Setembro/2020,30-39,Feminino,Indígena,Superior incompleto,8,5,4,1,1,0,62.5,80.0,12.5,12.5,0.0
+202009,Setembro/2020,30-39,Feminino,Indígena,Médio incompleto,12,3,4,1,0,1,25.0,133.33,8.33,0.0,8.33
+202009,Setembro/2020,30-39,Feminino,Indígena,Fundamental incompleto,21,7,4,1,0,1,33.33,57.14,4.76,0.0,4.76
+202009,Setembro/2020,30-39,Feminino,Parda,Médio completo,5874,2633,2730,443,374,172,44.82,103.68,7.54,6.37,2.93
+202009,Setembro/2020,30-39,Feminino,Amarela,Superior incompleto,20,10,13,3,1,0,50.0,130.0,15.0,5.0,0.0
+202009,Setembro/2020,30-39,Feminino,Parda,Médio incompleto,1312,479,475,103,64,44,36.51,99.16,7.85,4.88,3.35
+202009,Setembro/2020,30-39,Feminino,Parda,Fundamental completo,1035,369,369,79,64,31,35.65,100.0,7.63,6.18,3.0
+202009,Setembro/2020,30-39,Feminino,Preta,Médio incompleto,227,85,87,24,8,7,37.44,102.35,10.57,3.52,3.08
+202009,Setembro/2020,30-39,Feminino,Indígena,Pós-graduação,6,6,6,0,1,0,100.0,100.0,0.0,16.67,0.0
+202009,Setembro/2020,30-39,Feminino,Amarela,Fundamental incompleto,25,10,9,2,2,1,40.0,90.0,8.0,8.0,4.0
+202009,Setembro/2020,30-39,Feminino,Preta,Fundamental completo,175,73,75,14,11,7,41.71,102.74,8.0,6.29,4.0
+202009,Setembro/2020,30-39,Feminino,Preta,Pós-graduação,109,89,96,6,11,7,81.65,107.87,5.5,10.09,6.42
+202009,Setembro/2020,30-39,Feminino,Branca,Médio incompleto,772,318,326,61,46,28,41.19,102.52,7.9,5.96,3.63
+202009,Setembro/2020,30-39,Feminino,Preta,Fundamental incompleto,394,149,141,33,25,22,37.82,94.63,8.38,6.35,5.58
+202009,Setembro/2020,30-39,Feminino,Branca,Sem instrução,94,10,8,2,9,3,10.64,80.0,2.13,9.57,3.19
+202009,Setembro/2020,30-39,Feminino,Ignorado,Fundamental incompleto,2,1,1,0,0,0,50.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,30-39,Feminino,Parda,Pós-graduação,566,449,481,27,42,19,79.33,107.13,4.77,7.42,3.36
+202009,Setembro/2020,30-39,Feminino,Amarela,Pós-graduação,23,21,21,1,0,2,91.3,100.0,4.35,0.0,8.7
+202009,Setembro/2020,30-39,Feminino,Parda,Superior completo,2358,1567,1729,128,182,65,66.45,110.34,5.43,7.72,2.76
+202009,Setembro/2020,30-39,Feminino,Preta,Superior incompleto,181,92,102,21,11,6,50.83,110.87,11.6,6.08,3.31
+202009,Setembro/2020,30-39,Feminino,Branca,Médio completo,3921,2069,2150,271,285,107,52.77,103.91,6.91,7.27,2.73
+202009,Setembro/2020,30-39,Feminino,Preta,Superior completo,459,315,341,37,28,17,68.63,108.25,8.06,6.1,3.7
+202009,Setembro/2020,30-39,Feminino,Amarela,Superior completo,74,61,61,3,5,4,82.43,100.0,4.05,6.76,5.41
+202009,Setembro/2020,30-39,Feminino,Indígena,Sem instrução,1,0,0,0,0,1,0.0,0.0,0.0,0.0,100.0
+202009,Setembro/2020,30-39,Feminino,Ignorado,Médio completo,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,30-39,Feminino,Ignorado,Sem instrução,2,0,0,0,1,0,0.0,0.0,0.0,50.0,0.0
+202009,Setembro/2020,30-39,Feminino,Amarela,Sem instrução,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,30-39,Feminino,Ignorado,Superior completo,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,30-39,Feminino,Ignorado,Pós-graduação,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,30-39,Feminino,Ignorado,Médio incompleto,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,30-39,Feminino,Ignorado,Superior incompleto,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,30-39,Masculino,Indígena,Médio incompleto,12,8,9,0,2,0,66.67,112.5,0.0,16.67,0.0
+202009,Setembro/2020,30-39,Masculino,Parda,Fundamental completo,1001,713,709,24,59,13,71.23,99.44,2.4,5.89,1.3
+202009,Setembro/2020,30-39,Masculino,Preta,Fundamental completo,222,149,158,8,13,1,67.12,106.04,3.6,5.86,0.45
+202009,Setembro/2020,30-39,Masculino,Indígena,Fundamental completo,10,8,8,1,0,0,80.0,100.0,10.0,0.0,0.0
+202009,Setembro/2020,30-39,Masculino,Ignorado,Médio completo,1,1,1,1,0,0,100.0,100.0,100.0,0.0,0.0
+202009,Setembro/2020,30-39,Masculino,Amarela,Superior completo,31,29,28,1,6,0,93.55,96.55,3.23,19.35,0.0
+202009,Setembro/2020,30-39,Masculino,Branca,Fundamental completo,700,581,581,13,50,13,83.0,100.0,1.86,7.14,1.86
+202009,Setembro/2020,30-39,Masculino,Indígena,Fundamental incompleto,37,26,28,1,2,3,70.27,107.69,2.7,5.41,8.11
+202009,Setembro/2020,30-39,Masculino,Preta,Pós-graduação,70,61,65,2,5,6,87.14,106.56,2.86,7.14,8.57
+202009,Setembro/2020,30-39,Masculino,Branca,Sem instrução,116,35,34,7,9,2,30.17,97.14,6.03,7.76,1.72
+202009,Setembro/2020,30-39,Masculino,Indígena,Médio completo,42,31,32,1,4,3,73.81,103.23,2.38,9.52,7.14
+202009,Setembro/2020,30-39,Masculino,Amarela,Fundamental incompleto,25,17,16,2,2,1,68.0,94.12,8.0,8.0,4.0
+202009,Setembro/2020,30-39,Masculino,Branca,Pós-graduação,723,656,668,18,42,19,90.73,101.83,2.49,5.81,2.63
+202009,Setembro/2020,30-39,Masculino,Preta,Médio incompleto,292,214,214,7,17,9,73.29,100.0,2.4,5.82,3.08
+202009,Setembro/2020,30-39,Masculino,Parda,Pós-graduação,318,278,297,5,25,11,87.42,106.83,1.57,7.86,3.46
+202009,Setembro/2020,30-39,Masculino,Amarela,Superior incompleto,5,4,5,0,1,0,80.0,125.0,0.0,20.0,0.0
+202009,Setembro/2020,30-39,Masculino,Amarela,Pós-graduação,17,17,17,0,1,0,100.0,100.0,0.0,5.88,0.0
+202009,Setembro/2020,30-39,Masculino,Parda,Superior incompleto,709,545,567,25,73,14,76.87,104.04,3.53,10.3,1.97
+202009,Setembro/2020,30-39,Masculino,Indígena,Superior incompleto,4,4,3,0,1,0,100.0,75.0,0.0,25.0,0.0
+202009,Setembro/2020,30-39,Masculino,Parda,Fundamental incompleto,3401,2267,2182,120,214,75,66.66,96.25,3.53,6.29,2.21
+202009,Setembro/2020,30-39,Masculino,Indígena,Sem instrução,2,2,2,0,1,1,100.0,100.0,0.0,50.0,50.0
+202009,Setembro/2020,30-39,Masculino,Amarela,Sem instrução,4,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,30-39,Masculino,Branca,Médio completo,3651,2922,2984,80,258,93,80.03,102.12,2.19,7.07,2.55
+202009,Setembro/2020,30-39,Masculino,Amarela,Médio incompleto,10,9,9,1,1,0,90.0,100.0,10.0,10.0,0.0
+202009,Setembro/2020,30-39,Masculino,Branca,Superior incompleto,863,689,707,30,93,27,79.84,102.61,3.48,10.78,3.13
+202009,Setembro/2020,30-39,Masculino,Preta,Superior incompleto,153,125,129,1,15,4,81.7,103.2,0.65,9.8,2.61
+202009,Setembro/2020,30-39,Masculino,Branca,Médio incompleto,778,607,613,15,55,17,78.02,100.99,1.93,7.07,2.19
+202009,Setembro/2020,30-39,Masculino,Indígena,Pós-graduação,2,1,2,0,1,0,50.0,200.0,0.0,50.0,0.0
+202009,Setembro/2020,30-39,Masculino,Preta,Médio completo,1040,802,827,33,71,32,77.12,103.12,3.17,6.83,3.08
+202009,Setembro/2020,30-39,Masculino,Parda,Médio incompleto,1428,1056,1051,44,73,41,73.95,99.53,3.08,5.11,2.87
+202009,Setembro/2020,30-39,Masculino,Preta,Superior completo,289,231,245,4,16,6,79.93,106.06,1.38,5.54,2.08
+202009,Setembro/2020,30-39,Masculino,Parda,Sem instrução,277,105,94,6,21,5,37.91,89.52,2.17,7.58,1.81
+202009,Setembro/2020,30-39,Masculino,Branca,Fundamental incompleto,1446,1064,1053,50,81,30,73.58,98.97,3.46,5.6,2.07
+202009,Setembro/2020,30-39,Masculino,Preta,Sem instrução,52,24,26,0,4,0,46.15,108.33,0.0,7.69,0.0
+202009,Setembro/2020,30-39,Masculino,Amarela,Fundamental completo,7,6,6,0,1,0,85.71,100.0,0.0,14.29,0.0
+202009,Setembro/2020,30-39,Masculino,Branca,Superior completo,2294,1993,2034,64,177,67,86.88,102.06,2.79,7.72,2.92
+202009,Setembro/2020,30-39,Masculino,Preta,Fundamental incompleto,550,395,388,17,34,11,71.82,98.23,3.09,6.18,2.0
+202009,Setembro/2020,30-39,Masculino,Parda,Superior completo,1416,1156,1229,30,107,37,81.64,106.31,2.12,7.56,2.61
+202009,Setembro/2020,30-39,Masculino,Indígena,Superior completo,13,9,11,0,0,1,69.23,122.22,0.0,0.0,7.69
+202009,Setembro/2020,30-39,Masculino,Parda,Médio completo,5054,3839,3923,104,335,123,75.96,102.19,2.06,6.63,2.43
+202009,Setembro/2020,30-39,Masculino,Amarela,Médio completo,43,37,36,1,7,2,86.05,97.3,2.33,16.28,4.65
+202009,Setembro/2020,30-39,Masculino,Ignorado,Médio incompleto,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,40-49,Feminino,Branca,Fundamental incompleto,2553,1093,964,115,147,82,42.81,88.2,4.5,5.76,3.21
+202009,Setembro/2020,40-49,Feminino,Ignorado,Fundamental incompleto,4,2,2,0,0,0,50.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,40-49,Feminino,Parda,Sem instrução,415,100,75,19,17,12,24.1,75.0,4.58,4.1,2.89
+202009,Setembro/2020,40-49,Feminino,Preta,Fundamental completo,232,103,111,11,9,4,44.4,107.77,4.74,3.88,1.72
+202009,Setembro/2020,40-49,Feminino,Amarela,Superior completo,36,25,26,1,0,2,69.44,104.0,2.78,0.0,5.56
+202009,Setembro/2020,40-49,Feminino,Amarela,Médio completo,53,29,30,1,2,2,54.72,103.45,1.89,3.77,3.77
+202009,Setembro/2020,40-49,Feminino,Indígena,Médio incompleto,8,4,4,0,0,0,50.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,40-49,Feminino,Preta,Médio incompleto,180,76,84,12,10,1,42.22,110.53,6.67,5.56,0.56
+202009,Setembro/2020,40-49,Feminino,Preta,Superior completo,371,258,294,11,22,15,69.54,113.95,2.96,5.93,4.04
+202009,Setembro/2020,40-49,Feminino,Indígena,Sem instrução,5,3,3,0,0,0,60.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,40-49,Feminino,Branca,Sem instrução,150,35,27,10,3,6,23.33,77.14,6.67,2.0,4.0
+202009,Setembro/2020,40-49,Feminino,Parda,Superior incompleto,449,258,274,37,45,16,57.46,106.2,8.24,10.02,3.56
+202009,Setembro/2020,40-49,Feminino,Parda,Médio completo,4377,2133,2271,226,267,139,48.73,106.47,5.16,6.1,3.18
+202009,Setembro/2020,40-49,Feminino,Branca,Médio completo,3579,1947,2025,181,258,87,54.4,104.01,5.06,7.21,2.43
+202009,Setembro/2020,40-49,Feminino,Branca,Pós-graduação,1161,968,1039,99,108,34,83.38,107.33,8.53,9.3,2.93
+202009,Setembro/2020,40-49,Feminino,Parda,Pós-graduação,581,455,502,47,52,16,78.31,110.33,8.09,8.95,2.75
+202009,Setembro/2020,40-49,Feminino,Branca,Fundamental completo,985,502,488,34,56,21,50.96,97.21,3.45,5.69,2.13
+202009,Setembro/2020,40-49,Feminino,Branca,Superior completo,2586,1883,1989,149,194,60,72.82,105.63,5.76,7.5,2.32
+202009,Setembro/2020,40-49,Feminino,Branca,Superior incompleto,580,347,366,50,60,16,59.83,105.48,8.62,10.34,2.76
+202009,Setembro/2020,40-49,Feminino,Amarela,Médio incompleto,7,3,3,0,0,0,42.86,100.0,0.0,0.0,0.0
+202009,Setembro/2020,40-49,Feminino,Parda,Médio incompleto,1000,444,459,56,65,31,44.4,103.38,5.6,6.5,3.1
+202009,Setembro/2020,40-49,Feminino,Amarela,Pós-graduação,14,11,12,2,0,1,78.57,109.09,14.29,0.0,7.14
+202009,Setembro/2020,40-49,Feminino,Branca,Médio incompleto,695,357,356,45,59,25,51.37,99.72,6.47,8.49,3.6
+202009,Setembro/2020,40-49,Feminino,Indígena,Médio completo,27,12,14,1,0,3,44.44,116.67,3.7,0.0,11.11
+202009,Setembro/2020,40-49,Feminino,Preta,Superior incompleto,109,62,70,9,9,9,56.88,112.9,8.26,8.26,8.26
+202009,Setembro/2020,40-49,Feminino,Indígena,Fundamental incompleto,38,12,7,2,4,1,31.58,58.33,5.26,10.53,2.63
+202009,Setembro/2020,40-49,Feminino,Indígena,Superior completo,16,12,14,1,1,1,75.0,116.67,6.25,6.25,6.25
+202009,Setembro/2020,40-49,Feminino,Preta,Sem instrução,62,12,12,2,4,3,19.35,100.0,3.23,6.45,4.84
+202009,Setembro/2020,40-49,Feminino,Indígena,Fundamental completo,11,4,4,0,1,0,36.36,100.0,0.0,9.09,0.0
+202009,Setembro/2020,40-49,Feminino,Amarela,Fundamental completo,12,7,7,1,0,0,58.33,100.0,8.33,0.0,0.0
+202009,Setembro/2020,40-49,Feminino,Preta,Pós-graduação,86,74,83,6,14,2,86.05,112.16,6.98,16.28,2.33
+202009,Setembro/2020,40-49,Feminino,Parda,Superior completo,1688,1119,1270,93,152,53,66.29,113.49,5.51,9.0,3.14
+202009,Setembro/2020,40-49,Feminino,Amarela,Fundamental incompleto,46,14,15,2,1,1,30.43,107.14,4.35,2.17,2.17
+202009,Setembro/2020,40-49,Feminino,Preta,Fundamental incompleto,718,293,288,41,42,29,40.81,98.29,5.71,5.85,4.04
+202009,Setembro/2020,40-49,Feminino,Parda,Fundamental incompleto,4512,1533,1406,235,235,144,33.98,91.72,5.21,5.21,3.19
+202009,Setembro/2020,40-49,Feminino,Preta,Médio completo,819,412,453,49,48,22,50.31,109.95,5.98,5.86,2.69
+202009,Setembro/2020,40-49,Feminino,Parda,Fundamental completo,1178,493,505,51,66,39,41.85,102.43,4.33,5.6,3.31
+202009,Setembro/2020,40-49,Feminino,Indígena,Superior incompleto,2,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,40-49,Feminino,Amarela,Sem instrução,1,0,0,0,1,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,40-49,Feminino,Ignorado,Superior completo,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,40-49,Feminino,Amarela,Superior incompleto,4,3,3,1,0,0,75.0,100.0,25.0,0.0,0.0
+202009,Setembro/2020,40-49,Feminino,Indígena,Pós-graduação,2,1,1,0,0,1,50.0,100.0,0.0,0.0,50.0
+202009,Setembro/2020,40-49,Feminino,Ignorado,Pós-graduação,2,2,2,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,40-49,Masculino,Parda,Superior completo,1053,875,933,20,92,25,83.1,106.63,1.9,8.74,2.37
+202009,Setembro/2020,40-49,Masculino,Amarela,Fundamental completo,9,7,8,0,1,0,77.78,114.29,0.0,11.11,0.0
+202009,Setembro/2020,40-49,Masculino,Parda,Fundamental completo,1207,877,895,18,52,30,72.66,102.05,1.49,4.31,2.49
+202009,Setembro/2020,40-49,Masculino,Preta,Superior completo,243,202,210,5,22,4,83.13,103.96,2.06,9.05,1.65
+202009,Setembro/2020,40-49,Masculino,Indígena,Sem instrução,5,4,4,0,0,0,80.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,40-49,Masculino,Preta,Sem instrução,123,69,66,5,6,4,56.1,95.65,4.07,4.88,3.25
+202009,Setembro/2020,40-49,Masculino,Preta,Médio completo,769,599,618,11,62,19,77.89,103.17,1.43,8.06,2.47
+202009,Setembro/2020,40-49,Masculino,Branca,Superior incompleto,487,400,420,7,55,7,82.14,105.0,1.44,11.29,1.44
+202009,Setembro/2020,40-49,Masculino,Amarela,Médio completo,56,45,45,1,6,1,80.36,100.0,1.79,10.71,1.79
+202009,Setembro/2020,40-49,Masculino,Branca,Sem instrução,230,107,99,9,13,3,46.52,92.52,3.91,5.65,1.3
+202009,Setembro/2020,40-49,Masculino,Preta,Fundamental completo,216,154,154,10,10,2,71.3,100.0,4.63,4.63,0.93
+202009,Setembro/2020,40-49,Masculino,Parda,Pós-graduação,323,287,298,7,24,6,88.85,103.83,2.17,7.43,1.86
+202009,Setembro/2020,40-49,Masculino,Amarela,Superior completo,26,21,22,0,2,0,80.77,104.76,0.0,7.69,0.0
+202009,Setembro/2020,40-49,Masculino,Amarela,Médio incompleto,12,5,5,0,0,0,41.67,100.0,0.0,0.0,0.0
+202009,Setembro/2020,40-49,Masculino,Indígena,Fundamental incompleto,29,23,20,1,4,0,79.31,86.96,3.45,13.79,0.0
+202009,Setembro/2020,40-49,Masculino,Preta,Médio incompleto,179,135,138,4,9,3,75.42,102.22,2.23,5.03,1.68
+202009,Setembro/2020,40-49,Masculino,Indígena,Médio completo,24,19,20,1,2,0,79.17,105.26,4.17,8.33,0.0
+202009,Setembro/2020,40-49,Masculino,Parda,Fundamental incompleto,4798,3347,3303,111,283,112,69.76,98.69,2.31,5.9,2.33
+202009,Setembro/2020,40-49,Masculino,Preta,Superior incompleto,82,64,64,2,8,1,78.05,100.0,2.44,9.76,1.22
+202009,Setembro/2020,40-49,Masculino,Indígena,Médio incompleto,7,6,6,0,1,0,85.71,100.0,0.0,14.29,0.0
+202009,Setembro/2020,40-49,Masculino,Parda,Superior incompleto,415,327,343,11,44,12,78.8,104.89,2.65,10.6,2.89
+202009,Setembro/2020,40-49,Masculino,Branca,Médio incompleto,612,469,482,8,44,10,76.63,102.77,1.31,7.19,1.63
+202009,Setembro/2020,40-49,Masculino,Preta,Pós-graduação,75,64,69,2,8,2,85.33,107.81,2.67,10.67,2.67
+202009,Setembro/2020,40-49,Masculino,Amarela,Sem instrução,6,4,3,1,0,1,66.67,75.0,16.67,0.0,16.67
+202009,Setembro/2020,40-49,Masculino,Parda,Sem instrução,647,342,305,12,30,16,52.86,89.18,1.85,4.64,2.47
+202009,Setembro/2020,40-49,Masculino,Amarela,Pós-graduação,15,13,13,0,0,0,86.67,100.0,0.0,0.0,0.0
+202009,Setembro/2020,40-49,Masculino,Parda,Médio incompleto,864,640,655,18,63,16,74.07,102.34,2.08,7.29,1.85
+202009,Setembro/2020,40-49,Masculino,Branca,Médio completo,2992,2416,2518,53,193,69,80.75,104.22,1.77,6.45,2.31
+202009,Setembro/2020,40-49,Masculino,Parda,Médio completo,3530,2683,2820,52,220,79,76.01,105.11,1.47,6.23,2.24
+202009,Setembro/2020,40-49,Masculino,Amarela,Superior incompleto,10,8,8,0,0,0,80.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,40-49,Masculino,Branca,Fundamental completo,891,702,719,14,44,15,78.79,102.42,1.57,4.94,1.68
+202009,Setembro/2020,40-49,Masculino,Ignorado,Fundamental incompleto,3,2,2,1,0,0,66.67,100.0,33.33,0.0,0.0
+202009,Setembro/2020,40-49,Masculino,Indígena,Fundamental completo,12,10,10,0,0,0,83.33,100.0,0.0,0.0,0.0
+202009,Setembro/2020,40-49,Masculino,Branca,Pós-graduação,637,572,591,12,66,13,89.8,103.32,1.88,10.36,2.04
+202009,Setembro/2020,40-49,Masculino,Amarela,Fundamental incompleto,33,17,17,1,2,0,51.52,100.0,3.03,6.06,0.0
+202009,Setembro/2020,40-49,Masculino,Preta,Fundamental incompleto,876,619,634,27,56,17,70.66,102.42,3.08,6.39,1.94
+202009,Setembro/2020,40-49,Masculino,Branca,Fundamental incompleto,2655,2044,2024,42,149,53,76.99,99.02,1.58,5.61,2.0
+202009,Setembro/2020,40-49,Masculino,Branca,Superior completo,1631,1419,1468,23,128,26,87.0,103.45,1.41,7.85,1.59
+202009,Setembro/2020,40-49,Masculino,Indígena,Pós-graduação,3,3,3,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,40-49,Masculino,Indígena,Superior completo,8,7,7,0,2,2,87.5,100.0,0.0,25.0,25.0
+202009,Setembro/2020,40-49,Masculino,Ignorado,Sem instrução,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,40-49,Masculino,Indígena,Superior incompleto,3,3,3,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,40-49,Masculino,Ignorado,Pós-graduação,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,50-59,Feminino,Preta,Fundamental completo,257,84,91,7,12,3,32.68,108.33,2.72,4.67,1.17
+202009,Setembro/2020,50-59,Feminino,Branca,Pós-graduação,795,535,573,32,64,29,67.3,107.1,4.03,8.05,3.65
+202009,Setembro/2020,50-59,Feminino,Parda,Fundamental completo,1191,382,394,46,73,28,32.07,103.14,3.86,6.13,2.35
+202009,Setembro/2020,50-59,Feminino,Indígena,Superior completo,9,6,6,0,1,1,66.67,100.0,0.0,11.11,11.11
+202009,Setembro/2020,50-59,Feminino,Branca,Superior completo,2130,1229,1351,101,172,53,57.7,109.93,4.74,8.08,2.49
+202009,Setembro/2020,50-59,Feminino,Ignorado,Sem instrução,2,1,1,0,0,0,50.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,50-59,Feminino,Parda,Sem instrução,914,157,114,40,50,32,17.18,72.61,4.38,5.47,3.5
+202009,Setembro/2020,50-59,Feminino,Preta,Superior incompleto,50,27,31,2,9,0,54.0,114.81,4.0,18.0,0.0
+202009,Setembro/2020,50-59,Feminino,Amarela,Pós-graduação,10,8,9,0,0,0,80.0,112.5,0.0,0.0,0.0
+202009,Setembro/2020,50-59,Feminino,Branca,Superior incompleto,353,182,194,19,29,17,51.56,106.59,5.38,8.22,4.82
+202009,Setembro/2020,50-59,Feminino,Indígena,Fundamental incompleto,27,6,4,2,2,2,22.22,66.67,7.41,7.41,7.41
+202009,Setembro/2020,50-59,Feminino,Amarela,Superior completo,40,25,24,1,2,1,62.5,96.0,2.5,5.0,2.5
+202009,Setembro/2020,50-59,Feminino,Indígena,Médio incompleto,7,2,3,1,3,0,28.57,150.0,14.29,42.86,0.0
+202009,Setembro/2020,50-59,Feminino,Parda,Médio completo,2805,1162,1300,116,193,94,41.43,111.88,4.14,6.88,3.35
+202009,Setembro/2020,50-59,Feminino,Ignorado,Médio completo,3,1,1,0,1,0,33.33,100.0,0.0,33.33,0.0
+202009,Setembro/2020,50-59,Feminino,Preta,Superior completo,225,115,140,13,19,5,51.11,121.74,5.78,8.44,2.22
+202009,Setembro/2020,50-59,Feminino,Branca,Sem instrução,335,59,42,16,21,6,17.61,71.19,4.78,6.27,1.79
+202009,Setembro/2020,50-59,Feminino,Preta,Pós-graduação,70,47,54,4,8,2,67.14,114.89,5.71,11.43,2.86
+202009,Setembro/2020,50-59,Feminino,Amarela,Sem instrução,4,0,0,0,1,0,0.0,0.0,0.0,25.0,0.0
+202009,Setembro/2020,50-59,Feminino,Branca,Médio incompleto,575,213,217,19,44,21,37.04,101.88,3.3,7.65,3.65
+202009,Setembro/2020,50-59,Feminino,Preta,Sem instrução,129,23,17,7,11,3,17.83,73.91,5.43,8.53,2.33
+202009,Setembro/2020,50-59,Feminino,Amarela,Superior incompleto,7,4,3,1,1,0,57.14,75.0,14.29,14.29,0.0
+202009,Setembro/2020,50-59,Feminino,Preta,Médio completo,606,247,287,26,47,17,40.76,116.19,4.29,7.76,2.81
+202009,Setembro/2020,50-59,Feminino,Parda,Fundamental incompleto,5059,1441,1299,194,311,161,28.48,90.15,3.83,6.15,3.18
+202009,Setembro/2020,50-59,Feminino,Parda,Pós-graduação,442,266,310,14,36,20,60.18,116.54,3.17,8.14,4.52
+202009,Setembro/2020,50-59,Feminino,Amarela,Médio incompleto,11,6,6,1,1,0,54.55,100.0,9.09,9.09,0.0
+202009,Setembro/2020,50-59,Feminino,Indígena,Superior incompleto,2,1,1,0,0,0,50.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,50-59,Feminino,Branca,Fundamental completo,1337,505,499,43,109,30,37.77,98.81,3.22,8.15,2.24
+202009,Setembro/2020,50-59,Feminino,Amarela,Fundamental completo,10,4,4,1,1,0,40.0,100.0,10.0,10.0,0.0
+202009,Setembro/2020,50-59,Feminino,Parda,Superior incompleto,208,97,109,13,19,11,46.63,112.37,6.25,9.13,5.29
+202009,Setembro/2020,50-59,Feminino,Branca,Médio completo,3165,1401,1503,121,213,92,44.27,107.28,3.82,6.73,2.91
+202009,Setembro/2020,50-59,Feminino,Amarela,Fundamental incompleto,24,10,8,2,1,0,41.67,80.0,8.33,4.17,0.0
+202009,Setembro/2020,50-59,Feminino,Parda,Superior completo,1148,637,751,37,105,43,55.49,117.9,3.22,9.15,3.75
+202009,Setembro/2020,50-59,Feminino,Indígena,Médio completo,18,10,12,1,1,1,55.56,120.0,5.56,5.56,5.56
+202009,Setembro/2020,50-59,Feminino,Indígena,Sem instrução,12,0,1,1,0,4,0.0,0.0,8.33,0.0,33.33
+202009,Setembro/2020,50-59,Feminino,Parda,Médio incompleto,714,223,227,36,59,22,31.23,101.79,5.04,8.26,3.08
+202009,Setembro/2020,50-59,Feminino,Branca,Fundamental incompleto,3637,1299,1107,136,240,99,35.72,85.22,3.74,6.6,2.72
+202009,Setembro/2020,50-59,Feminino,Amarela,Médio completo,29,11,13,2,2,2,37.93,118.18,6.9,6.9,6.9
+202009,Setembro/2020,50-59,Feminino,Preta,Fundamental incompleto,899,273,267,46,55,31,30.37,97.8,5.12,6.12,3.45
+202009,Setembro/2020,50-59,Feminino,Indígena,Fundamental completo,17,4,5,0,0,0,23.53,125.0,0.0,0.0,0.0
+202009,Setembro/2020,50-59,Feminino,Preta,Médio incompleto,126,41,46,8,9,2,32.54,112.2,6.35,7.14,1.59
+202009,Setembro/2020,50-59,Feminino,Indígena,Pós-graduação,6,3,3,0,0,0,50.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,50-59,Feminino,Ignorado,Superior completo,1,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,50-59,Feminino,Ignorado,Fundamental incompleto,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,50-59,Feminino,Ignorado,Superior incompleto,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,50-59,Masculino,Parda,Superior completo,641,454,502,11,45,18,70.83,110.57,1.72,7.02,2.81
+202009,Setembro/2020,50-59,Masculino,Indígena,Fundamental incompleto,37,21,20,2,1,0,56.76,95.24,5.41,2.7,0.0
+202009,Setembro/2020,50-59,Masculino,Indígena,Médio completo,17,12,13,0,1,0,70.59,108.33,0.0,5.88,0.0
+202009,Setembro/2020,50-59,Masculino,Parda,Fundamental completo,1082,691,734,16,87,25,63.86,106.22,1.48,8.04,2.31
+202009,Setembro/2020,50-59,Masculino,Parda,Fundamental incompleto,4833,2986,2925,116,237,123,61.78,97.96,2.4,4.9,2.55
+202009,Setembro/2020,50-59,Masculino,Preta,Superior incompleto,44,27,28,3,3,4,61.36,103.7,6.82,6.82,9.09
+202009,Setembro/2020,50-59,Masculino,Parda,Sem instrução,990,484,440,31,64,24,48.89,90.91,3.13,6.46,2.42
+202009,Setembro/2020,50-59,Masculino,Branca,Superior completo,1346,1035,1082,24,105,25,76.89,104.54,1.78,7.8,1.86
+202009,Setembro/2020,50-59,Masculino,Ignorado,Fundamental completo,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,50-59,Masculino,Parda,Médio incompleto,644,402,423,10,50,9,62.42,105.22,1.55,7.76,1.4
+202009,Setembro/2020,50-59,Masculino,Amarela,Pós-graduação,6,5,5,0,0,0,83.33,100.0,0.0,0.0,0.0
+202009,Setembro/2020,50-59,Masculino,Parda,Superior incompleto,178,122,134,3,13,4,68.54,109.84,1.69,7.3,2.25
+202009,Setembro/2020,50-59,Masculino,Preta,Médio completo,486,305,330,10,43,10,62.76,108.2,2.06,8.85,2.06
+202009,Setembro/2020,50-59,Masculino,Branca,Fundamental completo,1125,772,799,15,78,21,68.62,103.5,1.33,6.93,1.87
+202009,Setembro/2020,50-59,Masculino,Ignorado,Superior completo,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,50-59,Masculino,Amarela,Médio completo,22,17,19,2,2,0,77.27,111.76,9.09,9.09,0.0
+202009,Setembro/2020,50-59,Masculino,Indígena,Médio incompleto,4,4,4,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,50-59,Masculino,Branca,Sem instrução,336,149,129,7,19,15,44.35,86.58,2.08,5.65,4.46
+202009,Setembro/2020,50-59,Masculino,Ignorado,Sem instrução,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,50-59,Masculino,Branca,Fundamental incompleto,3328,2280,2268,63,202,73,68.51,99.47,1.89,6.07,2.19
+202009,Setembro/2020,50-59,Masculino,Preta,Pós-graduação,28,23,23,0,5,3,82.14,100.0,0.0,17.86,10.71
+202009,Setembro/2020,50-59,Masculino,Amarela,Fundamental incompleto,28,15,16,0,0,0,53.57,106.67,0.0,0.0,0.0
+202009,Setembro/2020,50-59,Masculino,Amarela,Fundamental completo,6,4,4,0,0,0,66.67,100.0,0.0,0.0,0.0
+202009,Setembro/2020,50-59,Masculino,Branca,Médio completo,2539,1727,1829,44,206,55,68.02,105.91,1.73,8.11,2.17
+202009,Setembro/2020,50-59,Masculino,Branca,Pós-graduação,484,390,405,13,33,14,80.58,103.85,2.69,6.82,2.89
+202009,Setembro/2020,50-59,Masculino,Branca,Superior incompleto,381,280,296,12,33,16,73.49,105.71,3.15,8.66,4.2
+202009,Setembro/2020,50-59,Masculino,Preta,Sem instrução,183,92,81,8,9,5,50.27,88.04,4.37,4.92,2.73
+202009,Setembro/2020,50-59,Masculino,Preta,Médio incompleto,143,91,99,6,12,4,63.64,108.79,4.2,8.39,2.8
+202009,Setembro/2020,50-59,Masculino,Amarela,Sem instrução,6,4,3,1,0,0,66.67,75.0,16.67,0.0,0.0
+202009,Setembro/2020,50-59,Masculino,Amarela,Superior completo,32,25,26,0,4,0,78.13,104.0,0.0,12.5,0.0
+202009,Setembro/2020,50-59,Masculino,Preta,Fundamental incompleto,937,580,584,30,61,25,61.9,100.69,3.2,6.51,2.67
+202009,Setembro/2020,50-59,Masculino,Preta,Fundamental completo,228,149,149,8,18,6,65.35,100.0,3.51,7.89,2.63
+202009,Setembro/2020,50-59,Masculino,Parda,Pós-graduação,205,172,181,3,22,6,83.9,105.23,1.46,10.73,2.93
+202009,Setembro/2020,50-59,Masculino,Indígena,Sem instrução,10,6,6,0,3,1,60.0,100.0,0.0,30.0,10.0
+202009,Setembro/2020,50-59,Masculino,Indígena,Pós-graduação,2,2,2,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,50-59,Masculino,Branca,Médio incompleto,572,395,415,14,38,16,69.06,105.06,2.45,6.64,2.8
+202009,Setembro/2020,50-59,Masculino,Indígena,Superior completo,4,3,3,0,0,0,75.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,50-59,Masculino,Ignorado,Fundamental incompleto,2,0,0,0,1,0,0.0,0.0,0.0,50.0,0.0
+202009,Setembro/2020,50-59,Masculino,Indígena,Fundamental completo,8,4,4,0,0,0,50.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,50-59,Masculino,Parda,Médio completo,2264,1475,1589,46,167,50,65.15,107.73,2.03,7.38,2.21
+202009,Setembro/2020,50-59,Masculino,Preta,Superior completo,125,82,91,3,12,2,65.6,110.98,2.4,9.6,1.6
+202009,Setembro/2020,50-59,Masculino,Indígena,Superior incompleto,3,3,3,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,50-59,Masculino,Amarela,Médio incompleto,5,2,2,0,0,0,40.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,50-59,Masculino,Ignorado,Médio incompleto,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,60-69,Feminino,Branca,Superior completo,1486,379,421,42,101,29,25.5,111.08,2.83,6.8,1.95
+202009,Setembro/2020,60-69,Feminino,Preta,Fundamental incompleto,666,87,87,32,55,22,13.06,100.0,4.8,8.26,3.3
+202009,Setembro/2020,60-69,Feminino,Branca,Fundamental completo,1118,162,163,25,85,19,14.49,100.62,2.24,7.6,1.7
+202009,Setembro/2020,60-69,Feminino,Indígena,Sem instrução,15,2,1,0,1,0,13.33,50.0,0.0,6.67,0.0
+202009,Setembro/2020,60-69,Feminino,Parda,Sem instrução,1263,101,62,39,69,28,8.0,61.39,3.09,5.46,2.22
+202009,Setembro/2020,60-69,Feminino,Branca,Pós-graduação,413,153,172,18,38,13,37.05,112.42,4.36,9.2,3.15
+202009,Setembro/2020,60-69,Feminino,Preta,Superior completo,111,22,28,5,11,7,19.82,127.27,4.5,9.91,6.31
+202009,Setembro/2020,60-69,Feminino,Indígena,Médio incompleto,4,0,0,0,1,0,0.0,0.0,0.0,25.0,0.0
+202009,Setembro/2020,60-69,Feminino,Preta,Fundamental completo,182,17,23,3,13,4,9.34,135.29,1.65,7.14,2.2
+202009,Setembro/2020,60-69,Feminino,Parda,Pós-graduação,160,50,63,4,19,2,31.25,126.0,2.5,11.88,1.25
+202009,Setembro/2020,60-69,Feminino,Amarela,Médio incompleto,4,0,0,0,1,0,0.0,0.0,0.0,25.0,0.0
+202009,Setembro/2020,60-69,Feminino,Parda,Fundamental completo,938,98,114,29,68,23,10.45,116.33,3.09,7.25,2.45
+202009,Setembro/2020,60-69,Feminino,Preta,Superior incompleto,23,5,9,0,1,0,21.74,180.0,0.0,4.35,0.0
+202009,Setembro/2020,60-69,Feminino,Indígena,Fundamental completo,8,1,1,0,1,0,12.5,100.0,0.0,12.5,0.0
+202009,Setembro/2020,60-69,Feminino,Parda,Fundamental incompleto,3921,436,362,153,270,121,11.12,83.03,3.9,6.89,3.09
+202009,Setembro/2020,60-69,Feminino,Branca,Fundamental incompleto,3591,532,448,102,222,97,14.81,84.21,2.84,6.18,2.7
+202009,Setembro/2020,60-69,Feminino,Branca,Médio completo,2033,352,389,68,133,54,17.31,110.51,3.34,6.54,2.66
+202009,Setembro/2020,60-69,Feminino,Preta,Médio completo,318,54,71,15,30,7,16.98,131.48,4.72,9.43,2.2
+202009,Setembro/2020,60-69,Feminino,Amarela,Fundamental completo,20,3,3,2,2,1,15.0,100.0,10.0,10.0,5.0
+202009,Setembro/2020,60-69,Feminino,Parda,Médio completo,1445,240,293,65,120,43,16.61,122.08,4.5,8.3,2.98
+202009,Setembro/2020,60-69,Feminino,Ignorado,Médio completo,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,60-69,Feminino,Indígena,Médio completo,13,1,3,1,3,0,7.69,300.0,7.69,23.08,0.0
+202009,Setembro/2020,60-69,Feminino,Amarela,Médio completo,26,10,9,0,2,1,38.46,90.0,0.0,7.69,3.85
+202009,Setembro/2020,60-69,Feminino,Parda,Superior incompleto,82,14,15,4,10,2,17.07,107.14,4.88,12.2,2.44
+202009,Setembro/2020,60-69,Feminino,Parda,Médio incompleto,381,60,71,15,25,10,15.75,118.33,3.94,6.56,2.62
+202009,Setembro/2020,60-69,Feminino,Branca,Médio incompleto,358,52,57,15,26,11,14.53,109.62,4.19,7.26,3.07
+202009,Setembro/2020,60-69,Feminino,Parda,Superior completo,590,141,178,19,54,14,23.9,126.24,3.22,9.15,2.37
+202009,Setembro/2020,60-69,Feminino,Preta,Pós-graduação,34,12,15,2,4,3,35.29,125.0,5.88,11.76,8.82
+202009,Setembro/2020,60-69,Feminino,Indígena,Superior completo,4,1,1,1,0,0,25.0,100.0,25.0,0.0,0.0
+202009,Setembro/2020,60-69,Feminino,Indígena,Pós-graduação,2,1,1,0,1,0,50.0,100.0,0.0,50.0,0.0
+202009,Setembro/2020,60-69,Feminino,Preta,Médio incompleto,62,8,11,2,7,0,12.9,137.5,3.23,11.29,0.0
+202009,Setembro/2020,60-69,Feminino,Preta,Sem instrução,255,19,17,8,18,7,7.45,89.47,3.14,7.06,2.75
+202009,Setembro/2020,60-69,Feminino,Branca,Sem instrução,508,35,15,15,29,16,6.89,42.86,2.95,5.71,3.15
+202009,Setembro/2020,60-69,Feminino,Amarela,Fundamental incompleto,36,5,5,2,3,1,13.89,100.0,5.56,8.33,2.78
+202009,Setembro/2020,60-69,Feminino,Indígena,Fundamental incompleto,28,1,2,0,3,4,3.57,200.0,0.0,10.71,14.29
+202009,Setembro/2020,60-69,Feminino,Amarela,Sem instrução,8,1,0,0,0,0,12.5,0.0,0.0,0.0,0.0
+202009,Setembro/2020,60-69,Feminino,Branca,Superior incompleto,257,68,71,10,29,10,26.46,104.41,3.89,11.28,3.89
+202009,Setembro/2020,60-69,Feminino,Amarela,Superior completo,31,3,3,1,0,0,9.68,100.0,3.23,0.0,0.0
+202009,Setembro/2020,60-69,Feminino,Ignorado,Fundamental completo,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,60-69,Feminino,Amarela,Pós-graduação,5,1,1,0,0,0,20.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,60-69,Feminino,Amarela,Superior incompleto,4,0,0,0,1,0,0.0,0.0,0.0,25.0,0.0
+202009,Setembro/2020,60-69,Feminino,Ignorado,Fundamental incompleto,2,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,60-69,Feminino,Indígena,Superior incompleto,3,1,1,0,1,0,33.33,100.0,0.0,33.33,0.0
+202009,Setembro/2020,60-69,Masculino,Parda,Sem instrução,1140,348,256,26,69,35,30.53,73.56,2.28,6.05,3.07
+202009,Setembro/2020,60-69,Masculino,Parda,Superior incompleto,103,41,49,0,14,1,39.81,119.51,0.0,13.59,0.97
+202009,Setembro/2020,60-69,Masculino,Parda,Médio completo,1159,418,487,26,105,29,36.07,116.51,2.24,9.06,2.5
+202009,Setembro/2020,60-69,Masculino,Branca,Médio completo,1628,589,656,40,110,40,36.18,111.38,2.46,6.76,2.46
+202009,Setembro/2020,60-69,Masculino,Branca,Médio incompleto,316,119,128,10,26,4,37.66,107.56,3.16,8.23,1.27
+202009,Setembro/2020,60-69,Masculino,Preta,Fundamental incompleto,652,208,207,21,47,23,31.9,99.52,3.22,7.21,3.53
+202009,Setembro/2020,60-69,Masculino,Branca,Superior incompleto,266,114,132,3,21,8,42.86,115.79,1.13,7.89,3.01
+202009,Setembro/2020,60-69,Masculino,Branca,Fundamental incompleto,3083,1132,1108,62,196,98,36.72,97.88,2.01,6.36,3.18
+202009,Setembro/2020,60-69,Masculino,Parda,Médio incompleto,332,117,124,5,21,6,35.24,105.98,1.51,6.33,1.81
+202009,Setembro/2020,60-69,Masculino,Indígena,Sem instrução,8,2,2,0,1,1,25.0,100.0,0.0,12.5,12.5
+202009,Setembro/2020,60-69,Masculino,Ignorado,Médio completo,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,60-69,Masculino,Preta,Médio incompleto,56,17,17,0,6,2,30.36,100.0,0.0,10.71,3.57
+202009,Setembro/2020,60-69,Masculino,Amarela,Fundamental incompleto,26,8,8,0,0,0,30.77,100.0,0.0,0.0,0.0
+202009,Setembro/2020,60-69,Masculino,Indígena,Superior completo,2,1,1,0,0,0,50.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,60-69,Masculino,Amarela,Superior completo,28,8,8,0,1,0,28.57,100.0,0.0,3.57,0.0
+202009,Setembro/2020,60-69,Masculino,Parda,Pós-graduação,94,44,50,3,7,2,46.81,113.64,3.19,7.45,2.13
+202009,Setembro/2020,60-69,Masculino,Preta,Pós-graduação,14,6,7,2,0,0,42.86,116.67,14.29,0.0,0.0
+202009,Setembro/2020,60-69,Masculino,Branca,Fundamental completo,938,335,363,15,61,20,35.71,108.36,1.6,6.5,2.13
+202009,Setembro/2020,60-69,Masculino,Branca,Sem instrução,397,117,88,12,29,6,29.47,75.21,3.02,7.3,1.51
+202009,Setembro/2020,60-69,Masculino,Indígena,Médio incompleto,2,0,0,0,1,0,0.0,0.0,0.0,50.0,0.0
+202009,Setembro/2020,60-69,Masculino,Preta,Médio completo,232,69,83,6,19,8,29.74,120.29,2.59,8.19,3.45
+202009,Setembro/2020,60-69,Masculino,Indígena,Médio completo,9,4,3,0,1,2,44.44,75.0,0.0,11.11,22.22
+202009,Setembro/2020,60-69,Masculino,Preta,Sem instrução,258,76,60,3,16,9,29.46,78.95,1.16,6.2,3.49
+202009,Setembro/2020,60-69,Masculino,Amarela,Fundamental completo,7,2,2,0,1,0,28.57,100.0,0.0,14.29,0.0
+202009,Setembro/2020,60-69,Masculino,Indígena,Fundamental completo,5,2,2,0,0,0,40.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,60-69,Masculino,Branca,Pós-graduação,296,164,174,3,19,4,55.41,106.1,1.01,6.42,1.35
+202009,Setembro/2020,60-69,Masculino,Branca,Superior completo,1109,543,578,19,63,21,48.96,106.45,1.71,5.68,1.89
+202009,Setembro/2020,60-69,Masculino,Preta,Superior completo,94,37,41,1,7,1,39.36,110.81,1.06,7.45,1.06
+202009,Setembro/2020,60-69,Masculino,Amarela,Sem instrução,3,1,1,0,1,0,33.33,100.0,0.0,33.33,0.0
+202009,Setembro/2020,60-69,Masculino,Preta,Fundamental completo,166,61,66,2,19,4,36.75,108.2,1.2,11.45,2.41
+202009,Setembro/2020,60-69,Masculino,Parda,Fundamental completo,753,264,269,15,58,15,35.06,101.89,1.99,7.7,1.99
+202009,Setembro/2020,60-69,Masculino,Parda,Fundamental incompleto,3521,1239,1188,91,265,96,35.19,95.88,2.58,7.53,2.73
+202009,Setembro/2020,60-69,Masculino,Indígena,Fundamental incompleto,26,8,7,0,3,0,30.77,87.5,0.0,11.54,0.0
+202009,Setembro/2020,60-69,Masculino,Parda,Superior completo,362,162,193,6,36,10,44.75,119.14,1.66,9.94,2.76
+202009,Setembro/2020,60-69,Masculino,Amarela,Médio completo,30,15,17,0,3,0,50.0,113.33,0.0,10.0,0.0
+202009,Setembro/2020,60-69,Masculino,Ignorado,Superior completo,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,60-69,Masculino,Preta,Superior incompleto,27,14,15,1,3,0,51.85,107.14,3.7,11.11,0.0
+202009,Setembro/2020,60-69,Masculino,Ignorado,Fundamental incompleto,2,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,60-69,Masculino,Indígena,Pós-graduação,3,2,2,0,0,0,66.67,100.0,0.0,0.0,0.0
+202009,Setembro/2020,60-69,Masculino,Amarela,Superior incompleto,8,1,1,0,2,0,12.5,100.0,0.0,25.0,0.0
+202009,Setembro/2020,60-69,Masculino,Amarela,Pós-graduação,4,3,3,0,2,0,75.0,100.0,0.0,50.0,0.0
+202009,Setembro/2020,60-69,Masculino,Amarela,Médio incompleto,2,2,2,0,0,0,100.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,60-69,Masculino,Ignorado,Pós-graduação,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,60-69,Masculino,Indígena,Superior incompleto,1,0,0,0,1,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,70+,Feminino,Branca,Superior completo,879,46,50,30,33,24,5.23,108.7,3.41,3.75,2.73
+202009,Setembro/2020,70+,Feminino,Amarela,Superior completo,23,1,1,0,0,2,4.35,100.0,0.0,0.0,8.7
+202009,Setembro/2020,70+,Feminino,Amarela,Médio incompleto,5,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,70+,Feminino,Parda,Pós-graduação,35,2,4,0,2,0,5.71,200.0,0.0,5.71,0.0
+202009,Setembro/2020,70+,Feminino,Indígena,Fundamental incompleto,21,0,0,1,2,0,0.0,0.0,4.76,9.52,0.0
+202009,Setembro/2020,70+,Feminino,Preta,Superior completo,39,3,4,2,2,0,7.69,133.33,5.13,5.13,0.0
+202009,Setembro/2020,70+,Feminino,Amarela,Fundamental incompleto,49,2,2,3,0,1,4.08,100.0,6.12,0.0,2.04
+202009,Setembro/2020,70+,Feminino,Branca,Sem instrução,1266,16,6,40,62,52,1.26,37.5,3.16,4.9,4.11
+202009,Setembro/2020,70+,Feminino,Parda,Superior completo,271,16,17,8,12,6,5.9,106.25,2.95,4.43,2.21
+202009,Setembro/2020,70+,Feminino,Parda,Sem instrução,2069,37,8,55,78,56,1.79,21.62,2.66,3.77,2.71
+202009,Setembro/2020,70+,Feminino,Branca,Médio incompleto,239,10,10,12,14,4,4.18,100.0,5.02,5.86,1.67
+202009,Setembro/2020,70+,Feminino,Preta,Superior incompleto,4,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,70+,Feminino,Amarela,Sem instrução,20,0,0,1,2,0,0.0,0.0,5.0,10.0,0.0
+202009,Setembro/2020,70+,Feminino,Indígena,Médio completo,7,0,0,1,0,0,0.0,0.0,14.29,0.0,0.0
+202009,Setembro/2020,70+,Feminino,Parda,Médio incompleto,119,6,4,3,5,2,5.04,66.67,2.52,4.2,1.68
+202009,Setembro/2020,70+,Feminino,Amarela,Médio completo,31,0,0,1,1,1,0.0,0.0,3.23,3.23,3.23
+202009,Setembro/2020,70+,Feminino,Branca,Fundamental incompleto,3936,143,89,119,160,89,3.63,62.24,3.02,4.07,2.26
+202009,Setembro/2020,70+,Feminino,Indígena,Sem instrução,19,0,0,1,0,1,0.0,0.0,5.26,0.0,5.26
+202009,Setembro/2020,70+,Feminino,Preta,Médio incompleto,34,0,0,1,2,1,0.0,0.0,2.94,5.88,2.94
+202009,Setembro/2020,70+,Feminino,Branca,Pós-graduação,169,25,31,9,6,5,14.79,124.0,5.33,3.55,2.96
+202009,Setembro/2020,70+,Feminino,Parda,Fundamental incompleto,2854,89,55,92,131,87,3.12,61.8,3.22,4.59,3.05
+202009,Setembro/2020,70+,Feminino,Branca,Fundamental completo,1236,37,31,55,50,31,2.99,83.78,4.45,4.05,2.51
+202009,Setembro/2020,70+,Feminino,Parda,Superior incompleto,34,4,4,2,1,1,11.76,100.0,5.88,2.94,2.94
+202009,Setembro/2020,70+,Feminino,Parda,Fundamental completo,581,18,15,24,29,16,3.1,83.33,4.13,4.99,2.75
+202009,Setembro/2020,70+,Feminino,Preta,Sem instrução,365,9,5,13,18,9,2.47,55.56,3.56,4.93,2.47
+202009,Setembro/2020,70+,Feminino,Branca,Superior incompleto,87,1,1,5,4,4,1.15,100.0,5.75,4.6,4.6
+202009,Setembro/2020,70+,Feminino,Branca,Médio completo,1313,52,51,66,59,35,3.96,98.08,5.03,4.49,2.67
+202009,Setembro/2020,70+,Feminino,Preta,Pós-graduação,6,1,1,0,1,0,16.67,100.0,0.0,16.67,0.0
+202009,Setembro/2020,70+,Feminino,Parda,Médio completo,566,12,15,14,43,13,2.12,125.0,2.47,7.6,2.3
+202009,Setembro/2020,70+,Feminino,Indígena,Fundamental completo,5,1,1,0,1,0,20.0,100.0,0.0,20.0,0.0
+202009,Setembro/2020,70+,Feminino,Preta,Fundamental completo,120,2,2,5,7,0,1.67,100.0,4.17,5.83,0.0
+202009,Setembro/2020,70+,Feminino,Amarela,Fundamental completo,16,0,0,1,1,1,0.0,0.0,6.25,6.25,6.25
+202009,Setembro/2020,70+,Feminino,Preta,Médio completo,97,5,6,6,7,6,5.15,120.0,6.19,7.22,6.19
+202009,Setembro/2020,70+,Feminino,Preta,Fundamental incompleto,482,14,9,20,25,14,2.9,64.29,4.15,5.19,2.9
+202009,Setembro/2020,70+,Feminino,Ignorado,Fundamental completo,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,70+,Feminino,Ignorado,Médio completo,2,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,70+,Feminino,Amarela,Superior incompleto,3,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,70+,Feminino,Ignorado,Fundamental incompleto,2,1,1,0,0,0,50.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,70+,Feminino,Indígena,Médio incompleto,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,70+,Masculino,Indígena,Médio completo,4,2,2,0,1,0,50.0,100.0,0.0,25.0,0.0
+202009,Setembro/2020,70+,Masculino,Preta,Superior completo,26,4,5,0,1,2,15.38,125.0,0.0,3.85,7.69
+202009,Setembro/2020,70+,Masculino,Preta,Fundamental completo,88,3,4,3,6,2,3.41,133.33,3.41,6.82,2.27
+202009,Setembro/2020,70+,Masculino,Preta,Fundamental incompleto,431,37,35,11,19,14,8.58,94.59,2.55,4.41,3.25
+202009,Setembro/2020,70+,Masculino,Parda,Pós-graduação,33,11,13,0,3,0,33.33,118.18,0.0,9.09,0.0
+202009,Setembro/2020,70+,Masculino,Branca,Pós-graduação,146,45,47,5,3,6,30.82,104.44,3.42,2.05,4.11
+202009,Setembro/2020,70+,Masculino,Preta,Pós-graduação,4,1,1,0,0,0,25.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,70+,Masculino,Parda,Médio incompleto,112,17,16,2,5,6,15.18,94.12,1.79,4.46,5.36
+202009,Setembro/2020,70+,Masculino,Parda,Superior completo,188,27,36,1,8,5,14.36,133.33,0.53,4.26,2.66
+202009,Setembro/2020,70+,Masculino,Preta,Médio completo,97,9,10,2,4,2,9.28,111.11,2.06,4.12,2.06
+202009,Setembro/2020,70+,Masculino,Indígena,Fundamental completo,2,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,70+,Masculino,Parda,Fundamental incompleto,2465,305,230,44,131,75,12.37,75.41,1.78,5.31,3.04
+202009,Setembro/2020,70+,Masculino,Preta,Médio incompleto,31,2,3,0,2,0,6.45,150.0,0.0,6.45,0.0
+202009,Setembro/2020,70+,Masculino,Indígena,Sem instrução,8,0,0,0,0,1,0.0,0.0,0.0,0.0,12.5
+202009,Setembro/2020,70+,Masculino,Amarela,Sem instrução,11,2,2,0,0,0,18.18,100.0,0.0,0.0,0.0
+202009,Setembro/2020,70+,Masculino,Amarela,Superior completo,29,2,2,0,1,0,6.9,100.0,0.0,3.45,0.0
+202009,Setembro/2020,70+,Masculino,Parda,Fundamental completo,468,54,50,13,25,11,11.54,92.59,2.78,5.34,2.35
+202009,Setembro/2020,70+,Masculino,Parda,Médio completo,483,48,52,10,24,13,9.94,108.33,2.07,4.97,2.69
+202009,Setembro/2020,70+,Masculino,Indígena,Fundamental incompleto,10,1,1,0,0,0,10.0,100.0,0.0,0.0,0.0
+202009,Setembro/2020,70+,Masculino,Branca,Superior completo,781,164,177,17,39,12,21.0,107.93,2.18,4.99,1.54
+202009,Setembro/2020,70+,Masculino,Amarela,Médio completo,19,2,3,2,2,0,10.53,150.0,10.53,10.53,0.0
+202009,Setembro/2020,70+,Masculino,Branca,Fundamental incompleto,2968,396,330,60,138,81,13.34,83.33,2.02,4.65,2.73
+202009,Setembro/2020,70+,Masculino,Amarela,Médio incompleto,7,2,1,0,0,0,28.57,50.0,0.0,0.0,0.0
+202009,Setembro/2020,70+,Masculino,Branca,Médio completo,819,98,107,16,43,23,11.97,109.18,1.95,5.25,2.81
+202009,Setembro/2020,70+,Masculino,Branca,Médio incompleto,170,20,18,5,6,9,11.76,90.0,2.94,3.53,5.29
+202009,Setembro/2020,70+,Masculino,Parda,Sem instrução,1610,130,75,36,94,45,8.07,57.69,2.24,5.84,2.8
+202009,Setembro/2020,70+,Masculino,Preta,Sem instrução,326,24,10,8,16,13,7.36,41.67,2.45,4.91,3.99
+202009,Setembro/2020,70+,Masculino,Parda,Superior incompleto,35,5,5,0,0,1,14.29,100.0,0.0,0.0,2.86
+202009,Setembro/2020,70+,Masculino,Amarela,Fundamental incompleto,31,3,2,1,0,0,9.68,66.67,3.23,0.0,0.0
+202009,Setembro/2020,70+,Masculino,Branca,Fundamental completo,724,90,85,19,26,12,12.43,94.44,2.62,3.59,1.66
+202009,Setembro/2020,70+,Masculino,Branca,Sem instrução,799,65,40,12,31,25,8.14,61.54,1.5,3.88,3.13
+202009,Setembro/2020,70+,Masculino,Indígena,Médio incompleto,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,70+,Masculino,Branca,Superior incompleto,110,13,14,2,4,0,11.82,107.69,1.82,3.64,0.0
+202009,Setembro/2020,70+,Masculino,Amarela,Fundamental completo,17,2,2,1,0,0,11.76,100.0,5.88,0.0,0.0
+202009,Setembro/2020,70+,Masculino,Indígena,Superior completo,3,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,70+,Masculino,Ignorado,Fundamental incompleto,1,0,0,0,1,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,70+,Masculino,Amarela,Pós-graduação,2,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,70+,Masculino,Preta,Superior incompleto,10,1,2,1,1,0,10.0,200.0,10.0,10.0,0.0
+202009,Setembro/2020,70+,Masculino,Amarela,Superior incompleto,5,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,70+,Masculino,Ignorado,Superior incompleto,1,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,0-17,Feminino,Amarela,Sem instrução,48,0,0,5,7,1,0.0,0.0,10.42,14.58,2.08
+202010,Outubro/2020,0-17,Feminino,Preta,Fundamental completo,53,0,0,5,2,1,0.0,0.0,9.43,3.77,1.89
+202010,Outubro/2020,0-17,Feminino,Parda,Médio incompleto,3286,194,158,270,240,68,5.9,81.44,8.22,7.3,2.07
+202010,Outubro/2020,0-17,Feminino,Indígena,Sem instrução,52,0,0,3,2,1,0.0,0.0,5.77,3.85,1.92
+202010,Outubro/2020,0-17,Feminino,Amarela,Fundamental completo,4,0,0,1,0,0,0.0,0.0,25.0,0.0,0.0
+202010,Outubro/2020,0-17,Feminino,Preta,Sem instrução,602,0,0,58,52,13,0.0,0.0,9.63,8.64,2.16
+202010,Outubro/2020,0-17,Feminino,Branca,Superior incompleto,30,5,5,0,5,0,16.67,100.0,0.0,16.67,0.0
+202010,Outubro/2020,0-17,Feminino,Ignorado,Sem instrução,10,0,0,0,3,0,0.0,0.0,0.0,30.0,0.0
+202010,Outubro/2020,0-17,Feminino,Amarela,Fundamental incompleto,95,0,0,8,12,2,0.0,0.0,8.42,12.63,2.11
+202010,Outubro/2020,0-17,Feminino,Parda,Fundamental incompleto,13385,77,32,1053,966,204,0.58,41.56,7.87,7.22,1.52
+202010,Outubro/2020,0-17,Feminino,Parda,Superior incompleto,24,3,4,2,3,0,12.5,133.33,8.33,12.5,0.0
+202010,Outubro/2020,0-17,Feminino,Indígena,Fundamental completo,2,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,0-17,Feminino,Amarela,Médio incompleto,34,1,1,7,2,0,2.94,100.0,20.59,5.88,0.0
+202010,Outubro/2020,0-17,Feminino,Branca,Fundamental completo,225,9,5,15,14,1,4.0,55.56,6.67,6.22,0.44
+202010,Outubro/2020,0-17,Feminino,Branca,Médio completo,113,18,17,8,4,1,15.93,94.44,7.08,3.54,0.88
+202010,Outubro/2020,0-17,Feminino,Preta,Fundamental incompleto,1531,5,4,154,131,35,0.33,80.0,10.06,8.56,2.29
+202010,Outubro/2020,0-17,Feminino,Branca,Sem instrução,5626,0,0,437,501,85,0.0,0.0,7.77,8.91,1.51
+202010,Outubro/2020,0-17,Feminino,Ignorado,Fundamental incompleto,9,0,0,1,2,0,0.0,0.0,11.11,22.22,0.0
+202010,Outubro/2020,0-17,Feminino,Parda,Sem instrução,6012,2,0,456,410,148,0.03,0.0,7.58,6.82,2.46
+202010,Outubro/2020,0-17,Feminino,Preta,Médio incompleto,444,19,19,51,39,8,4.28,100.0,11.49,8.78,1.8
+202010,Outubro/2020,0-17,Feminino,Indígena,Médio incompleto,19,0,0,2,1,1,0.0,0.0,10.53,5.26,5.26
+202010,Outubro/2020,0-17,Feminino,Parda,Médio completo,134,22,18,8,6,5,16.42,81.82,5.97,4.48,3.73
+202010,Outubro/2020,0-17,Feminino,Parda,Fundamental completo,391,12,6,34,27,4,3.07,50.0,8.7,6.91,1.02
+202010,Outubro/2020,0-17,Feminino,Amarela,Médio completo,3,0,0,0,1,0,0.0,0.0,0.0,33.33,0.0
+202010,Outubro/2020,0-17,Feminino,Indígena,Fundamental incompleto,119,2,0,8,9,1,1.68,0.0,6.72,7.56,0.84
+202010,Outubro/2020,0-17,Feminino,Branca,Fundamental incompleto,9242,53,26,872,777,135,0.57,49.06,9.44,8.41,1.46
+202010,Outubro/2020,0-17,Feminino,Ignorado,Médio incompleto,2,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,0-17,Feminino,Preta,Médio completo,17,0,1,1,2,1,0.0,0.0,5.88,11.76,5.88
+202010,Outubro/2020,0-17,Feminino,Branca,Médio incompleto,2407,198,161,203,206,37,8.23,81.31,8.43,8.56,1.54
+202010,Outubro/2020,0-17,Masculino,Ignorado,Fundamental incompleto,8,0,0,1,1,0,0.0,0.0,12.5,12.5,0.0
+202010,Outubro/2020,0-17,Masculino,Indígena,Médio completo,2,1,0,0,0,0,50.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,0-17,Masculino,Preta,Superior incompleto,3,1,1,0,0,0,33.33,100.0,0.0,0.0,0.0
+202010,Outubro/2020,0-17,Masculino,Branca,Médio completo,84,17,16,6,9,1,20.24,94.12,7.14,10.71,1.19
+202010,Outubro/2020,0-17,Masculino,Branca,Sem instrução,5710,0,0,396,502,122,0.0,0.0,6.94,8.79,2.14
+202010,Outubro/2020,0-17,Masculino,Indígena,Médio incompleto,21,0,0,1,1,0,0.0,0.0,4.76,4.76,0.0
+202010,Outubro/2020,0-17,Masculino,Preta,Sem instrução,668,0,0,59,46,19,0.0,0.0,8.83,6.89,2.84
+202010,Outubro/2020,0-17,Masculino,Ignorado,Sem instrução,5,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,0-17,Masculino,Branca,Fundamental incompleto,9707,120,73,844,775,153,1.24,60.83,8.69,7.98,1.58
+202010,Outubro/2020,0-17,Masculino,Amarela,Sem instrução,52,0,0,4,6,0,0.0,0.0,7.69,11.54,0.0
+202010,Outubro/2020,0-17,Masculino,Amarela,Fundamental completo,2,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,0-17,Masculino,Parda,Fundamental completo,390,26,20,33,27,5,6.67,76.92,8.46,6.92,1.28
+202010,Outubro/2020,0-17,Masculino,Indígena,Sem instrução,57,0,0,4,1,2,0.0,0.0,7.02,1.75,3.51
+202010,Outubro/2020,0-17,Masculino,Amarela,Médio incompleto,25,2,2,2,3,0,8.0,100.0,8.0,12.0,0.0
+202010,Outubro/2020,0-17,Masculino,Branca,Fundamental completo,276,18,12,23,24,5,6.52,66.67,8.33,8.7,1.81
+202010,Outubro/2020,0-17,Masculino,Indígena,Fundamental completo,4,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,0-17,Masculino,Branca,Médio incompleto,2319,300,214,199,205,38,12.94,71.33,8.58,8.84,1.64
+202010,Outubro/2020,0-17,Masculino,Parda,Superior incompleto,13,1,1,1,0,0,7.69,100.0,7.69,0.0,0.0
+202010,Outubro/2020,0-17,Masculino,Parda,Médio incompleto,3100,346,268,215,218,48,11.16,77.46,6.94,7.03,1.55
+202010,Outubro/2020,0-17,Masculino,Preta,Fundamental incompleto,1703,29,22,159,112,38,1.7,75.86,9.34,6.58,2.23
+202010,Outubro/2020,0-17,Masculino,Indígena,Fundamental incompleto,121,1,0,5,12,4,0.83,0.0,4.13,9.92,3.31
+202010,Outubro/2020,0-17,Masculino,Preta,Fundamental completo,78,4,2,8,4,0,5.13,50.0,10.26,5.13,0.0
+202010,Outubro/2020,0-17,Masculino,Parda,Sem instrução,6416,4,4,479,467,150,0.06,100.0,7.47,7.28,2.34
+202010,Outubro/2020,0-17,Masculino,Preta,Médio incompleto,431,58,42,35,38,8,13.46,72.41,8.12,8.82,1.86
+202010,Outubro/2020,0-17,Masculino,Parda,Fundamental incompleto,14320,240,136,1127,1058,219,1.68,56.67,7.87,7.39,1.53
+202010,Outubro/2020,0-17,Masculino,Preta,Médio completo,19,3,4,0,1,0,15.79,133.33,0.0,5.26,0.0
+202010,Outubro/2020,0-17,Masculino,Parda,Médio completo,147,27,18,7,14,2,18.37,66.67,4.76,9.52,1.36
+202010,Outubro/2020,0-17,Masculino,Amarela,Fundamental incompleto,118,2,1,11,16,0,1.69,50.0,9.32,13.56,0.0
+202010,Outubro/2020,0-17,Masculino,Branca,Superior incompleto,12,3,3,0,1,0,25.0,100.0,0.0,8.33,0.0
+202010,Outubro/2020,0-17,Masculino,Ignorado,Médio incompleto,2,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,18-29,Feminino,Branca,Médio incompleto,1310,364,345,107,93,28,27.79,94.78,8.17,7.1,2.14
+202010,Outubro/2020,18-29,Feminino,Indígena,Superior incompleto,15,1,1,0,2,0,6.67,100.0,0.0,13.33,0.0
+202010,Outubro/2020,18-29,Feminino,Amarela,Superior completo,33,21,21,2,2,0,63.64,100.0,6.06,6.06,0.0
+202010,Outubro/2020,18-29,Feminino,Ignorado,Médio completo,2,1,1,0,0,0,50.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,18-29,Feminino,Parda,Superior incompleto,2690,1104,1115,167,229,74,41.04,101.0,6.21,8.51,2.75
+202010,Outubro/2020,18-29,Feminino,Parda,Fundamental completo,688,185,171,49,46,16,26.89,92.43,7.12,6.69,2.33
+202010,Outubro/2020,18-29,Feminino,Indígena,Médio incompleto,33,7,8,2,3,0,21.21,114.29,6.06,9.09,0.0
+202010,Outubro/2020,18-29,Feminino,Parda,Médio completo,7378,2519,2479,391,467,165,34.14,98.41,5.3,6.33,2.24
+202010,Outubro/2020,18-29,Feminino,Preta,Superior completo,245,148,157,17,15,7,60.41,106.08,6.94,6.12,2.86
+202010,Outubro/2020,18-29,Feminino,Indígena,Sem instrução,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,18-29,Feminino,Branca,Médio completo,4330,1870,1881,240,328,84,43.19,100.59,5.54,7.58,1.94
+202010,Outubro/2020,18-29,Feminino,Indígena,Fundamental completo,4,2,2,0,0,0,50.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,18-29,Feminino,Amarela,Médio incompleto,24,7,8,2,1,1,29.17,114.29,8.33,4.17,4.17
+202010,Outubro/2020,18-29,Feminino,Parda,Médio incompleto,2625,550,521,213,143,73,20.95,94.73,8.11,5.45,2.78
+202010,Outubro/2020,18-29,Feminino,Branca,Superior completo,2103,1462,1517,84,164,42,69.52,103.76,3.99,7.8,2.0
+202010,Outubro/2020,18-29,Feminino,Preta,Superior incompleto,499,195,202,48,49,10,39.08,103.59,9.62,9.82,2.0
+202010,Outubro/2020,18-29,Feminino,Preta,Sem instrução,10,0,0,1,0,0,0.0,0.0,10.0,0.0,0.0
+202010,Outubro/2020,18-29,Feminino,Parda,Pós-graduação,170,117,122,3,10,2,68.82,104.27,1.76,5.88,1.18
+202010,Outubro/2020,18-29,Feminino,Indígena,Médio completo,66,23,23,3,4,2,34.85,100.0,4.55,6.06,3.03
+202010,Outubro/2020,18-29,Feminino,Amarela,Médio completo,75,26,29,7,6,0,34.67,111.54,9.33,8.0,0.0
+202010,Outubro/2020,18-29,Feminino,Parda,Superior completo,1435,856,905,66,101,34,59.65,105.72,4.6,7.04,2.37
+202010,Outubro/2020,18-29,Feminino,Branca,Fundamental incompleto,493,106,98,45,39,14,21.5,92.45,9.13,7.91,2.84
+202010,Outubro/2020,18-29,Feminino,Amarela,Pós-graduação,4,3,3,1,0,0,75.0,100.0,25.0,0.0,0.0
+202010,Outubro/2020,18-29,Feminino,Preta,Médio completo,1245,460,479,74,76,28,36.95,104.13,5.94,6.1,2.25
+202010,Outubro/2020,18-29,Feminino,Preta,Fundamental incompleto,200,36,37,14,9,4,18.0,102.78,7.0,4.5,2.0
+202010,Outubro/2020,18-29,Feminino,Preta,Fundamental completo,107,31,31,8,5,2,28.97,100.0,7.48,4.67,1.87
+202010,Outubro/2020,18-29,Feminino,Branca,Pós-graduação,330,251,262,16,19,10,76.06,104.38,4.85,5.76,3.03
+202010,Outubro/2020,18-29,Feminino,Branca,Sem instrução,56,2,2,3,5,1,3.57,100.0,5.36,8.93,1.79
+202010,Outubro/2020,18-29,Feminino,Preta,Pós-graduação,44,34,34,2,2,1,77.27,100.0,4.55,4.55,2.27
+202010,Outubro/2020,18-29,Feminino,Indígena,Fundamental incompleto,12,4,4,1,1,0,33.33,100.0,8.33,8.33,0.0
+202010,Outubro/2020,18-29,Feminino,Branca,Superior incompleto,3041,1275,1284,259,268,76,41.93,100.71,8.52,8.81,2.5
+202010,Outubro/2020,18-29,Feminino,Indígena,Pós-graduação,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,18-29,Feminino,Indígena,Superior completo,15,12,12,2,1,0,80.0,100.0,13.33,6.67,0.0
+202010,Outubro/2020,18-29,Feminino,Ignorado,Médio incompleto,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,18-29,Feminino,Parda,Fundamental incompleto,1489,253,216,113,73,34,16.99,85.38,7.59,4.9,2.28
+202010,Outubro/2020,18-29,Feminino,Ignorado,Superior incompleto,2,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,18-29,Feminino,Amarela,Superior incompleto,52,23,22,6,9,0,44.23,95.65,11.54,17.31,0.0
+202010,Outubro/2020,18-29,Feminino,Parda,Sem instrução,80,7,7,9,9,3,8.75,100.0,11.25,11.25,3.75
+202010,Outubro/2020,18-29,Feminino,Amarela,Fundamental incompleto,17,2,1,2,0,1,11.76,50.0,11.76,0.0,5.88
+202010,Outubro/2020,18-29,Feminino,Preta,Médio incompleto,443,85,84,37,26,12,19.19,98.82,8.35,5.87,2.71
+202010,Outubro/2020,18-29,Feminino,Branca,Fundamental completo,399,156,142,25,23,6,39.1,91.03,6.27,5.76,1.5
+202010,Outubro/2020,18-29,Feminino,Amarela,Fundamental completo,9,1,1,1,0,0,11.11,100.0,11.11,0.0,0.0
+202010,Outubro/2020,18-29,Feminino,Ignorado,Sem instrução,1,0,0,0,1,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,18-29,Feminino,Amarela,Sem instrução,1,0,0,0,1,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,18-29,Masculino,Indígena,Fundamental incompleto,17,6,5,1,0,0,35.29,83.33,5.88,0.0,0.0
+202010,Outubro/2020,18-29,Masculino,Ignorado,Médio completo,2,1,1,0,0,0,50.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,18-29,Masculino,Parda,Fundamental incompleto,2226,1190,1069,103,145,44,53.46,89.83,4.63,6.51,1.98
+202010,Outubro/2020,18-29,Masculino,Indígena,Médio incompleto,24,13,11,3,1,0,54.17,84.62,12.5,4.17,0.0
+202010,Outubro/2020,18-29,Masculino,Amarela,Fundamental incompleto,9,7,6,0,1,0,77.78,85.71,0.0,11.11,0.0
+202010,Outubro/2020,18-29,Masculino,Branca,Fundamental incompleto,917,535,495,42,63,21,58.34,92.52,4.58,6.87,2.29
+202010,Outubro/2020,18-29,Masculino,Branca,Pós-graduação,151,118,121,2,13,1,78.15,102.54,1.32,8.61,0.66
+202010,Outubro/2020,18-29,Masculino,Branca,Médio completo,4391,2878,2801,154,333,86,65.54,97.32,3.51,7.58,1.96
+202010,Outubro/2020,18-29,Masculino,Parda,Sem instrução,156,23,21,7,19,3,14.74,91.3,4.49,12.18,1.92
+202010,Outubro/2020,18-29,Masculino,Preta,Sem instrução,14,5,7,0,0,1,35.71,140.0,0.0,0.0,7.14
+202010,Outubro/2020,18-29,Masculino,Indígena,Fundamental completo,6,2,2,1,0,0,33.33,100.0,16.67,0.0,0.0
+202010,Outubro/2020,18-29,Masculino,Branca,Superior incompleto,2573,1304,1289,134,205,48,50.68,98.85,5.21,7.97,1.87
+202010,Outubro/2020,18-29,Masculino,Preta,Fundamental incompleto,382,205,197,21,29,5,53.66,96.1,5.5,7.59,1.31
+202010,Outubro/2020,18-29,Masculino,Amarela,Superior completo,18,13,13,1,1,1,72.22,100.0,5.56,5.56,5.56
+202010,Outubro/2020,18-29,Masculino,Indígena,Superior completo,8,3,5,0,0,0,37.5,166.67,0.0,0.0,0.0
+202010,Outubro/2020,18-29,Masculino,Parda,Superior completo,931,648,652,21,73,22,69.6,100.62,2.26,7.84,2.36
+202010,Outubro/2020,18-29,Masculino,Branca,Superior completo,1392,1087,1088,44,109,32,78.09,100.09,3.16,7.83,2.3
+202010,Outubro/2020,18-29,Masculino,Ignorado,Fundamental completo,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,18-29,Masculino,Amarela,Superior incompleto,42,16,17,2,3,1,38.1,106.25,4.76,7.14,2.38
+202010,Outubro/2020,18-29,Masculino,Amarela,Médio completo,51,27,26,3,4,0,52.94,96.3,5.88,7.84,0.0
+202010,Outubro/2020,18-29,Masculino,Parda,Fundamental completo,862,526,501,27,61,20,61.02,95.25,3.13,7.08,2.32
+202010,Outubro/2020,18-29,Masculino,Parda,Pós-graduação,75,57,60,0,7,3,76.0,105.26,0.0,9.33,4.0
+202010,Outubro/2020,18-29,Masculino,Preta,Superior incompleto,368,174,176,28,30,7,47.28,101.15,7.61,8.15,1.9
+202010,Outubro/2020,18-29,Masculino,Preta,Pós-graduação,13,11,10,1,0,0,84.62,90.91,7.69,0.0,0.0
+202010,Outubro/2020,18-29,Masculino,Preta,Médio completo,1184,745,736,50,93,21,62.92,98.79,4.22,7.85,1.77
+202010,Outubro/2020,18-29,Masculino,Ignorado,Sem instrução,2,1,1,0,0,0,50.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,18-29,Masculino,Amarela,Médio incompleto,33,16,16,1,4,1,48.48,100.0,3.03,12.12,3.03
+202010,Outubro/2020,18-29,Masculino,Amarela,Fundamental completo,8,6,6,0,0,0,75.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,18-29,Masculino,Parda,Superior incompleto,2253,1087,1088,106,197,51,48.25,100.09,4.7,8.74,2.26
+202010,Outubro/2020,18-29,Masculino,Branca,Médio incompleto,1727,915,870,84,157,31,52.98,95.08,4.86,9.09,1.8
+202010,Outubro/2020,18-29,Masculino,Indígena,Médio completo,42,24,23,1,0,0,57.14,95.83,2.38,0.0,0.0
+202010,Outubro/2020,18-29,Masculino,Preta,Superior completo,169,113,117,4,17,0,66.86,103.54,2.37,10.06,0.0
+202010,Outubro/2020,18-29,Masculino,Branca,Sem instrução,85,10,8,0,5,2,11.76,80.0,0.0,5.88,2.35
+202010,Outubro/2020,18-29,Masculino,Preta,Médio incompleto,556,272,261,28,44,11,48.92,95.96,5.04,7.91,1.98
+202010,Outubro/2020,18-29,Masculino,Preta,Fundamental completo,166,96,94,9,18,4,57.83,97.92,5.42,10.84,2.41
+202010,Outubro/2020,18-29,Masculino,Parda,Médio incompleto,3379,1628,1535,162,210,61,48.18,94.29,4.79,6.21,1.81
+202010,Outubro/2020,18-29,Masculino,Indígena,Pós-graduação,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,18-29,Masculino,Parda,Médio completo,6716,3971,3861,206,399,123,59.13,97.23,3.07,5.94,1.83
+202010,Outubro/2020,18-29,Masculino,Branca,Fundamental completo,539,371,359,16,47,17,68.83,96.77,2.97,8.72,3.15
+202010,Outubro/2020,18-29,Masculino,Indígena,Superior incompleto,14,9,9,0,0,0,64.29,100.0,0.0,0.0,0.0
+202010,Outubro/2020,18-29,Masculino,Amarela,Pós-graduação,2,2,2,0,0,0,100.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,18-29,Masculino,Ignorado,Superior incompleto,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,18-29,Masculino,Amarela,Sem instrução,2,0,0,0,1,0,0.0,0.0,0.0,50.0,0.0
+202010,Outubro/2020,18-29,Masculino,Ignorado,Médio incompleto,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,30-39,Feminino,Indígena,Pós-graduação,5,5,5,0,1,0,100.0,100.0,0.0,20.0,0.0
+202010,Outubro/2020,30-39,Feminino,Ignorado,Fundamental incompleto,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,30-39,Feminino,Amarela,Superior completo,70,58,59,2,6,1,82.86,101.72,2.86,8.57,1.43
+202010,Outubro/2020,30-39,Feminino,Parda,Superior completo,2280,1541,1687,121,191,64,67.59,109.47,5.31,8.38,2.81
+202010,Outubro/2020,30-39,Feminino,Branca,Fundamental incompleto,1094,361,322,84,59,30,33.0,89.2,7.68,5.39,2.74
+202010,Outubro/2020,30-39,Feminino,Branca,Superior incompleto,905,567,588,80,102,23,62.65,103.7,8.84,11.27,2.54
+202010,Outubro/2020,30-39,Feminino,Parda,Fundamental completo,1002,370,357,77,69,20,36.93,96.49,7.68,6.89,2.0
+202010,Outubro/2020,30-39,Feminino,Branca,Médio completo,3850,2078,2144,251,303,80,53.97,103.18,6.52,7.87,2.08
+202010,Outubro/2020,30-39,Feminino,Preta,Superior completo,460,325,345,33,32,9,70.65,106.15,7.17,6.96,1.96
+202010,Outubro/2020,30-39,Feminino,Parda,Sem instrução,203,26,22,8,13,3,12.81,84.62,3.94,6.4,1.48
+202010,Outubro/2020,30-39,Feminino,Preta,Médio incompleto,220,82,85,24,12,4,37.27,103.66,10.91,5.45,1.82
+202010,Outubro/2020,30-39,Feminino,Parda,Superior incompleto,878,507,545,76,93,32,57.74,107.5,8.66,10.59,3.64
+202010,Outubro/2020,30-39,Feminino,Preta,Sem instrução,23,6,4,2,0,1,26.09,66.67,8.7,0.0,4.35
+202010,Outubro/2020,30-39,Feminino,Indígena,Médio incompleto,10,2,3,1,0,1,20.0,150.0,10.0,0.0,10.0
+202010,Outubro/2020,30-39,Feminino,Preta,Pós-graduação,109,91,97,5,11,3,83.49,106.59,4.59,10.09,2.75
+202010,Outubro/2020,30-39,Feminino,Amarela,Fundamental incompleto,23,9,8,3,3,1,39.13,88.89,13.04,13.04,4.35
+202010,Outubro/2020,30-39,Feminino,Amarela,Médio completo,73,41,45,3,5,1,56.16,109.76,4.11,6.85,1.37
+202010,Outubro/2020,30-39,Feminino,Parda,Pós-graduação,585,459,492,23,50,17,78.46,107.19,3.93,8.55,2.91
+202010,Outubro/2020,30-39,Feminino,Preta,Médio completo,1069,515,543,75,75,28,48.18,105.44,7.02,7.02,2.62
+202010,Outubro/2020,30-39,Feminino,Indígena,Médio completo,64,26,24,2,3,1,40.63,92.31,3.13,4.69,1.56
+202010,Outubro/2020,30-39,Feminino,Indígena,Fundamental completo,10,5,5,1,0,0,50.0,100.0,10.0,0.0,0.0
+202010,Outubro/2020,30-39,Feminino,Indígena,Sem instrução,2,0,0,0,0,1,0.0,0.0,0.0,0.0,50.0
+202010,Outubro/2020,30-39,Feminino,Indígena,Fundamental incompleto,16,7,3,1,0,0,43.75,42.86,6.25,0.0,0.0
+202010,Outubro/2020,30-39,Feminino,Preta,Fundamental completo,168,79,76,17,14,3,47.02,96.2,10.12,8.33,1.79
+202010,Outubro/2020,30-39,Feminino,Amarela,Médio incompleto,14,7,5,0,1,1,50.0,71.43,0.0,7.14,7.14
+202010,Outubro/2020,30-39,Feminino,Branca,Fundamental completo,620,306,278,47,40,16,49.35,90.85,7.58,6.45,2.58
+202010,Outubro/2020,30-39,Feminino,Preta,Fundamental incompleto,367,138,126,32,23,10,37.6,91.3,8.72,6.27,2.72
+202010,Outubro/2020,30-39,Feminino,Amarela,Fundamental completo,9,6,6,0,1,0,66.67,100.0,0.0,11.11,0.0
+202010,Outubro/2020,30-39,Feminino,Branca,Pós-graduação,1096,902,968,62,96,30,82.3,107.32,5.66,8.76,2.74
+202010,Outubro/2020,30-39,Feminino,Parda,Médio completo,5763,2679,2725,435,413,155,46.49,101.72,7.55,7.17,2.69
+202010,Outubro/2020,30-39,Feminino,Preta,Superior incompleto,187,95,107,23,19,5,50.8,112.63,12.3,10.16,2.67
+202010,Outubro/2020,30-39,Feminino,Indígena,Superior completo,19,10,10,1,1,0,52.63,100.0,5.26,5.26,0.0
+202010,Outubro/2020,30-39,Feminino,Branca,Superior completo,3220,2370,2537,168,254,81,73.6,107.05,5.22,7.89,2.52
+202010,Outubro/2020,30-39,Feminino,Indígena,Superior incompleto,9,6,5,1,1,1,66.67,83.33,11.11,11.11,11.11
+202010,Outubro/2020,30-39,Feminino,Parda,Fundamental incompleto,2677,830,722,188,160,68,31.0,86.99,7.02,5.98,2.54
+202010,Outubro/2020,30-39,Feminino,Parda,Médio incompleto,1278,502,505,100,61,39,39.28,100.6,7.82,4.77,3.05
+202010,Outubro/2020,30-39,Feminino,Branca,Sem instrução,97,12,10,1,10,2,12.37,83.33,1.03,10.31,2.06
+202010,Outubro/2020,30-39,Feminino,Amarela,Pós-graduação,23,19,20,1,1,2,82.61,105.26,4.35,4.35,8.7
+202010,Outubro/2020,30-39,Feminino,Amarela,Superior incompleto,17,7,11,4,0,0,41.18,157.14,23.53,0.0,0.0
+202010,Outubro/2020,30-39,Feminino,Branca,Médio incompleto,756,332,331,68,53,11,43.92,99.7,8.99,7.01,1.46
+202010,Outubro/2020,30-39,Feminino,Ignorado,Sem instrução,1,0,0,0,1,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,30-39,Feminino,Ignorado,Superior incompleto,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,30-39,Feminino,Amarela,Sem instrução,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,30-39,Masculino,Parda,Fundamental completo,995,707,701,22,59,18,71.06,99.15,2.21,5.93,1.81
+202010,Outubro/2020,30-39,Masculino,Parda,Superior incompleto,715,561,573,27,84,19,78.46,102.14,3.78,11.75,2.66
+202010,Outubro/2020,30-39,Masculino,Amarela,Fundamental completo,8,8,8,0,1,0,100.0,100.0,0.0,12.5,0.0
+202010,Outubro/2020,30-39,Masculino,Indígena,Médio completo,40,30,31,0,4,0,75.0,103.33,0.0,10.0,0.0
+202010,Outubro/2020,30-39,Masculino,Branca,Fundamental completo,677,557,567,15,62,13,82.27,101.8,2.22,9.16,1.92
+202010,Outubro/2020,30-39,Masculino,Preta,Sem instrução,46,18,20,1,3,3,39.13,111.11,2.17,6.52,6.52
+202010,Outubro/2020,30-39,Masculino,Indígena,Sem instrução,2,1,1,0,0,1,50.0,100.0,0.0,0.0,50.0
+202010,Outubro/2020,30-39,Masculino,Branca,Superior completo,2248,1974,2010,50,190,51,87.81,101.82,2.22,8.45,2.27
+202010,Outubro/2020,30-39,Masculino,Branca,Fundamental incompleto,1378,1012,994,50,86,24,73.44,98.22,3.63,6.24,1.74
+202010,Outubro/2020,30-39,Masculino,Amarela,Médio incompleto,13,10,10,1,1,0,76.92,100.0,7.69,7.69,0.0
+202010,Outubro/2020,30-39,Masculino,Parda,Pós-graduação,324,288,301,7,34,12,88.89,104.51,2.16,10.49,3.7
+202010,Outubro/2020,30-39,Masculino,Amarela,Pós-graduação,17,16,16,0,1,0,94.12,100.0,0.0,5.88,0.0
+202010,Outubro/2020,30-39,Masculino,Parda,Sem instrução,272,98,86,6,21,1,36.03,87.76,2.21,7.72,0.37
+202010,Outubro/2020,30-39,Masculino,Parda,Médio completo,4981,3845,3917,95,351,85,77.19,101.87,1.91,7.05,1.71
+202010,Outubro/2020,30-39,Masculino,Indígena,Fundamental incompleto,36,27,26,1,3,0,75.0,96.3,2.78,8.33,0.0
+202010,Outubro/2020,30-39,Masculino,Branca,Pós-graduação,684,631,641,15,46,33,92.25,101.58,2.19,6.73,4.82
+202010,Outubro/2020,30-39,Masculino,Branca,Médio completo,3571,2903,2945,88,278,69,81.29,101.45,2.46,7.78,1.93
+202010,Outubro/2020,30-39,Masculino,Preta,Pós-graduação,65,59,61,1,4,0,90.77,103.39,1.54,6.15,0.0
+202010,Outubro/2020,30-39,Masculino,Indígena,Superior completo,12,8,10,1,0,0,66.67,125.0,8.33,0.0,0.0
+202010,Outubro/2020,30-39,Masculino,Amarela,Sem instrução,4,1,1,0,0,1,25.0,100.0,0.0,0.0,25.0
+202010,Outubro/2020,30-39,Masculino,Indígena,Fundamental completo,9,5,6,1,0,0,55.56,120.0,11.11,0.0,0.0
+202010,Outubro/2020,30-39,Masculino,Indígena,Superior incompleto,5,5,5,0,0,1,100.0,100.0,0.0,0.0,20.0
+202010,Outubro/2020,30-39,Masculino,Amarela,Superior incompleto,7,6,7,0,1,0,85.71,116.67,0.0,14.29,0.0
+202010,Outubro/2020,30-39,Masculino,Indígena,Pós-graduação,3,3,3,0,1,1,100.0,100.0,0.0,33.33,33.33
+202010,Outubro/2020,30-39,Masculino,Amarela,Superior completo,35,33,31,1,5,0,94.29,93.94,2.86,14.29,0.0
+202010,Outubro/2020,30-39,Masculino,Branca,Médio incompleto,759,606,605,12,62,12,79.84,99.83,1.58,8.17,1.58
+202010,Outubro/2020,30-39,Masculino,Amarela,Fundamental incompleto,24,15,15,1,3,0,62.5,100.0,4.17,12.5,0.0
+202010,Outubro/2020,30-39,Masculino,Preta,Médio incompleto,268,202,202,9,19,6,75.37,100.0,3.36,7.09,2.24
+202010,Outubro/2020,30-39,Masculino,Indígena,Médio incompleto,10,5,5,1,4,0,50.0,100.0,10.0,40.0,0.0
+202010,Outubro/2020,30-39,Masculino,Preta,Fundamental completo,217,155,163,7,18,7,71.43,105.16,3.23,8.29,3.23
+202010,Outubro/2020,30-39,Masculino,Preta,Superior incompleto,157,126,131,2,17,6,80.25,103.97,1.27,10.83,3.82
+202010,Outubro/2020,30-39,Masculino,Preta,Superior completo,284,226,238,5,17,7,79.58,105.31,1.76,5.99,2.46
+202010,Outubro/2020,30-39,Masculino,Preta,Médio completo,1025,807,833,36,81,17,78.73,103.22,3.51,7.9,1.66
+202010,Outubro/2020,30-39,Masculino,Branca,Superior incompleto,844,679,700,30,102,18,80.45,103.09,3.55,12.09,2.13
+202010,Outubro/2020,30-39,Masculino,Parda,Médio incompleto,1457,1096,1097,47,89,34,75.22,100.09,3.23,6.11,2.33
+202010,Outubro/2020,30-39,Masculino,Amarela,Médio completo,41,34,33,1,5,0,82.93,97.06,2.44,12.2,0.0
+202010,Outubro/2020,30-39,Masculino,Branca,Sem instrução,119,32,31,6,8,0,26.89,96.88,5.04,6.72,0.0
+202010,Outubro/2020,30-39,Masculino,Parda,Superior completo,1367,1151,1199,26,116,34,84.2,104.17,1.9,8.49,2.49
+202010,Outubro/2020,30-39,Masculino,Parda,Fundamental incompleto,3280,2221,2124,107,227,59,67.71,95.63,3.26,6.92,1.8
+202010,Outubro/2020,30-39,Masculino,Preta,Fundamental incompleto,520,369,371,19,35,11,70.96,100.54,3.65,6.73,2.12
+202010,Outubro/2020,30-39,Masculino,Ignorado,Médio completo,2,1,1,0,0,0,50.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,30-39,Masculino,Ignorado,Superior completo,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,30-39,Masculino,Ignorado,Médio incompleto,1,1,1,0,1,0,100.0,100.0,0.0,100.0,0.0
+202010,Outubro/2020,40-49,Feminino,Amarela,Pós-graduação,15,11,12,2,0,0,73.33,109.09,13.33,0.0,0.0
+202010,Outubro/2020,40-49,Feminino,Indígena,Fundamental completo,11,4,4,0,1,0,36.36,100.0,0.0,9.09,0.0
+202010,Outubro/2020,40-49,Feminino,Amarela,Médio completo,51,25,24,2,3,3,49.02,96.0,3.92,5.88,5.88
+202010,Outubro/2020,40-49,Feminino,Parda,Médio completo,4362,2200,2287,208,293,114,50.44,103.95,4.77,6.72,2.61
+202010,Outubro/2020,40-49,Feminino,Indígena,Fundamental incompleto,34,10,7,4,5,2,29.41,70.0,11.76,14.71,5.88
+202010,Outubro/2020,40-49,Feminino,Branca,Médio completo,3550,1996,2041,174,285,68,56.23,102.25,4.9,8.03,1.92
+202010,Outubro/2020,40-49,Feminino,Preta,Sem instrução,60,11,10,2,3,1,18.33,90.91,3.33,5.0,1.67
+202010,Outubro/2020,40-49,Feminino,Preta,Fundamental completo,216,100,105,12,9,3,46.3,105.0,5.56,4.17,1.39
+202010,Outubro/2020,40-49,Feminino,Branca,Superior completo,2548,1863,1970,145,208,67,73.12,105.74,5.69,8.16,2.63
+202010,Outubro/2020,40-49,Feminino,Parda,Pós-graduação,574,446,493,45,58,19,77.7,110.54,7.84,10.1,3.31
+202010,Outubro/2020,40-49,Feminino,Indígena,Superior incompleto,3,2,3,0,0,0,66.67,150.0,0.0,0.0,0.0
+202010,Outubro/2020,40-49,Feminino,Indígena,Médio incompleto,9,5,5,0,0,0,55.56,100.0,0.0,0.0,0.0
+202010,Outubro/2020,40-49,Feminino,Indígena,Superior completo,17,13,15,0,1,0,76.47,115.38,0.0,5.88,0.0
+202010,Outubro/2020,40-49,Feminino,Amarela,Médio incompleto,9,5,4,0,0,1,55.56,80.0,0.0,0.0,11.11
+202010,Outubro/2020,40-49,Feminino,Parda,Superior incompleto,459,267,283,39,54,14,58.17,105.99,8.5,11.76,3.05
+202010,Outubro/2020,40-49,Feminino,Indígena,Médio completo,25,13,14,0,0,1,52.0,107.69,0.0,0.0,4.0
+202010,Outubro/2020,40-49,Feminino,Preta,Superior incompleto,107,63,69,8,12,4,58.88,109.52,7.48,11.21,3.74
+202010,Outubro/2020,40-49,Feminino,Amarela,Superior completo,39,24,27,1,1,1,61.54,112.5,2.56,2.56,2.56
+202010,Outubro/2020,40-49,Feminino,Branca,Sem instrução,151,32,24,10,2,2,21.19,75.0,6.62,1.32,1.32
+202010,Outubro/2020,40-49,Feminino,Branca,Fundamental incompleto,2491,1083,950,111,156,54,43.48,87.72,4.46,6.26,2.17
+202010,Outubro/2020,40-49,Feminino,Branca,Pós-graduação,1140,963,1010,96,119,27,84.47,104.88,8.42,10.44,2.37
+202010,Outubro/2020,40-49,Feminino,Indígena,Sem instrução,4,2,2,0,0,0,50.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,40-49,Feminino,Parda,Médio incompleto,984,439,445,57,79,14,44.61,101.37,5.79,8.03,1.42
+202010,Outubro/2020,40-49,Feminino,Amarela,Fundamental completo,8,5,5,2,0,0,62.5,100.0,25.0,0.0,0.0
+202010,Outubro/2020,40-49,Feminino,Preta,Superior completo,364,261,289,13,27,9,71.7,110.73,3.57,7.42,2.47
+202010,Outubro/2020,40-49,Feminino,Amarela,Fundamental incompleto,46,16,16,4,3,1,34.78,100.0,8.7,6.52,2.17
+202010,Outubro/2020,40-49,Feminino,Parda,Fundamental completo,1156,496,500,43,71,33,42.91,100.81,3.72,6.14,2.85
+202010,Outubro/2020,40-49,Feminino,Branca,Médio incompleto,682,365,364,42,66,18,53.52,99.73,6.16,9.68,2.64
+202010,Outubro/2020,40-49,Feminino,Preta,Médio completo,810,437,468,53,58,20,53.95,107.09,6.54,7.16,2.47
+202010,Outubro/2020,40-49,Feminino,Parda,Superior completo,1674,1143,1265,102,161,44,68.28,110.67,6.09,9.62,2.63
+202010,Outubro/2020,40-49,Feminino,Parda,Sem instrução,404,93,66,14,21,10,23.02,70.97,3.47,5.2,2.48
+202010,Outubro/2020,40-49,Feminino,Preta,Médio incompleto,181,86,88,11,13,6,47.51,102.33,6.08,7.18,3.31
+202010,Outubro/2020,40-49,Feminino,Ignorado,Fundamental incompleto,3,2,2,0,1,0,66.67,100.0,0.0,33.33,0.0
+202010,Outubro/2020,40-49,Feminino,Parda,Fundamental incompleto,4418,1560,1405,223,278,114,35.31,90.06,5.05,6.29,2.58
+202010,Outubro/2020,40-49,Feminino,Branca,Superior incompleto,588,357,380,50,60,22,60.71,106.44,8.5,10.2,3.74
+202010,Outubro/2020,40-49,Feminino,Branca,Fundamental completo,971,506,485,34,62,26,52.11,95.85,3.5,6.39,2.68
+202010,Outubro/2020,40-49,Feminino,Preta,Pós-graduação,83,72,78,5,12,3,86.75,108.33,6.02,14.46,3.61
+202010,Outubro/2020,40-49,Feminino,Preta,Fundamental incompleto,707,291,280,41,51,17,41.16,96.22,5.8,7.21,2.4
+202010,Outubro/2020,40-49,Feminino,Ignorado,Pós-graduação,2,2,2,0,0,0,100.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,40-49,Feminino,Amarela,Superior incompleto,5,3,3,1,0,0,60.0,100.0,20.0,0.0,0.0
+202010,Outubro/2020,40-49,Feminino,Indígena,Pós-graduação,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,40-49,Feminino,Ignorado,Superior completo,2,1,1,0,0,0,50.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,40-49,Masculino,Indígena,Fundamental completo,13,10,10,0,0,0,76.92,100.0,0.0,0.0,0.0
+202010,Outubro/2020,40-49,Masculino,Parda,Fundamental completo,1195,892,894,16,67,27,74.64,100.22,1.34,5.61,2.26
+202010,Outubro/2020,40-49,Masculino,Amarela,Médio incompleto,15,9,9,1,1,0,60.0,100.0,6.67,6.67,0.0
+202010,Outubro/2020,40-49,Masculino,Indígena,Superior completo,9,8,8,0,2,0,88.89,100.0,0.0,22.22,0.0
+202010,Outubro/2020,40-49,Masculino,Preta,Superior completo,239,202,210,5,27,3,84.52,103.96,2.09,11.3,1.26
+202010,Outubro/2020,40-49,Masculino,Branca,Fundamental completo,885,721,730,14,48,17,81.47,101.25,1.58,5.42,1.92
+202010,Outubro/2020,40-49,Masculino,Amarela,Fundamental completo,10,9,9,0,1,0,90.0,100.0,0.0,10.0,0.0
+202010,Outubro/2020,40-49,Masculino,Branca,Fundamental incompleto,2612,2052,2023,45,166,54,78.56,98.59,1.72,6.36,2.07
+202010,Outubro/2020,40-49,Masculino,Branca,Médio incompleto,603,482,493,10,50,13,79.93,102.28,1.66,8.29,2.16
+202010,Outubro/2020,40-49,Masculino,Branca,Pós-graduação,640,581,596,11,63,15,90.78,102.58,1.72,9.84,2.34
+202010,Outubro/2020,40-49,Masculino,Parda,Médio incompleto,847,629,644,16,72,13,74.26,102.38,1.89,8.5,1.53
+202010,Outubro/2020,40-49,Masculino,Preta,Superior incompleto,81,70,70,0,8,0,86.42,100.0,0.0,9.88,0.0
+202010,Outubro/2020,40-49,Masculino,Amarela,Superior completo,23,18,19,0,2,0,78.26,105.56,0.0,8.7,0.0
+202010,Outubro/2020,40-49,Masculino,Preta,Sem instrução,123,74,70,3,8,2,60.16,94.59,2.44,6.5,1.63
+202010,Outubro/2020,40-49,Masculino,Preta,Médio completo,762,605,618,9,63,12,79.4,102.15,1.18,8.27,1.57
+202010,Outubro/2020,40-49,Masculino,Amarela,Sem instrução,5,3,2,1,0,1,60.0,66.67,20.0,0.0,20.0
+202010,Outubro/2020,40-49,Masculino,Amarela,Fundamental incompleto,31,17,17,1,3,0,54.84,100.0,3.23,9.68,0.0
+202010,Outubro/2020,40-49,Masculino,Indígena,Médio incompleto,8,7,7,0,1,0,87.5,100.0,0.0,12.5,0.0
+202010,Outubro/2020,40-49,Masculino,Preta,Pós-graduação,78,64,71,1,10,2,82.05,110.94,1.28,12.82,2.56
+202010,Outubro/2020,40-49,Masculino,Indígena,Pós-graduação,3,3,3,0,0,0,100.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,40-49,Masculino,Branca,Médio completo,2972,2446,2535,54,216,43,82.3,103.64,1.82,7.27,1.45
+202010,Outubro/2020,40-49,Masculino,Parda,Pós-graduação,322,282,290,8,30,9,87.58,102.84,2.48,9.32,2.8
+202010,Outubro/2020,40-49,Masculino,Preta,Fundamental incompleto,859,603,612,28,53,11,70.2,101.49,3.26,6.17,1.28
+202010,Outubro/2020,40-49,Masculino,Amarela,Médio completo,58,46,45,1,6,1,79.31,97.83,1.72,10.34,1.72
+202010,Outubro/2020,40-49,Masculino,Parda,Médio completo,3516,2736,2834,46,241,63,77.82,103.58,1.31,6.85,1.79
+202010,Outubro/2020,40-49,Masculino,Indígena,Sem instrução,5,4,4,0,0,1,80.0,100.0,0.0,0.0,20.0
+202010,Outubro/2020,40-49,Masculino,Branca,Superior completo,1594,1397,1445,22,142,31,87.64,103.44,1.38,8.91,1.94
+202010,Outubro/2020,40-49,Masculino,Indígena,Médio completo,24,21,22,1,3,0,87.5,104.76,4.17,12.5,0.0
+202010,Outubro/2020,40-49,Masculino,Indígena,Fundamental incompleto,30,24,23,1,5,1,80.0,95.83,3.33,16.67,3.33
+202010,Outubro/2020,40-49,Masculino,Parda,Sem instrução,633,329,295,9,32,13,51.97,89.67,1.42,5.06,2.05
+202010,Outubro/2020,40-49,Masculino,Amarela,Superior incompleto,8,6,6,0,0,0,75.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,40-49,Masculino,Parda,Superior incompleto,399,322,336,11,50,9,80.7,104.35,2.76,12.53,2.26
+202010,Outubro/2020,40-49,Masculino,Branca,Sem instrução,220,105,92,8,14,5,47.73,87.62,3.64,6.36,2.27
+202010,Outubro/2020,40-49,Masculino,Branca,Superior incompleto,482,403,423,7,60,13,83.61,104.96,1.45,12.45,2.7
+202010,Outubro/2020,40-49,Masculino,Parda,Superior completo,1035,889,931,18,100,29,85.89,104.72,1.74,9.66,2.8
+202010,Outubro/2020,40-49,Masculino,Amarela,Pós-graduação,15,13,13,0,1,1,86.67,100.0,0.0,6.67,6.67
+202010,Outubro/2020,40-49,Masculino,Preta,Fundamental completo,213,156,160,8,14,2,73.24,102.56,3.76,6.57,0.94
+202010,Outubro/2020,40-49,Masculino,Preta,Médio incompleto,174,125,129,4,11,2,71.84,103.2,2.3,6.32,1.15
+202010,Outubro/2020,40-49,Masculino,Parda,Fundamental incompleto,4673,3316,3239,107,300,100,70.96,97.68,2.29,6.42,2.14
+202010,Outubro/2020,40-49,Masculino,Ignorado,Fundamental incompleto,1,1,1,1,0,0,100.0,100.0,100.0,0.0,0.0
+202010,Outubro/2020,40-49,Masculino,Ignorado,Médio completo,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,40-49,Masculino,Ignorado,Sem instrução,3,2,2,1,0,0,66.67,100.0,33.33,0.0,0.0
+202010,Outubro/2020,40-49,Masculino,Indígena,Superior incompleto,2,2,2,0,0,1,100.0,100.0,0.0,0.0,50.0
+202010,Outubro/2020,40-49,Masculino,Ignorado,Superior completo,1,0,0,0,1,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,40-49,Masculino,Ignorado,Pós-graduação,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,50-59,Feminino,Parda,Médio completo,2807,1190,1295,107,226,84,42.39,108.82,3.81,8.05,2.99
+202010,Outubro/2020,50-59,Feminino,Branca,Fundamental completo,1331,509,486,44,119,28,38.24,95.48,3.31,8.94,2.1
+202010,Outubro/2020,50-59,Feminino,Amarela,Superior completo,39,25,23,1,2,0,64.1,92.0,2.56,5.13,0.0
+202010,Outubro/2020,50-59,Feminino,Amarela,Médio incompleto,11,6,6,0,1,0,54.55,100.0,0.0,9.09,0.0
+202010,Outubro/2020,50-59,Feminino,Branca,Médio incompleto,583,225,228,25,60,12,38.59,101.33,4.29,10.29,2.06
+202010,Outubro/2020,50-59,Feminino,Parda,Sem instrução,867,142,104,38,55,28,16.38,73.24,4.38,6.34,3.23
+202010,Outubro/2020,50-59,Feminino,Preta,Superior incompleto,54,33,36,3,11,2,61.11,109.09,5.56,20.37,3.7
+202010,Outubro/2020,50-59,Feminino,Parda,Fundamental completo,1193,401,408,44,72,29,33.61,101.75,3.69,6.04,2.43
+202010,Outubro/2020,50-59,Feminino,Branca,Médio completo,3133,1412,1492,120,244,72,45.07,105.67,3.83,7.79,2.3
+202010,Outubro/2020,50-59,Feminino,Amarela,Médio completo,22,10,10,3,3,1,45.45,100.0,13.64,13.64,4.55
+202010,Outubro/2020,50-59,Feminino,Branca,Superior incompleto,347,182,198,13,31,14,52.45,108.79,3.75,8.93,4.03
+202010,Outubro/2020,50-59,Feminino,Indígena,Médio completo,19,11,12,1,1,0,57.89,109.09,5.26,5.26,0.0
+202010,Outubro/2020,50-59,Feminino,Amarela,Fundamental incompleto,22,9,10,1,0,0,40.91,111.11,4.55,0.0,0.0
+202010,Outubro/2020,50-59,Feminino,Branca,Superior completo,2106,1222,1337,104,184,39,58.02,109.41,4.94,8.74,1.85
+202010,Outubro/2020,50-59,Feminino,Parda,Fundamental incompleto,4978,1461,1306,187,328,120,29.35,89.39,3.76,6.59,2.41
+202010,Outubro/2020,50-59,Feminino,Preta,Pós-graduação,80,54,63,4,7,0,67.5,116.67,5.0,8.75,0.0
+202010,Outubro/2020,50-59,Feminino,Parda,Médio incompleto,698,235,229,35,61,15,33.67,97.45,5.01,8.74,2.15
+202010,Outubro/2020,50-59,Feminino,Indígena,Superior incompleto,4,2,3,0,0,0,50.0,150.0,0.0,0.0,0.0
+202010,Outubro/2020,50-59,Feminino,Indígena,Fundamental incompleto,26,6,6,2,3,1,23.08,100.0,7.69,11.54,3.85
+202010,Outubro/2020,50-59,Feminino,Branca,Pós-graduação,788,532,562,27,75,19,67.51,105.64,3.43,9.52,2.41
+202010,Outubro/2020,50-59,Feminino,Parda,Superior completo,1138,653,752,41,105,40,57.38,115.16,3.6,9.23,3.51
+202010,Outubro/2020,50-59,Feminino,Branca,Sem instrução,345,61,46,17,23,12,17.68,75.41,4.93,6.67,3.48
+202010,Outubro/2020,50-59,Feminino,Amarela,Fundamental completo,8,3,3,1,1,0,37.5,100.0,12.5,12.5,0.0
+202010,Outubro/2020,50-59,Feminino,Preta,Médio completo,581,253,288,25,50,17,43.55,113.83,4.3,8.61,2.93
+202010,Outubro/2020,50-59,Feminino,Preta,Fundamental incompleto,896,290,279,41,56,24,32.37,96.21,4.58,6.25,2.68
+202010,Outubro/2020,50-59,Feminino,Preta,Médio incompleto,120,41,44,6,11,4,34.17,107.32,5.0,9.17,3.33
+202010,Outubro/2020,50-59,Feminino,Ignorado,Sem instrução,3,1,1,0,0,0,33.33,100.0,0.0,0.0,0.0
+202010,Outubro/2020,50-59,Feminino,Preta,Fundamental completo,263,83,89,4,14,8,31.56,107.23,1.52,5.32,3.04
+202010,Outubro/2020,50-59,Feminino,Indígena,Médio incompleto,6,2,2,0,2,1,33.33,100.0,0.0,33.33,16.67
+202010,Outubro/2020,50-59,Feminino,Indígena,Sem instrução,8,0,0,0,1,1,0.0,0.0,0.0,12.5,12.5
+202010,Outubro/2020,50-59,Feminino,Indígena,Superior completo,12,9,9,0,2,0,75.0,100.0,0.0,16.67,0.0
+202010,Outubro/2020,50-59,Feminino,Parda,Pós-graduação,436,272,311,14,50,14,62.39,114.34,3.21,11.47,3.21
+202010,Outubro/2020,50-59,Feminino,Amarela,Pós-graduação,8,7,7,0,0,0,87.5,100.0,0.0,0.0,0.0
+202010,Outubro/2020,50-59,Feminino,Preta,Superior completo,224,126,147,10,26,3,56.25,116.67,4.46,11.61,1.34
+202010,Outubro/2020,50-59,Feminino,Amarela,Sem instrução,5,0,0,0,1,0,0.0,0.0,0.0,20.0,0.0
+202010,Outubro/2020,50-59,Feminino,Amarela,Superior incompleto,7,4,3,1,1,0,57.14,75.0,14.29,14.29,0.0
+202010,Outubro/2020,50-59,Feminino,Parda,Superior incompleto,204,93,103,12,23,9,45.59,110.75,5.88,11.27,4.41
+202010,Outubro/2020,50-59,Feminino,Preta,Sem instrução,131,30,20,8,9,1,22.9,66.67,6.11,6.87,0.76
+202010,Outubro/2020,50-59,Feminino,Branca,Fundamental incompleto,3540,1283,1096,125,254,71,36.24,85.42,3.53,7.18,2.01
+202010,Outubro/2020,50-59,Feminino,Indígena,Fundamental completo,17,5,6,0,1,0,29.41,120.0,0.0,5.88,0.0
+202010,Outubro/2020,50-59,Feminino,Ignorado,Superior completo,1,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,50-59,Feminino,Indígena,Pós-graduação,5,4,4,0,0,1,80.0,100.0,0.0,0.0,20.0
+202010,Outubro/2020,50-59,Masculino,Branca,Superior completo,1327,1026,1072,24,107,25,77.32,104.48,1.81,8.06,1.88
+202010,Outubro/2020,50-59,Masculino,Parda,Médio completo,2258,1495,1591,43,190,51,66.21,106.42,1.9,8.41,2.26
+202010,Outubro/2020,50-59,Masculino,Branca,Médio completo,2528,1747,1825,42,213,39,69.11,104.46,1.66,8.43,1.54
+202010,Outubro/2020,50-59,Masculino,Amarela,Médio completo,23,16,19,1,2,0,69.57,118.75,4.35,8.7,0.0
+202010,Outubro/2020,50-59,Masculino,Branca,Fundamental completo,1093,761,785,15,82,14,69.62,103.15,1.37,7.5,1.28
+202010,Outubro/2020,50-59,Masculino,Preta,Médio completo,499,323,340,7,47,18,64.73,105.26,1.4,9.42,3.61
+202010,Outubro/2020,50-59,Masculino,Indígena,Fundamental incompleto,35,20,18,2,1,1,57.14,90.0,5.71,2.86,2.86
+202010,Outubro/2020,50-59,Masculino,Parda,Superior completo,618,455,491,13,51,9,73.62,107.91,2.1,8.25,1.46
+202010,Outubro/2020,50-59,Masculino,Indígena,Pós-graduação,3,3,3,0,0,0,100.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,50-59,Masculino,Parda,Fundamental completo,1088,707,743,19,90,12,64.98,105.09,1.75,8.27,1.1
+202010,Outubro/2020,50-59,Masculino,Amarela,Fundamental completo,6,4,4,0,0,0,66.67,100.0,0.0,0.0,0.0
+202010,Outubro/2020,50-59,Masculino,Indígena,Fundamental completo,9,6,6,0,0,0,66.67,100.0,0.0,0.0,0.0
+202010,Outubro/2020,50-59,Masculino,Ignorado,Sem instrução,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,50-59,Masculino,Parda,Superior incompleto,184,130,142,4,12,2,70.65,109.23,2.17,6.52,1.09
+202010,Outubro/2020,50-59,Masculino,Preta,Superior incompleto,40,26,27,2,2,1,65.0,103.85,5.0,5.0,2.5
+202010,Outubro/2020,50-59,Masculino,Ignorado,Fundamental incompleto,2,1,1,0,1,0,50.0,100.0,0.0,50.0,0.0
+202010,Outubro/2020,50-59,Masculino,Preta,Sem instrução,178,85,76,4,10,2,47.75,89.41,2.25,5.62,1.12
+202010,Outubro/2020,50-59,Masculino,Indígena,Médio completo,18,13,14,1,1,0,72.22,107.69,5.56,5.56,0.0
+202010,Outubro/2020,50-59,Masculino,Preta,Médio incompleto,142,98,103,7,14,1,69.01,105.1,4.93,9.86,0.7
+202010,Outubro/2020,50-59,Masculino,Amarela,Superior completo,32,26,27,0,4,0,81.25,103.85,0.0,12.5,0.0
+202010,Outubro/2020,50-59,Masculino,Branca,Fundamental incompleto,3312,2297,2282,56,237,55,69.35,99.35,1.69,7.16,1.66
+202010,Outubro/2020,50-59,Masculino,Indígena,Médio incompleto,3,3,3,0,0,0,100.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,50-59,Masculino,Preta,Fundamental incompleto,916,587,584,29,56,11,64.08,99.49,3.17,6.11,1.2
+202010,Outubro/2020,50-59,Masculino,Parda,Médio incompleto,657,431,446,9,52,12,65.6,103.48,1.37,7.91,1.83
+202010,Outubro/2020,50-59,Masculino,Parda,Pós-graduação,205,165,180,3,19,3,80.49,109.09,1.46,9.27,1.46
+202010,Outubro/2020,50-59,Masculino,Amarela,Fundamental incompleto,28,16,18,1,0,0,57.14,112.5,3.57,0.0,0.0
+202010,Outubro/2020,50-59,Masculino,Parda,Fundamental incompleto,4757,3030,2907,110,272,80,63.7,95.94,2.31,5.72,1.68
+202010,Outubro/2020,50-59,Masculino,Preta,Fundamental completo,238,145,150,7,19,3,60.92,103.45,2.94,7.98,1.26
+202010,Outubro/2020,50-59,Masculino,Indígena,Superior completo,5,4,4,0,0,0,80.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,50-59,Masculino,Parda,Sem instrução,956,478,427,26,67,13,50.0,89.33,2.72,7.01,1.36
+202010,Outubro/2020,50-59,Masculino,Branca,Médio incompleto,567,387,401,14,45,8,68.25,103.62,2.47,7.94,1.41
+202010,Outubro/2020,50-59,Masculino,Indígena,Sem instrução,10,5,5,0,2,1,50.0,100.0,0.0,20.0,10.0
+202010,Outubro/2020,50-59,Masculino,Branca,Sem instrução,337,155,139,9,19,7,45.99,89.68,2.67,5.64,2.08
+202010,Outubro/2020,50-59,Masculino,Amarela,Sem instrução,5,3,2,1,0,0,60.0,66.67,20.0,0.0,0.0
+202010,Outubro/2020,50-59,Masculino,Preta,Superior completo,121,77,89,3,13,2,63.64,115.58,2.48,10.74,1.65
+202010,Outubro/2020,50-59,Masculino,Amarela,Pós-graduação,4,3,3,0,0,0,75.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,50-59,Masculino,Branca,Superior incompleto,377,283,294,14,43,6,75.07,103.89,3.71,11.41,1.59
+202010,Outubro/2020,50-59,Masculino,Branca,Pós-graduação,478,388,401,12,37,9,81.17,103.35,2.51,7.74,1.88
+202010,Outubro/2020,50-59,Masculino,Preta,Pós-graduação,28,22,22,0,5,0,78.57,100.0,0.0,17.86,0.0
+202010,Outubro/2020,50-59,Masculino,Indígena,Superior incompleto,5,5,5,0,0,0,100.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,50-59,Masculino,Amarela,Médio incompleto,4,2,2,0,0,0,50.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,50-59,Masculino,Ignorado,Médio completo,1,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,60-69,Feminino,Preta,Superior completo,113,24,29,6,14,2,21.24,120.83,5.31,12.39,1.77
+202010,Outubro/2020,60-69,Feminino,Preta,Médio incompleto,60,10,13,4,7,2,16.67,130.0,6.67,11.67,3.33
+202010,Outubro/2020,60-69,Feminino,Indígena,Médio incompleto,4,0,0,0,1,0,0.0,0.0,0.0,25.0,0.0
+202010,Outubro/2020,60-69,Feminino,Parda,Sem instrução,1202,101,66,39,77,29,8.4,65.35,3.24,6.41,2.41
+202010,Outubro/2020,60-69,Feminino,Parda,Fundamental completo,910,95,111,30,80,15,10.44,116.84,3.3,8.79,1.65
+202010,Outubro/2020,60-69,Feminino,Parda,Médio incompleto,381,62,70,14,26,11,16.27,112.9,3.67,6.82,2.89
+202010,Outubro/2020,60-69,Feminino,Branca,Superior incompleto,257,66,68,7,28,5,25.68,103.03,2.72,10.89,1.95
+202010,Outubro/2020,60-69,Feminino,Branca,Fundamental completo,1122,174,172,30,86,26,15.51,98.85,2.67,7.66,2.32
+202010,Outubro/2020,60-69,Feminino,Amarela,Fundamental completo,18,3,3,2,1,0,16.67,100.0,11.11,5.56,0.0
+202010,Outubro/2020,60-69,Feminino,Parda,Pós-graduação,172,52,64,4,24,9,30.23,123.08,2.33,13.95,5.23
+202010,Outubro/2020,60-69,Feminino,Indígena,Fundamental completo,7,1,1,0,1,2,14.29,100.0,0.0,14.29,28.57
+202010,Outubro/2020,60-69,Feminino,Indígena,Pós-graduação,2,1,1,0,1,0,50.0,100.0,0.0,50.0,0.0
+202010,Outubro/2020,60-69,Feminino,Branca,Médio completo,2010,377,412,64,147,48,18.76,109.28,3.18,7.31,2.39
+202010,Outubro/2020,60-69,Feminino,Preta,Superior incompleto,22,5,9,0,1,0,22.73,180.0,0.0,4.55,0.0
+202010,Outubro/2020,60-69,Feminino,Indígena,Fundamental incompleto,28,1,2,0,3,3,3.57,200.0,0.0,10.71,10.71
+202010,Outubro/2020,60-69,Feminino,Branca,Superior completo,1486,397,428,44,110,32,26.72,107.81,2.96,7.4,2.15
+202010,Outubro/2020,60-69,Feminino,Amarela,Médio completo,31,12,9,1,2,2,38.71,75.0,3.23,6.45,6.45
+202010,Outubro/2020,60-69,Feminino,Parda,Superior completo,588,149,183,20,57,17,25.34,122.82,3.4,9.69,2.89
+202010,Outubro/2020,60-69,Feminino,Amarela,Superior completo,24,4,5,0,0,0,16.67,125.0,0.0,0.0,0.0
+202010,Outubro/2020,60-69,Feminino,Parda,Superior incompleto,84,15,18,3,11,1,17.86,120.0,3.57,13.1,1.19
+202010,Outubro/2020,60-69,Feminino,Indígena,Sem instrução,16,2,1,0,2,0,12.5,50.0,0.0,12.5,0.0
+202010,Outubro/2020,60-69,Feminino,Branca,Pós-graduação,403,154,169,14,35,10,38.21,109.74,3.47,8.68,2.48
+202010,Outubro/2020,60-69,Feminino,Branca,Fundamental incompleto,3560,534,439,112,246,89,15.0,82.21,3.15,6.91,2.5
+202010,Outubro/2020,60-69,Feminino,Preta,Fundamental completo,183,23,27,4,15,3,12.57,117.39,2.19,8.2,1.64
+202010,Outubro/2020,60-69,Feminino,Indígena,Superior completo,4,1,2,1,1,0,25.0,200.0,25.0,25.0,0.0
+202010,Outubro/2020,60-69,Feminino,Indígena,Médio completo,13,1,2,0,3,0,7.69,200.0,0.0,23.08,0.0
+202010,Outubro/2020,60-69,Feminino,Amarela,Sem instrução,7,1,0,0,0,0,14.29,0.0,0.0,0.0,0.0
+202010,Outubro/2020,60-69,Feminino,Branca,Sem instrução,490,28,18,15,35,14,5.71,64.29,3.06,7.14,2.86
+202010,Outubro/2020,60-69,Feminino,Preta,Fundamental incompleto,676,93,89,33,68,22,13.76,95.7,4.88,10.06,3.25
+202010,Outubro/2020,60-69,Feminino,Branca,Médio incompleto,365,58,58,14,33,4,15.89,100.0,3.84,9.04,1.1
+202010,Outubro/2020,60-69,Feminino,Parda,Médio completo,1448,248,297,67,132,38,17.13,119.76,4.63,9.12,2.62
+202010,Outubro/2020,60-69,Feminino,Amarela,Fundamental incompleto,36,3,3,2,2,0,8.33,100.0,5.56,5.56,0.0
+202010,Outubro/2020,60-69,Feminino,Preta,Sem instrução,242,18,15,8,23,4,7.44,83.33,3.31,9.5,1.65
+202010,Outubro/2020,60-69,Feminino,Preta,Pós-graduação,33,11,14,0,3,0,33.33,127.27,0.0,9.09,0.0
+202010,Outubro/2020,60-69,Feminino,Parda,Fundamental incompleto,3911,451,358,154,320,90,11.53,79.38,3.94,8.18,2.3
+202010,Outubro/2020,60-69,Feminino,Preta,Médio completo,320,65,76,14,33,5,20.31,116.92,4.38,10.31,1.56
+202010,Outubro/2020,60-69,Feminino,Ignorado,Fundamental incompleto,3,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,60-69,Feminino,Amarela,Superior incompleto,4,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,60-69,Feminino,Amarela,Pós-graduação,5,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,60-69,Feminino,Ignorado,Superior completo,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,60-69,Feminino,Indígena,Superior incompleto,3,1,1,0,1,0,33.33,100.0,0.0,33.33,0.0
+202010,Outubro/2020,60-69,Feminino,Amarela,Médio incompleto,3,0,0,0,1,0,0.0,0.0,0.0,33.33,0.0
+202010,Outubro/2020,60-69,Masculino,Parda,Superior incompleto,97,38,43,2,17,0,39.18,113.16,2.06,17.53,0.0
+202010,Outubro/2020,60-69,Masculino,Branca,Superior incompleto,269,120,133,4,25,7,44.61,110.83,1.49,9.29,2.6
+202010,Outubro/2020,60-69,Masculino,Ignorado,Sem instrução,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,60-69,Masculino,Parda,Médio incompleto,327,117,117,6,21,8,35.78,100.0,1.83,6.42,2.45
+202010,Outubro/2020,60-69,Masculino,Branca,Fundamental completo,908,337,355,14,65,23,37.11,105.34,1.54,7.16,2.53
+202010,Outubro/2020,60-69,Masculino,Indígena,Fundamental incompleto,27,10,9,0,4,0,37.04,90.0,0.0,14.81,0.0
+202010,Outubro/2020,60-69,Masculino,Parda,Fundamental incompleto,3475,1246,1165,80,284,75,35.86,93.5,2.3,8.17,2.16
+202010,Outubro/2020,60-69,Masculino,Indígena,Médio incompleto,2,0,0,0,1,0,0.0,0.0,0.0,50.0,0.0
+202010,Outubro/2020,60-69,Masculino,Branca,Sem instrução,399,127,95,11,34,6,31.83,74.8,2.76,8.52,1.5
+202010,Outubro/2020,60-69,Masculino,Parda,Médio completo,1126,409,461,27,109,18,36.32,112.71,2.4,9.68,1.6
+202010,Outubro/2020,60-69,Masculino,Branca,Pós-graduação,287,161,173,2,21,3,56.1,107.45,0.7,7.32,1.05
+202010,Outubro/2020,60-69,Masculino,Indígena,Superior completo,3,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,60-69,Masculino,Amarela,Fundamental incompleto,26,9,9,0,0,0,34.62,100.0,0.0,0.0,0.0
+202010,Outubro/2020,60-69,Masculino,Parda,Superior completo,363,170,199,5,36,5,46.83,117.06,1.38,9.92,1.38
+202010,Outubro/2020,60-69,Masculino,Indígena,Sem instrução,7,2,2,0,1,0,28.57,100.0,0.0,14.29,0.0
+202010,Outubro/2020,60-69,Masculino,Preta,Fundamental incompleto,657,221,213,22,45,17,33.64,96.38,3.35,6.85,2.59
+202010,Outubro/2020,60-69,Masculino,Preta,Sem instrução,249,79,62,4,22,7,31.73,78.48,1.61,8.84,2.81
+202010,Outubro/2020,60-69,Masculino,Amarela,Médio completo,30,16,16,0,2,0,53.33,100.0,0.0,6.67,0.0
+202010,Outubro/2020,60-69,Masculino,Branca,Médio incompleto,323,122,132,6,30,12,37.77,108.2,1.86,9.29,3.72
+202010,Outubro/2020,60-69,Masculino,Parda,Sem instrução,1121,341,246,23,77,17,30.42,72.14,2.05,6.87,1.52
+202010,Outubro/2020,60-69,Masculino,Branca,Superior completo,1095,539,576,18,67,17,49.22,106.86,1.64,6.12,1.55
+202010,Outubro/2020,60-69,Masculino,Preta,Médio completo,229,76,85,6,17,1,33.19,111.84,2.62,7.42,0.44
+202010,Outubro/2020,60-69,Masculino,Amarela,Superior completo,27,8,8,0,1,0,29.63,100.0,0.0,3.7,0.0
+202010,Outubro/2020,60-69,Masculino,Branca,Fundamental incompleto,3060,1166,1132,60,216,67,38.1,97.08,1.96,7.06,2.19
+202010,Outubro/2020,60-69,Masculino,Amarela,Sem instrução,2,1,1,0,0,0,50.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,60-69,Masculino,Preta,Superior completo,94,37,41,1,10,0,39.36,110.81,1.06,10.64,0.0
+202010,Outubro/2020,60-69,Masculino,Indígena,Médio completo,7,3,2,0,1,0,42.86,66.67,0.0,14.29,0.0
+202010,Outubro/2020,60-69,Masculino,Preta,Médio incompleto,58,16,17,1,7,1,27.59,106.25,1.72,12.07,1.72
+202010,Outubro/2020,60-69,Masculino,Amarela,Fundamental completo,6,2,2,0,1,0,33.33,100.0,0.0,16.67,0.0
+202010,Outubro/2020,60-69,Masculino,Parda,Pós-graduação,93,44,49,3,12,1,47.31,111.36,3.23,12.9,1.08
+202010,Outubro/2020,60-69,Masculino,Indígena,Fundamental completo,5,2,2,0,0,0,40.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,60-69,Masculino,Branca,Médio completo,1626,608,668,38,131,37,37.39,109.87,2.34,8.06,2.28
+202010,Outubro/2020,60-69,Masculino,Preta,Fundamental completo,173,63,68,0,19,4,36.42,107.94,0.0,10.98,2.31
+202010,Outubro/2020,60-69,Masculino,Parda,Fundamental completo,754,269,276,16,61,17,35.68,102.6,2.12,8.09,2.25
+202010,Outubro/2020,60-69,Masculino,Preta,Superior incompleto,27,15,15,1,4,0,55.56,100.0,3.7,14.81,0.0
+202010,Outubro/2020,60-69,Masculino,Preta,Pós-graduação,14,6,7,2,0,0,42.86,116.67,14.29,0.0,0.0
+202010,Outubro/2020,60-69,Masculino,Indígena,Pós-graduação,3,2,2,0,0,0,66.67,100.0,0.0,0.0,0.0
+202010,Outubro/2020,60-69,Masculino,Ignorado,Médio completo,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,60-69,Masculino,Amarela,Superior incompleto,5,1,1,0,0,0,20.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,60-69,Masculino,Amarela,Médio incompleto,3,3,3,0,0,0,100.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,60-69,Masculino,Amarela,Pós-graduação,4,3,3,0,2,0,75.0,100.0,0.0,50.0,0.0
+202010,Outubro/2020,60-69,Masculino,Ignorado,Fundamental incompleto,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,60-69,Masculino,Ignorado,Superior completo,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,60-69,Masculino,Indígena,Superior incompleto,1,0,0,0,1,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,70+,Feminino,Indígena,Médio completo,7,0,0,1,0,0,0.0,0.0,14.29,0.0,0.0
+202010,Outubro/2020,70+,Feminino,Parda,Fundamental completo,586,10,8,22,32,16,1.71,80.0,3.75,5.46,2.73
+202010,Outubro/2020,70+,Feminino,Branca,Superior incompleto,89,2,2,4,6,3,2.25,100.0,4.49,6.74,3.37
+202010,Outubro/2020,70+,Feminino,Preta,Pós-graduação,7,1,1,0,1,0,14.29,100.0,0.0,14.29,0.0
+202010,Outubro/2020,70+,Feminino,Amarela,Fundamental incompleto,47,1,2,3,1,0,2.13,200.0,6.38,2.13,0.0
+202010,Outubro/2020,70+,Feminino,Branca,Médio completo,1314,60,56,66,67,24,4.57,93.33,5.02,5.1,1.83
+202010,Outubro/2020,70+,Feminino,Branca,Médio incompleto,232,10,8,12,16,2,4.31,80.0,5.17,6.9,0.86
+202010,Outubro/2020,70+,Feminino,Preta,Médio completo,101,4,5,5,7,3,3.96,125.0,4.95,6.93,2.97
+202010,Outubro/2020,70+,Feminino,Amarela,Médio incompleto,5,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,70+,Feminino,Parda,Superior incompleto,34,3,4,2,2,3,8.82,133.33,5.88,5.88,8.82
+202010,Outubro/2020,70+,Feminino,Preta,Fundamental incompleto,478,13,9,19,29,10,2.72,69.23,3.97,6.07,2.09
+202010,Outubro/2020,70+,Feminino,Indígena,Fundamental incompleto,21,0,0,0,2,0,0.0,0.0,0.0,9.52,0.0
+202010,Outubro/2020,70+,Feminino,Branca,Sem instrução,1247,18,9,39,68,23,1.44,50.0,3.13,5.45,1.84
+202010,Outubro/2020,70+,Feminino,Indígena,Sem instrução,19,0,0,2,0,0,0.0,0.0,10.53,0.0,0.0
+202010,Outubro/2020,70+,Feminino,Branca,Fundamental incompleto,3939,151,93,119,185,79,3.83,61.59,3.02,4.7,2.01
+202010,Outubro/2020,70+,Feminino,Preta,Fundamental completo,126,4,4,5,8,2,3.17,100.0,3.97,6.35,1.59
+202010,Outubro/2020,70+,Feminino,Parda,Médio completo,565,13,17,12,42,17,2.3,130.77,2.12,7.43,3.01
+202010,Outubro/2020,70+,Feminino,Parda,Superior completo,267,17,17,8,10,9,6.37,100.0,3.0,3.75,3.37
+202010,Outubro/2020,70+,Feminino,Branca,Pós-graduação,162,25,29,11,8,6,15.43,116.0,6.79,4.94,3.7
+202010,Outubro/2020,70+,Feminino,Preta,Sem instrução,375,7,6,15,22,8,1.87,85.71,4.0,5.87,2.13
+202010,Outubro/2020,70+,Feminino,Branca,Fundamental completo,1233,38,32,57,56,26,3.08,84.21,4.62,4.54,2.11
+202010,Outubro/2020,70+,Feminino,Parda,Pós-graduação,39,2,4,0,3,0,5.13,200.0,0.0,7.69,0.0
+202010,Outubro/2020,70+,Feminino,Amarela,Fundamental completo,16,0,0,1,1,0,0.0,0.0,6.25,6.25,0.0
+202010,Outubro/2020,70+,Feminino,Preta,Superior completo,37,2,3,2,4,1,5.41,150.0,5.41,10.81,2.7
+202010,Outubro/2020,70+,Feminino,Parda,Sem instrução,2002,27,8,52,94,55,1.35,29.63,2.6,4.7,2.75
+202010,Outubro/2020,70+,Feminino,Parda,Médio incompleto,110,7,4,3,8,2,6.36,57.14,2.73,7.27,1.82
+202010,Outubro/2020,70+,Feminino,Branca,Superior completo,881,52,55,29,34,19,5.9,105.77,3.29,3.86,2.16
+202010,Outubro/2020,70+,Feminino,Indígena,Fundamental completo,5,1,1,0,1,0,20.0,100.0,0.0,20.0,0.0
+202010,Outubro/2020,70+,Feminino,Amarela,Médio completo,29,0,0,1,1,0,0.0,0.0,3.45,3.45,0.0
+202010,Outubro/2020,70+,Feminino,Amarela,Sem instrução,21,0,0,1,2,0,0.0,0.0,4.76,9.52,0.0
+202010,Outubro/2020,70+,Feminino,Amarela,Superior completo,23,2,2,0,0,1,8.7,100.0,0.0,0.0,4.35
+202010,Outubro/2020,70+,Feminino,Preta,Médio incompleto,37,0,0,1,2,1,0.0,0.0,2.7,5.41,2.7
+202010,Outubro/2020,70+,Feminino,Parda,Fundamental incompleto,2842,86,57,92,137,72,3.03,66.28,3.24,4.82,2.53
+202010,Outubro/2020,70+,Feminino,Preta,Superior incompleto,2,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,70+,Feminino,Ignorado,Fundamental incompleto,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,70+,Feminino,Amarela,Superior incompleto,3,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,70+,Feminino,Indígena,Médio incompleto,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,70+,Masculino,Parda,Fundamental incompleto,2421,296,224,40,156,65,12.23,75.68,1.65,6.44,2.68
+202010,Outubro/2020,70+,Masculino,Amarela,Sem instrução,12,2,2,0,1,0,16.67,100.0,0.0,8.33,0.0
+202010,Outubro/2020,70+,Masculino,Preta,Médio completo,99,9,10,2,4,1,9.09,111.11,2.02,4.04,1.01
+202010,Outubro/2020,70+,Masculino,Indígena,Médio incompleto,2,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,70+,Masculino,Indígena,Fundamental incompleto,11,1,1,0,0,0,9.09,100.0,0.0,0.0,0.0
+202010,Outubro/2020,70+,Masculino,Preta,Médio incompleto,33,4,4,1,3,1,12.12,100.0,3.03,9.09,3.03
+202010,Outubro/2020,70+,Masculino,Preta,Fundamental completo,92,4,4,2,7,2,4.35,100.0,2.17,7.61,2.17
+202010,Outubro/2020,70+,Masculino,Parda,Médio incompleto,111,16,14,4,7,3,14.41,87.5,3.6,6.31,2.7
+202010,Outubro/2020,70+,Masculino,Branca,Médio incompleto,163,20,18,6,9,5,12.27,90.0,3.68,5.52,3.07
+202010,Outubro/2020,70+,Masculino,Indígena,Sem instrução,5,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,70+,Masculino,Amarela,Médio completo,22,4,4,1,2,0,18.18,100.0,4.55,9.09,0.0
+202010,Outubro/2020,70+,Masculino,Branca,Superior completo,773,170,183,17,37,7,21.99,107.65,2.2,4.79,0.91
+202010,Outubro/2020,70+,Masculino,Amarela,Fundamental completo,20,2,2,1,0,0,10.0,100.0,5.0,0.0,0.0
+202010,Outubro/2020,70+,Masculino,Preta,Fundamental incompleto,433,41,36,12,22,9,9.47,87.8,2.77,5.08,2.08
+202010,Outubro/2020,70+,Masculino,Parda,Médio completo,473,49,50,15,32,9,10.36,102.04,3.17,6.77,1.9
+202010,Outubro/2020,70+,Masculino,Preta,Pós-graduação,6,1,1,0,1,0,16.67,100.0,0.0,16.67,0.0
+202010,Outubro/2020,70+,Masculino,Parda,Fundamental completo,471,58,54,11,27,7,12.31,93.1,2.34,5.73,1.49
+202010,Outubro/2020,70+,Masculino,Indígena,Médio completo,4,2,2,0,1,0,50.0,100.0,0.0,25.0,0.0
+202010,Outubro/2020,70+,Masculino,Branca,Fundamental incompleto,2939,401,333,68,150,59,13.64,83.04,2.31,5.1,2.01
+202010,Outubro/2020,70+,Masculino,Branca,Pós-graduação,148,44,45,5,5,2,29.73,102.27,3.38,3.38,1.35
+202010,Outubro/2020,70+,Masculino,Preta,Sem instrução,320,21,9,7,18,7,6.56,42.86,2.19,5.63,2.19
+202010,Outubro/2020,70+,Masculino,Amarela,Superior completo,27,2,2,0,1,0,7.41,100.0,0.0,3.7,0.0
+202010,Outubro/2020,70+,Masculino,Branca,Superior incompleto,112,16,17,1,8,3,14.29,106.25,0.89,7.14,2.68
+202010,Outubro/2020,70+,Masculino,Parda,Superior completo,176,24,27,2,11,6,13.64,112.5,1.14,6.25,3.41
+202010,Outubro/2020,70+,Masculino,Parda,Superior incompleto,35,7,7,0,0,0,20.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,70+,Masculino,Branca,Sem instrução,792,63,39,15,41,24,7.95,61.9,1.89,5.18,3.03
+202010,Outubro/2020,70+,Masculino,Branca,Médio completo,830,88,93,18,48,17,10.6,105.68,2.17,5.78,2.05
+202010,Outubro/2020,70+,Masculino,Preta,Superior completo,24,3,4,0,2,0,12.5,133.33,0.0,8.33,0.0
+202010,Outubro/2020,70+,Masculino,Parda,Sem instrução,1577,127,73,31,111,40,8.05,57.48,1.97,7.04,2.54
+202010,Outubro/2020,70+,Masculino,Parda,Pós-graduação,32,10,11,0,6,1,31.25,110.0,0.0,18.75,3.13
+202010,Outubro/2020,70+,Masculino,Indígena,Fundamental completo,2,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,70+,Masculino,Amarela,Fundamental incompleto,33,2,2,1,0,1,6.06,100.0,3.03,0.0,3.03
+202010,Outubro/2020,70+,Masculino,Branca,Fundamental completo,732,96,90,19,30,13,13.11,93.75,2.6,4.1,1.78
+202010,Outubro/2020,70+,Masculino,Ignorado,Fundamental incompleto,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,70+,Masculino,Indígena,Superior completo,3,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,70+,Masculino,Preta,Superior incompleto,9,0,1,1,1,0,0.0,0.0,11.11,11.11,0.0
+202010,Outubro/2020,70+,Masculino,Amarela,Pós-graduação,3,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,70+,Masculino,Amarela,Superior incompleto,5,1,1,0,0,0,20.0,100.0,0.0,0.0,0.0
+202010,Outubro/2020,70+,Masculino,Amarela,Médio incompleto,6,2,1,0,0,0,33.33,50.0,0.0,0.0,0.0
+202011,Novembro/2020,0-17,Feminino,Parda,Fundamental incompleto,13496,68,30,1111,1035,232,0.5,44.12,8.23,7.67,1.72
+202011,Novembro/2020,0-17,Feminino,Preta,Sem instrução,617,0,0,59,54,13,0.0,0.0,9.56,8.75,2.11
+202011,Novembro/2020,0-17,Feminino,Indígena,Fundamental incompleto,121,2,0,8,11,3,1.65,0.0,6.61,9.09,2.48
+202011,Novembro/2020,0-17,Feminino,Parda,Fundamental completo,405,14,9,32,33,8,3.46,64.29,7.9,8.15,1.98
+202011,Novembro/2020,0-17,Feminino,Branca,Fundamental completo,230,7,3,16,12,2,3.04,42.86,6.96,5.22,0.87
+202011,Novembro/2020,0-17,Feminino,Indígena,Sem instrução,49,0,0,2,3,0,0.0,0.0,4.08,6.12,0.0
+202011,Novembro/2020,0-17,Feminino,Parda,Sem instrução,6030,2,0,457,454,115,0.03,0.0,7.58,7.53,1.91
+202011,Novembro/2020,0-17,Feminino,Branca,Médio completo,107,15,14,9,6,1,14.02,93.33,8.41,5.61,0.93
+202011,Novembro/2020,0-17,Feminino,Indígena,Médio incompleto,21,1,1,2,1,0,4.76,100.0,9.52,4.76,0.0
+202011,Novembro/2020,0-17,Feminino,Branca,Médio incompleto,2393,198,164,211,231,49,8.27,82.83,8.82,9.65,2.05
+202011,Novembro/2020,0-17,Feminino,Amarela,Fundamental completo,4,0,0,1,0,0,0.0,0.0,25.0,0.0,0.0
+202011,Novembro/2020,0-17,Feminino,Ignorado,Médio incompleto,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,0-17,Feminino,Branca,Superior incompleto,23,3,3,0,4,1,13.04,100.0,0.0,17.39,4.35
+202011,Novembro/2020,0-17,Feminino,Branca,Fundamental incompleto,9223,56,28,866,854,160,0.61,50.0,9.39,9.26,1.73
+202011,Novembro/2020,0-17,Feminino,Parda,Médio incompleto,3205,200,156,268,241,66,6.24,78.0,8.36,7.52,2.06
+202011,Novembro/2020,0-17,Feminino,Amarela,Sem instrução,51,0,0,4,6,1,0.0,0.0,7.84,11.76,1.96
+202011,Novembro/2020,0-17,Feminino,Ignorado,Sem instrução,5,0,0,0,2,0,0.0,0.0,0.0,40.0,0.0
+202011,Novembro/2020,0-17,Feminino,Amarela,Médio incompleto,32,1,1,6,2,1,3.13,100.0,18.75,6.25,3.13
+202011,Novembro/2020,0-17,Feminino,Amarela,Médio completo,3,0,0,0,2,1,0.0,0.0,0.0,66.67,33.33
+202011,Novembro/2020,0-17,Feminino,Preta,Fundamental completo,51,0,0,4,2,1,0.0,0.0,7.84,3.92,1.96
+202011,Novembro/2020,0-17,Feminino,Branca,Sem instrução,5616,0,0,444,548,114,0.0,0.0,7.91,9.76,2.03
+202011,Novembro/2020,0-17,Feminino,Indígena,Fundamental completo,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,0-17,Feminino,Parda,Médio completo,124,23,20,7,5,3,18.55,86.96,5.65,4.03,2.42
+202011,Novembro/2020,0-17,Feminino,Preta,Médio incompleto,434,22,19,47,44,9,5.07,86.36,10.83,10.14,2.07
+202011,Novembro/2020,0-17,Feminino,Preta,Médio completo,15,1,0,1,2,1,6.67,0.0,6.67,13.33,6.67
+202011,Novembro/2020,0-17,Feminino,Amarela,Fundamental incompleto,92,0,0,7,11,1,0.0,0.0,7.61,11.96,1.09
+202011,Novembro/2020,0-17,Feminino,Ignorado,Fundamental incompleto,13,0,0,2,2,0,0.0,0.0,15.38,15.38,0.0
+202011,Novembro/2020,0-17,Feminino,Preta,Fundamental incompleto,1562,6,3,180,154,17,0.38,50.0,11.52,9.86,1.09
+202011,Novembro/2020,0-17,Feminino,Parda,Superior incompleto,16,3,4,1,1,0,18.75,133.33,6.25,6.25,0.0
+202011,Novembro/2020,0-17,Feminino,Preta,Superior incompleto,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,0-17,Masculino,Amarela,Médio incompleto,24,2,2,2,2,0,8.33,100.0,8.33,8.33,0.0
+202011,Novembro/2020,0-17,Masculino,Indígena,Médio incompleto,20,0,0,1,1,0,0.0,0.0,5.0,5.0,0.0
+202011,Novembro/2020,0-17,Masculino,Parda,Superior incompleto,8,1,1,0,0,1,12.5,100.0,0.0,0.0,12.5
+202011,Novembro/2020,0-17,Masculino,Preta,Médio incompleto,415,59,49,32,45,5,14.22,83.05,7.71,10.84,1.2
+202011,Novembro/2020,0-17,Masculino,Branca,Médio completo,87,16,14,5,10,2,18.39,87.5,5.75,11.49,2.3
+202011,Novembro/2020,0-17,Masculino,Preta,Fundamental incompleto,1678,23,17,166,146,24,1.37,73.91,9.89,8.7,1.43
+202011,Novembro/2020,0-17,Masculino,Branca,Sem instrução,5754,0,0,407,544,133,0.0,0.0,7.07,9.45,2.31
+202011,Novembro/2020,0-17,Masculino,Preta,Médio completo,16,2,2,0,2,1,12.5,100.0,0.0,12.5,6.25
+202011,Novembro/2020,0-17,Masculino,Preta,Sem instrução,661,0,0,62,55,11,0.0,0.0,9.38,8.32,1.66
+202011,Novembro/2020,0-17,Masculino,Branca,Fundamental completo,276,17,13,25,26,7,6.16,76.47,9.06,9.42,2.54
+202011,Novembro/2020,0-17,Masculino,Indígena,Fundamental completo,6,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,0-17,Masculino,Amarela,Fundamental incompleto,134,4,1,13,15,1,2.99,25.0,9.7,11.19,0.75
+202011,Novembro/2020,0-17,Masculino,Parda,Fundamental completo,399,27,23,30,28,4,6.77,85.19,7.52,7.02,1.0
+202011,Novembro/2020,0-17,Masculino,Amarela,Fundamental completo,4,0,0,0,1,0,0.0,0.0,0.0,25.0,0.0
+202011,Novembro/2020,0-17,Masculino,Indígena,Sem instrução,56,0,0,3,2,1,0.0,0.0,5.36,3.57,1.79
+202011,Novembro/2020,0-17,Masculino,Indígena,Médio completo,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,0-17,Masculino,Parda,Fundamental incompleto,14327,238,136,1141,1113,234,1.66,57.14,7.96,7.77,1.63
+202011,Novembro/2020,0-17,Masculino,Parda,Médio completo,125,23,16,6,10,0,18.4,69.57,4.8,8.0,0.0
+202011,Novembro/2020,0-17,Masculino,Branca,Fundamental incompleto,9688,127,69,851,864,164,1.31,54.33,8.78,8.92,1.69
+202011,Novembro/2020,0-17,Masculino,Ignorado,Sem instrução,4,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,0-17,Masculino,Amarela,Sem instrução,51,0,0,4,6,0,0.0,0.0,7.84,11.76,0.0
+202011,Novembro/2020,0-17,Masculino,Parda,Médio incompleto,3080,350,275,217,227,65,11.36,78.57,7.05,7.37,2.11
+202011,Novembro/2020,0-17,Masculino,Branca,Médio incompleto,2251,290,205,193,213,55,12.88,70.69,8.57,9.46,2.44
+202011,Novembro/2020,0-17,Masculino,Preta,Fundamental completo,70,2,1,6,2,1,2.86,50.0,8.57,2.86,1.43
+202011,Novembro/2020,0-17,Masculino,Indígena,Fundamental incompleto,117,1,0,5,12,1,0.85,0.0,4.27,10.26,0.85
+202011,Novembro/2020,0-17,Masculino,Parda,Sem instrução,6474,3,3,482,505,124,0.05,100.0,7.45,7.8,1.92
+202011,Novembro/2020,0-17,Masculino,Ignorado,Fundamental incompleto,5,0,0,1,1,0,0.0,0.0,20.0,20.0,0.0
+202011,Novembro/2020,0-17,Masculino,Branca,Superior incompleto,14,4,4,0,1,0,28.57,100.0,0.0,7.14,0.0
+202011,Novembro/2020,0-17,Masculino,Preta,Superior incompleto,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,0-17,Masculino,Ignorado,Médio incompleto,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,18-29,Feminino,Indígena,Fundamental completo,3,1,1,0,0,0,33.33,100.0,0.0,0.0,0.0
+202011,Novembro/2020,18-29,Feminino,Parda,Superior incompleto,2672,1125,1124,171,261,79,42.1,99.91,6.4,9.77,2.96
+202011,Novembro/2020,18-29,Feminino,Ignorado,Médio completo,4,1,1,0,0,0,25.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,18-29,Feminino,Amarela,Fundamental incompleto,17,2,2,1,0,0,11.76,100.0,5.88,0.0,0.0
+202011,Novembro/2020,18-29,Feminino,Parda,Fundamental incompleto,1458,258,218,115,81,29,17.7,84.5,7.89,5.56,1.99
+202011,Novembro/2020,18-29,Feminino,Branca,Fundamental completo,379,146,129,26,22,11,38.52,88.36,6.86,5.8,2.9
+202011,Novembro/2020,18-29,Feminino,Parda,Sem instrução,86,8,8,8,10,1,9.3,100.0,9.3,11.63,1.16
+202011,Novembro/2020,18-29,Feminino,Indígena,Fundamental incompleto,10,3,3,0,1,0,30.0,100.0,0.0,10.0,0.0
+202011,Novembro/2020,18-29,Feminino,Indígena,Médio incompleto,33,6,6,2,3,1,18.18,100.0,6.06,9.09,3.03
+202011,Novembro/2020,18-29,Feminino,Parda,Superior completo,1440,855,895,71,109,47,59.38,104.68,4.93,7.57,3.26
+202011,Novembro/2020,18-29,Feminino,Amarela,Superior incompleto,51,22,21,6,8,1,43.14,95.45,11.76,15.69,1.96
+202011,Novembro/2020,18-29,Feminino,Amarela,Fundamental completo,9,2,2,1,0,0,22.22,100.0,11.11,0.0,0.0
+202011,Novembro/2020,18-29,Feminino,Amarela,Médio completo,66,21,25,7,5,3,31.82,119.05,10.61,7.58,4.55
+202011,Novembro/2020,18-29,Feminino,Indígena,Sem instrução,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,18-29,Feminino,Ignorado,Fundamental incompleto,4,0,0,0,1,0,0.0,0.0,0.0,25.0,0.0
+202011,Novembro/2020,18-29,Feminino,Preta,Fundamental incompleto,193,42,40,16,12,10,21.76,95.24,8.29,6.22,5.18
+202011,Novembro/2020,18-29,Feminino,Amarela,Superior completo,33,23,22,3,3,1,69.7,95.65,9.09,9.09,3.03
+202011,Novembro/2020,18-29,Feminino,Parda,Pós-graduação,169,111,118,5,11,5,65.68,106.31,2.96,6.51,2.96
+202011,Novembro/2020,18-29,Feminino,Preta,Sem instrução,11,1,1,1,0,0,9.09,100.0,9.09,0.0,0.0
+202011,Novembro/2020,18-29,Feminino,Ignorado,Superior completo,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,18-29,Feminino,Parda,Médio incompleto,2684,586,557,221,162,72,21.83,95.05,8.23,6.04,2.68
+202011,Novembro/2020,18-29,Feminino,Preta,Médio incompleto,482,98,102,46,33,13,20.33,104.08,9.54,6.85,2.7
+202011,Novembro/2020,18-29,Feminino,Ignorado,Médio incompleto,2,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,18-29,Feminino,Indígena,Pós-graduação,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,18-29,Feminino,Preta,Pós-graduação,40,29,31,2,2,2,72.5,106.9,5.0,5.0,5.0
+202011,Novembro/2020,18-29,Feminino,Parda,Fundamental completo,680,175,162,46,44,20,25.74,92.57,6.76,6.47,2.94
+202011,Novembro/2020,18-29,Feminino,Indígena,Superior incompleto,14,1,1,0,1,1,7.14,100.0,0.0,7.14,7.14
+202011,Novembro/2020,18-29,Feminino,Preta,Superior completo,235,145,151,15,20,4,61.7,104.14,6.38,8.51,1.7
+202011,Novembro/2020,18-29,Feminino,Preta,Médio completo,1244,467,480,68,76,31,37.54,102.78,5.47,6.11,2.49
+202011,Novembro/2020,18-29,Feminino,Branca,Superior completo,2069,1441,1499,85,176,77,69.65,104.02,4.11,8.51,3.72
+202011,Novembro/2020,18-29,Feminino,Branca,Superior incompleto,3031,1277,1284,256,286,88,42.13,100.55,8.45,9.44,2.9
+202011,Novembro/2020,18-29,Feminino,Indígena,Superior completo,14,10,11,1,1,0,71.43,110.0,7.14,7.14,0.0
+202011,Novembro/2020,18-29,Feminino,Branca,Médio incompleto,1337,376,345,115,100,31,28.12,91.76,8.6,7.48,2.32
+202011,Novembro/2020,18-29,Feminino,Branca,Pós-graduação,328,256,264,13,21,15,78.05,103.13,3.96,6.4,4.57
+202011,Novembro/2020,18-29,Feminino,Branca,Sem instrução,51,1,1,3,7,0,1.96,100.0,5.88,13.73,0.0
+202011,Novembro/2020,18-29,Feminino,Parda,Médio completo,7353,2576,2527,394,533,169,35.03,98.1,5.36,7.25,2.3
+202011,Novembro/2020,18-29,Feminino,Preta,Fundamental completo,98,29,30,5,5,2,29.59,103.45,5.1,5.1,2.04
+202011,Novembro/2020,18-29,Feminino,Ignorado,Superior incompleto,1,0,1,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,18-29,Feminino,Amarela,Pós-graduação,5,4,4,1,0,0,80.0,100.0,20.0,0.0,0.0
+202011,Novembro/2020,18-29,Feminino,Branca,Fundamental incompleto,470,95,86,41,43,13,20.21,90.53,8.72,9.15,2.77
+202011,Novembro/2020,18-29,Feminino,Branca,Médio completo,4306,1872,1866,237,363,105,43.47,99.68,5.5,8.43,2.44
+202011,Novembro/2020,18-29,Feminino,Indígena,Médio completo,67,26,25,3,4,0,38.81,96.15,4.48,5.97,0.0
+202011,Novembro/2020,18-29,Feminino,Preta,Superior incompleto,502,202,212,54,51,25,40.24,104.95,10.76,10.16,4.98
+202011,Novembro/2020,18-29,Feminino,Amarela,Médio incompleto,24,7,8,2,1,1,29.17,114.29,8.33,4.17,4.17
+202011,Novembro/2020,18-29,Masculino,Branca,Médio completo,4383,2895,2814,155,355,102,66.05,97.2,3.54,8.1,2.33
+202011,Novembro/2020,18-29,Masculino,Indígena,Médio incompleto,25,12,11,3,1,0,48.0,91.67,12.0,4.0,0.0
+202011,Novembro/2020,18-29,Masculino,Amarela,Fundamental completo,8,4,4,0,0,0,50.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,18-29,Masculino,Ignorado,Fundamental completo,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,18-29,Masculino,Ignorado,Sem instrução,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,18-29,Masculino,Preta,Fundamental completo,164,95,93,7,17,6,57.93,97.89,4.27,10.37,3.66
+202011,Novembro/2020,18-29,Masculino,Amarela,Fundamental incompleto,14,10,9,0,2,0,71.43,90.0,0.0,14.29,0.0
+202011,Novembro/2020,18-29,Masculino,Preta,Fundamental incompleto,378,192,186,22,33,3,50.79,96.88,5.82,8.73,0.79
+202011,Novembro/2020,18-29,Masculino,Indígena,Fundamental completo,5,2,2,0,0,1,40.0,100.0,0.0,0.0,20.0
+202011,Novembro/2020,18-29,Masculino,Preta,Médio incompleto,568,279,268,39,42,9,49.12,96.06,6.87,7.39,1.58
+202011,Novembro/2020,18-29,Masculino,Branca,Superior completo,1357,1057,1061,41,114,30,77.89,100.38,3.02,8.4,2.21
+202011,Novembro/2020,18-29,Masculino,Amarela,Médio incompleto,33,14,14,1,2,3,42.42,100.0,3.03,6.06,9.09
+202011,Novembro/2020,18-29,Masculino,Preta,Sem instrução,14,5,6,0,0,0,35.71,120.0,0.0,0.0,0.0
+202011,Novembro/2020,18-29,Masculino,Indígena,Superior completo,7,2,4,0,0,0,28.57,200.0,0.0,0.0,0.0
+202011,Novembro/2020,18-29,Masculino,Parda,Sem instrução,147,18,17,7,15,2,12.24,94.44,4.76,10.2,1.36
+202011,Novembro/2020,18-29,Masculino,Parda,Fundamental completo,835,507,493,23,63,17,60.72,97.24,2.75,7.54,2.04
+202011,Novembro/2020,18-29,Masculino,Parda,Médio incompleto,3438,1631,1540,168,258,74,47.44,94.42,4.89,7.5,2.15
+202011,Novembro/2020,18-29,Masculino,Branca,Fundamental incompleto,898,526,485,46,66,17,58.57,92.21,5.12,7.35,1.89
+202011,Novembro/2020,18-29,Masculino,Preta,Superior incompleto,370,174,172,25,46,13,47.03,98.85,6.76,12.43,3.51
+202011,Novembro/2020,18-29,Masculino,Branca,Superior incompleto,2572,1327,1303,134,216,73,51.59,98.19,5.21,8.4,2.84
+202011,Novembro/2020,18-29,Masculino,Amarela,Sem instrução,4,1,1,0,2,0,25.0,100.0,0.0,50.0,0.0
+202011,Novembro/2020,18-29,Masculino,Branca,Sem instrução,80,6,6,0,5,1,7.5,100.0,0.0,6.25,1.25
+202011,Novembro/2020,18-29,Masculino,Ignorado,Médio completo,3,2,2,0,0,0,66.67,100.0,0.0,0.0,0.0
+202011,Novembro/2020,18-29,Masculino,Amarela,Superior completo,17,12,12,1,2,0,70.59,100.0,5.88,11.76,0.0
+202011,Novembro/2020,18-29,Masculino,Preta,Médio completo,1177,755,743,53,99,13,64.15,98.41,4.5,8.41,1.1
+202011,Novembro/2020,18-29,Masculino,Amarela,Superior incompleto,42,13,13,2,3,0,30.95,100.0,4.76,7.14,0.0
+202011,Novembro/2020,18-29,Masculino,Branca,Pós-graduação,144,110,115,2,17,4,76.39,104.55,1.39,11.81,2.78
+202011,Novembro/2020,18-29,Masculino,Indígena,Médio completo,42,25,26,0,0,1,59.52,104.0,0.0,0.0,2.38
+202011,Novembro/2020,18-29,Masculino,Indígena,Fundamental incompleto,14,6,4,1,0,0,42.86,66.67,7.14,0.0,0.0
+202011,Novembro/2020,18-29,Masculino,Parda,Superior incompleto,2184,1066,1071,110,203,61,48.81,100.47,5.04,9.29,2.79
+202011,Novembro/2020,18-29,Masculino,Ignorado,Superior completo,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,18-29,Masculino,Parda,Médio completo,6753,4011,3879,208,466,124,59.4,96.71,3.08,6.9,1.84
+202011,Novembro/2020,18-29,Masculino,Preta,Superior completo,169,115,117,8,16,3,68.05,101.74,4.73,9.47,1.78
+202011,Novembro/2020,18-29,Masculino,Indígena,Superior incompleto,15,9,9,0,0,2,60.0,100.0,0.0,0.0,13.33
+202011,Novembro/2020,18-29,Masculino,Branca,Médio incompleto,1748,916,865,87,168,36,52.4,94.43,4.98,9.61,2.06
+202011,Novembro/2020,18-29,Masculino,Indígena,Pós-graduação,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,18-29,Masculino,Parda,Superior completo,939,670,679,20,72,30,71.35,101.34,2.13,7.67,3.19
+202011,Novembro/2020,18-29,Masculino,Branca,Fundamental completo,532,362,348,16,51,12,68.05,96.13,3.01,9.59,2.26
+202011,Novembro/2020,18-29,Masculino,Parda,Pós-graduação,77,61,62,0,7,1,79.22,101.64,0.0,9.09,1.3
+202011,Novembro/2020,18-29,Masculino,Amarela,Médio completo,51,26,26,3,2,1,50.98,100.0,5.88,3.92,1.96
+202011,Novembro/2020,18-29,Masculino,Preta,Pós-graduação,15,12,11,2,0,1,80.0,91.67,13.33,0.0,6.67
+202011,Novembro/2020,18-29,Masculino,Parda,Fundamental incompleto,2194,1150,1036,103,164,33,52.42,90.09,4.69,7.47,1.5
+202011,Novembro/2020,18-29,Masculino,Amarela,Pós-graduação,3,3,3,0,0,0,100.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,18-29,Masculino,Ignorado,Fundamental incompleto,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,30-39,Feminino,Amarela,Superior incompleto,15,9,10,2,1,1,60.0,111.11,13.33,6.67,6.67
+202011,Novembro/2020,30-39,Feminino,Amarela,Médio incompleto,15,6,6,0,3,0,40.0,100.0,0.0,20.0,0.0
+202011,Novembro/2020,30-39,Feminino,Indígena,Superior completo,19,11,11,1,2,1,57.89,100.0,5.26,10.53,5.26
+202011,Novembro/2020,30-39,Feminino,Amarela,Superior completo,67,55,56,2,7,3,82.09,101.82,2.99,10.45,4.48
+202011,Novembro/2020,30-39,Feminino,Amarela,Fundamental completo,13,6,7,0,1,0,46.15,116.67,0.0,7.69,0.0
+202011,Novembro/2020,30-39,Feminino,Preta,Superior completo,462,342,363,33,42,13,74.03,106.14,7.14,9.09,2.81
+202011,Novembro/2020,30-39,Feminino,Parda,Fundamental incompleto,2623,801,707,192,169,76,30.54,88.26,7.32,6.44,2.9
+202011,Novembro/2020,30-39,Feminino,Branca,Médio incompleto,759,334,342,63,61,16,44.01,102.4,8.3,8.04,2.11
+202011,Novembro/2020,30-39,Feminino,Ignorado,Fundamental incompleto,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,30-39,Feminino,Amarela,Pós-graduação,23,20,20,1,0,1,86.96,100.0,4.35,0.0,4.35
+202011,Novembro/2020,30-39,Feminino,Preta,Médio incompleto,237,97,99,24,10,5,40.93,102.06,10.13,4.22,2.11
+202011,Novembro/2020,30-39,Feminino,Indígena,Fundamental incompleto,17,7,3,1,0,1,41.18,42.86,5.88,0.0,5.88
+202011,Novembro/2020,30-39,Feminino,Indígena,Médio incompleto,11,3,5,2,0,0,27.27,166.67,18.18,0.0,0.0
+202011,Novembro/2020,30-39,Feminino,Amarela,Fundamental incompleto,23,10,9,3,1,0,43.48,90.0,13.04,4.35,0.0
+202011,Novembro/2020,30-39,Feminino,Indígena,Pós-graduação,5,5,5,0,1,0,100.0,100.0,0.0,20.0,0.0
+202011,Novembro/2020,30-39,Feminino,Parda,Médio incompleto,1293,513,502,97,78,31,39.68,97.86,7.5,6.03,2.4
+202011,Novembro/2020,30-39,Feminino,Preta,Médio completo,1071,523,551,82,92,30,48.83,105.35,7.66,8.59,2.8
+202011,Novembro/2020,30-39,Feminino,Parda,Pós-graduação,588,476,502,26,60,15,80.95,105.46,4.42,10.2,2.55
+202011,Novembro/2020,30-39,Feminino,Indígena,Superior incompleto,7,3,3,1,0,0,42.86,100.0,14.29,0.0,0.0
+202011,Novembro/2020,30-39,Feminino,Branca,Médio completo,3838,2122,2163,260,330,91,55.29,101.93,6.77,8.6,2.37
+202011,Novembro/2020,30-39,Feminino,Preta,Sem instrução,23,5,2,2,0,0,21.74,40.0,8.7,0.0,0.0
+202011,Novembro/2020,30-39,Feminino,Parda,Superior incompleto,893,509,553,77,101,34,57.0,108.64,8.62,11.31,3.81
+202011,Novembro/2020,30-39,Feminino,Indígena,Fundamental completo,8,5,5,1,0,0,62.5,100.0,12.5,0.0,0.0
+202011,Novembro/2020,30-39,Feminino,Ignorado,Sem instrução,2,0,0,0,1,0,0.0,0.0,0.0,50.0,0.0
+202011,Novembro/2020,30-39,Feminino,Preta,Fundamental incompleto,372,137,126,33,27,13,36.83,91.97,8.87,7.26,3.49
+202011,Novembro/2020,30-39,Feminino,Preta,Superior incompleto,183,98,108,23,21,5,53.55,110.2,12.57,11.48,2.73
+202011,Novembro/2020,30-39,Feminino,Branca,Fundamental incompleto,1100,389,349,85,67,25,35.36,89.72,7.73,6.09,2.27
+202011,Novembro/2020,30-39,Feminino,Preta,Pós-graduação,117,96,101,6,15,8,82.05,105.21,5.13,12.82,6.84
+202011,Novembro/2020,30-39,Feminino,Branca,Superior incompleto,930,592,617,82,106,35,63.66,104.22,8.82,11.4,3.76
+202011,Novembro/2020,30-39,Feminino,Branca,Pós-graduação,1111,920,979,59,99,51,82.81,106.41,5.31,8.91,4.59
+202011,Novembro/2020,30-39,Feminino,Amarela,Médio completo,76,42,46,3,4,3,55.26,109.52,3.95,5.26,3.95
+202011,Novembro/2020,30-39,Feminino,Parda,Fundamental completo,1012,381,356,83,72,31,37.65,93.44,8.2,7.11,3.06
+202011,Novembro/2020,30-39,Feminino,Branca,Sem instrução,97,14,12,6,12,0,14.43,85.71,6.19,12.37,0.0
+202011,Novembro/2020,30-39,Feminino,Ignorado,Superior incompleto,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,30-39,Feminino,Branca,Superior completo,3259,2419,2578,171,296,103,74.23,106.57,5.25,9.08,3.16
+202011,Novembro/2020,30-39,Feminino,Branca,Fundamental completo,606,296,273,47,44,14,48.84,92.23,7.76,7.26,2.31
+202011,Novembro/2020,30-39,Feminino,Parda,Superior completo,2274,1565,1680,129,208,78,68.82,107.35,5.67,9.15,3.43
+202011,Novembro/2020,30-39,Feminino,Preta,Fundamental completo,163,73,74,15,9,4,44.79,101.37,9.2,5.52,2.45
+202011,Novembro/2020,30-39,Feminino,Indígena,Médio completo,56,22,19,3,2,0,39.29,86.36,5.36,3.57,0.0
+202011,Novembro/2020,30-39,Feminino,Parda,Sem instrução,202,26,24,6,14,3,12.87,92.31,2.97,6.93,1.49
+202011,Novembro/2020,30-39,Feminino,Parda,Médio completo,5755,2691,2723,427,428,153,46.76,101.19,7.42,7.44,2.66
+202011,Novembro/2020,30-39,Feminino,Indígena,Sem instrução,2,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,30-39,Feminino,Ignorado,Pós-graduação,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,30-39,Feminino,Amarela,Sem instrução,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,30-39,Feminino,Ignorado,Médio completo,2,1,1,1,0,0,50.0,100.0,50.0,0.0,0.0
+202011,Novembro/2020,30-39,Masculino,Ignorado,Fundamental completo,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,30-39,Masculino,Branca,Superior incompleto,845,696,718,27,114,32,82.37,103.16,3.2,13.49,3.79
+202011,Novembro/2020,30-39,Masculino,Parda,Pós-graduação,324,288,305,6,39,14,88.89,105.9,1.85,12.04,4.32
+202011,Novembro/2020,30-39,Masculino,Preta,Fundamental completo,208,153,159,6,20,4,73.56,103.92,2.88,9.62,1.92
+202011,Novembro/2020,30-39,Masculino,Parda,Fundamental completo,989,696,681,23,63,22,70.37,97.84,2.33,6.37,2.22
+202011,Novembro/2020,30-39,Masculino,Parda,Fundamental incompleto,3239,2199,2109,107,221,51,67.89,95.91,3.3,6.82,1.57
+202011,Novembro/2020,30-39,Masculino,Branca,Médio completo,3585,2923,2966,90,315,84,81.53,101.47,2.51,8.79,2.34
+202011,Novembro/2020,30-39,Masculino,Amarela,Sem instrução,4,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,30-39,Masculino,Branca,Sem instrução,111,29,27,8,9,2,26.13,93.1,7.21,8.11,1.8
+202011,Novembro/2020,30-39,Masculino,Parda,Superior completo,1398,1164,1213,35,119,46,83.26,104.21,2.5,8.51,3.29
+202011,Novembro/2020,30-39,Masculino,Preta,Superior completo,277,229,232,6,24,7,82.67,101.31,2.17,8.66,2.53
+202011,Novembro/2020,30-39,Masculino,Indígena,Fundamental incompleto,33,24,24,0,3,0,72.73,100.0,0.0,9.09,0.0
+202011,Novembro/2020,30-39,Masculino,Indígena,Superior completo,15,12,13,0,1,1,80.0,108.33,0.0,6.67,6.67
+202011,Novembro/2020,30-39,Masculino,Amarela,Médio completo,44,33,36,1,7,2,75.0,109.09,2.27,15.91,4.55
+202011,Novembro/2020,30-39,Masculino,Indígena,Médio completo,40,33,33,0,6,2,82.5,100.0,0.0,15.0,5.0
+202011,Novembro/2020,30-39,Masculino,Amarela,Superior completo,32,30,28,1,5,0,93.75,93.33,3.13,15.63,0.0
+202011,Novembro/2020,30-39,Masculino,Branca,Fundamental incompleto,1355,989,973,45,100,24,72.99,98.38,3.32,7.38,1.77
+202011,Novembro/2020,30-39,Masculino,Indígena,Superior incompleto,5,5,5,0,1,0,100.0,100.0,0.0,20.0,0.0
+202011,Novembro/2020,30-39,Masculino,Parda,Sem instrução,271,99,83,5,21,3,36.53,83.84,1.85,7.75,1.11
+202011,Novembro/2020,30-39,Masculino,Parda,Superior incompleto,711,567,583,25,94,26,79.75,102.82,3.52,13.22,3.66
+202011,Novembro/2020,30-39,Masculino,Parda,Médio incompleto,1465,1114,1107,46,104,35,76.04,99.37,3.14,7.1,2.39
+202011,Novembro/2020,30-39,Masculino,Branca,Superior completo,2258,1982,2033,53,200,80,87.78,102.57,2.35,8.86,3.54
+202011,Novembro/2020,30-39,Masculino,Indígena,Pós-graduação,3,3,3,0,1,0,100.0,100.0,0.0,33.33,0.0
+202011,Novembro/2020,30-39,Masculino,Preta,Sem instrução,55,22,25,1,4,0,40.0,113.64,1.82,7.27,0.0
+202011,Novembro/2020,30-39,Masculino,Preta,Fundamental incompleto,538,397,394,19,42,10,73.79,99.24,3.53,7.81,1.86
+202011,Novembro/2020,30-39,Masculino,Indígena,Fundamental completo,9,7,6,0,0,0,77.78,85.71,0.0,0.0,0.0
+202011,Novembro/2020,30-39,Masculino,Preta,Médio completo,1017,800,817,36,87,21,78.66,102.13,3.54,8.55,2.06
+202011,Novembro/2020,30-39,Masculino,Amarela,Pós-graduação,16,16,16,0,1,3,100.0,100.0,0.0,6.25,18.75
+202011,Novembro/2020,30-39,Masculino,Preta,Pós-graduação,72,67,69,2,4,0,93.06,102.99,2.78,5.56,0.0
+202011,Novembro/2020,30-39,Masculino,Branca,Pós-graduação,685,626,641,13,50,32,91.39,102.4,1.9,7.3,4.67
+202011,Novembro/2020,30-39,Masculino,Branca,Médio incompleto,774,617,618,17,63,16,79.72,100.16,2.2,8.14,2.07
+202011,Novembro/2020,30-39,Masculino,Branca,Fundamental completo,672,556,562,18,68,13,82.74,101.08,2.68,10.12,1.93
+202011,Novembro/2020,30-39,Masculino,Preta,Médio incompleto,270,206,208,9,21,6,76.3,100.97,3.33,7.78,2.22
+202011,Novembro/2020,30-39,Masculino,Parda,Médio completo,5001,3871,3941,96,384,121,77.4,101.81,1.92,7.68,2.42
+202011,Novembro/2020,30-39,Masculino,Amarela,Fundamental incompleto,22,15,15,1,1,0,68.18,100.0,4.55,4.55,0.0
+202011,Novembro/2020,30-39,Masculino,Amarela,Médio incompleto,15,12,12,1,2,0,80.0,100.0,6.67,13.33,0.0
+202011,Novembro/2020,30-39,Masculino,Indígena,Médio incompleto,14,10,9,1,4,0,71.43,90.0,7.14,28.57,0.0
+202011,Novembro/2020,30-39,Masculino,Preta,Superior incompleto,157,131,134,1,15,9,83.44,102.29,0.64,9.55,5.73
+202011,Novembro/2020,30-39,Masculino,Amarela,Superior incompleto,7,7,7,0,2,0,100.0,100.0,0.0,28.57,0.0
+202011,Novembro/2020,30-39,Masculino,Ignorado,Fundamental incompleto,2,1,1,0,0,0,50.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,30-39,Masculino,Indígena,Sem instrução,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,30-39,Masculino,Amarela,Fundamental completo,9,9,9,0,1,0,100.0,100.0,0.0,11.11,0.0
+202011,Novembro/2020,30-39,Masculino,Ignorado,Médio completo,3,2,2,1,0,0,66.67,100.0,33.33,0.0,0.0
+202011,Novembro/2020,40-49,Feminino,Preta,Fundamental incompleto,706,287,272,46,56,20,40.65,94.77,6.52,7.93,2.83
+202011,Novembro/2020,40-49,Feminino,Indígena,Médio completo,31,16,17,0,1,2,51.61,106.25,0.0,3.23,6.45
+202011,Novembro/2020,40-49,Feminino,Preta,Pós-graduação,86,72,79,5,17,3,83.72,109.72,5.81,19.77,3.49
+202011,Novembro/2020,40-49,Feminino,Preta,Médio completo,851,464,487,49,69,29,54.52,104.96,5.76,8.11,3.41
+202011,Novembro/2020,40-49,Feminino,Branca,Fundamental incompleto,2467,1077,950,118,178,56,43.66,88.21,4.78,7.22,2.27
+202011,Novembro/2020,40-49,Feminino,Parda,Pós-graduação,583,454,496,41,59,11,77.87,109.25,7.03,10.12,1.89
+202011,Novembro/2020,40-49,Feminino,Parda,Superior completo,1697,1172,1281,106,175,48,69.06,109.3,6.25,10.31,2.83
+202011,Novembro/2020,40-49,Feminino,Branca,Médio incompleto,693,374,372,41,66,21,53.97,99.47,5.92,9.52,3.03
+202011,Novembro/2020,40-49,Feminino,Amarela,Fundamental incompleto,46,16,16,4,6,1,34.78,100.0,8.7,13.04,2.17
+202011,Novembro/2020,40-49,Feminino,Parda,Fundamental incompleto,4390,1558,1406,230,287,110,35.49,90.24,5.24,6.54,2.51
+202011,Novembro/2020,40-49,Feminino,Amarela,Médio completo,53,28,27,2,4,1,52.83,96.43,3.77,7.55,1.89
+202011,Novembro/2020,40-49,Feminino,Ignorado,Fundamental incompleto,4,1,1,1,1,0,25.0,100.0,25.0,25.0,0.0
+202011,Novembro/2020,40-49,Feminino,Parda,Superior incompleto,469,276,291,46,61,15,58.85,105.43,9.81,13.01,3.2
+202011,Novembro/2020,40-49,Feminino,Parda,Médio incompleto,974,439,433,49,81,13,45.07,98.63,5.03,8.32,1.33
+202011,Novembro/2020,40-49,Feminino,Preta,Superior completo,379,272,306,13,34,11,71.77,112.5,3.43,8.97,2.9
+202011,Novembro/2020,40-49,Feminino,Indígena,Sem instrução,4,2,2,0,0,0,50.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,40-49,Feminino,Parda,Médio completo,4465,2280,2368,226,319,137,51.06,103.86,5.06,7.14,3.07
+202011,Novembro/2020,40-49,Feminino,Indígena,Fundamental completo,11,5,4,0,1,0,45.45,80.0,0.0,9.09,0.0
+202011,Novembro/2020,40-49,Feminino,Branca,Fundamental completo,975,515,496,36,65,24,52.82,96.31,3.69,6.67,2.46
+202011,Novembro/2020,40-49,Feminino,Parda,Sem instrução,403,101,74,17,23,6,25.06,73.27,4.22,5.71,1.49
+202011,Novembro/2020,40-49,Feminino,Branca,Superior incompleto,592,368,385,46,59,9,62.16,104.62,7.77,9.97,1.52
+202011,Novembro/2020,40-49,Feminino,Preta,Fundamental completo,226,107,112,12,12,3,47.35,104.67,5.31,5.31,1.33
+202011,Novembro/2020,40-49,Feminino,Ignorado,Superior completo,4,3,3,0,0,0,75.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,40-49,Feminino,Parda,Fundamental completo,1183,480,494,54,77,35,40.57,102.92,4.56,6.51,2.96
+202011,Novembro/2020,40-49,Feminino,Branca,Superior completo,2587,1905,1995,143,241,61,73.64,104.72,5.53,9.32,2.36
+202011,Novembro/2020,40-49,Feminino,Preta,Superior incompleto,115,67,74,9,12,1,58.26,110.45,7.83,10.43,0.87
+202011,Novembro/2020,40-49,Feminino,Branca,Sem instrução,151,29,19,11,4,6,19.21,65.52,7.28,2.65,3.97
+202011,Novembro/2020,40-49,Feminino,Branca,Médio completo,3576,2021,2042,166,298,91,56.52,101.04,4.64,8.33,2.54
+202011,Novembro/2020,40-49,Feminino,Amarela,Superior completo,42,28,30,2,1,2,66.67,107.14,4.76,2.38,4.76
+202011,Novembro/2020,40-49,Feminino,Amarela,Fundamental completo,11,6,6,2,0,1,54.55,100.0,18.18,0.0,9.09
+202011,Novembro/2020,40-49,Feminino,Ignorado,Sem instrução,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,40-49,Feminino,Indígena,Fundamental incompleto,35,14,9,3,5,2,40.0,64.29,8.57,14.29,5.71
+202011,Novembro/2020,40-49,Feminino,Indígena,Superior completo,17,14,15,1,1,1,82.35,107.14,5.88,5.88,5.88
+202011,Novembro/2020,40-49,Feminino,Amarela,Pós-graduação,12,9,10,2,0,1,75.0,111.11,16.67,0.0,8.33
+202011,Novembro/2020,40-49,Feminino,Amarela,Médio incompleto,9,4,4,0,0,0,44.44,100.0,0.0,0.0,0.0
+202011,Novembro/2020,40-49,Feminino,Preta,Médio incompleto,182,80,83,13,12,5,43.96,103.75,7.14,6.59,2.75
+202011,Novembro/2020,40-49,Feminino,Indígena,Médio incompleto,12,6,6,0,0,0,50.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,40-49,Feminino,Indígena,Superior incompleto,3,1,2,0,0,0,33.33,200.0,0.0,0.0,0.0
+202011,Novembro/2020,40-49,Feminino,Branca,Pós-graduação,1138,980,1017,91,129,44,86.12,103.78,8.0,11.34,3.87
+202011,Novembro/2020,40-49,Feminino,Preta,Sem instrução,60,14,13,2,3,1,23.33,92.86,3.33,5.0,1.67
+202011,Novembro/2020,40-49,Feminino,Amarela,Superior incompleto,5,3,3,1,0,0,60.0,100.0,20.0,0.0,0.0
+202011,Novembro/2020,40-49,Feminino,Indígena,Pós-graduação,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,40-49,Feminino,Ignorado,Pós-graduação,2,1,1,0,0,0,50.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,40-49,Masculino,Amarela,Fundamental completo,9,8,8,0,1,0,88.89,100.0,0.0,11.11,0.0
+202011,Novembro/2020,40-49,Masculino,Parda,Fundamental completo,1198,914,913,16,70,26,76.29,99.89,1.34,5.84,2.17
+202011,Novembro/2020,40-49,Masculino,Indígena,Médio incompleto,9,7,7,0,1,0,77.78,100.0,0.0,11.11,0.0
+202011,Novembro/2020,40-49,Masculino,Amarela,Superior completo,26,21,22,0,3,1,80.77,104.76,0.0,11.54,3.85
+202011,Novembro/2020,40-49,Masculino,Preta,Superior completo,238,201,213,6,28,2,84.45,105.97,2.52,11.76,0.84
+202011,Novembro/2020,40-49,Masculino,Indígena,Fundamental completo,10,8,8,0,0,0,80.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,40-49,Masculino,Indígena,Pós-graduação,2,2,2,0,0,0,100.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,40-49,Masculino,Indígena,Fundamental incompleto,25,19,18,0,5,0,76.0,94.74,0.0,20.0,0.0
+202011,Novembro/2020,40-49,Masculino,Branca,Superior completo,1615,1436,1471,23,166,55,88.92,102.44,1.42,10.28,3.41
+202011,Novembro/2020,40-49,Masculino,Parda,Fundamental incompleto,4655,3361,3261,104,316,86,72.2,97.02,2.23,6.79,1.85
+202011,Novembro/2020,40-49,Masculino,Parda,Médio incompleto,859,636,650,17,78,17,74.04,102.2,1.98,9.08,1.98
+202011,Novembro/2020,40-49,Masculino,Parda,Sem instrução,637,330,293,13,37,6,51.81,88.79,2.04,5.81,0.94
+202011,Novembro/2020,40-49,Masculino,Preta,Fundamental completo,222,161,168,9,15,5,72.52,104.35,4.05,6.76,2.25
+202011,Novembro/2020,40-49,Masculino,Amarela,Sem instrução,5,3,2,1,0,0,60.0,66.67,20.0,0.0,0.0
+202011,Novembro/2020,40-49,Masculino,Preta,Médio completo,775,616,628,11,65,15,79.48,101.95,1.42,8.39,1.94
+202011,Novembro/2020,40-49,Masculino,Preta,Pós-graduação,70,63,66,0,12,0,90.0,104.76,0.0,17.14,0.0
+202011,Novembro/2020,40-49,Masculino,Branca,Sem instrução,218,101,86,10,14,2,46.33,85.15,4.59,6.42,0.92
+202011,Novembro/2020,40-49,Masculino,Branca,Fundamental completo,903,727,744,14,59,10,80.51,102.34,1.55,6.53,1.11
+202011,Novembro/2020,40-49,Masculino,Amarela,Médio completo,60,49,49,1,10,1,81.67,100.0,1.67,16.67,1.67
+202011,Novembro/2020,40-49,Masculino,Indígena,Sem instrução,5,4,4,0,0,0,80.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,40-49,Masculino,Parda,Superior completo,1067,923,969,19,120,21,86.5,104.98,1.78,11.25,1.97
+202011,Novembro/2020,40-49,Masculino,Indígena,Superior completo,9,8,8,0,2,1,88.89,100.0,0.0,22.22,11.11
+202011,Novembro/2020,40-49,Masculino,Preta,Sem instrução,123,77,75,2,8,2,62.6,97.4,1.63,6.5,1.63
+202011,Novembro/2020,40-49,Masculino,Amarela,Superior incompleto,9,6,6,0,0,0,66.67,100.0,0.0,0.0,0.0
+202011,Novembro/2020,40-49,Masculino,Branca,Médio completo,2954,2449,2520,51,245,67,82.9,102.9,1.73,8.29,2.27
+202011,Novembro/2020,40-49,Masculino,Branca,Médio incompleto,607,487,502,9,48,12,80.23,103.08,1.48,7.91,1.98
+202011,Novembro/2020,40-49,Masculino,Preta,Superior incompleto,86,75,76,1,11,1,87.21,101.33,1.16,12.79,1.16
+202011,Novembro/2020,40-49,Masculino,Amarela,Pós-graduação,17,15,15,0,1,0,88.24,100.0,0.0,5.88,0.0
+202011,Novembro/2020,40-49,Masculino,Ignorado,Fundamental incompleto,8,4,4,2,0,0,50.0,100.0,25.0,0.0,0.0
+202011,Novembro/2020,40-49,Masculino,Parda,Superior incompleto,419,338,348,12,50,18,80.67,102.96,2.86,11.93,4.3
+202011,Novembro/2020,40-49,Masculino,Branca,Pós-graduação,625,574,587,8,69,23,91.84,102.26,1.28,11.04,3.68
+202011,Novembro/2020,40-49,Masculino,Amarela,Fundamental incompleto,32,18,16,1,2,0,56.25,88.89,3.13,6.25,0.0
+202011,Novembro/2020,40-49,Masculino,Indígena,Médio completo,26,21,23,0,4,1,80.77,109.52,0.0,15.38,3.85
+202011,Novembro/2020,40-49,Masculino,Preta,Fundamental incompleto,830,593,595,27,57,20,71.45,100.34,3.25,6.87,2.41
+202011,Novembro/2020,40-49,Masculino,Parda,Médio completo,3565,2813,2904,46,272,69,78.91,103.23,1.29,7.63,1.94
+202011,Novembro/2020,40-49,Masculino,Amarela,Médio incompleto,15,10,10,1,0,0,66.67,100.0,6.67,0.0,0.0
+202011,Novembro/2020,40-49,Masculino,Branca,Superior incompleto,498,416,433,9,59,9,83.53,104.09,1.81,11.85,1.81
+202011,Novembro/2020,40-49,Masculino,Preta,Médio incompleto,181,135,137,4,10,2,74.59,101.48,2.21,5.52,1.1
+202011,Novembro/2020,40-49,Masculino,Parda,Pós-graduação,341,303,310,8,33,12,88.86,102.31,2.35,9.68,3.52
+202011,Novembro/2020,40-49,Masculino,Branca,Fundamental incompleto,2599,2056,2017,42,171,45,79.11,98.1,1.62,6.58,1.73
+202011,Novembro/2020,40-49,Masculino,Ignorado,Sem instrução,1,0,0,1,0,0,0.0,0.0,100.0,0.0,0.0
+202011,Novembro/2020,40-49,Masculino,Ignorado,Pós-graduação,2,1,1,0,0,0,50.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,40-49,Masculino,Indígena,Superior incompleto,2,2,2,0,0,0,100.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,40-49,Masculino,Ignorado,Superior completo,1,0,0,0,1,1,0.0,0.0,0.0,100.0,100.0
+202011,Novembro/2020,40-49,Masculino,Ignorado,Médio incompleto,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,50-59,Feminino,Indígena,Fundamental incompleto,24,5,5,3,1,1,20.83,100.0,12.5,4.17,4.17
+202011,Novembro/2020,50-59,Feminino,Branca,Fundamental incompleto,3579,1316,1125,141,285,76,36.77,85.49,3.94,7.96,2.12
+202011,Novembro/2020,50-59,Feminino,Preta,Fundamental incompleto,873,289,274,37,66,26,33.1,94.81,4.24,7.56,2.98
+202011,Novembro/2020,50-59,Feminino,Preta,Médio completo,609,268,299,29,54,16,44.01,111.57,4.76,8.87,2.63
+202011,Novembro/2020,50-59,Feminino,Indígena,Superior incompleto,5,2,3,1,0,0,40.0,150.0,20.0,0.0,0.0
+202011,Novembro/2020,50-59,Feminino,Preta,Superior completo,218,121,139,9,24,6,55.5,114.88,4.13,11.01,2.75
+202011,Novembro/2020,50-59,Feminino,Branca,Pós-graduação,794,542,570,31,83,31,68.26,105.17,3.9,10.45,3.9
+202011,Novembro/2020,50-59,Feminino,Branca,Médio completo,3125,1419,1508,120,260,89,45.41,106.27,3.84,8.32,2.85
+202011,Novembro/2020,50-59,Feminino,Branca,Fundamental completo,1331,525,494,45,129,36,39.44,94.1,3.38,9.69,2.7
+202011,Novembro/2020,50-59,Feminino,Indígena,Médio completo,17,9,11,1,0,1,52.94,122.22,5.88,0.0,5.88
+202011,Novembro/2020,50-59,Feminino,Indígena,Médio incompleto,5,0,1,0,2,0,0.0,0.0,0.0,40.0,0.0
+202011,Novembro/2020,50-59,Feminino,Amarela,Sem instrução,5,0,0,0,1,1,0.0,0.0,0.0,20.0,20.0
+202011,Novembro/2020,50-59,Feminino,Branca,Sem instrução,345,61,44,16,19,7,17.68,72.13,4.64,5.51,2.03
+202011,Novembro/2020,50-59,Feminino,Parda,Fundamental incompleto,4977,1462,1282,189,373,137,29.38,87.69,3.8,7.49,2.75
+202011,Novembro/2020,50-59,Feminino,Preta,Fundamental completo,251,83,88,7,19,7,33.07,106.02,2.79,7.57,2.79
+202011,Novembro/2020,50-59,Feminino,Amarela,Pós-graduação,9,9,9,0,1,0,100.0,100.0,0.0,11.11,0.0
+202011,Novembro/2020,50-59,Feminino,Parda,Sem instrução,855,155,112,38,59,25,18.13,72.26,4.44,6.9,2.92
+202011,Novembro/2020,50-59,Feminino,Branca,Superior completo,2124,1281,1374,98,214,60,60.31,107.26,4.61,10.08,2.82
+202011,Novembro/2020,50-59,Feminino,Parda,Pós-graduação,439,287,319,12,55,14,65.38,111.15,2.73,12.53,3.19
+202011,Novembro/2020,50-59,Feminino,Amarela,Médio completo,29,14,15,3,3,2,48.28,107.14,10.34,10.34,6.9
+202011,Novembro/2020,50-59,Feminino,Parda,Superior incompleto,200,93,102,12,24,13,46.5,109.68,6.0,12.0,6.5
+202011,Novembro/2020,50-59,Feminino,Parda,Médio incompleto,716,242,239,36,68,23,33.8,98.76,5.03,9.5,3.21
+202011,Novembro/2020,50-59,Feminino,Parda,Fundamental completo,1203,410,413,44,75,31,34.08,100.73,3.66,6.23,2.58
+202011,Novembro/2020,50-59,Feminino,Ignorado,Sem instrução,2,1,1,0,0,0,50.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,50-59,Feminino,Indígena,Sem instrução,9,0,0,0,1,1,0.0,0.0,0.0,11.11,11.11
+202011,Novembro/2020,50-59,Feminino,Indígena,Superior completo,11,7,8,0,2,2,63.64,114.29,0.0,18.18,18.18
+202011,Novembro/2020,50-59,Feminino,Branca,Médio incompleto,591,234,236,24,65,13,39.59,100.85,4.06,11.0,2.2
+202011,Novembro/2020,50-59,Feminino,Parda,Superior completo,1152,656,755,41,118,26,56.94,115.09,3.56,10.24,2.26
+202011,Novembro/2020,50-59,Feminino,Preta,Superior incompleto,53,30,33,3,11,1,56.6,110.0,5.66,20.75,1.89
+202011,Novembro/2020,50-59,Feminino,Amarela,Superior completo,38,25,24,1,2,0,65.79,96.0,2.63,5.26,0.0
+202011,Novembro/2020,50-59,Feminino,Indígena,Fundamental completo,17,6,6,0,1,0,35.29,100.0,0.0,5.88,0.0
+202011,Novembro/2020,50-59,Feminino,Preta,Pós-graduação,80,55,63,4,10,3,68.75,114.55,5.0,12.5,3.75
+202011,Novembro/2020,50-59,Feminino,Amarela,Superior incompleto,6,4,3,1,1,0,66.67,75.0,16.67,16.67,0.0
+202011,Novembro/2020,50-59,Feminino,Amarela,Fundamental completo,9,3,3,1,1,0,33.33,100.0,11.11,11.11,0.0
+202011,Novembro/2020,50-59,Feminino,Branca,Superior incompleto,349,180,197,14,33,19,51.58,109.44,4.01,9.46,5.44
+202011,Novembro/2020,50-59,Feminino,Amarela,Fundamental incompleto,27,9,8,2,1,0,33.33,88.89,7.41,3.7,0.0
+202011,Novembro/2020,50-59,Feminino,Preta,Sem instrução,128,23,14,8,10,2,17.97,60.87,6.25,7.81,1.56
+202011,Novembro/2020,50-59,Feminino,Indígena,Pós-graduação,5,4,4,0,0,0,80.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,50-59,Feminino,Preta,Médio incompleto,122,40,43,6,8,2,32.79,107.5,4.92,6.56,1.64
+202011,Novembro/2020,50-59,Feminino,Parda,Médio completo,2835,1204,1300,109,245,68,42.47,107.97,3.84,8.64,2.4
+202011,Novembro/2020,50-59,Feminino,Amarela,Médio incompleto,10,6,6,0,2,1,60.0,100.0,0.0,20.0,10.0
+202011,Novembro/2020,50-59,Feminino,Ignorado,Fundamental incompleto,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,50-59,Masculino,Preta,Médio completo,500,333,347,9,48,12,66.6,104.2,1.8,9.6,2.4
+202011,Novembro/2020,50-59,Masculino,Amarela,Fundamental incompleto,23,14,12,1,0,0,60.87,85.71,4.35,0.0,0.0
+202011,Novembro/2020,50-59,Masculino,Branca,Fundamental incompleto,3299,2299,2286,66,264,86,69.69,99.43,2.0,8.0,2.61
+202011,Novembro/2020,50-59,Masculino,Ignorado,Fundamental incompleto,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,50-59,Masculino,Indígena,Médio incompleto,6,3,3,0,0,1,50.0,100.0,0.0,0.0,16.67
+202011,Novembro/2020,50-59,Masculino,Preta,Fundamental completo,229,143,144,9,20,5,62.45,100.7,3.93,8.73,2.18
+202011,Novembro/2020,50-59,Masculino,Branca,Superior completo,1317,1030,1069,23,110,30,78.21,103.79,1.75,8.35,2.28
+202011,Novembro/2020,50-59,Masculino,Parda,Superior completo,649,477,511,11,52,19,73.5,107.13,1.69,8.01,2.93
+202011,Novembro/2020,50-59,Masculino,Parda,Fundamental completo,1082,702,744,21,88,27,64.88,105.98,1.94,8.13,2.5
+202011,Novembro/2020,50-59,Masculino,Indígena,Fundamental completo,10,7,7,0,0,1,70.0,100.0,0.0,0.0,10.0
+202011,Novembro/2020,50-59,Masculino,Amarela,Superior completo,30,23,24,0,3,1,76.67,104.35,0.0,10.0,3.33
+202011,Novembro/2020,50-59,Masculino,Preta,Superior incompleto,44,29,29,3,4,0,65.91,100.0,6.82,9.09,0.0
+202011,Novembro/2020,50-59,Masculino,Parda,Sem instrução,928,472,415,27,75,14,50.86,87.92,2.91,8.08,1.51
+202011,Novembro/2020,50-59,Masculino,Parda,Pós-graduação,199,167,174,3,16,4,83.92,104.19,1.51,8.04,2.01
+202011,Novembro/2020,50-59,Masculino,Preta,Médio incompleto,143,99,106,6,16,2,69.23,107.07,4.2,11.19,1.4
+202011,Novembro/2020,50-59,Masculino,Amarela,Sem instrução,6,3,3,1,0,0,50.0,100.0,16.67,0.0,0.0
+202011,Novembro/2020,50-59,Masculino,Preta,Pós-graduação,31,25,25,0,4,0,80.65,100.0,0.0,12.9,0.0
+202011,Novembro/2020,50-59,Masculino,Parda,Médio incompleto,655,422,439,10,52,15,64.43,104.03,1.53,7.94,2.29
+202011,Novembro/2020,50-59,Masculino,Indígena,Superior completo,4,3,3,0,0,0,75.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,50-59,Masculino,Parda,Fundamental incompleto,4762,3050,2943,109,305,95,64.05,96.49,2.29,6.4,1.99
+202011,Novembro/2020,50-59,Masculino,Branca,Pós-graduação,494,403,415,11,42,16,81.58,102.98,2.23,8.5,3.24
+202011,Novembro/2020,50-59,Masculino,Amarela,Fundamental completo,5,4,4,0,0,0,80.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,50-59,Masculino,Amarela,Médio incompleto,5,2,2,0,0,0,40.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,50-59,Masculino,Branca,Sem instrução,332,153,131,9,20,9,46.08,85.62,2.71,6.02,2.71
+202011,Novembro/2020,50-59,Masculino,Branca,Fundamental completo,1110,778,805,16,89,20,70.09,103.47,1.44,8.02,1.8
+202011,Novembro/2020,50-59,Masculino,Branca,Médio incompleto,592,411,430,13,56,15,69.43,104.62,2.2,9.46,2.53
+202011,Novembro/2020,50-59,Masculino,Amarela,Médio completo,25,18,20,1,2,1,72.0,111.11,4.0,8.0,4.0
+202011,Novembro/2020,50-59,Masculino,Parda,Médio completo,2302,1548,1635,49,206,44,67.25,105.62,2.13,8.95,1.91
+202011,Novembro/2020,50-59,Masculino,Branca,Médio completo,2509,1770,1836,46,240,43,70.55,103.73,1.83,9.57,1.71
+202011,Novembro/2020,50-59,Masculino,Preta,Sem instrução,194,95,89,5,13,5,48.97,93.68,2.58,6.7,2.58
+202011,Novembro/2020,50-59,Masculino,Indígena,Fundamental incompleto,38,23,21,3,3,0,60.53,91.3,7.89,7.89,0.0
+202011,Novembro/2020,50-59,Masculino,Preta,Superior completo,124,81,91,3,13,4,65.32,112.35,2.42,10.48,3.23
+202011,Novembro/2020,50-59,Masculino,Indígena,Sem instrução,9,4,4,0,2,0,44.44,100.0,0.0,22.22,0.0
+202011,Novembro/2020,50-59,Masculino,Branca,Superior incompleto,382,282,297,13,45,5,73.82,105.32,3.4,11.78,1.31
+202011,Novembro/2020,50-59,Masculino,Indígena,Pós-graduação,4,4,4,0,0,0,100.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,50-59,Masculino,Parda,Superior incompleto,195,140,149,4,17,5,71.79,106.43,2.05,8.72,2.56
+202011,Novembro/2020,50-59,Masculino,Ignorado,Sem instrução,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,50-59,Masculino,Amarela,Pós-graduação,6,5,5,0,1,0,83.33,100.0,0.0,16.67,0.0
+202011,Novembro/2020,50-59,Masculino,Preta,Fundamental incompleto,920,594,587,26,72,19,64.57,98.82,2.83,7.83,2.07
+202011,Novembro/2020,50-59,Masculino,Indígena,Médio completo,18,13,16,0,1,0,72.22,123.08,0.0,5.56,0.0
+202011,Novembro/2020,50-59,Masculino,Indígena,Superior incompleto,3,3,3,0,0,0,100.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,50-59,Masculino,Ignorado,Superior completo,1,0,0,0,1,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,50-59,Masculino,Amarela,Superior incompleto,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,60-69,Feminino,Branca,Fundamental completo,1123,164,162,26,91,24,14.6,98.78,2.32,8.1,2.14
+202011,Novembro/2020,60-69,Feminino,Preta,Superior completo,114,26,31,4,16,2,22.81,119.23,3.51,14.04,1.75
+202011,Novembro/2020,60-69,Feminino,Preta,Fundamental completo,177,27,29,4,15,4,15.25,107.41,2.26,8.47,2.26
+202011,Novembro/2020,60-69,Feminino,Parda,Fundamental incompleto,3919,442,357,159,361,113,11.28,80.77,4.06,9.21,2.88
+202011,Novembro/2020,60-69,Feminino,Preta,Sem instrução,239,16,13,9,26,4,6.69,81.25,3.77,10.88,1.67
+202011,Novembro/2020,60-69,Feminino,Amarela,Sem instrução,6,1,0,0,0,0,16.67,0.0,0.0,0.0,0.0
+202011,Novembro/2020,60-69,Feminino,Preta,Fundamental incompleto,675,98,94,29,69,20,14.52,95.92,4.3,10.22,2.96
+202011,Novembro/2020,60-69,Feminino,Parda,Pós-graduação,173,52,62,4,23,6,30.06,119.23,2.31,13.29,3.47
+202011,Novembro/2020,60-69,Feminino,Amarela,Superior incompleto,5,1,1,0,0,0,20.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,60-69,Feminino,Branca,Pós-graduação,418,152,166,15,37,14,36.36,109.21,3.59,8.85,3.35
+202011,Novembro/2020,60-69,Feminino,Amarela,Fundamental incompleto,37,3,2,2,2,0,8.11,66.67,5.41,5.41,0.0
+202011,Novembro/2020,60-69,Feminino,Parda,Médio completo,1496,251,305,64,153,42,16.78,121.51,4.28,10.23,2.81
+202011,Novembro/2020,60-69,Feminino,Branca,Superior completo,1479,393,429,48,123,38,26.57,109.16,3.25,8.32,2.57
+202011,Novembro/2020,60-69,Feminino,Indígena,Médio incompleto,3,0,0,0,1,0,0.0,0.0,0.0,33.33,0.0
+202011,Novembro/2020,60-69,Feminino,Branca,Médio incompleto,377,58,61,15,38,9,15.38,105.17,3.98,10.08,2.39
+202011,Novembro/2020,60-69,Feminino,Parda,Sem instrução,1213,103,67,42,90,29,8.49,65.05,3.46,7.42,2.39
+202011,Novembro/2020,60-69,Feminino,Amarela,Médio completo,32,13,10,1,2,0,40.63,76.92,3.13,6.25,0.0
+202011,Novembro/2020,60-69,Feminino,Parda,Médio incompleto,396,70,70,14,34,8,17.68,100.0,3.54,8.59,2.02
+202011,Novembro/2020,60-69,Feminino,Amarela,Fundamental completo,16,2,2,2,1,0,12.5,100.0,12.5,6.25,0.0
+202011,Novembro/2020,60-69,Feminino,Branca,Médio completo,2030,391,419,69,159,46,19.26,107.16,3.4,7.83,2.27
+202011,Novembro/2020,60-69,Feminino,Amarela,Superior completo,26,5,5,0,0,0,19.23,100.0,0.0,0.0,0.0
+202011,Novembro/2020,60-69,Feminino,Preta,Médio completo,310,60,73,19,35,6,19.35,121.67,6.13,11.29,1.94
+202011,Novembro/2020,60-69,Feminino,Indígena,Sem instrução,15,2,1,0,2,0,13.33,50.0,0.0,13.33,0.0
+202011,Novembro/2020,60-69,Feminino,Preta,Superior incompleto,24,5,9,0,2,0,20.83,180.0,0.0,8.33,0.0
+202011,Novembro/2020,60-69,Feminino,Indígena,Pós-graduação,2,1,1,0,1,1,50.0,100.0,0.0,50.0,50.0
+202011,Novembro/2020,60-69,Feminino,Parda,Fundamental completo,917,105,112,29,93,20,11.45,106.67,3.16,10.14,2.18
+202011,Novembro/2020,60-69,Feminino,Branca,Sem instrução,493,28,12,15,36,14,5.68,42.86,3.04,7.3,2.84
+202011,Novembro/2020,60-69,Feminino,Preta,Pós-graduação,32,11,13,0,3,0,34.38,118.18,0.0,9.38,0.0
+202011,Novembro/2020,60-69,Feminino,Indígena,Fundamental incompleto,31,1,2,0,4,1,3.23,200.0,0.0,12.9,3.23
+202011,Novembro/2020,60-69,Feminino,Preta,Médio incompleto,65,12,14,4,8,1,18.46,116.67,6.15,12.31,1.54
+202011,Novembro/2020,60-69,Feminino,Parda,Superior incompleto,89,19,21,4,15,2,21.35,110.53,4.49,16.85,2.25
+202011,Novembro/2020,60-69,Feminino,Indígena,Superior completo,4,1,2,1,1,1,25.0,200.0,25.0,25.0,25.0
+202011,Novembro/2020,60-69,Feminino,Parda,Superior completo,602,155,186,19,62,17,25.75,120.0,3.16,10.3,2.82
+202011,Novembro/2020,60-69,Feminino,Branca,Fundamental incompleto,3571,542,446,125,283,97,15.18,82.29,3.5,7.92,2.72
+202011,Novembro/2020,60-69,Feminino,Indígena,Fundamental completo,6,1,1,0,1,0,16.67,100.0,0.0,16.67,0.0
+202011,Novembro/2020,60-69,Feminino,Indígena,Médio completo,15,2,4,0,3,1,13.33,200.0,0.0,20.0,6.67
+202011,Novembro/2020,60-69,Feminino,Branca,Superior incompleto,260,65,71,8,29,9,25.0,109.23,3.08,11.15,3.46
+202011,Novembro/2020,60-69,Feminino,Ignorado,Fundamental incompleto,3,2,2,1,0,0,66.67,100.0,33.33,0.0,0.0
+202011,Novembro/2020,60-69,Feminino,Amarela,Pós-graduação,4,1,1,0,0,1,25.0,100.0,0.0,0.0,25.0
+202011,Novembro/2020,60-69,Feminino,Indígena,Superior incompleto,3,1,1,0,1,0,33.33,100.0,0.0,33.33,0.0
+202011,Novembro/2020,60-69,Feminino,Amarela,Médio incompleto,3,0,0,0,1,0,0.0,0.0,0.0,33.33,0.0
+202011,Novembro/2020,60-69,Masculino,Parda,Superior completo,366,172,199,7,40,9,46.99,115.7,1.91,10.93,2.46
+202011,Novembro/2020,60-69,Masculino,Indígena,Médio completo,7,3,2,0,2,0,42.86,66.67,0.0,28.57,0.0
+202011,Novembro/2020,60-69,Masculino,Branca,Médio incompleto,320,128,135,7,37,7,40.0,105.47,2.19,11.56,2.19
+202011,Novembro/2020,60-69,Masculino,Preta,Médio incompleto,55,16,16,1,6,0,29.09,100.0,1.82,10.91,0.0
+202011,Novembro/2020,60-69,Masculino,Amarela,Superior completo,28,8,8,0,1,1,28.57,100.0,0.0,3.57,3.57
+202011,Novembro/2020,60-69,Masculino,Amarela,Fundamental incompleto,27,10,9,0,1,0,37.04,90.0,0.0,3.7,0.0
+202011,Novembro/2020,60-69,Masculino,Parda,Pós-graduação,94,49,54,2,13,2,52.13,110.2,2.13,13.83,2.13
+202011,Novembro/2020,60-69,Masculino,Preta,Fundamental completo,169,61,67,1,20,5,36.09,109.84,0.59,11.83,2.96
+202011,Novembro/2020,60-69,Masculino,Parda,Superior incompleto,100,43,49,2,15,2,43.0,113.95,2.0,15.0,2.0
+202011,Novembro/2020,60-69,Masculino,Amarela,Sem instrução,3,1,1,0,0,0,33.33,100.0,0.0,0.0,0.0
+202011,Novembro/2020,60-69,Masculino,Amarela,Médio completo,26,12,12,0,2,0,46.15,100.0,0.0,7.69,0.0
+202011,Novembro/2020,60-69,Masculino,Indígena,Superior completo,2,1,1,0,0,0,50.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,60-69,Masculino,Indígena,Médio incompleto,3,1,0,0,1,0,33.33,0.0,0.0,33.33,0.0
+202011,Novembro/2020,60-69,Masculino,Preta,Superior incompleto,25,13,14,0,3,1,52.0,107.69,0.0,12.0,4.0
+202011,Novembro/2020,60-69,Masculino,Parda,Sem instrução,1108,340,245,26,86,26,30.69,72.06,2.35,7.76,2.35
+202011,Novembro/2020,60-69,Masculino,Indígena,Sem instrução,6,2,2,0,2,0,33.33,100.0,0.0,33.33,0.0
+202011,Novembro/2020,60-69,Masculino,Branca,Médio completo,1616,616,663,35,135,23,38.12,107.63,2.17,8.35,1.42
+202011,Novembro/2020,60-69,Masculino,Branca,Fundamental incompleto,3069,1153,1118,65,225,68,37.57,96.96,2.12,7.33,2.22
+202011,Novembro/2020,60-69,Masculino,Branca,Sem instrução,383,120,91,11,34,6,31.33,75.83,2.87,8.88,1.57
+202011,Novembro/2020,60-69,Masculino,Preta,Fundamental incompleto,673,239,231,25,54,10,35.51,96.65,3.71,8.02,1.49
+202011,Novembro/2020,60-69,Masculino,Parda,Médio incompleto,334,125,124,6,26,7,37.43,99.2,1.8,7.78,2.1
+202011,Novembro/2020,60-69,Masculino,Branca,Superior completo,1114,545,579,16,75,28,48.92,106.24,1.44,6.73,2.51
+202011,Novembro/2020,60-69,Masculino,Branca,Pós-graduação,293,166,178,2,24,6,56.66,107.23,0.68,8.19,2.05
+202011,Novembro/2020,60-69,Masculino,Parda,Fundamental incompleto,3518,1277,1214,85,329,86,36.3,95.07,2.42,9.35,2.44
+202011,Novembro/2020,60-69,Masculino,Indígena,Fundamental completo,3,2,2,0,0,0,66.67,100.0,0.0,0.0,0.0
+202011,Novembro/2020,60-69,Masculino,Parda,Fundamental completo,743,258,266,19,65,18,34.72,103.1,2.56,8.75,2.42
+202011,Novembro/2020,60-69,Masculino,Preta,Pós-graduação,14,7,8,1,1,0,50.0,114.29,7.14,7.14,0.0
+202011,Novembro/2020,60-69,Masculino,Preta,Superior completo,93,36,39,1,10,1,38.71,108.33,1.08,10.75,1.08
+202011,Novembro/2020,60-69,Masculino,Indígena,Fundamental incompleto,24,11,9,0,3,1,45.83,81.82,0.0,12.5,4.17
+202011,Novembro/2020,60-69,Masculino,Branca,Superior incompleto,280,125,136,5,30,6,44.64,108.8,1.79,10.71,2.14
+202011,Novembro/2020,60-69,Masculino,Preta,Médio completo,230,79,86,7,19,2,34.35,108.86,3.04,8.26,0.87
+202011,Novembro/2020,60-69,Masculino,Amarela,Fundamental completo,6,2,2,0,1,0,33.33,100.0,0.0,16.67,0.0
+202011,Novembro/2020,60-69,Masculino,Preta,Sem instrução,245,75,66,4,24,6,30.61,88.0,1.63,9.8,2.45
+202011,Novembro/2020,60-69,Masculino,Branca,Fundamental completo,927,348,359,16,60,19,37.54,103.16,1.73,6.47,2.05
+202011,Novembro/2020,60-69,Masculino,Parda,Médio completo,1157,422,470,30,125,29,36.47,111.37,2.59,10.8,2.51
+202011,Novembro/2020,60-69,Masculino,Ignorado,Superior completo,1,1,1,0,0,0,100.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,60-69,Masculino,Indígena,Pós-graduação,3,2,2,0,0,0,66.67,100.0,0.0,0.0,0.0
+202011,Novembro/2020,60-69,Masculino,Amarela,Pós-graduação,5,4,4,0,3,0,80.0,100.0,0.0,60.0,0.0
+202011,Novembro/2020,60-69,Masculino,Amarela,Superior incompleto,7,1,1,0,1,2,14.29,100.0,0.0,14.29,28.57
+202011,Novembro/2020,60-69,Masculino,Amarela,Médio incompleto,2,2,2,0,0,0,100.0,100.0,0.0,0.0,0.0
+202011,Novembro/2020,60-69,Masculino,Indígena,Superior incompleto,1,0,0,0,1,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,70+,Feminino,Preta,Médio incompleto,35,0,0,2,2,1,0.0,0.0,5.71,5.71,2.86
+202011,Novembro/2020,70+,Feminino,Branca,Sem instrução,1256,19,8,42,75,32,1.51,42.11,3.34,5.97,2.55
+202011,Novembro/2020,70+,Feminino,Branca,Pós-graduação,167,26,29,11,9,8,15.57,111.54,6.59,5.39,4.79
+202011,Novembro/2020,70+,Feminino,Branca,Superior incompleto,83,3,2,5,8,0,3.61,66.67,6.02,9.64,0.0
+202011,Novembro/2020,70+,Feminino,Parda,Fundamental incompleto,2851,86,56,81,162,63,3.02,65.12,2.84,5.68,2.21
+202011,Novembro/2020,70+,Feminino,Indígena,Fundamental incompleto,23,0,0,0,1,0,0.0,0.0,0.0,4.35,0.0
+202011,Novembro/2020,70+,Feminino,Indígena,Fundamental completo,6,1,1,0,2,0,16.67,100.0,0.0,33.33,0.0
+202011,Novembro/2020,70+,Feminino,Branca,Médio completo,1328,59,55,62,68,34,4.44,93.22,4.67,5.12,2.56
+202011,Novembro/2020,70+,Feminino,Preta,Pós-graduação,7,2,1,0,1,0,28.57,50.0,0.0,14.29,0.0
+202011,Novembro/2020,70+,Feminino,Branca,Fundamental completo,1246,44,36,52,57,30,3.53,81.82,4.17,4.57,2.41
+202011,Novembro/2020,70+,Feminino,Amarela,Fundamental incompleto,46,1,2,4,0,1,2.17,200.0,8.7,0.0,2.17
+202011,Novembro/2020,70+,Feminino,Preta,Médio completo,105,4,5,6,6,2,3.81,125.0,5.71,5.71,1.9
+202011,Novembro/2020,70+,Feminino,Branca,Superior completo,891,52,54,29,44,21,5.84,103.85,3.25,4.94,2.36
+202011,Novembro/2020,70+,Feminino,Parda,Pós-graduação,35,3,5,0,2,2,8.57,166.67,0.0,5.71,5.71
+202011,Novembro/2020,70+,Feminino,Parda,Médio completo,580,15,17,12,44,8,2.59,113.33,2.07,7.59,1.38
+202011,Novembro/2020,70+,Feminino,Indígena,Médio completo,7,0,0,1,0,0,0.0,0.0,14.29,0.0,0.0
+202011,Novembro/2020,70+,Feminino,Preta,Fundamental incompleto,476,16,11,16,34,14,3.36,68.75,3.36,7.14,2.94
+202011,Novembro/2020,70+,Feminino,Parda,Superior incompleto,34,3,4,2,1,2,8.82,133.33,5.88,2.94,5.88
+202011,Novembro/2020,70+,Feminino,Branca,Fundamental incompleto,3961,147,95,116,223,90,3.71,64.63,2.93,5.63,2.27
+202011,Novembro/2020,70+,Feminino,Amarela,Médio completo,31,0,0,2,2,0,0.0,0.0,6.45,6.45,0.0
+202011,Novembro/2020,70+,Feminino,Indígena,Sem instrução,19,0,0,1,0,0,0.0,0.0,5.26,0.0,0.0
+202011,Novembro/2020,70+,Feminino,Preta,Superior completo,37,3,4,1,7,1,8.11,133.33,2.7,18.92,2.7
+202011,Novembro/2020,70+,Feminino,Parda,Médio incompleto,114,7,5,4,6,1,6.14,71.43,3.51,5.26,0.88
+202011,Novembro/2020,70+,Feminino,Amarela,Médio incompleto,4,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,70+,Feminino,Amarela,Sem instrução,20,1,0,1,2,0,5.0,0.0,5.0,10.0,0.0
+202011,Novembro/2020,70+,Feminino,Parda,Superior completo,263,18,19,8,13,5,6.84,105.56,3.04,4.94,1.9
+202011,Novembro/2020,70+,Feminino,Parda,Sem instrução,2026,31,10,56,109,64,1.53,32.26,2.76,5.38,3.16
+202011,Novembro/2020,70+,Feminino,Preta,Fundamental completo,131,3,3,4,11,3,2.29,100.0,3.05,8.4,2.29
+202011,Novembro/2020,70+,Feminino,Indígena,Médio incompleto,2,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,70+,Feminino,Parda,Fundamental completo,600,14,11,20,37,19,2.33,78.57,3.33,6.17,3.17
+202011,Novembro/2020,70+,Feminino,Amarela,Superior completo,21,1,2,0,0,0,4.76,200.0,0.0,0.0,0.0
+202011,Novembro/2020,70+,Feminino,Amarela,Fundamental completo,17,0,0,1,2,1,0.0,0.0,5.88,11.76,5.88
+202011,Novembro/2020,70+,Feminino,Branca,Médio incompleto,236,13,10,9,14,0,5.51,76.92,3.81,5.93,0.0
+202011,Novembro/2020,70+,Feminino,Preta,Sem instrução,379,10,5,14,31,9,2.64,50.0,3.69,8.18,2.37
+202011,Novembro/2020,70+,Feminino,Preta,Superior incompleto,2,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,70+,Feminino,Ignorado,Fundamental incompleto,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,70+,Feminino,Amarela,Superior incompleto,3,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,70+,Masculino,Preta,Pós-graduação,7,1,1,1,2,0,14.29,100.0,14.29,28.57,0.0
+202011,Novembro/2020,70+,Masculino,Parda,Fundamental completo,465,49,46,10,32,7,10.54,93.88,2.15,6.88,1.51
+202011,Novembro/2020,70+,Masculino,Amarela,Fundamental incompleto,30,1,1,1,0,0,3.33,100.0,3.33,0.0,0.0
+202011,Novembro/2020,70+,Masculino,Preta,Superior incompleto,10,0,1,1,1,0,0.0,0.0,10.0,10.0,0.0
+202011,Novembro/2020,70+,Masculino,Amarela,Superior completo,29,4,4,0,2,1,13.79,100.0,0.0,6.9,3.45
+202011,Novembro/2020,70+,Masculino,Branca,Sem instrução,793,67,40,13,47,19,8.45,59.7,1.64,5.93,2.4
+202011,Novembro/2020,70+,Masculino,Parda,Médio completo,486,48,52,12,34,11,9.88,108.33,2.47,7.0,2.26
+202011,Novembro/2020,70+,Masculino,Branca,Pós-graduação,145,43,43,5,4,3,29.66,100.0,3.45,2.76,2.07
+202011,Novembro/2020,70+,Masculino,Parda,Médio incompleto,119,17,16,4,11,4,14.29,94.12,3.36,9.24,3.36
+202011,Novembro/2020,70+,Masculino,Parda,Pós-graduação,32,8,9,0,5,1,25.0,112.5,0.0,15.63,3.13
+202011,Novembro/2020,70+,Masculino,Branca,Superior incompleto,112,16,18,2,9,3,14.29,112.5,1.79,8.04,2.68
+202011,Novembro/2020,70+,Masculino,Indígena,Médio completo,4,2,2,0,1,0,50.0,100.0,0.0,25.0,0.0
+202011,Novembro/2020,70+,Masculino,Preta,Médio incompleto,32,4,3,1,3,0,12.5,75.0,3.13,9.38,0.0
+202011,Novembro/2020,70+,Masculino,Amarela,Fundamental completo,18,2,2,1,0,0,11.11,100.0,5.56,0.0,0.0
+202011,Novembro/2020,70+,Masculino,Parda,Fundamental incompleto,2434,301,217,37,180,70,12.37,72.09,1.52,7.4,2.88
+202011,Novembro/2020,70+,Masculino,Parda,Superior incompleto,37,6,7,1,1,1,16.22,116.67,2.7,2.7,2.7
+202011,Novembro/2020,70+,Masculino,Preta,Superior completo,27,3,4,0,1,0,11.11,133.33,0.0,3.7,0.0
+202011,Novembro/2020,70+,Masculino,Indígena,Médio incompleto,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,70+,Masculino,Preta,Sem instrução,331,23,9,7,25,6,6.95,39.13,2.11,7.55,1.81
+202011,Novembro/2020,70+,Masculino,Preta,Fundamental completo,98,5,6,1,9,0,5.1,120.0,1.02,9.18,0.0
+202011,Novembro/2020,70+,Masculino,Amarela,Médio completo,22,3,3,1,2,1,13.64,100.0,4.55,9.09,4.55
+202011,Novembro/2020,70+,Masculino,Branca,Médio incompleto,184,22,20,5,8,7,11.96,90.91,2.72,4.35,3.8
+202011,Novembro/2020,70+,Masculino,Preta,Médio completo,93,8,9,3,5,0,8.6,112.5,3.23,5.38,0.0
+202011,Novembro/2020,70+,Masculino,Branca,Médio completo,822,92,96,17,51,19,11.19,104.35,2.07,6.2,2.31
+202011,Novembro/2020,70+,Masculino,Branca,Superior completo,776,166,175,16,40,9,21.39,105.42,2.06,5.15,1.16
+202011,Novembro/2020,70+,Masculino,Preta,Fundamental incompleto,442,44,38,10,24,14,9.95,86.36,2.26,5.43,3.17
+202011,Novembro/2020,70+,Masculino,Indígena,Sem instrução,6,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,70+,Masculino,Amarela,Sem instrução,12,3,2,0,1,1,25.0,66.67,0.0,8.33,8.33
+202011,Novembro/2020,70+,Masculino,Parda,Superior completo,179,26,30,1,14,4,14.53,115.38,0.56,7.82,2.23
+202011,Novembro/2020,70+,Masculino,Branca,Fundamental incompleto,2939,408,340,62,172,77,13.88,83.33,2.11,5.85,2.62
+202011,Novembro/2020,70+,Masculino,Parda,Sem instrução,1584,135,74,36,125,34,8.52,54.81,2.27,7.89,2.15
+202011,Novembro/2020,70+,Masculino,Indígena,Fundamental incompleto,14,1,1,0,0,0,7.14,100.0,0.0,0.0,0.0
+202011,Novembro/2020,70+,Masculino,Branca,Fundamental completo,761,98,94,17,38,17,12.88,95.92,2.23,4.99,2.23
+202011,Novembro/2020,70+,Masculino,Amarela,Pós-graduação,2,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,70+,Masculino,Indígena,Fundamental completo,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,70+,Masculino,Indígena,Superior completo,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,70+,Masculino,Amarela,Superior incompleto,6,1,1,0,0,0,16.67,100.0,0.0,0.0,0.0
+202011,Novembro/2020,70+,Masculino,Amarela,Médio incompleto,7,3,2,0,0,0,42.86,66.67,0.0,0.0,0.0

@@ -1,0 +1,25 @@
+# Dados pesados (Parquet e CSVs originais)
+*.parquet
+arquivos_originais/
+dados/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# Spark
+metastore_db/
+derby.log
+spark-warehouse/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

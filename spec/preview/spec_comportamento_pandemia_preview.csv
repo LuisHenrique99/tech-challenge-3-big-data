@@ -1,0 +1,1621 @@
+﻿ano_mes,mes_desc,faixa_etaria,sexo_desc,regiao,escolaridade_desc,total_pessoas,qtd_ficou_em_casa,qtd_reduziu_contato,qtd_vida_normal,qtd_trabalhou,qtd_trabalho_remoto,qtd_sintomatico_trabalhando,pct_ficou_em_casa,pct_reduziu_contato,pct_vida_normal,pct_trabalho_remoto,pct_sintomatico_trabalhando
+202009,Setembro/2020,0-17,Masculino,Centro-Oeste,Fundamental incompleto,2771,0,17,0,40,31,2,0.0,0.61,0.0,77.5,0.07
+202009,Setembro/2020,0-17,Feminino,Centro-Oeste,Sem instrução,1311,0,6,0,0,0,0,0.0,0.46,0.0,0.0,0.0
+202009,Setembro/2020,0-17,Feminino,Centro-Oeste,Fundamental completo,84,0,1,0,5,5,0,0.0,1.19,0.0,100.0,0.0
+202009,Setembro/2020,0-17,Masculino,Centro-Oeste,Médio incompleto,724,0,1,0,110,103,2,0.0,0.14,0.0,93.64,0.28
+202009,Setembro/2020,0-17,Masculino,Centro-Oeste,Sem instrução,1414,0,2,0,0,0,0,0.0,0.14,0.0,0.0,0.0
+202009,Setembro/2020,0-17,Feminino,Centro-Oeste,Superior incompleto,6,0,0,0,3,3,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,0-17,Feminino,Centro-Oeste,Médio completo,33,0,0,0,5,3,0,0.0,0.0,0.0,60.0,0.0
+202009,Setembro/2020,0-17,Masculino,Centro-Oeste,Médio completo,34,0,0,0,9,9,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,0-17,Masculino,Centro-Oeste,Superior incompleto,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,0-17,Feminino,Centro-Oeste,Médio incompleto,723,0,5,0,52,52,4,0.0,0.69,0.0,100.0,0.55
+202009,Setembro/2020,0-17,Feminino,Centro-Oeste,Fundamental incompleto,2546,0,4,0,13,12,0,0.0,0.16,0.0,92.31,0.0
+202009,Setembro/2020,0-17,Masculino,Centro-Oeste,Fundamental completo,119,0,1,0,9,9,0,0.0,0.84,0.0,100.0,0.0
+202009,Setembro/2020,18-29,Masculino,Centro-Oeste,Pós-graduação,40,1,0,0,33,34,0,2.5,0.0,0.0,103.03,0.0
+202009,Setembro/2020,18-29,Masculino,Centro-Oeste,Superior completo,362,0,6,0,282,285,6,0.0,1.66,0.0,101.06,1.66
+202009,Setembro/2020,18-29,Feminino,Centro-Oeste,Fundamental completo,126,0,1,0,39,42,0,0.0,0.79,0.0,107.69,0.0
+202009,Setembro/2020,18-29,Masculino,Centro-Oeste,Sem instrução,21,0,0,0,4,4,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,18-29,Feminino,Centro-Oeste,Sem instrução,11,0,0,0,1,1,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,18-29,Masculino,Centro-Oeste,Fundamental completo,158,0,0,0,109,111,1,0.0,0.0,0.0,101.83,0.63
+202009,Setembro/2020,18-29,Feminino,Centro-Oeste,Superior completo,567,0,11,0,355,380,8,0.0,1.94,0.0,107.04,1.41
+202009,Setembro/2020,18-29,Masculino,Centro-Oeste,Médio incompleto,624,0,4,0,384,383,6,0.0,0.64,0.0,99.74,0.96
+202009,Setembro/2020,18-29,Masculino,Centro-Oeste,Superior incompleto,684,0,5,0,369,374,5,0.0,0.73,0.0,101.36,0.73
+202009,Setembro/2020,18-29,Masculino,Centro-Oeste,Médio completo,1217,0,8,0,823,837,20,0.0,0.66,0.0,101.7,1.64
+202009,Setembro/2020,18-29,Feminino,Centro-Oeste,Médio incompleto,422,0,7,0,125,131,5,0.0,1.66,0.0,104.8,1.18
+202009,Setembro/2020,18-29,Feminino,Centro-Oeste,Pós-graduação,75,0,1,0,54,56,1,0.0,1.33,0.0,103.7,1.33
+202009,Setembro/2020,18-29,Feminino,Centro-Oeste,Médio completo,1146,0,14,0,493,527,11,0.0,1.22,0.0,106.9,0.96
+202009,Setembro/2020,18-29,Feminino,Centro-Oeste,Superior incompleto,849,1,9,0,323,340,5,0.12,1.06,0.0,105.26,0.59
+202009,Setembro/2020,18-29,Feminino,Centro-Oeste,Fundamental incompleto,186,1,1,0,45,44,1,0.54,0.54,0.0,97.78,0.54
+202009,Setembro/2020,18-29,Masculino,Centro-Oeste,Fundamental incompleto,280,0,0,0,185,182,2,0.0,0.0,0.0,98.38,0.71
+202009,Setembro/2020,30-39,Masculino,Centro-Oeste,Superior completo,526,1,4,0,465,478,5,0.19,0.76,0.0,102.8,0.95
+202009,Setembro/2020,30-39,Masculino,Centro-Oeste,Fundamental incompleto,527,0,2,1,418,431,6,0.0,0.38,0.19,103.11,1.14
+202009,Setembro/2020,30-39,Feminino,Centro-Oeste,Pós-graduação,235,0,3,0,192,208,7,0.0,1.28,0.0,108.33,2.98
+202009,Setembro/2020,30-39,Masculino,Centro-Oeste,Superior incompleto,219,0,0,0,177,181,3,0.0,0.0,0.0,102.26,1.37
+202009,Setembro/2020,30-39,Feminino,Centro-Oeste,Superior completo,796,1,9,1,592,634,4,0.13,1.13,0.13,107.09,0.5
+202009,Setembro/2020,30-39,Feminino,Centro-Oeste,Fundamental incompleto,353,0,0,0,122,126,1,0.0,0.0,0.0,103.28,0.28
+202009,Setembro/2020,30-39,Masculino,Centro-Oeste,Sem instrução,44,0,0,0,18,18,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,30-39,Feminino,Centro-Oeste,Médio incompleto,247,0,3,0,110,109,1,0.0,1.21,0.0,99.09,0.4
+202009,Setembro/2020,30-39,Feminino,Centro-Oeste,Superior incompleto,290,1,0,0,168,185,3,0.34,0.0,0.0,110.12,1.03
+202009,Setembro/2020,30-39,Masculino,Centro-Oeste,Médio incompleto,280,0,5,0,236,247,6,0.0,1.79,0.0,104.66,2.14
+202009,Setembro/2020,30-39,Masculino,Centro-Oeste,Pós-graduação,165,1,1,0,159,163,2,0.61,0.61,0.0,102.52,1.21
+202009,Setembro/2020,30-39,Feminino,Centro-Oeste,Médio completo,1043,0,13,0,583,608,15,0.0,1.25,0.0,104.29,1.44
+202009,Setembro/2020,30-39,Masculino,Centro-Oeste,Médio completo,936,0,5,0,799,812,17,0.0,0.53,0.0,101.63,1.82
+202009,Setembro/2020,30-39,Masculino,Centro-Oeste,Fundamental completo,186,0,0,0,155,154,0,0.0,0.0,0.0,99.35,0.0
+202009,Setembro/2020,30-39,Feminino,Centro-Oeste,Fundamental completo,184,1,1,0,77,84,2,0.54,0.54,0.0,109.09,1.09
+202009,Setembro/2020,30-39,Feminino,Centro-Oeste,Sem instrução,25,0,0,0,6,6,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,40-49,Feminino,Centro-Oeste,Sem instrução,52,0,1,0,14,14,2,0.0,1.92,0.0,100.0,3.85
+202009,Setembro/2020,40-49,Feminino,Centro-Oeste,Fundamental completo,243,0,3,0,117,125,2,0.0,1.23,0.0,106.84,0.82
+202009,Setembro/2020,40-49,Feminino,Centro-Oeste,Superior incompleto,153,0,2,0,100,101,1,0.0,1.31,0.0,101.0,0.65
+202009,Setembro/2020,40-49,Feminino,Centro-Oeste,Médio incompleto,230,0,4,0,115,116,1,0.0,1.74,0.0,100.87,0.43
+202009,Setembro/2020,40-49,Masculino,Centro-Oeste,Superior incompleto,127,0,1,0,109,112,3,0.0,0.79,0.0,102.75,2.36
+202009,Setembro/2020,40-49,Feminino,Centro-Oeste,Fundamental incompleto,770,1,4,0,322,325,5,0.13,0.52,0.0,100.93,0.65
+202009,Setembro/2020,40-49,Masculino,Centro-Oeste,Pós-graduação,132,0,0,0,126,128,2,0.0,0.0,0.0,101.59,1.52
+202009,Setembro/2020,40-49,Feminino,Centro-Oeste,Superior completo,631,1,2,0,449,483,5,0.16,0.32,0.0,107.57,0.79
+202009,Setembro/2020,40-49,Feminino,Centro-Oeste,Médio completo,954,1,10,0,530,557,7,0.1,1.05,0.0,105.09,0.73
+202009,Setembro/2020,40-49,Masculino,Centro-Oeste,Fundamental incompleto,871,0,5,0,684,705,8,0.0,0.57,0.0,103.07,0.92
+202009,Setembro/2020,40-49,Masculino,Centro-Oeste,Médio incompleto,218,0,2,0,184,188,3,0.0,0.92,0.0,102.17,1.38
+202009,Setembro/2020,40-49,Masculino,Centro-Oeste,Médio completo,784,3,10,0,651,681,17,0.38,1.28,0.0,104.61,2.17
+202009,Setembro/2020,40-49,Masculino,Centro-Oeste,Sem instrução,70,0,0,0,39,38,1,0.0,0.0,0.0,97.44,1.43
+202009,Setembro/2020,40-49,Masculino,Centro-Oeste,Superior completo,416,1,4,0,364,377,5,0.24,0.96,0.0,103.57,1.2
+202009,Setembro/2020,40-49,Feminino,Centro-Oeste,Pós-graduação,254,0,2,0,212,224,6,0.0,0.79,0.0,105.66,2.36
+202009,Setembro/2020,40-49,Masculino,Centro-Oeste,Fundamental completo,248,0,1,0,210,214,3,0.0,0.4,0.0,101.9,1.21
+202009,Setembro/2020,50-59,Masculino,Centro-Oeste,Médio incompleto,154,0,1,0,100,107,3,0.0,0.65,0.0,107.0,1.95
+202009,Setembro/2020,50-59,Feminino,Centro-Oeste,Médio completo,771,1,10,1,363,408,6,0.13,1.3,0.13,112.4,0.78
+202009,Setembro/2020,50-59,Masculino,Centro-Oeste,Pós-graduação,98,0,1,0,80,83,3,0.0,1.02,0.0,103.75,3.06
+202009,Setembro/2020,50-59,Feminino,Centro-Oeste,Superior completo,437,0,8,1,235,267,7,0.0,1.83,0.23,113.62,1.6
+202009,Setembro/2020,50-59,Masculino,Centro-Oeste,Fundamental completo,238,0,1,0,173,178,3,0.0,0.42,0.0,102.89,1.26
+202009,Setembro/2020,50-59,Masculino,Centro-Oeste,Médio completo,584,2,7,0,402,447,11,0.34,1.2,0.0,111.19,1.88
+202009,Setembro/2020,50-59,Masculino,Centro-Oeste,Fundamental incompleto,995,0,5,0,694,727,13,0.0,0.5,0.0,104.76,1.31
+202009,Setembro/2020,50-59,Feminino,Centro-Oeste,Superior incompleto,60,1,2,0,29,32,1,1.67,3.33,0.0,110.34,1.67
+202009,Setembro/2020,50-59,Feminino,Centro-Oeste,Fundamental completo,296,0,4,0,98,111,2,0.0,1.35,0.0,113.27,0.68
+202009,Setembro/2020,50-59,Feminino,Centro-Oeste,Pós-graduação,159,0,5,0,93,100,1,0.0,3.14,0.0,107.53,0.63
+202009,Setembro/2020,50-59,Masculino,Centro-Oeste,Sem instrução,129,0,1,0,75,76,3,0.0,0.78,0.0,101.33,2.33
+202009,Setembro/2020,50-59,Feminino,Centro-Oeste,Médio incompleto,177,0,0,0,64,66,2,0.0,0.0,0.0,103.13,1.13
+202009,Setembro/2020,50-59,Masculino,Centro-Oeste,Superior completo,281,0,3,0,206,221,9,0.0,1.07,0.0,107.28,3.2
+202009,Setembro/2020,50-59,Masculino,Centro-Oeste,Superior incompleto,72,0,1,0,55,58,0,0.0,1.39,0.0,105.45,0.0
+202009,Setembro/2020,50-59,Feminino,Centro-Oeste,Sem instrução,126,0,1,0,24,25,0,0.0,0.79,0.0,104.17,0.0
+202009,Setembro/2020,50-59,Feminino,Centro-Oeste,Fundamental incompleto,1001,0,10,0,332,324,11,0.0,1.0,0.0,97.59,1.1
+202009,Setembro/2020,60-69,Feminino,Centro-Oeste,Sem instrução,217,0,2,0,14,13,0,0.0,0.92,0.0,92.86,0.0
+202009,Setembro/2020,60-69,Masculino,Centro-Oeste,Fundamental completo,173,1,1,0,73,85,3,0.58,0.58,0.0,116.44,1.73
+202009,Setembro/2020,60-69,Masculino,Centro-Oeste,Pós-graduação,53,0,0,0,30,34,2,0.0,0.0,0.0,113.33,3.77
+202009,Setembro/2020,60-69,Feminino,Centro-Oeste,Médio completo,402,4,4,0,85,96,0,1.0,1.0,0.0,112.94,0.0
+202009,Setembro/2020,60-69,Feminino,Centro-Oeste,Superior completo,220,0,2,0,52,56,2,0.0,0.91,0.0,107.69,0.91
+202009,Setembro/2020,60-69,Masculino,Centro-Oeste,Superior completo,193,0,1,0,90,101,1,0.0,0.52,0.0,112.22,0.52
+202009,Setembro/2020,60-69,Masculino,Centro-Oeste,Sem instrução,142,0,3,0,50,46,1,0.0,2.11,0.0,92.0,0.7
+202009,Setembro/2020,60-69,Feminino,Centro-Oeste,Pós-graduação,74,0,1,0,21,25,0,0.0,1.35,0.0,119.05,0.0
+202009,Setembro/2020,60-69,Feminino,Centro-Oeste,Superior incompleto,34,0,0,0,6,7,0,0.0,0.0,0.0,116.67,0.0
+202009,Setembro/2020,60-69,Feminino,Centro-Oeste,Médio incompleto,88,0,0,0,14,23,1,0.0,0.0,0.0,164.29,1.14
+202009,Setembro/2020,60-69,Masculino,Centro-Oeste,Médio incompleto,90,0,0,0,40,43,1,0.0,0.0,0.0,107.5,1.11
+202009,Setembro/2020,60-69,Masculino,Centro-Oeste,Fundamental incompleto,767,2,6,1,323,335,9,0.26,0.78,0.13,103.72,1.17
+202009,Setembro/2020,60-69,Feminino,Centro-Oeste,Fundamental completo,196,0,2,0,30,30,1,0.0,1.02,0.0,100.0,0.51
+202009,Setembro/2020,60-69,Masculino,Centro-Oeste,Superior incompleto,38,0,0,0,20,20,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,60-69,Feminino,Centro-Oeste,Fundamental incompleto,837,1,10,0,93,92,0,0.12,1.19,0.0,98.92,0.0
+202009,Setembro/2020,60-69,Masculino,Centro-Oeste,Médio completo,344,0,2,1,151,172,4,0.0,0.58,0.29,113.91,1.16
+202009,Setembro/2020,70+,Masculino,Centro-Oeste,Sem instrução,274,0,1,0,27,25,2,0.0,0.36,0.0,92.59,0.73
+202009,Setembro/2020,70+,Feminino,Centro-Oeste,Médio completo,208,0,3,0,5,5,0,0.0,1.44,0.0,100.0,0.0
+202009,Setembro/2020,70+,Feminino,Centro-Oeste,Superior completo,108,0,1,0,4,5,0,0.0,0.93,0.0,125.0,0.0
+202009,Setembro/2020,70+,Masculino,Centro-Oeste,Superior completo,107,0,0,0,26,27,1,0.0,0.0,0.0,103.85,0.93
+202009,Setembro/2020,70+,Feminino,Centro-Oeste,Médio incompleto,50,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,70+,Feminino,Centro-Oeste,Pós-graduação,21,0,0,0,2,2,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,70+,Feminino,Centro-Oeste,Fundamental incompleto,652,2,6,0,27,20,0,0.31,0.92,0.0,74.07,0.0
+202009,Setembro/2020,70+,Feminino,Centro-Oeste,Fundamental completo,157,0,1,0,8,6,1,0.0,0.64,0.0,75.0,0.64
+202009,Setembro/2020,70+,Masculino,Centro-Oeste,Fundamental completo,112,0,0,0,13,13,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,70+,Masculino,Centro-Oeste,Superior incompleto,19,0,0,0,3,5,0,0.0,0.0,0.0,166.67,0.0
+202009,Setembro/2020,70+,Masculino,Centro-Oeste,Fundamental incompleto,579,1,5,0,85,76,3,0.17,0.86,0.0,89.41,0.52
+202009,Setembro/2020,70+,Masculino,Centro-Oeste,Pós-graduação,19,0,1,0,4,4,0,0.0,5.26,0.0,100.0,0.0
+202009,Setembro/2020,70+,Masculino,Centro-Oeste,Médio completo,144,3,0,1,17,21,0,2.08,0.0,0.69,123.53,0.0
+202009,Setembro/2020,70+,Masculino,Centro-Oeste,Médio incompleto,43,0,0,0,5,6,0,0.0,0.0,0.0,120.0,0.0
+202009,Setembro/2020,70+,Feminino,Centro-Oeste,Sem instrução,321,2,0,0,8,2,0,0.62,0.0,0.0,25.0,0.0
+202009,Setembro/2020,70+,Feminino,Centro-Oeste,Superior incompleto,7,0,0,0,1,1,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,0-17,Masculino,Nordeste,Superior incompleto,14,0,0,0,2,1,0,0.0,0.0,0.0,50.0,0.0
+202009,Setembro/2020,0-17,Feminino,Nordeste,Fundamental incompleto,8750,2,20,0,43,17,2,0.02,0.23,0.0,39.53,0.02
+202009,Setembro/2020,0-17,Feminino,Nordeste,Médio incompleto,2069,0,5,0,101,57,1,0.0,0.24,0.0,56.44,0.05
+202009,Setembro/2020,0-17,Masculino,Nordeste,Fundamental incompleto,9301,1,17,0,156,82,5,0.01,0.18,0.0,52.56,0.05
+202009,Setembro/2020,0-17,Masculino,Nordeste,Médio completo,97,0,0,0,13,8,0,0.0,0.0,0.0,61.54,0.0
+202009,Setembro/2020,0-17,Feminino,Nordeste,Superior incompleto,27,0,0,0,2,2,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,0-17,Feminino,Nordeste,Médio completo,117,0,0,0,9,8,0,0.0,0.0,0.0,88.89,0.0
+202009,Setembro/2020,0-17,Feminino,Nordeste,Fundamental completo,216,0,0,0,6,1,0,0.0,0.0,0.0,16.67,0.0
+202009,Setembro/2020,0-17,Masculino,Nordeste,Fundamental completo,211,0,0,0,12,6,0,0.0,0.0,0.0,50.0,0.0
+202009,Setembro/2020,0-17,Feminino,Nordeste,Sem instrução,4200,2,20,0,1,0,0,0.05,0.48,0.0,0.0,0.0
+202009,Setembro/2020,0-17,Masculino,Nordeste,Sem instrução,4235,2,14,0,3,3,0,0.05,0.33,0.0,100.0,0.0
+202009,Setembro/2020,0-17,Masculino,Nordeste,Médio incompleto,1893,0,3,0,195,108,3,0.0,0.16,0.0,55.38,0.16
+202009,Setembro/2020,18-29,Feminino,Nordeste,Superior incompleto,1681,2,11,0,559,581,7,0.12,0.65,0.0,103.94,0.42
+202009,Setembro/2020,18-29,Feminino,Nordeste,Médio incompleto,1675,0,6,0,261,230,6,0.0,0.36,0.0,88.12,0.36
+202009,Setembro/2020,18-29,Masculino,Nordeste,Médio completo,3962,0,16,0,2068,1965,28,0.0,0.4,0.0,95.02,0.71
+202009,Setembro/2020,18-29,Feminino,Nordeste,Fundamental completo,424,0,1,0,84,72,1,0.0,0.24,0.0,85.71,0.24
+202009,Setembro/2020,18-29,Feminino,Nordeste,Sem instrução,66,0,1,0,1,2,0,0.0,1.52,0.0,200.0,0.0
+202009,Setembro/2020,18-29,Masculino,Nordeste,Sem instrução,84,0,0,0,14,13,0,0.0,0.0,0.0,92.86,0.0
+202009,Setembro/2020,18-29,Feminino,Nordeste,Pós-graduação,130,0,3,0,88,90,1,0.0,2.31,0.0,102.27,0.77
+202009,Setembro/2020,18-29,Masculino,Nordeste,Fundamental completo,559,0,1,0,292,261,7,0.0,0.18,0.0,89.38,1.25
+202009,Setembro/2020,18-29,Feminino,Nordeste,Superior completo,911,0,9,0,504,530,8,0.0,0.99,0.0,105.16,0.88
+202009,Setembro/2020,18-29,Masculino,Nordeste,Fundamental incompleto,1764,0,1,0,818,720,11,0.0,0.06,0.0,88.02,0.62
+202009,Setembro/2020,18-29,Feminino,Nordeste,Médio completo,4743,0,17,0,1275,1231,25,0.0,0.36,0.0,96.55,0.53
+202009,Setembro/2020,18-29,Masculino,Nordeste,Médio incompleto,2014,0,5,0,839,738,8,0.0,0.25,0.0,87.96,0.4
+202009,Setembro/2020,18-29,Masculino,Nordeste,Superior incompleto,1391,1,7,0,541,530,15,0.07,0.5,0.0,97.97,1.08
+202009,Setembro/2020,18-29,Feminino,Nordeste,Fundamental incompleto,1127,1,8,0,173,124,2,0.09,0.71,0.0,71.68,0.18
+202009,Setembro/2020,18-29,Masculino,Nordeste,Superior completo,567,0,2,0,353,361,4,0.0,0.35,0.0,102.27,0.71
+202009,Setembro/2020,18-29,Masculino,Nordeste,Pós-graduação,47,0,0,0,34,36,1,0.0,0.0,0.0,105.88,2.13
+202009,Setembro/2020,30-39,Feminino,Nordeste,Fundamental incompleto,2088,1,3,0,495,407,17,0.05,0.14,0.0,82.22,0.81
+202009,Setembro/2020,30-39,Feminino,Nordeste,Médio incompleto,807,0,4,0,241,226,7,0.0,0.5,0.0,93.78,0.87
+202009,Setembro/2020,30-39,Masculino,Nordeste,Superior completo,794,0,7,0,654,687,15,0.0,0.88,0.0,105.05,1.89
+202009,Setembro/2020,30-39,Feminino,Nordeste,Pós-graduação,409,0,1,0,321,347,6,0.0,0.24,0.0,108.1,1.47
+202009,Setembro/2020,30-39,Masculino,Nordeste,Sem instrução,257,0,0,0,103,92,1,0.0,0.0,0.0,89.32,0.39
+202009,Setembro/2020,30-39,Masculino,Nordeste,Fundamental completo,598,0,1,0,401,385,5,0.0,0.17,0.0,96.01,0.84
+202009,Setembro/2020,30-39,Masculino,Nordeste,Pós-graduação,205,0,0,0,176,184,3,0.0,0.0,0.0,104.55,1.46
+202009,Setembro/2020,30-39,Feminino,Nordeste,Superior completo,1450,1,5,0,971,1051,12,0.07,0.34,0.0,108.24,0.83
+202009,Setembro/2020,30-39,Masculino,Nordeste,Superior incompleto,385,0,2,0,289,300,5,0.0,0.52,0.0,103.81,1.3
+202009,Setembro/2020,30-39,Masculino,Nordeste,Fundamental incompleto,2538,0,8,0,1554,1427,17,0.0,0.32,0.0,91.83,0.67
+202009,Setembro/2020,30-39,Feminino,Nordeste,Superior incompleto,497,1,2,0,270,296,8,0.2,0.4,0.0,109.63,1.61
+202009,Setembro/2020,30-39,Masculino,Nordeste,Médio completo,2768,4,14,0,1990,2009,29,0.14,0.51,0.0,100.95,1.05
+202009,Setembro/2020,30-39,Feminino,Nordeste,Sem instrução,172,0,3,0,21,12,1,0.0,1.74,0.0,57.14,0.58
+202009,Setembro/2020,30-39,Feminino,Nordeste,Médio completo,3556,0,18,0,1412,1476,22,0.0,0.51,0.0,104.53,0.62
+202009,Setembro/2020,30-39,Masculino,Nordeste,Médio incompleto,873,1,2,0,589,571,11,0.11,0.23,0.0,96.94,1.26
+202009,Setembro/2020,30-39,Feminino,Nordeste,Fundamental completo,589,0,0,0,179,163,3,0.0,0.0,0.0,91.06,0.51
+202009,Setembro/2020,40-49,Masculino,Nordeste,Pós-graduação,184,0,0,0,159,168,1,0.0,0.0,0.0,105.66,0.54
+202009,Setembro/2020,40-49,Masculino,Nordeste,Superior completo,572,0,5,0,475,507,4,0.0,0.87,0.0,106.74,0.7
+202009,Setembro/2020,40-49,Feminino,Nordeste,Médio incompleto,556,1,3,1,224,223,3,0.18,0.54,0.18,99.55,0.54
+202009,Setembro/2020,40-49,Feminino,Nordeste,Sem instrução,352,0,0,0,77,48,2,0.0,0.0,0.0,62.34,0.57
+202009,Setembro/2020,40-49,Masculino,Nordeste,Médio incompleto,472,0,3,0,317,325,3,0.0,0.64,0.0,102.52,0.64
+202009,Setembro/2020,40-49,Feminino,Nordeste,Fundamental incompleto,3042,1,15,0,879,734,18,0.03,0.49,0.0,83.5,0.59
+202009,Setembro/2020,40-49,Feminino,Nordeste,Superior incompleto,231,1,4,0,133,145,2,0.43,1.73,0.0,109.02,0.87
+202009,Setembro/2020,40-49,Masculino,Nordeste,Superior incompleto,198,0,0,0,160,167,1,0.0,0.0,0.0,104.38,0.51
+202009,Setembro/2020,40-49,Masculino,Nordeste,Fundamental incompleto,3133,0,6,0,1993,1851,28,0.0,0.19,0.0,92.88,0.89
+202009,Setembro/2020,40-49,Masculino,Nordeste,Médio completo,1796,0,8,1,1329,1385,20,0.0,0.45,0.06,104.21,1.11
+202009,Setembro/2020,40-49,Feminino,Nordeste,Fundamental completo,649,0,3,0,235,237,2,0.0,0.46,0.0,100.85,0.31
+202009,Setembro/2020,40-49,Masculino,Nordeste,Fundamental completo,584,0,1,0,396,384,5,0.0,0.17,0.0,96.97,0.86
+202009,Setembro/2020,40-49,Feminino,Nordeste,Superior completo,1067,0,7,0,716,811,10,0.0,0.66,0.0,113.27,0.94
+202009,Setembro/2020,40-49,Masculino,Nordeste,Sem instrução,599,0,1,0,308,259,5,0.0,0.17,0.0,84.09,0.83
+202009,Setembro/2020,40-49,Feminino,Nordeste,Médio completo,2473,1,11,1,1124,1189,19,0.04,0.44,0.04,105.78,0.77
+202009,Setembro/2020,40-49,Feminino,Nordeste,Pós-graduação,391,0,3,0,308,349,6,0.0,0.77,0.0,113.31,1.53
+202009,Setembro/2020,50-59,Masculino,Nordeste,Superior completo,334,0,2,0,248,264,6,0.0,0.6,0.0,106.45,1.8
+202009,Setembro/2020,50-59,Masculino,Nordeste,Médio completo,1194,3,6,0,750,815,6,0.25,0.5,0.0,108.67,0.5
+202009,Setembro/2020,50-59,Masculino,Nordeste,Fundamental completo,496,0,3,0,295,295,6,0.0,0.6,0.0,100.0,1.21
+202009,Setembro/2020,50-59,Masculino,Nordeste,Superior incompleto,107,0,1,0,75,85,3,0.0,0.93,0.0,113.33,2.8
+202009,Setembro/2020,50-59,Feminino,Nordeste,Fundamental incompleto,3175,0,10,0,760,597,6,0.0,0.31,0.0,78.55,0.19
+202009,Setembro/2020,50-59,Feminino,Nordeste,Médio incompleto,378,1,2,0,112,120,2,0.26,0.53,0.0,107.14,0.53
+202009,Setembro/2020,50-59,Masculino,Nordeste,Médio incompleto,314,0,0,0,202,205,3,0.0,0.0,0.0,101.49,0.96
+202009,Setembro/2020,50-59,Feminino,Nordeste,Pós-graduação,340,1,3,0,217,244,6,0.29,0.88,0.0,112.44,1.76
+202009,Setembro/2020,50-59,Feminino,Nordeste,Médio completo,1637,2,9,0,626,681,7,0.12,0.55,0.0,108.79,0.43
+202009,Setembro/2020,50-59,Masculino,Nordeste,Pós-graduação,131,0,1,0,112,122,0,0.0,0.76,0.0,108.93,0.0
+202009,Setembro/2020,50-59,Feminino,Nordeste,Superior incompleto,105,0,0,0,55,60,2,0.0,0.0,0.0,109.09,1.9
+202009,Setembro/2020,50-59,Masculino,Nordeste,Sem instrução,897,0,0,0,413,330,8,0.0,0.0,0.0,79.9,0.89
+202009,Setembro/2020,50-59,Feminino,Nordeste,Superior completo,765,1,7,0,431,512,5,0.13,0.92,0.0,118.79,0.65
+202009,Setembro/2020,50-59,Feminino,Nordeste,Fundamental completo,614,0,2,0,174,164,3,0.0,0.33,0.0,94.25,0.49
+202009,Setembro/2020,50-59,Masculino,Nordeste,Fundamental incompleto,2923,2,6,1,1646,1467,29,0.07,0.21,0.03,89.13,0.99
+202009,Setembro/2020,50-59,Feminino,Nordeste,Sem instrução,782,0,5,0,137,82,5,0.0,0.64,0.0,59.85,0.64
+202009,Setembro/2020,60-69,Masculino,Nordeste,Fundamental completo,318,0,1,0,114,114,1,0.0,0.31,0.0,100.0,0.31
+202009,Setembro/2020,60-69,Feminino,Nordeste,Pós-graduação,129,0,1,0,43,58,3,0.0,0.78,0.0,134.88,2.33
+202009,Setembro/2020,60-69,Feminino,Nordeste,Superior completo,466,0,2,0,114,153,1,0.0,0.43,0.0,134.21,0.21
+202009,Setembro/2020,60-69,Feminino,Nordeste,Médio completo,813,0,3,0,144,171,2,0.0,0.37,0.0,118.75,0.25
+202009,Setembro/2020,60-69,Feminino,Nordeste,Fundamental completo,426,1,3,0,39,44,0,0.23,0.7,0.0,112.82,0.0
+202009,Setembro/2020,60-69,Masculino,Nordeste,Sem instrução,1053,1,1,0,306,182,8,0.09,0.09,0.0,59.48,0.76
+202009,Setembro/2020,60-69,Masculino,Nordeste,Pós-graduação,54,0,0,0,29,35,0,0.0,0.0,0.0,120.69,0.0
+202009,Setembro/2020,60-69,Masculino,Nordeste,Médio completo,570,2,2,0,195,231,1,0.35,0.35,0.0,118.46,0.18
+202009,Setembro/2020,60-69,Feminino,Nordeste,Médio incompleto,180,0,0,0,24,25,0,0.0,0.0,0.0,104.17,0.0
+202009,Setembro/2020,60-69,Masculino,Nordeste,Médio incompleto,143,0,1,0,50,47,0,0.0,0.7,0.0,94.0,0.0
+202009,Setembro/2020,60-69,Feminino,Nordeste,Fundamental incompleto,2213,2,14,0,224,152,1,0.09,0.63,0.0,67.86,0.05
+202009,Setembro/2020,60-69,Masculino,Nordeste,Superior incompleto,58,0,0,0,24,29,0,0.0,0.0,0.0,120.83,0.0
+202009,Setembro/2020,60-69,Feminino,Nordeste,Superior incompleto,64,0,0,0,14,18,0,0.0,0.0,0.0,128.57,0.0
+202009,Setembro/2020,60-69,Feminino,Nordeste,Sem instrução,1046,1,1,0,81,37,1,0.1,0.1,0.0,45.68,0.1
+202009,Setembro/2020,60-69,Masculino,Nordeste,Superior completo,246,0,0,0,120,135,0,0.0,0.0,0.0,112.5,0.0
+202009,Setembro/2020,60-69,Masculino,Nordeste,Fundamental incompleto,1904,6,4,0,603,477,5,0.32,0.21,0.0,79.1,0.26
+202009,Setembro/2020,70+,Masculino,Nordeste,Fundamental incompleto,1486,3,6,0,170,95,7,0.2,0.4,0.0,55.88,0.47
+202009,Setembro/2020,70+,Masculino,Nordeste,Superior completo,162,1,1,0,25,34,2,0.62,0.62,0.0,136.0,1.23
+202009,Setembro/2020,70+,Feminino,Nordeste,Médio completo,419,0,4,0,14,15,0,0.0,0.95,0.0,107.14,0.0
+202009,Setembro/2020,70+,Feminino,Nordeste,Pós-graduação,48,0,0,0,6,9,0,0.0,0.0,0.0,150.0,0.0
+202009,Setembro/2020,70+,Masculino,Nordeste,Médio incompleto,66,0,0,0,10,9,0,0.0,0.0,0.0,90.0,0.0
+202009,Setembro/2020,70+,Masculino,Nordeste,Médio completo,262,0,3,0,31,34,1,0.0,1.15,0.0,109.68,0.38
+202009,Setembro/2020,70+,Feminino,Nordeste,Fundamental completo,330,0,0,0,6,5,0,0.0,0.0,0.0,83.33,0.0
+202009,Setembro/2020,70+,Masculino,Nordeste,Sem instrução,1428,4,10,0,118,46,4,0.28,0.7,0.0,38.98,0.28
+202009,Setembro/2020,70+,Masculino,Nordeste,Fundamental completo,203,1,0,0,17,16,0,0.49,0.0,0.0,94.12,0.0
+202009,Setembro/2020,70+,Feminino,Nordeste,Médio incompleto,102,1,1,0,4,5,0,0.98,0.98,0.0,125.0,0.0
+202009,Setembro/2020,70+,Feminino,Nordeste,Sem instrução,1706,0,3,0,30,7,0,0.0,0.18,0.0,23.33,0.0
+202009,Setembro/2020,70+,Masculino,Nordeste,Pós-graduação,24,1,1,0,8,9,0,4.17,4.17,0.0,112.5,0.0
+202009,Setembro/2020,70+,Feminino,Nordeste,Superior completo,273,1,2,0,13,17,0,0.37,0.73,0.0,130.77,0.0
+202009,Setembro/2020,70+,Masculino,Nordeste,Superior incompleto,21,0,1,0,3,3,0,0.0,4.76,0.0,100.0,0.0
+202009,Setembro/2020,70+,Feminino,Nordeste,Fundamental incompleto,1839,0,7,0,52,25,1,0.0,0.38,0.0,48.08,0.05
+202009,Setembro/2020,70+,Feminino,Nordeste,Superior incompleto,20,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,0-17,Feminino,Norte,Médio completo,38,0,0,0,4,3,0,0.0,0.0,0.0,75.0,0.0
+202009,Setembro/2020,0-17,Masculino,Norte,Fundamental incompleto,4002,0,8,0,89,45,1,0.0,0.2,0.0,50.56,0.02
+202009,Setembro/2020,0-17,Feminino,Norte,Fundamental incompleto,3684,0,13,0,32,8,0,0.0,0.35,0.0,25.0,0.0
+202009,Setembro/2020,0-17,Masculino,Norte,Médio completo,40,0,0,0,11,5,1,0.0,0.0,0.0,45.45,2.5
+202009,Setembro/2020,0-17,Masculino,Norte,Médio incompleto,850,0,3,0,100,65,2,0.0,0.35,0.0,65.0,0.24
+202009,Setembro/2020,0-17,Feminino,Norte,Superior incompleto,5,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,0-17,Masculino,Norte,Sem instrução,1957,0,11,0,0,0,0,0.0,0.56,0.0,0.0,0.0
+202009,Setembro/2020,0-17,Feminino,Norte,Fundamental completo,114,0,0,0,4,1,0,0.0,0.0,0.0,25.0,0.0
+202009,Setembro/2020,0-17,Feminino,Norte,Sem instrução,1776,0,7,0,0,0,0,0.0,0.39,0.0,0.0,0.0
+202009,Setembro/2020,0-17,Feminino,Norte,Médio incompleto,979,0,3,0,43,30,0,0.0,0.31,0.0,69.77,0.0
+202009,Setembro/2020,0-17,Masculino,Norte,Superior incompleto,3,0,0,0,1,1,1,0.0,0.0,0.0,100.0,33.33
+202009,Setembro/2020,0-17,Masculino,Norte,Fundamental completo,123,0,0,0,5,2,0,0.0,0.0,0.0,40.0,0.0
+202009,Setembro/2020,18-29,Masculino,Norte,Médio incompleto,888,0,0,0,420,379,8,0.0,0.0,0.0,90.24,0.9
+202009,Setembro/2020,18-29,Masculino,Norte,Sem instrução,42,0,0,0,5,4,0,0.0,0.0,0.0,80.0,0.0
+202009,Setembro/2020,18-29,Feminino,Norte,Superior completo,500,0,3,0,259,287,3,0.0,0.6,0.0,110.81,0.6
+202009,Setembro/2020,18-29,Masculino,Norte,Fundamental incompleto,536,0,2,0,289,253,7,0.0,0.37,0.0,87.54,1.31
+202009,Setembro/2020,18-29,Feminino,Norte,Superior incompleto,861,0,3,0,280,288,3,0.0,0.35,0.0,102.86,0.35
+202009,Setembro/2020,18-29,Masculino,Norte,Médio completo,1932,1,5,0,1061,1002,20,0.05,0.26,0.0,94.44,1.04
+202009,Setembro/2020,18-29,Feminino,Norte,Sem instrução,26,0,1,0,4,3,1,0.0,3.85,0.0,75.0,3.85
+202009,Setembro/2020,18-29,Feminino,Norte,Pós-graduação,61,0,0,0,39,41,3,0.0,0.0,0.0,105.13,4.92
+202009,Setembro/2020,18-29,Masculino,Norte,Fundamental completo,179,0,0,0,95,84,3,0.0,0.0,0.0,88.42,1.68
+202009,Setembro/2020,18-29,Masculino,Norte,Superior completo,333,0,1,0,224,237,7,0.0,0.3,0.0,105.8,2.1
+202009,Setembro/2020,18-29,Feminino,Norte,Médio completo,1996,1,8,0,585,565,16,0.05,0.4,0.0,96.58,0.8
+202009,Setembro/2020,18-29,Masculino,Norte,Pós-graduação,25,0,0,0,17,21,0,0.0,0.0,0.0,123.53,0.0
+202009,Setembro/2020,18-29,Feminino,Norte,Fundamental completo,139,0,0,0,32,26,0,0.0,0.0,0.0,81.25,0.0
+202009,Setembro/2020,18-29,Feminino,Norte,Médio incompleto,710,0,6,0,148,113,4,0.0,0.85,0.0,76.35,0.56
+202009,Setembro/2020,18-29,Masculino,Norte,Superior incompleto,717,1,3,0,290,290,4,0.14,0.42,0.0,100.0,0.56
+202009,Setembro/2020,18-29,Feminino,Norte,Fundamental incompleto,322,0,3,0,41,32,1,0.0,0.93,0.0,78.05,0.31
+202009,Setembro/2020,30-39,Masculino,Norte,Superior completo,463,0,4,0,361,394,8,0.0,0.86,0.0,109.14,1.73
+202009,Setembro/2020,30-39,Masculino,Norte,Médio incompleto,350,0,3,0,248,241,2,0.0,0.86,0.0,97.18,0.57
+202009,Setembro/2020,30-39,Masculino,Norte,Fundamental completo,221,0,0,0,155,157,0,0.0,0.0,0.0,101.29,0.0
+202009,Setembro/2020,30-39,Feminino,Norte,Superior incompleto,307,0,6,0,154,166,2,0.0,1.95,0.0,107.79,0.65
+202009,Setembro/2020,30-39,Masculino,Norte,Médio completo,1395,1,7,0,1001,1018,18,0.07,0.5,0.0,101.7,1.29
+202009,Setembro/2020,30-39,Feminino,Norte,Superior completo,736,2,7,0,442,500,13,0.27,0.95,0.0,113.12,1.77
+202009,Setembro/2020,30-39,Feminino,Norte,Fundamental incompleto,519,0,2,0,177,137,4,0.0,0.39,0.0,77.4,0.77
+202009,Setembro/2020,30-39,Masculino,Norte,Fundamental incompleto,710,0,2,0,519,501,13,0.0,0.28,0.0,96.53,1.83
+202009,Setembro/2020,30-39,Feminino,Norte,Médio incompleto,306,0,2,0,101,101,1,0.0,0.65,0.0,100.0,0.33
+202009,Setembro/2020,30-39,Masculino,Norte,Superior incompleto,194,0,1,0,149,155,3,0.0,0.52,0.0,104.03,1.55
+202009,Setembro/2020,30-39,Feminino,Norte,Pós-graduação,167,0,1,0,132,139,2,0.0,0.6,0.0,105.3,1.2
+202009,Setembro/2020,30-39,Feminino,Norte,Médio completo,1491,1,10,0,635,642,14,0.07,0.67,0.0,101.1,0.94
+202009,Setembro/2020,30-39,Masculino,Norte,Sem instrução,49,0,0,0,24,24,1,0.0,0.0,0.0,100.0,2.04
+202009,Setembro/2020,30-39,Feminino,Norte,Sem instrução,43,0,0,0,4,4,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,30-39,Feminino,Norte,Fundamental completo,207,0,2,0,73,67,4,0.0,0.97,0.0,91.78,1.93
+202009,Setembro/2020,30-39,Masculino,Norte,Pós-graduação,97,0,2,0,76,85,5,0.0,2.06,0.0,111.84,5.15
+202009,Setembro/2020,40-49,Masculino,Norte,Sem instrução,129,0,0,0,77,74,1,0.0,0.0,0.0,96.1,0.78
+202009,Setembro/2020,40-49,Masculino,Norte,Médio incompleto,240,0,1,0,179,183,1,0.0,0.42,0.0,102.23,0.42
+202009,Setembro/2020,40-49,Feminino,Norte,Sem instrução,78,0,1,0,23,20,0,0.0,1.28,0.0,86.96,0.0
+202009,Setembro/2020,40-49,Masculino,Norte,Fundamental completo,229,0,0,0,159,157,0,0.0,0.0,0.0,98.74,0.0
+202009,Setembro/2020,40-49,Feminino,Norte,Fundamental incompleto,827,0,7,0,284,231,10,0.0,0.85,0.0,81.34,1.21
+202009,Setembro/2020,40-49,Feminino,Norte,Fundamental completo,229,0,1,0,100,95,2,0.0,0.44,0.0,95.0,0.87
+202009,Setembro/2020,40-49,Feminino,Norte,Pós-graduação,197,0,4,0,147,171,4,0.0,2.03,0.0,116.33,2.03
+202009,Setembro/2020,40-49,Masculino,Norte,Médio completo,997,1,2,0,731,764,18,0.1,0.2,0.0,104.51,1.81
+202009,Setembro/2020,40-49,Feminino,Norte,Médio incompleto,229,0,1,0,99,102,2,0.0,0.44,0.0,103.03,0.87
+202009,Setembro/2020,40-49,Feminino,Norte,Médio completo,1153,0,6,0,509,545,14,0.0,0.52,0.0,107.07,1.21
+202009,Setembro/2020,40-49,Masculino,Norte,Fundamental incompleto,975,0,2,0,721,724,20,0.0,0.21,0.0,100.42,2.05
+202009,Setembro/2020,40-49,Feminino,Norte,Superior completo,600,1,3,0,374,440,9,0.17,0.5,0.0,117.65,1.5
+202009,Setembro/2020,40-49,Masculino,Norte,Superior completo,360,0,3,0,296,319,7,0.0,0.83,0.0,107.77,1.94
+202009,Setembro/2020,40-49,Masculino,Norte,Pós-graduação,107,0,1,0,92,98,3,0.0,0.93,0.0,106.52,2.8
+202009,Setembro/2020,40-49,Feminino,Norte,Superior incompleto,144,0,1,0,65,73,1,0.0,0.69,0.0,112.31,0.69
+202009,Setembro/2020,40-49,Masculino,Norte,Superior incompleto,111,0,1,0,80,86,2,0.0,0.9,0.0,107.5,1.8
+202009,Setembro/2020,50-59,Masculino,Norte,Fundamental incompleto,945,0,2,0,603,613,12,0.0,0.21,0.0,101.66,1.27
+202009,Setembro/2020,50-59,Feminino,Norte,Sem instrução,170,0,0,0,28,21,1,0.0,0.0,0.0,75.0,0.59
+202009,Setembro/2020,50-59,Feminino,Norte,Médio completo,730,1,3,0,272,315,5,0.14,0.41,0.0,115.81,0.68
+202009,Setembro/2020,50-59,Feminino,Norte,Superior completo,385,0,0,0,198,255,2,0.0,0.0,0.0,128.79,0.52
+202009,Setembro/2020,50-59,Masculino,Norte,Médio incompleto,149,0,0,0,95,100,3,0.0,0.0,0.0,105.26,2.01
+202009,Setembro/2020,50-59,Masculino,Norte,Médio completo,547,0,5,0,350,372,7,0.0,0.91,0.0,106.29,1.28
+202009,Setembro/2020,50-59,Masculino,Norte,Fundamental completo,217,0,2,0,131,144,2,0.0,0.92,0.0,109.92,0.92
+202009,Setembro/2020,50-59,Feminino,Norte,Médio incompleto,152,0,0,0,48,44,0,0.0,0.0,0.0,91.67,0.0
+202009,Setembro/2020,50-59,Masculino,Norte,Pós-graduação,58,0,1,0,50,55,1,0.0,1.72,0.0,110.0,1.72
+202009,Setembro/2020,50-59,Feminino,Norte,Pós-graduação,133,1,4,0,73,93,4,0.75,3.01,0.0,127.4,3.01
+202009,Setembro/2020,50-59,Feminino,Norte,Superior incompleto,58,0,0,0,27,33,0,0.0,0.0,0.0,122.22,0.0
+202009,Setembro/2020,50-59,Masculino,Norte,Superior completo,246,1,1,0,159,195,4,0.41,0.41,0.0,122.64,1.63
+202009,Setembro/2020,50-59,Masculino,Norte,Superior incompleto,46,0,0,0,29,29,1,0.0,0.0,0.0,100.0,2.17
+202009,Setembro/2020,50-59,Masculino,Norte,Sem instrução,180,0,0,0,101,100,2,0.0,0.0,0.0,99.01,1.11
+202009,Setembro/2020,50-59,Feminino,Norte,Fundamental completo,257,0,1,0,72,69,3,0.0,0.39,0.0,95.83,1.17
+202009,Setembro/2020,50-59,Feminino,Norte,Fundamental incompleto,912,1,4,0,244,206,8,0.11,0.44,0.0,84.43,0.88
+202009,Setembro/2020,60-69,Feminino,Norte,Médio completo,379,0,4,0,56,88,0,0.0,1.06,0.0,157.14,0.0
+202009,Setembro/2020,60-69,Masculino,Norte,Fundamental incompleto,716,1,6,0,280,277,7,0.14,0.84,0.0,98.93,0.98
+202009,Setembro/2020,60-69,Masculino,Norte,Sem instrução,205,0,1,0,70,72,2,0.0,0.49,0.0,102.86,0.98
+202009,Setembro/2020,60-69,Feminino,Norte,Médio incompleto,76,0,1,0,10,14,0,0.0,1.32,0.0,140.0,0.0
+202009,Setembro/2020,60-69,Masculino,Norte,Superior completo,134,0,0,0,65,77,1,0.0,0.0,0.0,118.46,0.75
+202009,Setembro/2020,60-69,Masculino,Norte,Pós-graduação,34,0,0,0,16,18,0,0.0,0.0,0.0,112.5,0.0
+202009,Setembro/2020,60-69,Feminino,Norte,Pós-graduação,42,0,0,0,14,18,0,0.0,0.0,0.0,128.57,0.0
+202009,Setembro/2020,60-69,Feminino,Norte,Fundamental completo,184,0,2,0,27,28,0,0.0,1.09,0.0,103.7,0.0
+202009,Setembro/2020,60-69,Feminino,Norte,Fundamental incompleto,710,2,2,0,88,74,0,0.28,0.28,0.0,84.09,0.0
+202009,Setembro/2020,60-69,Feminino,Norte,Sem instrução,189,0,0,0,17,6,2,0.0,0.0,0.0,35.29,1.06
+202009,Setembro/2020,60-69,Feminino,Norte,Superior incompleto,15,1,0,0,3,3,0,6.67,0.0,0.0,100.0,0.0
+202009,Setembro/2020,60-69,Masculino,Norte,Médio completo,293,2,2,0,102,120,2,0.68,0.68,0.0,117.65,0.68
+202009,Setembro/2020,60-69,Masculino,Norte,Médio incompleto,72,0,0,0,22,26,0,0.0,0.0,0.0,118.18,0.0
+202009,Setembro/2020,60-69,Masculino,Norte,Superior incompleto,22,0,0,0,14,18,1,0.0,0.0,0.0,128.57,4.55
+202009,Setembro/2020,60-69,Feminino,Norte,Superior completo,165,0,1,0,43,56,1,0.0,0.61,0.0,130.23,0.61
+202009,Setembro/2020,60-69,Masculino,Norte,Fundamental completo,158,0,0,0,60,62,1,0.0,0.0,0.0,103.33,0.63
+202009,Setembro/2020,70+,Feminino,Norte,Superior completo,74,0,0,0,2,4,0,0.0,0.0,0.0,200.0,0.0
+202009,Setembro/2020,70+,Feminino,Norte,Fundamental incompleto,501,1,1,0,7,3,0,0.2,0.2,0.0,42.86,0.0
+202009,Setembro/2020,70+,Masculino,Norte,Fundamental incompleto,498,0,0,0,63,57,4,0.0,0.0,0.0,90.48,0.8
+202009,Setembro/2020,70+,Feminino,Norte,Médio incompleto,33,0,0,0,5,2,0,0.0,0.0,0.0,40.0,0.0
+202009,Setembro/2020,70+,Masculino,Norte,Superior completo,49,0,1,0,7,7,0,0.0,2.04,0.0,100.0,0.0
+202009,Setembro/2020,70+,Feminino,Norte,Superior incompleto,10,0,0,0,2,2,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,70+,Feminino,Norte,Fundamental completo,132,0,1,0,2,2,0,0.0,0.76,0.0,100.0,0.0
+202009,Setembro/2020,70+,Feminino,Norte,Pós-graduação,5,0,0,0,2,2,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,70+,Masculino,Norte,Fundamental completo,104,0,0,0,11,10,0,0.0,0.0,0.0,90.91,0.0
+202009,Setembro/2020,70+,Masculino,Norte,Médio incompleto,37,0,0,0,6,4,0,0.0,0.0,0.0,66.67,0.0
+202009,Setembro/2020,70+,Masculino,Norte,Sem instrução,300,0,4,0,25,20,1,0.0,1.33,0.0,80.0,0.33
+202009,Setembro/2020,70+,Masculino,Norte,Superior incompleto,8,0,0,0,2,2,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,70+,Feminino,Norte,Médio completo,169,0,5,0,2,4,0,0.0,2.96,0.0,200.0,0.0
+202009,Setembro/2020,70+,Masculino,Norte,Médio completo,130,0,0,0,16,18,1,0.0,0.0,0.0,112.5,0.77
+202009,Setembro/2020,70+,Masculino,Norte,Pós-graduação,14,0,0,0,6,7,0,0.0,0.0,0.0,116.67,0.0
+202009,Setembro/2020,70+,Feminino,Norte,Sem instrução,364,0,3,0,2,0,0,0.0,0.82,0.0,0.0,0.0
+202009,Setembro/2020,0-17,Feminino,Sudeste,Superior incompleto,19,0,0,0,2,2,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,0-17,Masculino,Sudeste,Superior incompleto,10,0,0,0,3,3,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,0-17,Masculino,Sudeste,Médio incompleto,1732,0,7,0,166,143,2,0.0,0.4,0.0,86.14,0.12
+202009,Setembro/2020,0-17,Masculino,Sudeste,Sem instrução,3493,0,12,0,1,1,0,0.0,0.34,0.0,100.0,0.0
+202009,Setembro/2020,0-17,Masculino,Sudeste,Médio completo,74,0,0,0,14,12,1,0.0,0.0,0.0,85.71,1.35
+202009,Setembro/2020,0-17,Feminino,Sudeste,Sem instrução,3382,2,10,0,0,0,0,0.06,0.3,0.0,0.0,0.0
+202009,Setembro/2020,0-17,Feminino,Sudeste,Fundamental completo,196,0,0,0,2,2,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,0-17,Feminino,Sudeste,Fundamental incompleto,6167,0,6,0,23,20,0,0.0,0.1,0.0,86.96,0.0
+202009,Setembro/2020,0-17,Feminino,Sudeste,Médio incompleto,1728,0,2,0,101,106,1,0.0,0.12,0.0,104.95,0.06
+202009,Setembro/2020,0-17,Masculino,Sudeste,Fundamental incompleto,6608,0,16,0,56,44,0,0.0,0.24,0.0,78.57,0.0
+202009,Setembro/2020,0-17,Masculino,Sudeste,Fundamental completo,203,0,1,0,13,11,0,0.0,0.49,0.0,84.62,0.0
+202009,Setembro/2020,0-17,Feminino,Sudeste,Médio completo,83,0,0,0,10,12,0,0.0,0.0,0.0,120.0,0.0
+202009,Setembro/2020,18-29,Masculino,Sudeste,Sem instrução,61,0,0,0,5,6,0,0.0,0.0,0.0,120.0,0.0
+202009,Setembro/2020,18-29,Feminino,Sudeste,Fundamental incompleto,412,0,2,0,80,87,3,0.0,0.49,0.0,108.75,0.73
+202009,Setembro/2020,18-29,Feminino,Sudeste,Médio incompleto,1029,0,7,0,244,255,5,0.0,0.68,0.0,104.51,0.49
+202009,Setembro/2020,18-29,Feminino,Sudeste,Fundamental completo,335,1,1,0,105,103,3,0.3,0.3,0.0,98.1,0.9
+202009,Setembro/2020,18-29,Masculino,Sudeste,Fundamental completo,426,0,1,0,278,277,2,0.0,0.23,0.0,99.64,0.47
+202009,Setembro/2020,18-29,Masculino,Sudeste,Fundamental incompleto,737,0,2,0,417,416,5,0.0,0.27,0.0,99.76,0.68
+202009,Setembro/2020,18-29,Feminino,Sudeste,Sem instrução,40,0,0,0,2,2,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,18-29,Masculino,Sudeste,Superior incompleto,1476,1,9,0,727,742,10,0.07,0.61,0.0,102.06,0.68
+202009,Setembro/2020,18-29,Masculino,Sudeste,Superior completo,774,0,7,0,577,583,9,0.0,0.9,0.0,101.04,1.16
+202009,Setembro/2020,18-29,Feminino,Sudeste,Médio completo,3794,1,20,0,1528,1588,15,0.03,0.53,0.0,103.93,0.4
+202009,Setembro/2020,18-29,Masculino,Sudeste,Pós-graduação,73,0,1,0,58,58,1,0.0,1.37,0.0,100.0,1.37
+202009,Setembro/2020,18-29,Feminino,Sudeste,Superior completo,1178,0,8,0,800,844,6,0.0,0.68,0.0,105.5,0.51
+202009,Setembro/2020,18-29,Masculino,Sudeste,Médio incompleto,1418,0,4,0,680,698,14,0.0,0.28,0.0,102.65,0.99
+202009,Setembro/2020,18-29,Masculino,Sudeste,Médio completo,3803,2,19,0,2344,2367,32,0.05,0.5,0.0,100.98,0.84
+202009,Setembro/2020,18-29,Feminino,Sudeste,Superior incompleto,1768,0,6,0,705,736,11,0.0,0.34,0.0,104.4,0.62
+202009,Setembro/2020,18-29,Feminino,Sudeste,Pós-graduação,156,0,2,0,116,123,2,0.0,1.28,0.0,106.03,1.28
+202009,Setembro/2020,30-39,Feminino,Sudeste,Médio completo,3280,1,14,0,1636,1728,24,0.03,0.43,0.0,105.62,0.73
+202009,Setembro/2020,30-39,Feminino,Sudeste,Fundamental incompleto,950,0,3,0,339,343,5,0.0,0.32,0.0,101.18,0.53
+202009,Setembro/2020,30-39,Masculino,Sudeste,Médio incompleto,630,0,1,0,499,509,5,0.0,0.16,0.0,102.0,0.79
+202009,Setembro/2020,30-39,Masculino,Sudeste,Médio completo,3070,2,21,1,2427,2520,29,0.07,0.68,0.03,103.83,0.94
+202009,Setembro/2020,30-39,Masculino,Sudeste,Pós-graduação,399,0,3,0,361,369,6,0.0,0.75,0.0,102.22,1.5
+202009,Setembro/2020,30-39,Feminino,Sudeste,Pós-graduação,610,0,3,0,489,529,9,0.0,0.49,0.0,108.18,1.48
+202009,Setembro/2020,30-39,Masculino,Sudeste,Fundamental completo,541,0,3,0,402,421,5,0.0,0.55,0.0,104.73,0.92
+202009,Setembro/2020,30-39,Feminino,Sudeste,Superior completo,1961,0,13,0,1408,1522,13,0.0,0.66,0.0,108.1,0.66
+202009,Setembro/2020,30-39,Feminino,Sudeste,Sem instrução,58,0,0,0,10,10,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,30-39,Feminino,Sudeste,Superior incompleto,580,0,7,0,355,383,9,0.0,1.21,0.0,107.89,1.55
+202009,Setembro/2020,30-39,Feminino,Sudeste,Médio incompleto,620,0,3,0,259,281,4,0.0,0.48,0.0,108.49,0.65
+202009,Setembro/2020,30-39,Masculino,Sudeste,Superior completo,1407,0,11,0,1180,1218,14,0.0,0.78,0.0,103.22,1.0
+202009,Setembro/2020,30-39,Masculino,Sudeste,Sem instrução,72,1,0,0,17,18,0,1.39,0.0,0.0,105.88,0.0
+202009,Setembro/2020,30-39,Masculino,Sudeste,Superior incompleto,535,0,1,0,410,435,4,0.0,0.19,0.0,106.1,0.75
+202009,Setembro/2020,30-39,Feminino,Sudeste,Fundamental completo,551,0,3,0,228,239,6,0.0,0.54,0.0,104.82,1.09
+202009,Setembro/2020,30-39,Masculino,Sudeste,Fundamental incompleto,1134,0,4,0,837,853,10,0.0,0.35,0.0,101.91,0.88
+202009,Setembro/2020,40-49,Feminino,Sudeste,Médio completo,2810,1,13,0,1430,1540,14,0.04,0.46,0.0,107.69,0.5
+202009,Setembro/2020,40-49,Feminino,Sudeste,Pós-graduação,597,0,7,0,491,522,9,0.0,1.17,0.0,106.31,1.51
+202009,Setembro/2020,40-49,Feminino,Sudeste,Sem instrução,110,0,0,0,25,24,0,0.0,0.0,0.0,96.0,0.0
+202009,Setembro/2020,40-49,Masculino,Sudeste,Sem instrução,149,0,0,0,77,80,1,0.0,0.0,0.0,103.9,0.67
+202009,Setembro/2020,40-49,Masculino,Sudeste,Superior incompleto,325,0,1,0,254,265,1,0.0,0.31,0.0,104.33,0.31
+202009,Setembro/2020,40-49,Masculino,Sudeste,Médio completo,2498,1,14,0,1955,2058,19,0.04,0.56,0.0,105.27,0.76
+202009,Setembro/2020,40-49,Masculino,Sudeste,Fundamental completo,762,1,1,0,573,595,8,0.13,0.13,0.0,103.84,1.05
+202009,Setembro/2020,40-49,Masculino,Sudeste,Médio incompleto,475,0,2,0,363,374,4,0.0,0.42,0.0,103.03,0.84
+202009,Setembro/2020,40-49,Masculino,Sudeste,Superior completo,1016,1,3,0,849,890,7,0.1,0.3,0.0,104.83,0.69
+202009,Setembro/2020,40-49,Feminino,Sudeste,Fundamental incompleto,2043,0,9,0,844,827,17,0.0,0.44,0.0,97.99,0.83
+202009,Setembro/2020,40-49,Feminino,Sudeste,Médio incompleto,548,0,5,0,252,264,3,0.0,0.91,0.0,104.76,0.55
+202009,Setembro/2020,40-49,Masculino,Sudeste,Fundamental incompleto,2144,0,2,1,1608,1645,14,0.0,0.09,0.05,102.3,0.65
+202009,Setembro/2020,40-49,Feminino,Sudeste,Superior completo,1555,0,10,0,1085,1165,17,0.0,0.64,0.0,107.37,1.09
+202009,Setembro/2020,40-49,Feminino,Sudeste,Superior incompleto,370,0,4,0,218,238,6,0.0,1.08,0.0,109.17,1.62
+202009,Setembro/2020,40-49,Feminino,Sudeste,Fundamental completo,769,1,3,0,345,355,1,0.13,0.39,0.0,102.9,0.13
+202009,Setembro/2020,40-49,Masculino,Sudeste,Pós-graduação,377,0,2,0,341,349,2,0.0,0.53,0.0,102.35,0.53
+202009,Setembro/2020,50-59,Masculino,Sudeste,Fundamental completo,869,0,2,0,594,619,5,0.0,0.23,0.0,104.21,0.58
+202009,Setembro/2020,50-59,Masculino,Sudeste,Médio completo,1898,0,5,0,1245,1317,16,0.0,0.26,0.0,105.78,0.84
+202009,Setembro/2020,50-59,Masculino,Sudeste,Pós-graduação,261,0,1,0,203,207,3,0.0,0.38,0.0,101.97,1.15
+202009,Setembro/2020,50-59,Feminino,Sudeste,Fundamental completo,941,0,3,0,343,359,3,0.0,0.32,0.0,104.66,0.32
+202009,Setembro/2020,50-59,Feminino,Sudeste,Superior completo,1299,0,7,0,751,816,6,0.0,0.54,0.0,108.66,0.46
+202009,Setembro/2020,50-59,Masculino,Sudeste,Sem instrução,235,0,2,0,106,109,0,0.0,0.85,0.0,102.83,0.0
+202009,Setembro/2020,50-59,Masculino,Sudeste,Superior completo,789,1,0,0,584,612,3,0.13,0.0,0.0,104.79,0.38
+202009,Setembro/2020,50-59,Masculino,Sudeste,Médio incompleto,470,0,1,0,304,326,4,0.0,0.21,0.0,107.24,0.85
+202009,Setembro/2020,50-59,Masculino,Sudeste,Superior incompleto,217,0,0,0,154,164,3,0.0,0.0,0.0,106.49,1.38
+202009,Setembro/2020,50-59,Feminino,Sudeste,Pós-graduação,394,0,1,0,280,305,5,0.0,0.25,0.0,108.93,1.27
+202009,Setembro/2020,50-59,Feminino,Sudeste,Sem instrução,219,0,2,0,32,32,0,0.0,0.91,0.0,100.0,0.0
+202009,Setembro/2020,50-59,Feminino,Sudeste,Fundamental incompleto,2707,2,11,0,936,911,21,0.07,0.41,0.0,97.33,0.78
+202009,Setembro/2020,50-59,Feminino,Sudeste,Superior incompleto,236,0,1,0,109,121,3,0.0,0.42,0.0,111.01,1.27
+202009,Setembro/2020,50-59,Feminino,Sudeste,Médio completo,2176,1,11,0,939,1043,19,0.05,0.51,0.0,111.08,0.87
+202009,Setembro/2020,50-59,Masculino,Sudeste,Fundamental incompleto,2582,2,10,0,1730,1778,27,0.08,0.39,0.0,102.77,1.05
+202009,Setembro/2020,50-59,Feminino,Sudeste,Médio incompleto,479,1,3,0,155,164,6,0.21,0.63,0.0,105.81,1.25
+202009,Setembro/2020,60-69,Feminino,Sudeste,Sem instrução,412,0,2,0,31,26,0,0.0,0.49,0.0,83.87,0.0
+202009,Setembro/2020,60-69,Masculino,Sudeste,Médio completo,1197,0,1,0,420,471,2,0.0,0.08,0.0,112.14,0.17
+202009,Setembro/2020,60-69,Feminino,Sudeste,Fundamental completo,943,0,5,0,105,122,2,0.0,0.53,0.0,116.19,0.21
+202009,Setembro/2020,60-69,Masculino,Sudeste,Médio incompleto,245,0,0,0,87,93,1,0.0,0.0,0.0,106.9,0.41
+202009,Setembro/2020,60-69,Masculino,Sudeste,Superior completo,704,2,0,0,320,350,8,0.28,0.0,0.0,109.38,1.14
+202009,Setembro/2020,60-69,Masculino,Sudeste,Fundamental incompleto,2253,1,7,0,804,850,19,0.04,0.31,0.0,105.72,0.84
+202009,Setembro/2020,60-69,Masculino,Sudeste,Sem instrução,292,0,1,0,84,77,3,0.0,0.34,0.0,91.67,1.03
+202009,Setembro/2020,60-69,Feminino,Sudeste,Pós-graduação,223,0,0,0,87,101,1,0.0,0.0,0.0,116.09,0.45
+202009,Setembro/2020,60-69,Masculino,Sudeste,Fundamental completo,723,0,1,0,237,249,6,0.0,0.14,0.0,105.06,0.83
+202009,Setembro/2020,60-69,Masculino,Sudeste,Pós-graduação,178,0,1,0,96,101,0,0.0,0.56,0.0,105.21,0.0
+202009,Setembro/2020,60-69,Masculino,Sudeste,Superior incompleto,157,0,0,0,63,73,0,0.0,0.0,0.0,115.87,0.0
+202009,Setembro/2020,60-69,Feminino,Sudeste,Superior incompleto,164,0,1,0,40,39,0,0.0,0.61,0.0,97.5,0.0
+202009,Setembro/2020,60-69,Feminino,Sudeste,Fundamental incompleto,2622,1,14,0,344,340,6,0.04,0.53,0.0,98.84,0.23
+202009,Setembro/2020,60-69,Feminino,Sudeste,Médio completo,1500,0,11,0,248,277,3,0.0,0.73,0.0,111.69,0.2
+202009,Setembro/2020,60-69,Feminino,Sudeste,Médio incompleto,299,0,3,0,43,50,0,0.0,1.0,0.0,116.28,0.0
+202009,Setembro/2020,60-69,Feminino,Sudeste,Superior completo,969,1,6,0,218,252,2,0.1,0.62,0.0,115.6,0.21
+202009,Setembro/2020,70+,Feminino,Sudeste,Superior incompleto,53,1,1,0,2,2,0,1.89,1.89,0.0,100.0,0.0
+202009,Setembro/2020,70+,Masculino,Sudeste,Superior incompleto,67,0,0,0,8,8,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,70+,Masculino,Sudeste,Médio incompleto,110,2,2,0,10,11,0,1.82,1.82,0.0,110.0,0.0
+202009,Setembro/2020,70+,Masculino,Sudeste,Fundamental incompleto,1877,3,10,0,246,220,6,0.16,0.53,0.0,89.43,0.32
+202009,Setembro/2020,70+,Masculino,Sudeste,Fundamental completo,578,2,2,0,70,67,2,0.35,0.35,0.0,95.71,0.35
+202009,Setembro/2020,70+,Feminino,Sudeste,Fundamental completo,888,0,4,0,26,23,1,0.0,0.45,0.0,88.46,0.11
+202009,Setembro/2020,70+,Feminino,Sudeste,Fundamental incompleto,2508,3,9,0,77,56,2,0.12,0.36,0.0,72.73,0.08
+202009,Setembro/2020,70+,Masculino,Sudeste,Sem instrução,536,4,2,0,36,24,0,0.75,0.37,0.0,66.67,0.0
+202009,Setembro/2020,70+,Masculino,Sudeste,Superior completo,507,0,0,0,96,107,1,0.0,0.0,0.0,111.46,0.2
+202009,Setembro/2020,70+,Feminino,Sudeste,Médio completo,833,1,3,0,23,25,1,0.12,0.36,0.0,108.7,0.12
+202009,Setembro/2020,70+,Feminino,Sudeste,Sem instrução,924,1,6,0,16,7,0,0.11,0.65,0.0,43.75,0.0
+202009,Setembro/2020,70+,Feminino,Sudeste,Pós-graduação,81,0,0,0,11,17,0,0.0,0.0,0.0,154.55,0.0
+202009,Setembro/2020,70+,Feminino,Sudeste,Superior completo,546,1,0,0,34,32,1,0.18,0.0,0.0,94.12,0.18
+202009,Setembro/2020,70+,Feminino,Sudeste,Médio incompleto,140,0,0,0,4,3,0,0.0,0.0,0.0,75.0,0.0
+202009,Setembro/2020,70+,Masculino,Sudeste,Pós-graduação,90,0,1,0,28,30,0,0.0,1.11,0.0,107.14,0.0
+202009,Setembro/2020,70+,Masculino,Sudeste,Médio completo,623,0,4,0,64,69,2,0.0,0.64,0.0,107.81,0.32
+202009,Setembro/2020,0-17,Masculino,Sul,Sem instrução,2121,2,9,0,0,0,0,0.09,0.42,0.0,0.0,0.0
+202009,Setembro/2020,0-17,Feminino,Sul,Fundamental incompleto,3581,1,6,0,22,8,1,0.03,0.17,0.0,36.36,0.03
+202009,Setembro/2020,0-17,Masculino,Sul,Médio completo,48,0,0,0,9,10,0,0.0,0.0,0.0,111.11,0.0
+202009,Setembro/2020,0-17,Feminino,Sul,Fundamental completo,99,0,0,0,7,6,0,0.0,0.0,0.0,85.71,0.0
+202009,Setembro/2020,0-17,Masculino,Sul,Médio incompleto,997,0,2,0,165,129,1,0.0,0.2,0.0,78.18,0.1
+202009,Setembro/2020,0-17,Masculino,Sul,Fundamental completo,107,0,0,0,14,12,0,0.0,0.0,0.0,85.71,0.0
+202009,Setembro/2020,0-17,Feminino,Sul,Médio incompleto,989,0,0,0,114,93,6,0.0,0.0,0.0,81.58,0.61
+202009,Setembro/2020,0-17,Feminino,Sul,Sem instrução,1964,0,5,0,0,0,0,0.0,0.25,0.0,0.0,0.0
+202009,Setembro/2020,0-17,Feminino,Sul,Médio completo,49,0,1,0,9,9,0,0.0,2.04,0.0,100.0,0.0
+202009,Setembro/2020,0-17,Masculino,Sul,Fundamental incompleto,3785,0,8,0,54,33,0,0.0,0.21,0.0,61.11,0.0
+202009,Setembro/2020,0-17,Feminino,Sul,Superior incompleto,13,0,0,0,6,6,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,0-17,Masculino,Sul,Superior incompleto,10,0,0,0,3,4,0,0.0,0.0,0.0,133.33,0.0
+202009,Setembro/2020,18-29,Feminino,Sul,Médio completo,1726,0,5,0,951,965,15,0.0,0.29,0.0,101.47,0.87
+202009,Setembro/2020,18-29,Masculino,Sul,Sem instrução,37,0,0,0,5,5,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,18-29,Masculino,Sul,Superior incompleto,1073,0,2,0,632,633,8,0.0,0.19,0.0,100.16,0.75
+202009,Setembro/2020,18-29,Feminino,Sul,Médio incompleto,575,0,2,0,212,214,3,0.0,0.35,0.0,100.94,0.52
+202009,Setembro/2020,18-29,Masculino,Sul,Pós-graduação,67,0,1,0,52,55,0,0.0,1.49,0.0,105.77,0.0
+202009,Setembro/2020,18-29,Feminino,Sul,Fundamental incompleto,232,0,1,0,74,75,2,0.0,0.43,0.0,101.35,0.86
+202009,Setembro/2020,18-29,Masculino,Sul,Médio incompleto,791,1,4,0,494,487,4,0.13,0.51,0.0,98.58,0.51
+202009,Setembro/2020,18-29,Feminino,Sul,Superior incompleto,1248,0,8,0,645,652,12,0.0,0.64,0.0,101.09,0.96
+202009,Setembro/2020,18-29,Feminino,Sul,Pós-graduação,145,0,1,0,117,123,0,0.0,0.69,0.0,105.13,0.0
+202009,Setembro/2020,18-29,Masculino,Sul,Fundamental incompleto,393,0,1,0,260,264,4,0.0,0.25,0.0,101.54,1.02
+202009,Setembro/2020,18-29,Masculino,Sul,Médio completo,1840,0,10,0,1405,1389,28,0.0,0.54,0.0,98.86,1.52
+202009,Setembro/2020,18-29,Feminino,Sul,Fundamental completo,224,0,1,0,104,96,1,0.0,0.45,0.0,92.31,0.45
+202009,Setembro/2020,18-29,Masculino,Sul,Fundamental completo,343,0,1,0,261,258,2,0.0,0.29,0.0,98.85,0.58
+202009,Setembro/2020,18-29,Feminino,Sul,Superior completo,807,0,1,0,609,626,8,0.0,0.12,0.0,102.79,0.99
+202009,Setembro/2020,18-29,Masculino,Sul,Superior completo,553,0,2,0,441,446,9,0.0,0.36,0.0,101.13,1.63
+202009,Setembro/2020,18-29,Feminino,Sul,Sem instrução,14,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202009,Setembro/2020,30-39,Masculino,Sul,Médio incompleto,388,0,1,0,323,329,5,0.0,0.26,0.0,101.86,1.29
+202009,Setembro/2020,30-39,Feminino,Sul,Pós-graduação,426,0,3,0,363,389,10,0.0,0.7,0.0,107.16,2.35
+202009,Setembro/2020,30-39,Feminino,Sul,Fundamental completo,330,0,1,0,195,182,3,0.0,0.3,0.0,93.33,0.91
+202009,Setembro/2020,30-39,Feminino,Sul,Superior completo,1216,0,3,0,918,981,13,0.0,0.25,0.0,106.86,1.07
+202009,Setembro/2020,30-39,Masculino,Sul,Superior incompleto,401,0,0,0,342,340,4,0.0,0.0,0.0,99.42,1.0
+202009,Setembro/2020,30-39,Masculino,Sul,Pós-graduação,264,0,1,0,241,248,2,0.0,0.38,0.0,102.9,0.76
+202009,Setembro/2020,30-39,Masculino,Sul,Fundamental completo,394,0,0,0,344,345,6,0.0,0.0,0.0,100.29,1.52
+202009,Setembro/2020,30-39,Feminino,Sul,Médio incompleto,358,0,2,0,182,182,2,0.0,0.56,0.0,100.0,0.56
+202009,Setembro/2020,30-39,Feminino,Sul,Médio completo,1632,0,14,0,998,1031,13,0.0,0.86,0.0,103.31,0.8
+202009,Setembro/2020,30-39,Feminino,Sul,Fundamental incompleto,456,0,1,0,216,196,4,0.0,0.22,0.0,90.74,0.88
+202009,Setembro/2020,30-39,Feminino,Sul,Sem instrução,29,0,1,0,0,1,0,0.0,3.45,0.0,0.0,0.0
+202009,Setembro/2020,30-39,Feminino,Sul,Superior incompleto,421,0,3,0,263,284,3,0.0,0.71,0.0,107.98,0.71
+202009,Setembro/2020,30-39,Masculino,Sul,Superior completo,853,1,3,0,758,770,10,0.12,0.35,0.0,101.58,1.17
+202009,Setembro/2020,30-39,Masculino,Sul,Médio completo,1662,0,8,0,1415,1444,24,0.0,0.48,0.0,102.05,1.44
+202009,Setembro/2020,30-39,Masculino,Sul,Fundamental incompleto,550,0,0,1,441,455,11,0.0,0.0,0.18,103.17,2.0
+202009,Setembro/2020,30-39,Masculino,Sul,Sem instrução,29,0,0,0,4,4,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,40-49,Masculino,Sul,Fundamental incompleto,1271,1,4,0,1046,1075,16,0.08,0.31,0.0,102.77,1.26
+202009,Setembro/2020,40-49,Masculino,Sul,Médio incompleto,269,0,0,0,212,216,3,0.0,0.0,0.0,101.89,1.12
+202009,Setembro/2020,40-49,Feminino,Sul,Fundamental incompleto,1189,0,6,0,618,565,14,0.0,0.5,0.0,91.42,1.18
+202009,Setembro/2020,40-49,Masculino,Sul,Sem instrução,65,0,0,0,26,27,0,0.0,0.0,0.0,103.85,0.0
+202009,Setembro/2020,40-49,Masculino,Sul,Médio completo,1296,2,3,0,1096,1133,11,0.15,0.23,0.0,103.38,0.85
+202009,Setembro/2020,40-49,Feminino,Sul,Superior incompleto,246,0,0,0,154,157,1,0.0,0.0,0.0,101.95,0.41
+202009,Setembro/2020,40-49,Masculino,Sul,Superior incompleto,236,0,0,0,199,208,3,0.0,0.0,0.0,104.52,1.27
+202009,Setembro/2020,40-49,Feminino,Sul,Pós-graduação,407,0,3,0,353,373,7,0.0,0.74,0.0,105.67,1.72
+202009,Setembro/2020,40-49,Masculino,Sul,Fundamental completo,512,1,4,0,412,436,6,0.2,0.78,0.0,105.83,1.17
+202009,Setembro/2020,40-49,Masculino,Sul,Pós-graduação,254,0,1,0,222,232,1,0.0,0.39,0.0,104.5,0.39
+202009,Setembro/2020,40-49,Feminino,Sul,Sem instrução,41,0,0,0,11,11,1,0.0,0.0,0.0,100.0,2.44
+202009,Setembro/2020,40-49,Feminino,Sul,Médio incompleto,327,0,2,0,194,201,3,0.0,0.61,0.0,103.61,0.92
+202009,Setembro/2020,40-49,Feminino,Sul,Médio completo,1465,1,6,0,940,962,18,0.07,0.41,0.0,102.34,1.23
+202009,Setembro/2020,40-49,Masculino,Sul,Superior completo,597,2,0,0,540,547,6,0.34,0.0,0.0,101.3,1.01
+202009,Setembro/2020,40-49,Feminino,Sul,Superior completo,845,1,3,0,674,695,10,0.12,0.36,0.0,103.12,1.18
+202009,Setembro/2020,40-49,Feminino,Sul,Fundamental completo,528,0,4,0,312,303,1,0.0,0.76,0.0,97.12,0.19
+202009,Setembro/2020,50-59,Feminino,Sul,Fundamental completo,704,0,5,0,292,290,5,0.0,0.71,0.0,99.32,0.71
+202009,Setembro/2020,50-59,Masculino,Sul,Fundamental incompleto,1720,1,6,0,1209,1228,17,0.06,0.35,0.0,101.57,0.99
+202009,Setembro/2020,50-59,Feminino,Sul,Sem instrução,99,0,2,0,19,15,1,0.0,2.02,0.0,78.95,1.01
+202009,Setembro/2020,50-59,Masculino,Sul,Superior incompleto,164,0,0,0,119,125,1,0.0,0.0,0.0,105.04,0.61
+202009,Setembro/2020,50-59,Masculino,Sul,Superior completo,499,0,0,0,403,413,6,0.0,0.0,0.0,102.48,1.2
+202009,Setembro/2020,50-59,Feminino,Sul,Superior incompleto,162,0,0,0,92,93,3,0.0,0.0,0.0,101.09,1.85
+202009,Setembro/2020,50-59,Masculino,Sul,Médio completo,1105,0,4,0,789,829,5,0.0,0.36,0.0,105.07,0.45
+202009,Setembro/2020,50-59,Masculino,Sul,Pós-graduação,177,0,0,0,147,149,5,0.0,0.0,0.0,101.36,2.82
+202009,Setembro/2020,50-59,Masculino,Sul,Fundamental completo,630,0,3,0,427,454,5,0.0,0.48,0.0,106.32,0.79
+202009,Setembro/2020,50-59,Feminino,Sul,Pós-graduação,297,0,2,0,196,207,1,0.0,0.67,0.0,105.61,0.34
+202009,Setembro/2020,50-59,Feminino,Sul,Fundamental incompleto,1852,1,3,0,758,648,11,0.05,0.16,0.0,85.49,0.59
+202009,Setembro/2020,50-59,Feminino,Sul,Superior completo,667,1,4,0,397,423,8,0.15,0.6,0.0,106.55,1.2
+202009,Setembro/2020,50-59,Feminino,Sul,Médio completo,1312,1,12,0,632,669,14,0.08,0.91,0.0,105.85,1.07
+202009,Setembro/2020,50-59,Masculino,Sul,Médio incompleto,282,0,0,0,194,206,3,0.0,0.0,0.0,106.19,1.06
+202009,Setembro/2020,50-59,Feminino,Sul,Médio incompleto,247,0,1,0,106,105,1,0.0,0.4,0.0,99.06,0.4
+202009,Setembro/2020,50-59,Masculino,Sul,Sem instrução,85,0,1,0,40,44,0,0.0,1.18,0.0,110.0,0.0
+202009,Setembro/2020,60-69,Feminino,Sul,Superior completo,402,1,1,0,119,114,2,0.25,0.25,0.0,95.8,0.5
+202009,Setembro/2020,60-69,Masculino,Sul,Fundamental completo,497,1,0,0,180,192,4,0.2,0.0,0.0,106.67,0.8
+202009,Setembro/2020,60-69,Masculino,Sul,Pós-graduação,93,0,0,0,48,48,1,0.0,0.0,0.0,100.0,1.08
+202009,Setembro/2020,60-69,Feminino,Sul,Pós-graduação,146,0,1,0,52,50,1,0.0,0.68,0.0,96.15,0.68
+202009,Setembro/2020,60-69,Feminino,Sul,Médio incompleto,166,1,1,0,29,27,0,0.6,0.6,0.0,93.1,0.0
+202009,Setembro/2020,60-69,Feminino,Sul,Superior incompleto,92,0,0,0,25,29,0,0.0,0.0,0.0,116.0,0.0
+202009,Setembro/2020,60-69,Masculino,Sul,Sem instrução,114,0,0,0,34,30,0,0.0,0.0,0.0,88.24,0.0
+202009,Setembro/2020,60-69,Feminino,Sul,Sem instrução,185,0,1,0,15,13,0,0.0,0.54,0.0,86.67,0.0
+202009,Setembro/2020,60-69,Masculino,Sul,Superior incompleto,130,1,1,0,49,57,1,0.77,0.77,0.0,116.33,0.77
+202009,Setembro/2020,60-69,Feminino,Sul,Fundamental incompleto,1862,1,5,0,312,246,4,0.05,0.27,0.0,78.85,0.21
+202009,Setembro/2020,60-69,Feminino,Sul,Médio completo,742,1,3,0,125,134,2,0.13,0.4,0.0,107.2,0.27
+202009,Setembro/2020,60-69,Masculino,Sul,Médio incompleto,158,0,1,0,56,62,0,0.0,0.63,0.0,110.71,0.0
+202009,Setembro/2020,60-69,Masculino,Sul,Superior completo,319,0,1,0,156,158,1,0.0,0.31,0.0,101.28,0.31
+202009,Setembro/2020,60-69,Feminino,Sul,Fundamental completo,518,0,3,0,80,80,0,0.0,0.58,0.0,100.0,0.0
+202009,Setembro/2020,60-69,Masculino,Sul,Médio completo,655,1,2,0,228,253,4,0.15,0.31,0.0,110.96,0.61
+202009,Setembro/2020,60-69,Masculino,Sul,Fundamental incompleto,1670,0,2,0,585,579,11,0.0,0.12,0.0,98.97,0.66
+202009,Setembro/2020,70+,Masculino,Sul,Superior completo,202,0,2,0,43,45,1,0.0,0.99,0.0,104.65,0.5
+202009,Setembro/2020,70+,Masculino,Sul,Sem instrução,216,0,1,0,15,12,0,0.0,0.46,0.0,80.0,0.0
+202009,Setembro/2020,70+,Feminino,Sul,Pós-graduação,55,0,0,0,7,6,0,0.0,0.0,0.0,85.71,0.0
+202009,Setembro/2020,70+,Masculino,Sul,Fundamental completo,302,1,0,0,38,35,0,0.33,0.0,0.0,92.11,0.0
+202009,Setembro/2020,70+,Masculino,Sul,Pós-graduação,38,0,0,0,11,11,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,70+,Masculino,Sul,Superior incompleto,46,0,0,0,3,4,0,0.0,0.0,0.0,133.33,0.0
+202009,Setembro/2020,70+,Feminino,Sul,Superior completo,211,0,1,0,13,14,0,0.0,0.47,0.0,107.69,0.0
+202009,Setembro/2020,70+,Masculino,Sul,Médio incompleto,65,0,0,0,10,8,0,0.0,0.0,0.0,80.0,0.0
+202009,Setembro/2020,70+,Feminino,Sul,Superior incompleto,38,1,0,0,0,0,0,2.63,0.0,0.0,0.0,0.0
+202009,Setembro/2020,70+,Feminino,Sul,Médio incompleto,73,0,0,0,3,3,0,0.0,0.0,0.0,100.0,0.0
+202009,Setembro/2020,70+,Feminino,Sul,Fundamental incompleto,1844,4,3,1,86,52,1,0.22,0.16,0.05,60.47,0.05
+202009,Setembro/2020,70+,Masculino,Sul,Médio completo,263,0,0,0,31,32,2,0.0,0.0,0.0,103.23,0.76
+202009,Setembro/2020,70+,Masculino,Sul,Fundamental incompleto,1466,1,5,0,178,150,2,0.07,0.34,0.0,84.27,0.14
+202009,Setembro/2020,70+,Feminino,Sul,Sem instrução,424,2,4,0,6,3,1,0.47,0.94,0.0,50.0,0.24
+202009,Setembro/2020,70+,Feminino,Sul,Fundamental completo,452,2,1,0,16,13,0,0.44,0.22,0.0,81.25,0.0
+202009,Setembro/2020,70+,Feminino,Sul,Médio completo,387,5,0,0,25,23,1,1.29,0.0,0.0,92.0,0.26
+202010,Outubro/2020,0-17,Feminino,Centro-Oeste,Fundamental completo,80,1,1,0,5,4,0,1.25,1.25,0.0,80.0,0.0
+202010,Outubro/2020,0-17,Masculino,Centro-Oeste,Fundamental completo,113,0,0,0,8,8,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,0-17,Masculino,Centro-Oeste,Fundamental incompleto,2729,0,7,0,39,33,3,0.0,0.26,0.0,84.62,0.11
+202010,Outubro/2020,0-17,Feminino,Centro-Oeste,Fundamental incompleto,2495,0,10,1,10,11,0,0.0,0.4,0.04,110.0,0.0
+202010,Outubro/2020,0-17,Masculino,Centro-Oeste,Superior incompleto,4,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,0-17,Feminino,Centro-Oeste,Superior incompleto,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,0-17,Masculino,Centro-Oeste,Médio completo,23,0,0,0,7,7,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,0-17,Feminino,Centro-Oeste,Médio completo,23,0,0,0,5,4,0,0.0,0.0,0.0,80.0,0.0
+202010,Outubro/2020,0-17,Masculino,Centro-Oeste,Sem instrução,1388,0,3,0,0,0,0,0.0,0.22,0.0,0.0,0.0
+202010,Outubro/2020,0-17,Feminino,Centro-Oeste,Médio incompleto,694,0,3,0,51,52,0,0.0,0.43,0.0,101.96,0.0
+202010,Outubro/2020,0-17,Masculino,Centro-Oeste,Médio incompleto,690,0,4,0,99,92,1,0.0,0.58,0.0,92.93,0.14
+202010,Outubro/2020,0-17,Feminino,Centro-Oeste,Sem instrução,1322,2,4,0,0,0,0,0.15,0.3,0.0,0.0,0.0
+202010,Outubro/2020,18-29,Feminino,Centro-Oeste,Fundamental completo,113,0,1,0,42,43,3,0.0,0.88,0.0,102.38,2.65
+202010,Outubro/2020,18-29,Masculino,Centro-Oeste,Médio incompleto,620,0,0,0,385,380,5,0.0,0.0,0.0,98.7,0.81
+202010,Outubro/2020,18-29,Masculino,Centro-Oeste,Médio completo,1142,0,4,0,769,780,11,0.0,0.35,0.0,101.43,0.96
+202010,Outubro/2020,18-29,Masculino,Centro-Oeste,Fundamental incompleto,262,0,2,0,184,184,5,0.0,0.76,0.0,100.0,1.91
+202010,Outubro/2020,18-29,Feminino,Centro-Oeste,Superior incompleto,828,0,8,0,350,356,8,0.0,0.97,0.0,101.71,0.97
+202010,Outubro/2020,18-29,Masculino,Centro-Oeste,Fundamental completo,147,0,2,0,114,116,2,0.0,1.36,0.0,101.75,1.36
+202010,Outubro/2020,18-29,Masculino,Centro-Oeste,Superior completo,361,0,5,0,278,275,4,0.0,1.39,0.0,98.92,1.11
+202010,Outubro/2020,18-29,Masculino,Centro-Oeste,Sem instrução,27,0,0,0,4,4,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,18-29,Feminino,Centro-Oeste,Pós-graduação,80,0,0,0,57,59,1,0.0,0.0,0.0,103.51,1.25
+202010,Outubro/2020,18-29,Feminino,Centro-Oeste,Médio completo,1137,0,11,0,520,534,9,0.0,0.97,0.0,102.69,0.79
+202010,Outubro/2020,18-29,Feminino,Centro-Oeste,Superior completo,557,0,5,0,371,382,4,0.0,0.9,0.0,102.96,0.72
+202010,Outubro/2020,18-29,Feminino,Centro-Oeste,Sem instrução,11,0,0,0,1,1,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,18-29,Masculino,Centro-Oeste,Pós-graduação,39,0,0,0,33,33,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,18-29,Masculino,Centro-Oeste,Superior incompleto,693,0,2,0,388,386,5,0.0,0.29,0.0,99.48,0.72
+202010,Outubro/2020,18-29,Feminino,Centro-Oeste,Médio incompleto,436,1,3,1,138,142,8,0.23,0.69,0.23,102.9,1.83
+202010,Outubro/2020,18-29,Feminino,Centro-Oeste,Fundamental incompleto,187,0,1,0,47,50,1,0.0,0.53,0.0,106.38,0.53
+202010,Outubro/2020,30-39,Masculino,Centro-Oeste,Fundamental incompleto,524,0,3,0,408,420,5,0.0,0.57,0.0,102.94,0.95
+202010,Outubro/2020,30-39,Masculino,Centro-Oeste,Pós-graduação,165,0,1,0,158,163,1,0.0,0.61,0.0,103.16,0.61
+202010,Outubro/2020,30-39,Feminino,Centro-Oeste,Superior incompleto,264,0,2,0,157,170,4,0.0,0.76,0.0,108.28,1.52
+202010,Outubro/2020,30-39,Masculino,Centro-Oeste,Superior completo,526,0,9,0,466,475,6,0.0,1.71,0.0,101.93,1.14
+202010,Outubro/2020,30-39,Feminino,Centro-Oeste,Médio completo,1020,0,10,0,577,597,6,0.0,0.98,0.0,103.47,0.59
+202010,Outubro/2020,30-39,Feminino,Centro-Oeste,Sem instrução,21,0,1,0,4,4,1,0.0,4.76,0.0,100.0,4.76
+202010,Outubro/2020,30-39,Feminino,Centro-Oeste,Pós-graduação,224,0,3,0,182,199,1,0.0,1.34,0.0,109.34,0.45
+202010,Outubro/2020,30-39,Feminino,Centro-Oeste,Fundamental incompleto,343,1,4,0,130,131,1,0.29,1.17,0.0,100.77,0.29
+202010,Outubro/2020,30-39,Feminino,Centro-Oeste,Médio incompleto,253,0,2,0,126,129,0,0.0,0.79,0.0,102.38,0.0
+202010,Outubro/2020,30-39,Masculino,Centro-Oeste,Superior incompleto,209,0,1,0,171,174,0,0.0,0.48,0.0,101.75,0.0
+202010,Outubro/2020,30-39,Masculino,Centro-Oeste,Médio incompleto,287,0,4,0,244,250,6,0.0,1.39,0.0,102.46,2.09
+202010,Outubro/2020,30-39,Masculino,Centro-Oeste,Médio completo,917,0,2,0,789,802,9,0.0,0.22,0.0,101.65,0.98
+202010,Outubro/2020,30-39,Masculino,Centro-Oeste,Sem instrução,41,0,0,0,12,14,0,0.0,0.0,0.0,116.67,0.0
+202010,Outubro/2020,30-39,Masculino,Centro-Oeste,Fundamental completo,182,0,2,0,151,152,2,0.0,1.1,0.0,100.66,1.1
+202010,Outubro/2020,30-39,Feminino,Centro-Oeste,Fundamental completo,171,0,2,0,68,72,1,0.0,1.17,0.0,105.88,0.58
+202010,Outubro/2020,30-39,Feminino,Centro-Oeste,Superior completo,804,1,6,0,595,642,13,0.12,0.75,0.0,107.9,1.62
+202010,Outubro/2020,40-49,Feminino,Centro-Oeste,Fundamental incompleto,755,0,8,0,319,322,7,0.0,1.06,0.0,100.94,0.93
+202010,Outubro/2020,40-49,Masculino,Centro-Oeste,Sem instrução,71,0,0,0,35,35,1,0.0,0.0,0.0,100.0,1.41
+202010,Outubro/2020,40-49,Feminino,Centro-Oeste,Superior incompleto,159,0,6,0,104,108,4,0.0,3.77,0.0,103.85,2.52
+202010,Outubro/2020,40-49,Feminino,Centro-Oeste,Pós-graduação,247,0,1,0,202,218,4,0.0,0.4,0.0,107.92,1.62
+202010,Outubro/2020,40-49,Masculino,Centro-Oeste,Superior incompleto,124,0,3,0,102,109,5,0.0,2.42,0.0,106.86,4.03
+202010,Outubro/2020,40-49,Feminino,Centro-Oeste,Sem instrução,50,0,0,0,16,16,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,40-49,Masculino,Centro-Oeste,Fundamental incompleto,851,0,5,1,683,699,12,0.0,0.59,0.12,102.34,1.41
+202010,Outubro/2020,40-49,Masculino,Centro-Oeste,Médio incompleto,208,0,1,0,177,185,0,0.0,0.48,0.0,104.52,0.0
+202010,Outubro/2020,40-49,Feminino,Centro-Oeste,Fundamental completo,233,0,1,0,113,115,2,0.0,0.43,0.0,101.77,0.86
+202010,Outubro/2020,40-49,Feminino,Centro-Oeste,Médio completo,943,1,10,0,549,558,6,0.11,1.06,0.0,101.64,0.64
+202010,Outubro/2020,40-49,Masculino,Centro-Oeste,Fundamental completo,245,1,2,0,214,214,1,0.41,0.82,0.0,100.0,0.41
+202010,Outubro/2020,40-49,Feminino,Centro-Oeste,Médio incompleto,224,0,2,0,120,120,2,0.0,0.89,0.0,100.0,0.89
+202010,Outubro/2020,40-49,Masculino,Centro-Oeste,Superior completo,409,0,5,0,366,372,8,0.0,1.22,0.0,101.64,1.96
+202010,Outubro/2020,40-49,Feminino,Centro-Oeste,Superior completo,633,0,11,0,448,477,8,0.0,1.74,0.0,106.47,1.26
+202010,Outubro/2020,40-49,Masculino,Centro-Oeste,Médio completo,771,0,7,0,647,671,9,0.0,0.91,0.0,103.71,1.17
+202010,Outubro/2020,40-49,Masculino,Centro-Oeste,Pós-graduação,140,0,0,0,129,136,0,0.0,0.0,0.0,105.43,0.0
+202010,Outubro/2020,50-59,Masculino,Centro-Oeste,Médio incompleto,161,0,0,0,113,116,0,0.0,0.0,0.0,102.65,0.0
+202010,Outubro/2020,50-59,Feminino,Centro-Oeste,Médio incompleto,165,0,1,0,65,63,0,0.0,0.61,0.0,96.92,0.0
+202010,Outubro/2020,50-59,Masculino,Centro-Oeste,Superior incompleto,74,0,0,0,60,64,0,0.0,0.0,0.0,106.67,0.0
+202010,Outubro/2020,50-59,Feminino,Centro-Oeste,Superior completo,440,0,4,0,252,283,3,0.0,0.91,0.0,112.3,0.68
+202010,Outubro/2020,50-59,Feminino,Centro-Oeste,Pós-graduação,159,0,1,0,91,98,1,0.0,0.63,0.0,107.69,0.63
+202010,Outubro/2020,50-59,Feminino,Centro-Oeste,Fundamental incompleto,1003,1,0,0,346,343,7,0.1,0.0,0.0,99.13,0.7
+202010,Outubro/2020,50-59,Masculino,Centro-Oeste,Superior completo,273,0,1,0,208,219,4,0.0,0.37,0.0,105.29,1.47
+202010,Outubro/2020,50-59,Masculino,Centro-Oeste,Fundamental completo,249,0,0,0,175,184,1,0.0,0.0,0.0,105.14,0.4
+202010,Outubro/2020,50-59,Feminino,Centro-Oeste,Sem instrução,114,0,0,0,27,25,1,0.0,0.0,0.0,92.59,0.88
+202010,Outubro/2020,50-59,Feminino,Centro-Oeste,Fundamental completo,303,1,0,0,102,110,1,0.33,0.0,0.0,107.84,0.33
+202010,Outubro/2020,50-59,Masculino,Centro-Oeste,Sem instrução,133,0,1,0,72,80,0,0.0,0.75,0.0,111.11,0.0
+202010,Outubro/2020,50-59,Masculino,Centro-Oeste,Médio completo,583,2,3,0,420,442,7,0.34,0.51,0.0,105.24,1.2
+202010,Outubro/2020,50-59,Feminino,Centro-Oeste,Superior incompleto,56,0,1,0,31,33,0,0.0,1.79,0.0,106.45,0.0
+202010,Outubro/2020,50-59,Masculino,Centro-Oeste,Fundamental incompleto,972,0,3,0,692,711,8,0.0,0.31,0.0,102.75,0.82
+202010,Outubro/2020,50-59,Feminino,Centro-Oeste,Médio completo,769,0,9,0,363,394,8,0.0,1.17,0.0,108.54,1.04
+202010,Outubro/2020,50-59,Masculino,Centro-Oeste,Pós-graduação,102,0,1,0,79,85,2,0.0,0.98,0.0,107.59,1.96
+202010,Outubro/2020,60-69,Masculino,Centro-Oeste,Médio completo,345,1,0,0,150,172,3,0.29,0.0,0.0,114.67,0.87
+202010,Outubro/2020,60-69,Feminino,Centro-Oeste,Pós-graduação,76,1,0,0,23,27,1,1.32,0.0,0.0,117.39,1.32
+202010,Outubro/2020,60-69,Masculino,Centro-Oeste,Pós-graduação,49,0,0,0,26,32,0,0.0,0.0,0.0,123.08,0.0
+202010,Outubro/2020,60-69,Feminino,Centro-Oeste,Fundamental incompleto,833,1,4,0,104,96,3,0.12,0.48,0.0,92.31,0.36
+202010,Outubro/2020,60-69,Feminino,Centro-Oeste,Médio completo,408,0,1,1,84,99,0,0.0,0.25,0.25,117.86,0.0
+202010,Outubro/2020,60-69,Masculino,Centro-Oeste,Superior completo,188,0,1,0,89,101,0,0.0,0.53,0.0,113.48,0.0
+202010,Outubro/2020,60-69,Feminino,Centro-Oeste,Médio incompleto,91,0,0,0,16,20,0,0.0,0.0,0.0,125.0,0.0
+202010,Outubro/2020,60-69,Masculino,Centro-Oeste,Médio incompleto,90,0,0,0,41,42,1,0.0,0.0,0.0,102.44,1.11
+202010,Outubro/2020,60-69,Masculino,Centro-Oeste,Sem instrução,144,1,0,0,55,50,0,0.69,0.0,0.0,90.91,0.0
+202010,Outubro/2020,60-69,Feminino,Centro-Oeste,Superior incompleto,32,0,0,0,6,6,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,60-69,Feminino,Centro-Oeste,Sem instrução,203,1,4,0,13,13,0,0.49,1.97,0.0,100.0,0.0
+202010,Outubro/2020,60-69,Masculino,Centro-Oeste,Fundamental completo,179,0,0,0,76,88,0,0.0,0.0,0.0,115.79,0.0
+202010,Outubro/2020,60-69,Feminino,Centro-Oeste,Fundamental completo,193,1,0,0,31,32,0,0.52,0.0,0.0,103.23,0.0
+202010,Outubro/2020,60-69,Feminino,Centro-Oeste,Superior completo,226,0,4,0,62,66,1,0.0,1.77,0.0,106.45,0.44
+202010,Outubro/2020,60-69,Masculino,Centro-Oeste,Fundamental incompleto,759,1,2,0,330,339,7,0.13,0.26,0.0,102.73,0.92
+202010,Outubro/2020,60-69,Masculino,Centro-Oeste,Superior incompleto,41,0,0,0,21,21,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,70+,Feminino,Centro-Oeste,Pós-graduação,22,0,1,0,2,2,0,0.0,4.55,0.0,100.0,0.0
+202010,Outubro/2020,70+,Feminino,Centro-Oeste,Médio incompleto,46,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,70+,Masculino,Centro-Oeste,Superior completo,103,2,1,0,22,24,0,1.94,0.97,0.0,109.09,0.0
+202010,Outubro/2020,70+,Masculino,Centro-Oeste,Pós-graduação,22,0,1,0,5,5,0,0.0,4.55,0.0,100.0,0.0
+202010,Outubro/2020,70+,Feminino,Centro-Oeste,Superior incompleto,6,0,0,0,1,1,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,70+,Masculino,Centro-Oeste,Médio completo,149,1,0,0,18,19,0,0.67,0.0,0.0,105.56,0.0
+202010,Outubro/2020,70+,Masculino,Centro-Oeste,Fundamental completo,118,0,0,0,14,13,0,0.0,0.0,0.0,92.86,0.0
+202010,Outubro/2020,70+,Feminino,Centro-Oeste,Médio completo,207,1,0,0,6,7,2,0.48,0.0,0.0,116.67,0.97
+202010,Outubro/2020,70+,Masculino,Centro-Oeste,Sem instrução,267,2,1,0,22,23,0,0.75,0.37,0.0,104.55,0.0
+202010,Outubro/2020,70+,Masculino,Centro-Oeste,Superior incompleto,15,0,0,0,3,4,0,0.0,0.0,0.0,133.33,0.0
+202010,Outubro/2020,70+,Feminino,Centro-Oeste,Fundamental completo,165,2,0,0,8,7,0,1.21,0.0,0.0,87.5,0.0
+202010,Outubro/2020,70+,Masculino,Centro-Oeste,Fundamental incompleto,574,1,3,0,84,73,1,0.17,0.52,0.0,86.9,0.17
+202010,Outubro/2020,70+,Feminino,Centro-Oeste,Fundamental incompleto,660,1,2,0,23,17,0,0.15,0.3,0.0,73.91,0.0
+202010,Outubro/2020,70+,Feminino,Centro-Oeste,Superior completo,116,0,1,0,6,6,0,0.0,0.86,0.0,100.0,0.0
+202010,Outubro/2020,70+,Masculino,Centro-Oeste,Médio incompleto,41,0,0,0,6,6,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,70+,Feminino,Centro-Oeste,Sem instrução,313,1,1,0,6,3,1,0.32,0.32,0.0,50.0,0.32
+202010,Outubro/2020,0-17,Masculino,Nordeste,Médio incompleto,1784,0,3,0,180,98,2,0.0,0.17,0.0,54.44,0.11
+202010,Outubro/2020,0-17,Masculino,Nordeste,Superior incompleto,9,0,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,0-17,Masculino,Nordeste,Fundamental incompleto,9053,2,12,1,161,85,2,0.02,0.13,0.01,52.8,0.02
+202010,Outubro/2020,0-17,Feminino,Nordeste,Fundamental incompleto,8613,0,17,0,48,14,0,0.0,0.2,0.0,29.17,0.0
+202010,Outubro/2020,0-17,Masculino,Nordeste,Sem instrução,4084,2,16,0,3,3,0,0.05,0.39,0.0,100.0,0.0
+202010,Outubro/2020,0-17,Feminino,Nordeste,Médio completo,105,0,1,0,11,9,0,0.0,0.95,0.0,81.82,0.0
+202010,Outubro/2020,0-17,Feminino,Nordeste,Médio incompleto,1934,0,8,0,95,57,2,0.0,0.41,0.0,60.0,0.1
+202010,Outubro/2020,0-17,Feminino,Nordeste,Superior incompleto,23,0,0,0,1,1,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,0-17,Masculino,Nordeste,Fundamental completo,216,0,0,0,9,6,0,0.0,0.0,0.0,66.67,0.0
+202010,Outubro/2020,0-17,Feminino,Nordeste,Fundamental completo,205,0,0,0,6,1,0,0.0,0.0,0.0,16.67,0.0
+202010,Outubro/2020,0-17,Masculino,Nordeste,Médio completo,92,0,0,0,16,11,0,0.0,0.0,0.0,68.75,0.0
+202010,Outubro/2020,0-17,Feminino,Nordeste,Sem instrução,4014,2,15,0,1,0,0,0.05,0.37,0.0,0.0,0.0
+202010,Outubro/2020,18-29,Masculino,Nordeste,Médio incompleto,2007,0,5,0,840,751,6,0.0,0.25,0.0,89.4,0.3
+202010,Outubro/2020,18-29,Masculino,Nordeste,Fundamental incompleto,1685,0,1,0,802,681,9,0.0,0.06,0.0,84.91,0.53
+202010,Outubro/2020,18-29,Masculino,Nordeste,Pós-graduação,40,0,0,0,28,30,0,0.0,0.0,0.0,107.14,0.0
+202010,Outubro/2020,18-29,Feminino,Nordeste,Superior incompleto,1677,1,8,0,567,575,4,0.06,0.48,0.0,101.41,0.24
+202010,Outubro/2020,18-29,Feminino,Nordeste,Superior completo,886,0,4,0,499,520,4,0.0,0.45,0.0,104.21,0.45
+202010,Outubro/2020,18-29,Masculino,Nordeste,Superior completo,550,0,4,0,343,352,3,0.0,0.73,0.0,102.62,0.55
+202010,Outubro/2020,18-29,Feminino,Nordeste,Sem instrução,60,0,1,0,3,3,1,0.0,1.67,0.0,100.0,1.67
+202010,Outubro/2020,18-29,Feminino,Nordeste,Pós-graduação,123,0,2,0,84,88,0,0.0,1.63,0.0,104.76,0.0
+202010,Outubro/2020,18-29,Masculino,Nordeste,Superior incompleto,1356,0,4,0,528,519,6,0.0,0.29,0.0,98.3,0.44
+202010,Outubro/2020,18-29,Feminino,Nordeste,Médio completo,4574,0,13,0,1308,1254,17,0.0,0.28,0.0,95.87,0.37
+202010,Outubro/2020,18-29,Feminino,Nordeste,Médio incompleto,1662,0,4,0,274,247,5,0.0,0.24,0.0,90.15,0.3
+202010,Outubro/2020,18-29,Feminino,Nordeste,Fundamental incompleto,1077,0,1,0,162,120,2,0.0,0.09,0.0,74.07,0.19
+202010,Outubro/2020,18-29,Masculino,Nordeste,Fundamental completo,541,0,1,0,290,259,5,0.0,0.18,0.0,89.31,0.92
+202010,Outubro/2020,18-29,Masculino,Nordeste,Sem instrução,84,0,0,0,15,14,0,0.0,0.0,0.0,93.33,0.0
+202010,Outubro/2020,18-29,Feminino,Nordeste,Fundamental completo,404,0,1,1,89,79,1,0.0,0.25,0.25,88.76,0.25
+202010,Outubro/2020,18-29,Masculino,Nordeste,Médio completo,3811,0,10,1,2057,1943,22,0.0,0.26,0.03,94.46,0.58
+202010,Outubro/2020,30-39,Feminino,Nordeste,Médio incompleto,775,0,4,0,247,234,3,0.0,0.52,0.0,94.74,0.39
+202010,Outubro/2020,30-39,Masculino,Nordeste,Médio completo,2713,1,9,0,1978,1994,25,0.04,0.33,0.0,100.81,0.92
+202010,Outubro/2020,30-39,Feminino,Nordeste,Superior incompleto,475,0,4,0,269,288,3,0.0,0.84,0.0,107.06,0.63
+202010,Outubro/2020,30-39,Masculino,Nordeste,Fundamental completo,568,1,1,0,389,370,5,0.18,0.18,0.0,95.12,0.88
+202010,Outubro/2020,30-39,Masculino,Nordeste,Pós-graduação,190,0,2,0,165,170,4,0.0,1.05,0.0,103.03,2.11
+202010,Outubro/2020,30-39,Feminino,Nordeste,Pós-graduação,384,0,6,0,305,325,4,0.0,1.56,0.0,106.56,1.04
+202010,Outubro/2020,30-39,Feminino,Nordeste,Fundamental incompleto,1980,1,7,0,503,389,10,0.05,0.35,0.0,77.34,0.51
+202010,Outubro/2020,30-39,Feminino,Nordeste,Superior completo,1418,0,3,0,953,1037,11,0.0,0.21,0.0,108.81,0.78
+202010,Outubro/2020,30-39,Masculino,Nordeste,Superior incompleto,383,0,4,0,291,304,7,0.0,1.04,0.0,104.47,1.83
+202010,Outubro/2020,30-39,Feminino,Nordeste,Médio completo,3470,1,7,0,1432,1453,20,0.03,0.2,0.0,101.47,0.58
+202010,Outubro/2020,30-39,Masculino,Nordeste,Sem instrução,244,0,1,0,96,84,0,0.0,0.41,0.0,87.5,0.0
+202010,Outubro/2020,30-39,Masculino,Nordeste,Fundamental incompleto,2404,0,5,0,1480,1360,11,0.0,0.21,0.0,91.89,0.46
+202010,Outubro/2020,30-39,Masculino,Nordeste,Médio incompleto,849,0,3,0,582,564,10,0.0,0.35,0.0,96.91,1.18
+202010,Outubro/2020,30-39,Feminino,Nordeste,Fundamental completo,573,0,2,0,194,167,2,0.0,0.35,0.0,86.08,0.35
+202010,Outubro/2020,30-39,Masculino,Nordeste,Superior completo,781,0,3,0,654,683,7,0.0,0.38,0.0,104.43,0.9
+202010,Outubro/2020,30-39,Feminino,Nordeste,Sem instrução,169,0,1,0,24,18,0,0.0,0.59,0.0,75.0,0.0
+202010,Outubro/2020,40-49,Feminino,Nordeste,Médio incompleto,541,1,1,0,228,220,3,0.18,0.18,0.0,96.49,0.55
+202010,Outubro/2020,40-49,Masculino,Nordeste,Superior completo,554,0,2,0,468,499,7,0.0,0.36,0.0,106.62,1.26
+202010,Outubro/2020,40-49,Masculino,Nordeste,Sem instrução,580,0,0,0,297,245,5,0.0,0.0,0.0,82.49,0.86
+202010,Outubro/2020,40-49,Feminino,Nordeste,Superior completo,1031,0,4,0,715,783,12,0.0,0.39,0.0,109.51,1.16
+202010,Outubro/2020,40-49,Feminino,Nordeste,Sem instrução,339,0,2,0,69,38,0,0.0,0.59,0.0,55.07,0.0
+202010,Outubro/2020,40-49,Masculino,Nordeste,Fundamental incompleto,3040,0,6,0,1983,1831,17,0.0,0.2,0.0,92.33,0.56
+202010,Outubro/2020,40-49,Masculino,Nordeste,Médio incompleto,472,0,3,0,332,335,2,0.0,0.64,0.0,100.9,0.42
+202010,Outubro/2020,40-49,Masculino,Nordeste,Superior incompleto,189,0,0,0,162,165,0,0.0,0.0,0.0,101.85,0.0
+202010,Outubro/2020,40-49,Feminino,Nordeste,Fundamental incompleto,2976,3,12,1,891,740,8,0.1,0.4,0.03,83.05,0.27
+202010,Outubro/2020,40-49,Feminino,Nordeste,Superior incompleto,237,0,1,0,132,142,1,0.0,0.42,0.0,107.58,0.42
+202010,Outubro/2020,40-49,Feminino,Nordeste,Fundamental completo,626,0,5,0,230,230,5,0.0,0.8,0.0,100.0,0.8
+202010,Outubro/2020,40-49,Masculino,Nordeste,Médio completo,1802,0,8,0,1369,1397,16,0.0,0.44,0.0,102.05,0.89
+202010,Outubro/2020,40-49,Masculino,Nordeste,Pós-graduação,182,0,0,0,159,164,2,0.0,0.0,0.0,103.14,1.1
+202010,Outubro/2020,40-49,Feminino,Nordeste,Pós-graduação,388,0,5,0,309,347,6,0.0,1.29,0.0,112.3,1.55
+202010,Outubro/2020,40-49,Feminino,Nordeste,Médio completo,2427,2,14,0,1148,1183,14,0.08,0.58,0.0,103.05,0.58
+202010,Outubro/2020,40-49,Masculino,Nordeste,Fundamental completo,553,0,2,0,396,380,4,0.0,0.36,0.0,95.96,0.72
+202010,Outubro/2020,50-59,Feminino,Nordeste,Superior incompleto,108,1,3,0,60,64,4,0.93,2.78,0.0,106.67,3.7
+202010,Outubro/2020,50-59,Feminino,Nordeste,Médio incompleto,359,0,3,0,110,107,4,0.0,0.84,0.0,97.27,1.11
+202010,Outubro/2020,50-59,Masculino,Nordeste,Pós-graduação,125,0,2,0,106,119,1,0.0,1.6,0.0,112.26,0.8
+202010,Outubro/2020,50-59,Feminino,Nordeste,Pós-graduação,334,0,1,0,214,244,4,0.0,0.3,0.0,114.02,1.2
+202010,Outubro/2020,50-59,Masculino,Nordeste,Superior completo,327,0,2,0,251,261,2,0.0,0.61,0.0,103.98,0.61
+202010,Outubro/2020,50-59,Masculino,Nordeste,Médio incompleto,315,1,0,0,204,208,1,0.32,0.0,0.0,101.96,0.32
+202010,Outubro/2020,50-59,Masculino,Nordeste,Fundamental incompleto,2862,1,8,0,1681,1469,17,0.03,0.28,0.0,87.39,0.59
+202010,Outubro/2020,50-59,Feminino,Nordeste,Fundamental completo,604,1,1,0,190,181,3,0.17,0.17,0.0,95.26,0.5
+202010,Outubro/2020,50-59,Masculino,Nordeste,Fundamental completo,493,0,1,0,297,295,1,0.0,0.2,0.0,99.33,0.2
+202010,Outubro/2020,50-59,Feminino,Nordeste,Médio completo,1621,0,12,0,644,683,5,0.0,0.74,0.0,106.06,0.31
+202010,Outubro/2020,50-59,Masculino,Nordeste,Superior incompleto,105,0,0,0,73,80,0,0.0,0.0,0.0,109.59,0.0
+202010,Outubro/2020,50-59,Masculino,Nordeste,Sem instrução,869,1,3,0,409,324,7,0.12,0.35,0.0,79.22,0.81
+202010,Outubro/2020,50-59,Feminino,Nordeste,Fundamental incompleto,3090,1,19,2,759,596,12,0.03,0.61,0.06,78.52,0.39
+202010,Outubro/2020,50-59,Masculino,Nordeste,Médio completo,1183,1,4,0,765,809,13,0.08,0.34,0.0,105.75,1.1
+202010,Outubro/2020,50-59,Feminino,Nordeste,Superior completo,765,0,3,0,438,513,3,0.0,0.39,0.0,117.12,0.39
+202010,Outubro/2020,50-59,Feminino,Nordeste,Sem instrução,751,0,4,0,128,76,1,0.0,0.53,0.0,59.38,0.13
+202010,Outubro/2020,60-69,Feminino,Nordeste,Médio incompleto,187,0,1,0,24,25,0,0.0,0.53,0.0,104.17,0.0
+202010,Outubro/2020,60-69,Masculino,Nordeste,Pós-graduação,52,1,0,0,29,33,0,1.92,0.0,0.0,113.79,0.0
+202010,Outubro/2020,60-69,Masculino,Nordeste,Fundamental completo,325,0,0,0,115,117,3,0.0,0.0,0.0,101.74,0.92
+202010,Outubro/2020,60-69,Feminino,Nordeste,Fundamental completo,427,0,1,0,42,46,1,0.0,0.23,0.0,109.52,0.23
+202010,Outubro/2020,60-69,Masculino,Nordeste,Fundamental incompleto,1907,3,6,1,617,483,7,0.16,0.31,0.05,78.28,0.37
+202010,Outubro/2020,60-69,Masculino,Nordeste,Sem instrução,1032,1,3,0,300,176,8,0.1,0.29,0.0,58.67,0.78
+202010,Outubro/2020,60-69,Feminino,Nordeste,Superior incompleto,61,0,1,0,12,16,0,0.0,1.64,0.0,133.33,0.0
+202010,Outubro/2020,60-69,Feminino,Nordeste,Sem instrução,995,1,3,0,73,40,2,0.1,0.3,0.0,54.79,0.2
+202010,Outubro/2020,60-69,Feminino,Nordeste,Pós-graduação,128,0,1,0,47,58,1,0.0,0.78,0.0,123.4,0.78
+202010,Outubro/2020,60-69,Masculino,Nordeste,Superior incompleto,55,0,0,0,23,26,1,0.0,0.0,0.0,113.04,1.82
+202010,Outubro/2020,60-69,Masculino,Nordeste,Médio incompleto,146,0,0,0,48,43,0,0.0,0.0,0.0,89.58,0.0
+202010,Outubro/2020,60-69,Masculino,Nordeste,Superior completo,248,0,0,0,125,136,2,0.0,0.0,0.0,108.8,0.81
+202010,Outubro/2020,60-69,Feminino,Nordeste,Fundamental incompleto,2224,1,8,0,223,139,3,0.04,0.36,0.0,62.33,0.13
+202010,Outubro/2020,60-69,Feminino,Nordeste,Médio completo,802,0,6,0,158,180,1,0.0,0.75,0.0,113.92,0.12
+202010,Outubro/2020,60-69,Masculino,Nordeste,Médio completo,547,0,3,0,189,214,1,0.0,0.55,0.0,113.23,0.18
+202010,Outubro/2020,60-69,Feminino,Nordeste,Superior completo,474,0,0,0,128,159,0,0.0,0.0,0.0,124.22,0.0
+202010,Outubro/2020,70+,Masculino,Nordeste,Médio completo,268,2,1,0,32,33,0,0.75,0.37,0.0,103.13,0.0
+202010,Outubro/2020,70+,Masculino,Nordeste,Fundamental completo,209,1,2,0,17,13,0,0.48,0.96,0.0,76.47,0.0
+202010,Outubro/2020,70+,Masculino,Nordeste,Médio incompleto,59,0,0,0,7,6,0,0.0,0.0,0.0,85.71,0.0
+202010,Outubro/2020,70+,Feminino,Nordeste,Superior incompleto,21,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,70+,Feminino,Nordeste,Superior completo,250,0,1,0,11,16,0,0.0,0.4,0.0,145.45,0.0
+202010,Outubro/2020,70+,Feminino,Nordeste,Fundamental completo,330,1,1,0,6,5,0,0.3,0.3,0.0,83.33,0.0
+202010,Outubro/2020,70+,Feminino,Nordeste,Médio incompleto,98,0,1,0,5,3,0,0.0,1.02,0.0,60.0,0.0
+202010,Outubro/2020,70+,Feminino,Nordeste,Fundamental incompleto,1823,4,4,1,52,27,0,0.22,0.22,0.05,51.92,0.0
+202010,Outubro/2020,70+,Feminino,Nordeste,Médio completo,422,1,5,0,13,14,0,0.24,1.18,0.0,107.69,0.0
+202010,Outubro/2020,70+,Masculino,Nordeste,Pós-graduação,29,0,0,0,11,10,0,0.0,0.0,0.0,90.91,0.0
+202010,Outubro/2020,70+,Masculino,Nordeste,Sem instrução,1410,1,4,0,112,43,2,0.07,0.28,0.0,38.39,0.14
+202010,Outubro/2020,70+,Masculino,Nordeste,Fundamental incompleto,1455,0,4,0,162,92,3,0.0,0.27,0.0,56.79,0.21
+202010,Outubro/2020,70+,Masculino,Nordeste,Superior completo,142,0,0,0,24,30,1,0.0,0.0,0.0,125.0,0.7
+202010,Outubro/2020,70+,Feminino,Nordeste,Pós-graduação,45,0,0,0,5,7,0,0.0,0.0,0.0,140.0,0.0
+202010,Outubro/2020,70+,Masculino,Nordeste,Superior incompleto,22,0,0,0,3,3,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,70+,Feminino,Nordeste,Sem instrução,1658,1,7,0,28,11,0,0.06,0.42,0.0,39.29,0.0
+202010,Outubro/2020,0-17,Masculino,Norte,Fundamental incompleto,3906,0,5,0,79,32,2,0.0,0.13,0.0,40.51,0.05
+202010,Outubro/2020,0-17,Masculino,Norte,Médio incompleto,818,0,3,0,84,57,3,0.0,0.37,0.0,67.86,0.37
+202010,Outubro/2020,0-17,Masculino,Norte,Sem instrução,1911,1,19,0,0,0,0,0.05,0.99,0.0,0.0,0.0
+202010,Outubro/2020,0-17,Feminino,Norte,Médio completo,35,1,0,0,5,3,0,2.86,0.0,0.0,60.0,0.0
+202010,Outubro/2020,0-17,Masculino,Norte,Superior incompleto,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,0-17,Masculino,Norte,Fundamental completo,118,0,0,0,5,2,0,0.0,0.0,0.0,40.0,0.0
+202010,Outubro/2020,0-17,Feminino,Norte,Fundamental incompleto,3681,0,24,1,29,8,1,0.0,0.65,0.03,27.59,0.03
+202010,Outubro/2020,0-17,Masculino,Norte,Médio completo,40,0,0,0,9,3,0,0.0,0.0,0.0,33.33,0.0
+202010,Outubro/2020,0-17,Feminino,Norte,Fundamental completo,102,0,0,0,4,1,0,0.0,0.0,0.0,25.0,0.0
+202010,Outubro/2020,0-17,Feminino,Norte,Sem instrução,1773,0,12,1,1,0,0,0.0,0.68,0.06,0.0,0.0
+202010,Outubro/2020,0-17,Feminino,Norte,Médio incompleto,934,0,6,0,48,31,2,0.0,0.64,0.0,64.58,0.21
+202010,Outubro/2020,0-17,Feminino,Norte,Superior incompleto,3,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,18-29,Masculino,Norte,Fundamental completo,170,0,0,0,93,81,1,0.0,0.0,0.0,87.1,0.59
+202010,Outubro/2020,18-29,Feminino,Norte,Fundamental incompleto,325,0,1,0,45,35,0,0.0,0.31,0.0,77.78,0.0
+202010,Outubro/2020,18-29,Masculino,Norte,Pós-graduação,31,0,0,0,26,28,0,0.0,0.0,0.0,107.69,0.0
+202010,Outubro/2020,18-29,Masculino,Norte,Médio incompleto,865,0,4,0,420,375,7,0.0,0.46,0.0,89.29,0.81
+202010,Outubro/2020,18-29,Feminino,Norte,Sem instrução,23,0,0,0,2,2,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,18-29,Feminino,Norte,Fundamental completo,139,0,1,0,30,23,0,0.0,0.72,0.0,76.67,0.0
+202010,Outubro/2020,18-29,Feminino,Norte,Pós-graduação,59,0,1,0,38,40,0,0.0,1.69,0.0,105.26,0.0
+202010,Outubro/2020,18-29,Feminino,Norte,Médio incompleto,713,0,5,0,138,111,2,0.0,0.7,0.0,80.43,0.28
+202010,Outubro/2020,18-29,Feminino,Norte,Superior completo,477,0,6,0,246,267,5,0.0,1.26,0.0,108.54,1.05
+202010,Outubro/2020,18-29,Masculino,Norte,Superior completo,330,0,1,0,232,240,1,0.0,0.3,0.0,103.45,0.3
+202010,Outubro/2020,18-29,Masculino,Norte,Médio completo,1930,0,11,0,1070,1004,17,0.0,0.57,0.0,93.83,0.88
+202010,Outubro/2020,18-29,Masculino,Norte,Fundamental incompleto,501,0,1,0,279,232,4,0.0,0.2,0.0,83.15,0.8
+202010,Outubro/2020,18-29,Feminino,Norte,Médio completo,1988,0,5,0,605,574,12,0.0,0.25,0.0,94.88,0.6
+202010,Outubro/2020,18-29,Masculino,Norte,Superior incompleto,721,1,2,0,311,310,10,0.14,0.28,0.0,99.68,1.39
+202010,Outubro/2020,18-29,Feminino,Norte,Superior incompleto,846,1,4,0,298,291,8,0.12,0.47,0.0,97.65,0.95
+202010,Outubro/2020,18-29,Masculino,Norte,Sem instrução,45,0,0,0,7,6,0,0.0,0.0,0.0,85.71,0.0
+202010,Outubro/2020,30-39,Masculino,Norte,Pós-graduação,98,0,2,0,82,86,3,0.0,2.04,0.0,104.88,3.06
+202010,Outubro/2020,30-39,Masculino,Norte,Superior incompleto,207,1,3,0,160,165,6,0.48,1.45,0.0,103.13,2.9
+202010,Outubro/2020,30-39,Feminino,Norte,Fundamental completo,203,0,0,0,80,68,2,0.0,0.0,0.0,85.0,0.99
+202010,Outubro/2020,30-39,Masculino,Norte,Médio completo,1380,0,6,0,1012,1026,16,0.0,0.43,0.0,101.38,1.16
+202010,Outubro/2020,30-39,Feminino,Norte,Médio incompleto,300,0,2,0,110,111,2,0.0,0.67,0.0,100.91,0.67
+202010,Outubro/2020,30-39,Masculino,Norte,Médio incompleto,360,0,2,0,267,256,5,0.0,0.56,0.0,95.88,1.39
+202010,Outubro/2020,30-39,Masculino,Norte,Fundamental incompleto,690,0,2,0,505,486,11,0.0,0.29,0.0,96.24,1.59
+202010,Outubro/2020,30-39,Feminino,Norte,Pós-graduação,181,0,3,0,140,150,4,0.0,1.66,0.0,107.14,2.21
+202010,Outubro/2020,30-39,Masculino,Norte,Sem instrução,53,0,1,0,24,23,1,0.0,1.89,0.0,95.83,1.89
+202010,Outubro/2020,30-39,Feminino,Norte,Sem instrução,51,0,1,0,6,4,0,0.0,1.96,0.0,66.67,0.0
+202010,Outubro/2020,30-39,Feminino,Norte,Superior completo,706,0,4,0,447,492,12,0.0,0.57,0.0,110.07,1.7
+202010,Outubro/2020,30-39,Feminino,Norte,Fundamental incompleto,509,1,1,0,158,122,4,0.2,0.2,0.0,77.22,0.79
+202010,Outubro/2020,30-39,Masculino,Norte,Superior completo,448,0,4,0,365,389,8,0.0,0.89,0.0,106.58,1.79
+202010,Outubro/2020,30-39,Feminino,Norte,Médio completo,1474,1,11,0,653,641,12,0.07,0.75,0.0,98.16,0.81
+202010,Outubro/2020,30-39,Masculino,Norte,Fundamental completo,230,0,0,0,162,163,0,0.0,0.0,0.0,100.62,0.0
+202010,Outubro/2020,30-39,Feminino,Norte,Superior incompleto,307,0,3,0,152,163,7,0.0,0.98,0.0,107.24,2.28
+202010,Outubro/2020,40-49,Feminino,Norte,Médio incompleto,229,0,1,0,98,104,1,0.0,0.44,0.0,106.12,0.44
+202010,Outubro/2020,40-49,Feminino,Norte,Sem instrução,79,0,0,0,22,18,0,0.0,0.0,0.0,81.82,0.0
+202010,Outubro/2020,40-49,Feminino,Norte,Médio completo,1181,0,9,1,544,567,8,0.0,0.76,0.08,104.23,0.68
+202010,Outubro/2020,40-49,Masculino,Norte,Pós-graduação,100,0,1,0,86,90,2,0.0,1.0,0.0,104.65,2.0
+202010,Outubro/2020,40-49,Feminino,Norte,Fundamental completo,234,0,2,0,101,92,0,0.0,0.85,0.0,91.09,0.0
+202010,Outubro/2020,40-49,Masculino,Norte,Médio incompleto,237,0,0,0,170,176,2,0.0,0.0,0.0,103.53,0.84
+202010,Outubro/2020,40-49,Masculino,Norte,Médio completo,989,0,3,0,751,774,11,0.0,0.3,0.0,103.06,1.11
+202010,Outubro/2020,40-49,Feminino,Norte,Pós-graduação,192,0,1,0,146,161,3,0.0,0.52,0.0,110.27,1.56
+202010,Outubro/2020,40-49,Masculino,Norte,Superior incompleto,107,0,0,0,85,92,4,0.0,0.0,0.0,108.24,3.74
+202010,Outubro/2020,40-49,Masculino,Norte,Fundamental completo,236,0,4,0,167,168,2,0.0,1.69,0.0,100.6,0.85
+202010,Outubro/2020,40-49,Feminino,Norte,Superior completo,602,0,5,0,401,459,8,0.0,0.83,0.0,114.46,1.33
+202010,Outubro/2020,40-49,Masculino,Norte,Sem instrução,128,0,2,0,78,75,2,0.0,1.56,0.0,96.15,1.56
+202010,Outubro/2020,40-49,Masculino,Norte,Fundamental incompleto,953,1,5,0,701,689,18,0.1,0.52,0.0,98.29,1.89
+202010,Outubro/2020,40-49,Feminino,Norte,Fundamental incompleto,797,0,4,1,283,224,4,0.0,0.5,0.13,79.15,0.5
+202010,Outubro/2020,40-49,Masculino,Norte,Superior completo,350,1,7,0,295,315,3,0.29,2.0,0.0,106.78,0.86
+202010,Outubro/2020,40-49,Feminino,Norte,Superior incompleto,147,0,1,0,73,79,3,0.0,0.68,0.0,108.22,2.04
+202010,Outubro/2020,50-59,Feminino,Norte,Superior completo,376,1,3,0,200,248,3,0.27,0.8,0.0,124.0,0.8
+202010,Outubro/2020,50-59,Feminino,Norte,Médio incompleto,159,1,1,0,55,54,0,0.63,0.63,0.0,98.18,0.0
+202010,Outubro/2020,50-59,Masculino,Norte,Sem instrução,174,0,0,0,98,96,0,0.0,0.0,0.0,97.96,0.0
+202010,Outubro/2020,50-59,Feminino,Norte,Fundamental completo,257,0,1,0,79,73,2,0.0,0.39,0.0,92.41,0.78
+202010,Outubro/2020,50-59,Masculino,Norte,Fundamental completo,203,0,0,0,136,142,2,0.0,0.0,0.0,104.41,0.99
+202010,Outubro/2020,50-59,Feminino,Norte,Médio completo,721,0,4,0,285,317,8,0.0,0.55,0.0,111.23,1.11
+202010,Outubro/2020,50-59,Masculino,Norte,Médio incompleto,161,0,4,0,107,111,1,0.0,2.48,0.0,103.74,0.62
+202010,Outubro/2020,50-59,Feminino,Norte,Superior incompleto,59,1,0,0,25,31,1,1.69,0.0,0.0,124.0,1.69
+202010,Outubro/2020,50-59,Feminino,Norte,Sem instrução,165,0,1,0,30,26,1,0.0,0.61,0.0,86.67,0.61
+202010,Outubro/2020,50-59,Masculino,Norte,Pós-graduação,64,0,0,0,58,59,0,0.0,0.0,0.0,101.72,0.0
+202010,Outubro/2020,50-59,Masculino,Norte,Médio completo,567,2,2,0,372,395,6,0.35,0.35,0.0,106.18,1.06
+202010,Outubro/2020,50-59,Masculino,Norte,Superior incompleto,46,0,0,0,28,28,1,0.0,0.0,0.0,100.0,2.17
+202010,Outubro/2020,50-59,Feminino,Norte,Pós-graduação,134,0,0,0,78,94,0,0.0,0.0,0.0,120.51,0.0
+202010,Outubro/2020,50-59,Feminino,Norte,Fundamental incompleto,891,0,5,0,235,197,3,0.0,0.56,0.0,83.83,0.34
+202010,Outubro/2020,50-59,Masculino,Norte,Superior completo,235,0,2,0,162,192,3,0.0,0.85,0.0,118.52,1.28
+202010,Outubro/2020,50-59,Masculino,Norte,Fundamental incompleto,944,0,2,0,624,621,11,0.0,0.21,0.0,99.52,1.17
+202010,Outubro/2020,60-69,Feminino,Norte,Pós-graduação,45,0,1,0,12,17,0,0.0,2.22,0.0,141.67,0.0
+202010,Outubro/2020,60-69,Feminino,Norte,Superior completo,159,0,1,0,40,51,3,0.0,0.63,0.0,127.5,1.89
+202010,Outubro/2020,60-69,Masculino,Norte,Superior completo,140,0,1,0,71,84,2,0.0,0.71,0.0,118.31,1.43
+202010,Outubro/2020,60-69,Masculino,Norte,Fundamental incompleto,701,1,4,0,277,263,2,0.14,0.57,0.0,94.95,0.29
+202010,Outubro/2020,60-69,Feminino,Norte,Superior incompleto,14,0,0,0,3,3,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,60-69,Masculino,Norte,Sem instrução,199,0,1,0,74,69,1,0.0,0.5,0.0,93.24,0.5
+202010,Outubro/2020,60-69,Masculino,Norte,Pós-graduação,32,0,0,0,14,16,0,0.0,0.0,0.0,114.29,0.0
+202010,Outubro/2020,60-69,Feminino,Norte,Médio completo,379,0,6,0,64,88,1,0.0,1.58,0.0,137.5,0.26
+202010,Outubro/2020,60-69,Masculino,Norte,Fundamental completo,162,0,4,0,62,62,0,0.0,2.47,0.0,100.0,0.0
+202010,Outubro/2020,60-69,Masculino,Norte,Médio completo,278,0,3,0,102,116,3,0.0,1.08,0.0,113.73,1.08
+202010,Outubro/2020,60-69,Feminino,Norte,Fundamental completo,176,0,0,0,25,27,0,0.0,0.0,0.0,108.0,0.0
+202010,Outubro/2020,60-69,Feminino,Norte,Fundamental incompleto,713,1,8,0,80,68,0,0.14,1.12,0.0,85.0,0.0
+202010,Outubro/2020,60-69,Masculino,Norte,Médio incompleto,77,0,1,0,24,29,0,0.0,1.3,0.0,120.83,0.0
+202010,Outubro/2020,60-69,Feminino,Norte,Sem instrução,182,0,1,0,17,6,0,0.0,0.55,0.0,35.29,0.0
+202010,Outubro/2020,60-69,Feminino,Norte,Médio incompleto,78,0,0,0,12,17,1,0.0,0.0,0.0,141.67,1.28
+202010,Outubro/2020,60-69,Masculino,Norte,Superior incompleto,24,0,0,0,15,18,0,0.0,0.0,0.0,120.0,0.0
+202010,Outubro/2020,70+,Masculino,Norte,Sem instrução,295,0,0,0,29,23,0,0.0,0.0,0.0,79.31,0.0
+202010,Outubro/2020,70+,Feminino,Norte,Superior completo,77,0,0,0,3,4,0,0.0,0.0,0.0,133.33,0.0
+202010,Outubro/2020,70+,Feminino,Norte,Pós-graduação,7,0,0,0,1,1,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,70+,Masculino,Norte,Pós-graduação,11,0,0,0,3,3,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,70+,Feminino,Norte,Fundamental incompleto,504,0,3,0,8,4,0,0.0,0.6,0.0,50.0,0.0
+202010,Outubro/2020,70+,Feminino,Norte,Superior incompleto,9,0,1,0,1,2,0,0.0,11.11,0.0,200.0,0.0
+202010,Outubro/2020,70+,Masculino,Norte,Superior incompleto,8,0,0,0,2,2,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,70+,Masculino,Norte,Superior completo,58,0,0,0,11,9,0,0.0,0.0,0.0,81.82,0.0
+202010,Outubro/2020,70+,Masculino,Norte,Médio completo,117,0,1,0,13,14,0,0.0,0.85,0.0,107.69,0.0
+202010,Outubro/2020,70+,Feminino,Norte,Fundamental completo,139,0,1,0,1,1,0,0.0,0.72,0.0,100.0,0.0
+202010,Outubro/2020,70+,Masculino,Norte,Fundamental completo,103,0,0,0,15,12,0,0.0,0.0,0.0,80.0,0.0
+202010,Outubro/2020,70+,Masculino,Norte,Fundamental incompleto,490,0,4,0,65,53,1,0.0,0.82,0.0,81.54,0.2
+202010,Outubro/2020,70+,Feminino,Norte,Sem instrução,362,2,0,0,2,1,0,0.55,0.0,0.0,50.0,0.0
+202010,Outubro/2020,70+,Feminino,Norte,Médio completo,157,0,1,0,3,4,0,0.0,0.64,0.0,133.33,0.0
+202010,Outubro/2020,70+,Feminino,Norte,Médio incompleto,33,0,0,0,4,2,0,0.0,0.0,0.0,50.0,0.0
+202010,Outubro/2020,70+,Masculino,Norte,Médio incompleto,43,0,0,0,8,6,1,0.0,0.0,0.0,75.0,2.33
+202010,Outubro/2020,0-17,Feminino,Sudeste,Superior incompleto,14,0,0,0,2,2,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,0-17,Masculino,Sudeste,Médio incompleto,1627,0,6,0,177,149,1,0.0,0.37,0.0,84.18,0.06
+202010,Outubro/2020,0-17,Masculino,Sudeste,Médio completo,57,0,1,0,7,6,0,0.0,1.75,0.0,85.71,0.0
+202010,Outubro/2020,0-17,Masculino,Sudeste,Sem instrução,3452,2,9,0,1,1,0,0.06,0.26,0.0,100.0,0.0
+202010,Outubro/2020,0-17,Masculino,Sudeste,Fundamental completo,209,0,1,0,15,10,0,0.0,0.48,0.0,66.67,0.0
+202010,Outubro/2020,0-17,Feminino,Sudeste,Médio incompleto,1666,0,8,0,106,107,0,0.0,0.48,0.0,100.94,0.0
+202010,Outubro/2020,0-17,Masculino,Sudeste,Superior incompleto,6,0,0,0,3,3,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,0-17,Masculino,Sudeste,Fundamental incompleto,6527,2,18,0,58,47,0,0.03,0.28,0.0,81.03,0.0
+202010,Outubro/2020,0-17,Feminino,Sudeste,Fundamental incompleto,6112,1,13,0,25,18,0,0.02,0.21,0.0,72.0,0.0
+202010,Outubro/2020,0-17,Feminino,Sudeste,Fundamental completo,197,0,0,0,2,2,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,0-17,Feminino,Sudeste,Médio completo,62,0,1,0,9,10,1,0.0,1.61,0.0,111.11,1.61
+202010,Outubro/2020,0-17,Feminino,Sudeste,Sem instrução,3320,0,19,0,0,0,0,0.0,0.57,0.0,0.0,0.0
+202010,Outubro/2020,18-29,Feminino,Sudeste,Fundamental completo,329,0,1,0,104,103,2,0.0,0.3,0.0,99.04,0.61
+202010,Outubro/2020,18-29,Masculino,Sudeste,Médio incompleto,1446,0,2,0,709,706,12,0.0,0.14,0.0,99.58,0.83
+202010,Outubro/2020,18-29,Feminino,Sudeste,Médio incompleto,1051,0,7,0,244,248,2,0.0,0.67,0.0,101.64,0.19
+202010,Outubro/2020,18-29,Masculino,Sudeste,Superior incompleto,1443,0,10,0,742,747,9,0.0,0.69,0.0,100.67,0.62
+202010,Outubro/2020,18-29,Masculino,Sudeste,Superior completo,736,0,7,0,563,566,4,0.0,0.95,0.0,100.53,0.54
+202010,Outubro/2020,18-29,Masculino,Sudeste,Sem instrução,65,0,2,0,8,8,1,0.0,3.08,0.0,100.0,1.54
+202010,Outubro/2020,18-29,Feminino,Sudeste,Médio completo,3721,1,11,0,1536,1580,14,0.03,0.3,0.0,102.86,0.38
+202010,Outubro/2020,18-29,Feminino,Sudeste,Fundamental incompleto,404,0,0,0,77,85,2,0.0,0.0,0.0,110.39,0.5
+202010,Outubro/2020,18-29,Feminino,Sudeste,Sem instrução,39,0,0,0,3,3,1,0.0,0.0,0.0,100.0,2.56
+202010,Outubro/2020,18-29,Masculino,Sudeste,Fundamental incompleto,733,0,3,0,423,416,3,0.0,0.41,0.0,98.35,0.41
+202010,Outubro/2020,18-29,Masculino,Sudeste,Médio completo,3702,0,12,0,2355,2352,29,0.0,0.32,0.0,99.87,0.78
+202010,Outubro/2020,18-29,Masculino,Sudeste,Fundamental completo,408,0,1,0,275,275,7,0.0,0.25,0.0,100.0,1.72
+202010,Outubro/2020,18-29,Masculino,Sudeste,Pós-graduação,67,0,0,0,49,49,2,0.0,0.0,0.0,100.0,2.99
+202010,Outubro/2020,18-29,Feminino,Sudeste,Superior completo,1151,0,12,0,797,841,12,0.0,1.04,0.0,105.52,1.04
+202010,Outubro/2020,18-29,Feminino,Sudeste,Superior incompleto,1725,0,11,0,732,749,9,0.0,0.64,0.0,102.32,0.52
+202010,Outubro/2020,18-29,Feminino,Sudeste,Pós-graduação,144,0,0,0,104,111,3,0.0,0.0,0.0,106.73,2.08
+202010,Outubro/2020,30-39,Masculino,Sudeste,Fundamental incompleto,1095,1,3,0,816,822,16,0.09,0.27,0.0,100.74,1.46
+202010,Outubro/2020,30-39,Feminino,Sudeste,Sem instrução,55,0,0,0,8,8,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,30-39,Feminino,Sudeste,Superior completo,1936,0,11,0,1409,1509,20,0.0,0.57,0.0,107.1,1.03
+202010,Outubro/2020,30-39,Masculino,Sudeste,Fundamental completo,537,0,4,0,404,427,4,0.0,0.74,0.0,105.69,0.74
+202010,Outubro/2020,30-39,Masculino,Sudeste,Sem instrução,71,0,0,0,16,16,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,30-39,Feminino,Sudeste,Pós-graduação,605,0,8,0,493,528,6,0.0,1.32,0.0,107.1,0.99
+202010,Outubro/2020,30-39,Feminino,Sudeste,Médio completo,3237,3,30,0,1660,1752,20,0.09,0.93,0.0,105.54,0.62
+202010,Outubro/2020,30-39,Masculino,Sudeste,Médio completo,3029,0,7,0,2443,2521,23,0.0,0.23,0.0,103.19,0.76
+202010,Outubro/2020,30-39,Feminino,Sudeste,Superior incompleto,561,0,4,0,344,364,7,0.0,0.71,0.0,105.81,1.25
+202010,Outubro/2020,30-39,Masculino,Sudeste,Superior completo,1374,1,9,0,1177,1204,20,0.07,0.66,0.0,102.29,1.46
+202010,Outubro/2020,30-39,Masculino,Sudeste,Superior incompleto,536,0,4,0,420,437,5,0.0,0.75,0.0,104.05,0.93
+202010,Outubro/2020,30-39,Masculino,Sudeste,Pós-graduação,382,0,5,0,354,356,13,0.0,1.31,0.0,100.56,3.4
+202010,Outubro/2020,30-39,Masculino,Sudeste,Médio incompleto,627,0,0,0,510,521,3,0.0,0.0,0.0,102.16,0.48
+202010,Outubro/2020,30-39,Feminino,Sudeste,Fundamental incompleto,920,0,2,0,338,343,5,0.0,0.22,0.0,101.48,0.54
+202010,Outubro/2020,30-39,Feminino,Sudeste,Fundamental completo,540,0,8,0,230,237,3,0.0,1.48,0.0,103.04,0.56
+202010,Outubro/2020,30-39,Feminino,Sudeste,Médio incompleto,604,0,2,0,260,276,8,0.0,0.33,0.0,106.15,1.32
+202010,Outubro/2020,40-49,Masculino,Sudeste,Sem instrução,149,0,2,0,77,80,2,0.0,1.34,0.0,103.9,1.34
+202010,Outubro/2020,40-49,Masculino,Sudeste,Superior incompleto,326,0,2,0,260,268,3,0.0,0.61,0.0,103.08,0.92
+202010,Outubro/2020,40-49,Masculino,Sudeste,Superior completo,994,0,7,0,854,883,7,0.0,0.7,0.0,103.4,0.7
+202010,Outubro/2020,40-49,Feminino,Sudeste,Superior completo,1528,1,8,0,1069,1152,18,0.07,0.52,0.0,107.76,1.18
+202010,Outubro/2020,40-49,Feminino,Sudeste,Fundamental completo,754,0,6,0,350,352,3,0.0,0.8,0.0,100.57,0.4
+202010,Outubro/2020,40-49,Masculino,Sudeste,Médio incompleto,453,0,2,0,352,358,1,0.0,0.44,0.0,101.7,0.22
+202010,Outubro/2020,40-49,Feminino,Sudeste,Fundamental incompleto,2003,0,3,0,839,806,12,0.0,0.15,0.0,96.07,0.6
+202010,Outubro/2020,40-49,Feminino,Sudeste,Pós-graduação,588,1,2,0,489,508,10,0.17,0.34,0.0,103.89,1.7
+202010,Outubro/2020,40-49,Feminino,Sudeste,Médio incompleto,555,1,2,0,267,277,2,0.18,0.36,0.0,103.75,0.36
+202010,Outubro/2020,40-49,Feminino,Sudeste,Superior incompleto,371,0,2,0,223,241,2,0.0,0.54,0.0,108.07,0.54
+202010,Outubro/2020,40-49,Masculino,Sudeste,Fundamental completo,764,1,5,0,585,599,5,0.13,0.65,0.0,102.39,0.65
+202010,Outubro/2020,40-49,Masculino,Sudeste,Fundamental incompleto,2113,0,2,0,1602,1634,13,0.0,0.09,0.0,102.0,0.62
+202010,Outubro/2020,40-49,Masculino,Sudeste,Pós-graduação,392,1,1,0,352,360,3,0.26,0.26,0.0,102.27,0.77
+202010,Outubro/2020,40-49,Masculino,Sudeste,Médio completo,2477,0,12,0,1978,2065,17,0.0,0.48,0.0,104.4,0.69
+202010,Outubro/2020,40-49,Feminino,Sudeste,Médio completo,2798,0,20,1,1491,1577,11,0.0,0.71,0.04,105.77,0.39
+202010,Outubro/2020,40-49,Feminino,Sudeste,Sem instrução,110,0,1,0,20,19,1,0.0,0.91,0.0,95.0,0.91
+202010,Outubro/2020,50-59,Feminino,Sudeste,Sem instrução,224,1,1,0,33,30,2,0.45,0.45,0.0,90.91,0.89
+202010,Outubro/2020,50-59,Feminino,Sudeste,Médio incompleto,470,0,3,0,159,165,2,0.0,0.64,0.0,103.77,0.43
+202010,Outubro/2020,50-59,Feminino,Sudeste,Médio completo,2163,1,9,0,941,1036,14,0.05,0.42,0.0,110.1,0.65
+202010,Outubro/2020,50-59,Masculino,Sudeste,Pós-graduação,244,0,0,0,188,192,2,0.0,0.0,0.0,102.13,0.82
+202010,Outubro/2020,50-59,Feminino,Sudeste,Superior completo,1269,0,7,0,753,810,14,0.0,0.55,0.0,107.57,1.1
+202010,Outubro/2020,50-59,Masculino,Sudeste,Fundamental incompleto,2563,5,9,1,1738,1772,12,0.2,0.35,0.04,101.96,0.47
+202010,Outubro/2020,50-59,Masculino,Sudeste,Superior completo,784,0,3,0,581,611,8,0.0,0.38,0.0,105.16,1.02
+202010,Outubro/2020,50-59,Masculino,Sudeste,Sem instrução,221,0,0,0,109,106,1,0.0,0.0,0.0,97.25,0.45
+202010,Outubro/2020,50-59,Masculino,Sudeste,Médio completo,1876,2,15,0,1230,1311,18,0.11,0.8,0.0,106.59,0.96
+202010,Outubro/2020,50-59,Feminino,Sudeste,Pós-graduação,389,0,3,0,279,302,3,0.0,0.77,0.0,108.24,0.77
+202010,Outubro/2020,50-59,Feminino,Sudeste,Fundamental completo,946,1,8,0,339,347,5,0.11,0.85,0.0,102.36,0.53
+202010,Outubro/2020,50-59,Feminino,Sudeste,Fundamental incompleto,2651,1,13,0,947,912,6,0.04,0.49,0.0,96.3,0.23
+202010,Outubro/2020,50-59,Masculino,Sudeste,Médio incompleto,469,1,0,0,307,324,2,0.21,0.0,0.0,105.54,0.43
+202010,Outubro/2020,50-59,Masculino,Sudeste,Fundamental completo,869,1,1,0,595,625,5,0.12,0.12,0.0,105.04,0.58
+202010,Outubro/2020,50-59,Masculino,Sudeste,Superior incompleto,218,0,0,0,163,169,2,0.0,0.0,0.0,103.68,0.92
+202010,Outubro/2020,50-59,Feminino,Sudeste,Superior incompleto,232,1,1,0,108,122,0,0.43,0.43,0.0,112.96,0.0
+202010,Outubro/2020,60-69,Masculino,Sudeste,Superior incompleto,153,0,0,0,64,70,1,0.0,0.0,0.0,109.38,0.65
+202010,Outubro/2020,60-69,Feminino,Sudeste,Médio completo,1491,1,7,0,255,283,2,0.07,0.47,0.0,110.98,0.13
+202010,Outubro/2020,60-69,Feminino,Sudeste,Superior completo,956,1,3,0,225,255,2,0.1,0.31,0.0,113.33,0.21
+202010,Outubro/2020,60-69,Masculino,Sudeste,Sem instrução,287,0,2,0,89,81,2,0.0,0.7,0.0,91.01,0.7
+202010,Outubro/2020,60-69,Feminino,Sudeste,Fundamental completo,939,0,5,0,118,132,0,0.0,0.53,0.0,111.86,0.0
+202010,Outubro/2020,60-69,Masculino,Sudeste,Médio completo,1191,1,3,0,434,472,6,0.08,0.25,0.0,108.76,0.5
+202010,Outubro/2020,60-69,Masculino,Sudeste,Fundamental completo,702,1,1,0,240,249,2,0.14,0.14,0.0,103.75,0.28
+202010,Outubro/2020,60-69,Feminino,Sudeste,Pós-graduação,220,0,0,0,84,95,0,0.0,0.0,0.0,113.1,0.0
+202010,Outubro/2020,60-69,Masculino,Sudeste,Médio incompleto,248,0,0,0,85,91,0,0.0,0.0,0.0,107.06,0.0
+202010,Outubro/2020,60-69,Feminino,Sudeste,Fundamental incompleto,2591,3,9,0,366,347,3,0.12,0.35,0.0,94.81,0.12
+202010,Outubro/2020,60-69,Masculino,Sudeste,Pós-graduação,174,0,1,0,96,102,1,0.0,0.57,0.0,106.25,0.57
+202010,Outubro/2020,60-69,Feminino,Sudeste,Médio incompleto,289,1,1,0,44,49,0,0.35,0.35,0.0,111.36,0.0
+202010,Outubro/2020,60-69,Masculino,Sudeste,Fundamental incompleto,2220,3,13,0,827,845,12,0.14,0.59,0.0,102.18,0.54
+202010,Outubro/2020,60-69,Feminino,Sudeste,Sem instrução,400,3,2,0,32,27,2,0.75,0.5,0.0,84.38,0.5
+202010,Outubro/2020,60-69,Feminino,Sudeste,Superior incompleto,169,0,1,0,40,41,0,0.0,0.59,0.0,102.5,0.0
+202010,Outubro/2020,60-69,Masculino,Sudeste,Superior completo,686,1,1,0,314,347,3,0.15,0.15,0.0,110.51,0.44
+202010,Outubro/2020,70+,Masculino,Sudeste,Pós-graduação,88,0,0,0,25,27,1,0.0,0.0,0.0,108.0,1.14
+202010,Outubro/2020,70+,Feminino,Sudeste,Pós-graduação,81,0,0,0,12,17,0,0.0,0.0,0.0,141.67,0.0
+202010,Outubro/2020,70+,Masculino,Sudeste,Médio incompleto,106,0,0,1,11,11,0,0.0,0.0,0.94,100.0,0.0
+202010,Outubro/2020,70+,Feminino,Sudeste,Fundamental completo,887,1,2,0,24,21,0,0.11,0.23,0.0,87.5,0.0
+202010,Outubro/2020,70+,Feminino,Sudeste,Médio completo,838,2,3,0,26,28,0,0.24,0.36,0.0,107.69,0.0
+202010,Outubro/2020,70+,Feminino,Sudeste,Médio incompleto,135,0,0,0,6,4,0,0.0,0.0,0.0,66.67,0.0
+202010,Outubro/2020,70+,Masculino,Sudeste,Fundamental completo,588,1,1,0,73,72,0,0.17,0.17,0.0,98.63,0.0
+202010,Outubro/2020,70+,Masculino,Sudeste,Fundamental incompleto,1866,3,7,0,245,223,1,0.16,0.38,0.0,91.02,0.05
+202010,Outubro/2020,70+,Masculino,Sudeste,Superior incompleto,73,0,0,0,13,13,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,70+,Masculino,Sudeste,Sem instrução,518,3,5,0,35,22,0,0.58,0.97,0.0,62.86,0.0
+202010,Outubro/2020,70+,Masculino,Sudeste,Superior completo,499,1,2,0,96,106,1,0.2,0.4,0.0,110.42,0.2
+202010,Outubro/2020,70+,Masculino,Sudeste,Médio completo,635,2,2,0,62,66,0,0.31,0.31,0.0,106.45,0.0
+202010,Outubro/2020,70+,Feminino,Sudeste,Sem instrução,918,1,4,0,13,6,0,0.11,0.44,0.0,46.15,0.0
+202010,Outubro/2020,70+,Feminino,Sudeste,Fundamental incompleto,2490,5,12,0,78,58,0,0.2,0.48,0.0,74.36,0.0
+202010,Outubro/2020,70+,Feminino,Sudeste,Superior completo,553,0,4,1,40,38,0,0.0,0.72,0.18,95.0,0.0
+202010,Outubro/2020,70+,Feminino,Sudeste,Superior incompleto,51,0,0,0,2,2,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,0-17,Masculino,Sul,Médio incompleto,979,0,0,0,166,130,1,0.0,0.0,0.0,78.31,0.1
+202010,Outubro/2020,0-17,Feminino,Sul,Fundamental incompleto,3480,0,11,0,25,11,0,0.0,0.32,0.0,44.0,0.0
+202010,Outubro/2020,0-17,Masculino,Sul,Médio completo,40,0,0,0,9,11,0,0.0,0.0,0.0,122.22,0.0
+202010,Outubro/2020,0-17,Masculino,Sul,Fundamental completo,94,0,0,0,11,8,0,0.0,0.0,0.0,72.73,0.0
+202010,Outubro/2020,0-17,Masculino,Sul,Fundamental incompleto,3762,0,11,0,55,35,1,0.0,0.29,0.0,63.64,0.03
+202010,Outubro/2020,0-17,Masculino,Sul,Superior incompleto,7,0,0,0,1,2,0,0.0,0.0,0.0,200.0,0.0
+202010,Outubro/2020,0-17,Feminino,Sul,Fundamental completo,91,0,0,0,4,3,0,0.0,0.0,0.0,75.0,0.0
+202010,Outubro/2020,0-17,Masculino,Sul,Sem instrução,2073,1,14,0,0,0,0,0.05,0.68,0.0,0.0,0.0
+202010,Outubro/2020,0-17,Feminino,Sul,Superior incompleto,12,0,0,0,5,6,0,0.0,0.0,0.0,120.0,0.0
+202010,Outubro/2020,0-17,Feminino,Sul,Médio completo,42,0,0,0,10,10,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,0-17,Feminino,Sul,Médio incompleto,964,0,2,0,112,92,2,0.0,0.21,0.0,82.14,0.21
+202010,Outubro/2020,0-17,Feminino,Sul,Sem instrução,1921,0,4,0,0,0,0,0.0,0.21,0.0,0.0,0.0
+202010,Outubro/2020,18-29,Feminino,Sul,Sem instrução,16,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202010,Outubro/2020,18-29,Masculino,Sul,Superior incompleto,1038,0,7,0,621,617,8,0.0,0.67,0.0,99.36,0.77
+202010,Outubro/2020,18-29,Feminino,Sul,Fundamental incompleto,218,1,0,0,70,66,1,0.46,0.0,0.0,94.29,0.46
+202010,Outubro/2020,18-29,Feminino,Sul,Médio completo,1676,1,8,0,930,950,15,0.06,0.48,0.0,102.15,0.89
+202010,Outubro/2020,18-29,Masculino,Sul,Pós-graduação,65,0,1,0,53,54,0,0.0,1.54,0.0,101.89,0.0
+202010,Outubro/2020,18-29,Feminino,Sul,Fundamental completo,222,0,0,0,110,99,2,0.0,0.0,0.0,90.0,0.9
+202010,Outubro/2020,18-29,Masculino,Sul,Médio completo,1801,0,0,0,1395,1369,11,0.0,0.0,0.0,98.14,0.61
+202010,Outubro/2020,18-29,Feminino,Sul,Superior incompleto,1223,0,7,0,651,654,18,0.0,0.57,0.0,100.46,1.47
+202010,Outubro/2020,18-29,Masculino,Sul,Médio incompleto,782,0,1,0,491,482,4,0.0,0.13,0.0,98.17,0.51
+202010,Outubro/2020,18-29,Masculino,Sul,Sem instrução,38,0,0,0,5,5,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,18-29,Feminino,Sul,Superior completo,760,0,2,0,586,602,4,0.0,0.26,0.0,102.73,0.53
+202010,Outubro/2020,18-29,Masculino,Sul,Superior completo,541,0,5,0,448,442,9,0.0,0.92,0.0,98.66,1.66
+202010,Outubro/2020,18-29,Masculino,Sul,Fundamental incompleto,370,1,2,0,255,259,4,0.27,0.54,0.0,101.57,1.08
+202010,Outubro/2020,18-29,Feminino,Sul,Médio incompleto,574,0,3,0,220,219,2,0.0,0.52,0.0,99.55,0.35
+202010,Outubro/2020,18-29,Masculino,Sul,Fundamental completo,316,0,1,0,230,232,7,0.0,0.32,0.0,100.87,2.22
+202010,Outubro/2020,18-29,Feminino,Sul,Pós-graduação,143,0,0,0,123,124,2,0.0,0.0,0.0,100.81,1.4
+202010,Outubro/2020,30-39,Feminino,Sul,Superior incompleto,390,0,4,0,261,272,3,0.0,1.03,0.0,104.21,0.77
+202010,Outubro/2020,30-39,Feminino,Sul,Fundamental completo,322,0,2,0,194,178,2,0.0,0.62,0.0,91.75,0.62
+202010,Outubro/2020,30-39,Masculino,Sul,Médio incompleto,385,1,4,0,317,329,6,0.26,1.04,0.0,103.79,1.56
+202010,Outubro/2020,30-39,Masculino,Sul,Fundamental incompleto,525,0,0,0,435,442,1,0.0,0.0,0.0,101.61,0.19
+202010,Outubro/2020,30-39,Masculino,Sul,Sem instrução,34,0,0,0,2,2,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,30-39,Masculino,Sul,Superior completo,818,0,4,0,731,738,10,0.0,0.49,0.0,100.96,1.22
+202010,Outubro/2020,30-39,Masculino,Sul,Pós-graduação,258,0,2,0,238,247,7,0.0,0.78,0.0,103.78,2.71
+202010,Outubro/2020,30-39,Feminino,Sul,Fundamental incompleto,426,0,4,0,217,197,4,0.0,0.94,0.0,90.78,0.94
+202010,Outubro/2020,30-39,Masculino,Sul,Médio completo,1621,0,13,0,1398,1417,19,0.0,0.8,0.0,101.36,1.17
+202010,Outubro/2020,30-39,Feminino,Sul,Médio incompleto,346,0,4,0,182,179,1,0.0,1.16,0.0,98.35,0.29
+202010,Outubro/2020,30-39,Feminino,Sul,Pós-graduação,424,0,2,0,356,380,7,0.0,0.47,0.0,106.74,1.65
+202010,Outubro/2020,30-39,Feminino,Sul,Superior completo,1185,2,9,0,900,958,14,0.17,0.76,0.0,106.44,1.18
+202010,Outubro/2020,30-39,Feminino,Sul,Sem instrução,31,0,0,0,2,2,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,30-39,Masculino,Sul,Superior incompleto,393,0,0,0,335,336,2,0.0,0.0,0.0,100.3,0.51
+202010,Outubro/2020,30-39,Masculino,Sul,Fundamental completo,389,0,2,0,326,333,6,0.0,0.51,0.0,102.15,1.54
+202010,Outubro/2020,30-39,Feminino,Sul,Médio completo,1618,0,6,0,1017,1038,10,0.0,0.37,0.0,102.06,0.62
+202010,Outubro/2020,40-49,Masculino,Sul,Pós-graduação,245,1,3,0,218,224,6,0.41,1.22,0.0,102.75,2.45
+202010,Outubro/2020,40-49,Feminino,Sul,Médio completo,1449,0,3,0,939,949,6,0.0,0.21,0.0,101.06,0.41
+202010,Outubro/2020,40-49,Masculino,Sul,Superior completo,594,0,5,0,531,544,3,0.0,0.84,0.0,102.45,0.51
+202010,Outubro/2020,40-49,Feminino,Sul,Médio incompleto,316,0,1,0,187,185,3,0.0,0.32,0.0,98.93,0.95
+202010,Outubro/2020,40-49,Masculino,Sul,Fundamental incompleto,1249,0,4,0,1044,1062,23,0.0,0.32,0.0,101.72,1.84
+202010,Outubro/2020,40-49,Feminino,Sul,Fundamental incompleto,1168,0,4,0,630,568,6,0.0,0.34,0.0,90.16,0.51
+202010,Outubro/2020,40-49,Feminino,Sul,Sem instrução,41,0,0,0,11,11,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,40-49,Masculino,Sul,Médio incompleto,277,0,2,0,221,228,6,0.0,0.72,0.0,103.17,2.17
+202010,Outubro/2020,40-49,Feminino,Sul,Superior incompleto,248,0,3,0,160,168,4,0.0,1.21,0.0,105.0,1.61
+202010,Outubro/2020,40-49,Masculino,Sul,Médio completo,1294,0,10,0,1110,1148,10,0.0,0.77,0.0,103.42,0.77
+202010,Outubro/2020,40-49,Masculino,Sul,Sem instrução,61,0,0,0,30,30,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,40-49,Masculino,Sul,Superior incompleto,226,0,0,0,194,203,2,0.0,0.0,0.0,104.64,0.88
+202010,Outubro/2020,40-49,Masculino,Sul,Fundamental completo,518,0,1,0,426,442,7,0.0,0.19,0.0,103.76,1.35
+202010,Outubro/2020,40-49,Feminino,Sul,Pós-graduação,400,1,2,0,349,362,5,0.25,0.5,0.0,103.72,1.25
+202010,Outubro/2020,40-49,Feminino,Sul,Fundamental completo,515,0,6,0,317,310,6,0.0,1.17,0.0,97.79,1.17
+202010,Outubro/2020,40-49,Feminino,Sul,Superior completo,850,0,5,0,672,696,11,0.0,0.59,0.0,103.57,1.29
+202010,Outubro/2020,50-59,Feminino,Sul,Fundamental completo,702,0,2,0,291,281,3,0.0,0.28,0.0,96.56,0.43
+202010,Outubro/2020,50-59,Masculino,Sul,Superior incompleto,163,0,1,0,120,127,2,0.0,0.61,0.0,105.83,1.23
+202010,Outubro/2020,50-59,Masculino,Sul,Fundamental incompleto,1709,0,2,0,1216,1237,11,0.0,0.12,0.0,101.73,0.64
+202010,Outubro/2020,50-59,Masculino,Sul,Pós-graduação,183,0,2,0,150,154,2,0.0,1.09,0.0,102.67,1.09
+202010,Outubro/2020,50-59,Masculino,Sul,Sem instrução,90,0,0,0,38,43,0,0.0,0.0,0.0,113.16,0.0
+202010,Outubro/2020,50-59,Masculino,Sul,Médio completo,1118,0,2,0,807,833,9,0.0,0.18,0.0,103.22,0.81
+202010,Outubro/2020,50-59,Feminino,Sul,Fundamental incompleto,1827,1,6,0,762,649,8,0.05,0.33,0.0,85.17,0.44
+202010,Outubro/2020,50-59,Masculino,Sul,Fundamental completo,620,0,5,0,420,442,4,0.0,0.81,0.0,105.24,0.65
+202010,Outubro/2020,50-59,Masculino,Sul,Médio incompleto,267,0,1,0,190,196,1,0.0,0.37,0.0,103.16,0.37
+202010,Outubro/2020,50-59,Feminino,Sul,Pós-graduação,301,0,4,0,207,209,5,0.0,1.33,0.0,100.97,1.66
+202010,Outubro/2020,50-59,Feminino,Sul,Superior completo,670,0,2,0,392,415,4,0.0,0.3,0.0,105.87,0.6
+202010,Outubro/2020,50-59,Masculino,Sul,Superior completo,484,0,2,0,386,400,1,0.0,0.41,0.0,103.63,0.21
+202010,Outubro/2020,50-59,Feminino,Sul,Superior incompleto,161,0,1,0,90,93,0,0.0,0.62,0.0,103.33,0.0
+202010,Outubro/2020,50-59,Feminino,Sul,Sem instrução,105,0,2,0,16,14,0,0.0,1.9,0.0,87.5,0.0
+202010,Outubro/2020,50-59,Feminino,Sul,Médio completo,1288,1,6,0,643,667,13,0.08,0.47,0.0,103.73,1.01
+202010,Outubro/2020,50-59,Feminino,Sul,Médio incompleto,265,0,1,0,120,120,1,0.0,0.38,0.0,100.0,0.38
+202010,Outubro/2020,60-69,Feminino,Sul,Fundamental completo,505,0,1,0,80,77,0,0.0,0.2,0.0,96.25,0.0
+202010,Outubro/2020,60-69,Masculino,Sul,Fundamental completo,478,1,2,0,180,187,4,0.21,0.42,0.0,103.89,0.84
+202010,Outubro/2020,60-69,Masculino,Sul,Médio incompleto,152,0,0,0,60,64,1,0.0,0.0,0.0,106.67,0.66
+202010,Outubro/2020,60-69,Feminino,Sul,Sem instrução,177,1,0,0,15,14,0,0.56,0.0,0.0,93.33,0.0
+202010,Outubro/2020,60-69,Masculino,Sul,Fundamental incompleto,1659,1,2,0,601,598,7,0.06,0.12,0.0,99.5,0.42
+202010,Outubro/2020,60-69,Masculino,Sul,Superior completo,321,0,1,0,155,156,0,0.0,0.31,0.0,100.65,0.0
+202010,Outubro/2020,60-69,Feminino,Sul,Médio completo,742,0,2,0,142,146,2,0.0,0.27,0.0,102.82,0.27
+202010,Outubro/2020,60-69,Feminino,Sul,Fundamental incompleto,1853,1,7,0,309,241,4,0.05,0.38,0.0,77.99,0.22
+202010,Outubro/2020,60-69,Masculino,Sul,Médio completo,658,0,3,0,237,258,3,0.0,0.46,0.0,108.86,0.46
+202010,Outubro/2020,60-69,Feminino,Sul,Superior incompleto,94,0,0,0,26,30,0,0.0,0.0,0.0,115.38,0.0
+202010,Outubro/2020,60-69,Masculino,Sul,Pós-graduação,94,0,0,0,51,51,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,60-69,Feminino,Sul,Superior completo,401,0,1,0,120,116,1,0.0,0.25,0.0,96.67,0.25
+202010,Outubro/2020,60-69,Feminino,Sul,Médio incompleto,168,1,2,0,34,30,0,0.6,1.19,0.0,88.24,0.0
+202010,Outubro/2020,60-69,Masculino,Sul,Superior incompleto,126,0,0,0,51,57,2,0.0,0.0,0.0,111.76,1.59
+202010,Outubro/2020,60-69,Masculino,Sul,Sem instrução,117,0,0,0,32,30,0,0.0,0.0,0.0,93.75,0.0
+202010,Outubro/2020,60-69,Feminino,Sul,Pós-graduação,146,0,0,0,52,51,2,0.0,0.0,0.0,98.08,1.37
+202010,Outubro/2020,70+,Masculino,Sul,Sem instrução,216,0,0,0,15,12,0,0.0,0.0,0.0,80.0,0.0
+202010,Outubro/2020,70+,Feminino,Sul,Superior completo,212,0,1,0,13,13,0,0.0,0.47,0.0,100.0,0.0
+202010,Outubro/2020,70+,Masculino,Sul,Superior incompleto,43,0,1,0,3,4,0,0.0,2.33,0.0,133.33,0.0
+202010,Outubro/2020,70+,Masculino,Sul,Fundamental completo,299,0,3,0,41,40,1,0.0,1.0,0.0,97.56,0.33
+202010,Outubro/2020,70+,Feminino,Sul,Pós-graduação,53,0,0,0,8,7,0,0.0,0.0,0.0,87.5,0.0
+202010,Outubro/2020,70+,Feminino,Sul,Fundamental completo,445,1,0,0,14,11,0,0.22,0.0,0.0,78.57,0.0
+202010,Outubro/2020,70+,Feminino,Sul,Superior incompleto,41,0,0,0,1,1,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,70+,Feminino,Sul,Médio completo,392,0,1,0,29,25,0,0.0,0.26,0.0,86.21,0.0
+202010,Outubro/2020,70+,Masculino,Sul,Fundamental incompleto,1453,6,3,0,185,155,3,0.41,0.21,0.0,83.78,0.21
+202010,Outubro/2020,70+,Feminino,Sul,Sem instrução,413,2,0,0,3,2,0,0.48,0.0,0.0,66.67,0.0
+202010,Outubro/2020,70+,Masculino,Sul,Superior completo,201,0,0,0,46,47,0,0.0,0.0,0.0,102.17,0.0
+202010,Outubro/2020,70+,Masculino,Sul,Médio completo,259,0,0,0,27,27,0,0.0,0.0,0.0,100.0,0.0
+202010,Outubro/2020,70+,Masculino,Sul,Médio incompleto,66,0,0,0,10,8,0,0.0,0.0,0.0,80.0,0.0
+202010,Outubro/2020,70+,Masculino,Sul,Pós-graduação,39,0,0,0,11,12,0,0.0,0.0,0.0,109.09,0.0
+202010,Outubro/2020,70+,Feminino,Sul,Médio incompleto,73,0,1,0,2,2,0,0.0,1.37,0.0,100.0,0.0
+202010,Outubro/2020,70+,Feminino,Sul,Fundamental incompleto,1851,3,6,0,90,55,0,0.16,0.32,0.0,61.11,0.0
+202011,Novembro/2020,0-17,Feminino,Centro-Oeste,Sem instrução,1307,1,8,0,0,0,0,0.08,0.61,0.0,0.0,0.0
+202011,Novembro/2020,0-17,Masculino,Centro-Oeste,Médio incompleto,700,0,4,0,106,94,2,0.0,0.57,0.0,88.68,0.29
+202011,Novembro/2020,0-17,Masculino,Centro-Oeste,Médio completo,19,0,0,0,7,7,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,0-17,Feminino,Centro-Oeste,Médio incompleto,675,0,4,0,57,56,0,0.0,0.59,0.0,98.25,0.0
+202011,Novembro/2020,0-17,Masculino,Centro-Oeste,Fundamental incompleto,2749,1,10,0,36,29,0,0.04,0.36,0.0,80.56,0.0
+202011,Novembro/2020,0-17,Masculino,Centro-Oeste,Sem instrução,1392,0,6,0,0,0,0,0.0,0.43,0.0,0.0,0.0
+202011,Novembro/2020,0-17,Masculino,Centro-Oeste,Superior incompleto,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,0-17,Feminino,Centro-Oeste,Superior incompleto,3,0,0,0,1,1,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,0-17,Masculino,Centro-Oeste,Fundamental completo,121,0,1,0,7,7,0,0.0,0.83,0.0,100.0,0.0
+202011,Novembro/2020,0-17,Feminino,Centro-Oeste,Médio completo,26,0,0,0,5,3,0,0.0,0.0,0.0,60.0,0.0
+202011,Novembro/2020,0-17,Feminino,Centro-Oeste,Fundamental incompleto,2558,0,9,0,14,14,0,0.0,0.35,0.0,100.0,0.0
+202011,Novembro/2020,0-17,Feminino,Centro-Oeste,Fundamental completo,89,0,0,0,2,2,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,18-29,Feminino,Centro-Oeste,Sem instrução,10,0,0,0,1,1,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,18-29,Masculino,Centro-Oeste,Superior completo,368,0,3,0,288,287,5,0.0,0.82,0.0,99.65,1.36
+202011,Novembro/2020,18-29,Masculino,Centro-Oeste,Fundamental incompleto,250,0,2,0,167,169,4,0.0,0.8,0.0,101.2,1.6
+202011,Novembro/2020,18-29,Feminino,Centro-Oeste,Superior incompleto,835,0,4,0,376,376,3,0.0,0.48,0.0,100.0,0.36
+202011,Novembro/2020,18-29,Feminino,Centro-Oeste,Fundamental completo,112,0,0,0,42,44,1,0.0,0.0,0.0,104.76,0.89
+202011,Novembro/2020,18-29,Masculino,Centro-Oeste,Médio incompleto,630,0,3,0,383,380,4,0.0,0.48,0.0,99.22,0.63
+202011,Novembro/2020,18-29,Masculino,Centro-Oeste,Pós-graduação,39,0,0,0,34,34,1,0.0,0.0,0.0,100.0,2.56
+202011,Novembro/2020,18-29,Feminino,Centro-Oeste,Médio completo,1135,1,14,0,534,545,20,0.09,1.23,0.0,102.06,1.76
+202011,Novembro/2020,18-29,Feminino,Centro-Oeste,Pós-graduação,83,0,0,0,61,61,3,0.0,0.0,0.0,100.0,3.61
+202011,Novembro/2020,18-29,Masculino,Centro-Oeste,Sem instrução,25,0,0,0,4,4,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,18-29,Masculino,Centro-Oeste,Fundamental completo,150,0,1,0,109,112,2,0.0,0.67,0.0,102.75,1.33
+202011,Novembro/2020,18-29,Masculino,Centro-Oeste,Médio completo,1190,0,5,0,830,824,13,0.0,0.42,0.0,99.28,1.09
+202011,Novembro/2020,18-29,Feminino,Centro-Oeste,Fundamental incompleto,175,0,1,0,39,43,1,0.0,0.57,0.0,110.26,0.57
+202011,Novembro/2020,18-29,Feminino,Centro-Oeste,Médio incompleto,443,0,5,0,148,153,1,0.0,1.13,0.0,103.38,0.23
+202011,Novembro/2020,18-29,Feminino,Centro-Oeste,Superior completo,563,0,6,0,365,370,7,0.0,1.07,0.0,101.37,1.24
+202011,Novembro/2020,18-29,Masculino,Centro-Oeste,Superior incompleto,670,0,4,0,382,380,11,0.0,0.6,0.0,99.48,1.64
+202011,Novembro/2020,30-39,Masculino,Centro-Oeste,Fundamental incompleto,520,1,1,0,410,424,5,0.19,0.19,0.0,103.41,0.96
+202011,Novembro/2020,30-39,Masculino,Centro-Oeste,Superior completo,553,0,5,0,487,494,9,0.0,0.9,0.0,101.44,1.63
+202011,Novembro/2020,30-39,Feminino,Centro-Oeste,Fundamental completo,178,0,2,0,70,76,0,0.0,1.12,0.0,108.57,0.0
+202011,Novembro/2020,30-39,Feminino,Centro-Oeste,Superior incompleto,266,0,2,0,154,165,2,0.0,0.75,0.0,107.14,0.75
+202011,Novembro/2020,30-39,Feminino,Centro-Oeste,Médio completo,1026,1,5,0,592,601,5,0.1,0.49,0.0,101.52,0.49
+202011,Novembro/2020,30-39,Feminino,Centro-Oeste,Pós-graduação,231,0,2,0,193,202,7,0.0,0.87,0.0,104.66,3.03
+202011,Novembro/2020,30-39,Masculino,Centro-Oeste,Sem instrução,42,0,0,0,15,16,1,0.0,0.0,0.0,106.67,2.38
+202011,Novembro/2020,30-39,Masculino,Centro-Oeste,Pós-graduação,161,1,1,0,155,159,5,0.62,0.62,0.0,102.58,3.11
+202011,Novembro/2020,30-39,Feminino,Centro-Oeste,Superior completo,822,0,6,0,611,651,12,0.0,0.73,0.0,106.55,1.46
+202011,Novembro/2020,30-39,Masculino,Centro-Oeste,Médio completo,936,0,6,0,800,823,3,0.0,0.64,0.0,102.88,0.32
+202011,Novembro/2020,30-39,Masculino,Centro-Oeste,Superior incompleto,223,1,1,0,185,190,4,0.45,0.45,0.0,102.7,1.79
+202011,Novembro/2020,30-39,Feminino,Centro-Oeste,Médio incompleto,248,0,1,0,126,128,4,0.0,0.4,0.0,101.59,1.61
+202011,Novembro/2020,30-39,Masculino,Centro-Oeste,Fundamental completo,180,1,0,0,148,151,1,0.56,0.0,0.0,102.03,0.56
+202011,Novembro/2020,30-39,Feminino,Centro-Oeste,Fundamental incompleto,345,0,2,0,132,135,1,0.0,0.58,0.0,102.27,0.29
+202011,Novembro/2020,30-39,Masculino,Centro-Oeste,Médio incompleto,293,0,1,0,253,255,2,0.0,0.34,0.0,100.79,0.68
+202011,Novembro/2020,30-39,Feminino,Centro-Oeste,Sem instrução,23,0,0,0,5,5,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,40-49,Feminino,Centro-Oeste,Fundamental completo,244,0,2,0,115,118,1,0.0,0.82,0.0,102.61,0.41
+202011,Novembro/2020,40-49,Masculino,Centro-Oeste,Médio incompleto,205,0,1,0,180,186,2,0.0,0.49,0.0,103.33,0.98
+202011,Novembro/2020,40-49,Feminino,Centro-Oeste,Médio incompleto,221,0,0,0,119,120,0,0.0,0.0,0.0,100.84,0.0
+202011,Novembro/2020,40-49,Masculino,Centro-Oeste,Sem instrução,70,0,0,0,41,40,0,0.0,0.0,0.0,97.56,0.0
+202011,Novembro/2020,40-49,Feminino,Centro-Oeste,Sem instrução,53,0,0,0,17,17,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,40-49,Feminino,Centro-Oeste,Superior completo,664,0,10,0,478,505,11,0.0,1.51,0.0,105.65,1.66
+202011,Novembro/2020,40-49,Feminino,Centro-Oeste,Pós-graduação,249,0,5,0,213,219,3,0.0,2.01,0.0,102.82,1.2
+202011,Novembro/2020,40-49,Masculino,Centro-Oeste,Superior incompleto,130,1,2,0,111,116,5,0.77,1.54,0.0,104.5,3.85
+202011,Novembro/2020,40-49,Masculino,Centro-Oeste,Fundamental completo,245,0,0,0,212,212,1,0.0,0.0,0.0,100.0,0.41
+202011,Novembro/2020,40-49,Feminino,Centro-Oeste,Superior incompleto,159,0,1,0,103,105,0,0.0,0.63,0.0,101.94,0.0
+202011,Novembro/2020,40-49,Masculino,Centro-Oeste,Pós-graduação,144,0,0,0,137,140,0,0.0,0.0,0.0,102.19,0.0
+202011,Novembro/2020,40-49,Masculino,Centro-Oeste,Superior completo,427,2,5,0,384,392,13,0.47,1.17,0.0,102.08,3.04
+202011,Novembro/2020,40-49,Masculino,Centro-Oeste,Médio completo,792,1,5,0,661,689,11,0.13,0.63,0.0,104.24,1.39
+202011,Novembro/2020,40-49,Feminino,Centro-Oeste,Fundamental incompleto,748,0,5,0,318,320,5,0.0,0.67,0.0,100.63,0.67
+202011,Novembro/2020,40-49,Masculino,Centro-Oeste,Fundamental incompleto,875,0,3,0,718,730,7,0.0,0.34,0.0,101.67,0.8
+202011,Novembro/2020,40-49,Feminino,Centro-Oeste,Médio completo,990,3,5,0,581,586,13,0.3,0.51,0.0,100.86,1.31
+202011,Novembro/2020,50-59,Masculino,Centro-Oeste,Fundamental completo,252,0,0,0,182,191,1,0.0,0.0,0.0,104.95,0.4
+202011,Novembro/2020,50-59,Masculino,Centro-Oeste,Sem instrução,135,0,1,0,72,76,2,0.0,0.74,0.0,105.56,1.48
+202011,Novembro/2020,50-59,Masculino,Centro-Oeste,Médio completo,598,0,7,0,435,461,6,0.0,1.17,0.0,105.98,1.0
+202011,Novembro/2020,50-59,Feminino,Centro-Oeste,Superior completo,443,1,1,0,251,278,2,0.23,0.23,0.0,110.76,0.45
+202011,Novembro/2020,50-59,Feminino,Centro-Oeste,Pós-graduação,157,0,1,0,100,102,1,0.0,0.64,0.0,102.0,0.64
+202011,Novembro/2020,50-59,Masculino,Centro-Oeste,Pós-graduação,104,0,1,0,89,90,0,0.0,0.96,0.0,101.12,0.0
+202011,Novembro/2020,50-59,Feminino,Centro-Oeste,Sem instrução,114,0,0,0,27,26,0,0.0,0.0,0.0,96.3,0.0
+202011,Novembro/2020,50-59,Masculino,Centro-Oeste,Superior incompleto,78,0,0,0,63,65,2,0.0,0.0,0.0,103.17,2.56
+202011,Novembro/2020,50-59,Feminino,Centro-Oeste,Médio completo,795,0,7,0,379,405,2,0.0,0.88,0.0,106.86,0.25
+202011,Novembro/2020,50-59,Feminino,Centro-Oeste,Médio incompleto,173,0,0,0,66,67,0,0.0,0.0,0.0,101.52,0.0
+202011,Novembro/2020,50-59,Masculino,Centro-Oeste,Superior completo,281,1,6,0,212,226,8,0.36,2.14,0.0,106.6,2.85
+202011,Novembro/2020,50-59,Feminino,Centro-Oeste,Fundamental incompleto,1000,1,7,0,339,336,9,0.1,0.7,0.0,99.12,0.9
+202011,Novembro/2020,50-59,Masculino,Centro-Oeste,Fundamental incompleto,983,2,3,0,712,727,10,0.2,0.31,0.0,102.11,1.02
+202011,Novembro/2020,50-59,Feminino,Centro-Oeste,Fundamental completo,301,1,2,0,114,119,1,0.33,0.66,0.0,104.39,0.33
+202011,Novembro/2020,50-59,Masculino,Centro-Oeste,Médio incompleto,165,0,0,0,115,120,0,0.0,0.0,0.0,104.35,0.0
+202011,Novembro/2020,50-59,Feminino,Centro-Oeste,Superior incompleto,56,0,0,0,28,31,1,0.0,0.0,0.0,110.71,1.79
+202011,Novembro/2020,60-69,Masculino,Centro-Oeste,Sem instrução,139,0,1,0,54,49,0,0.0,0.72,0.0,90.74,0.0
+202011,Novembro/2020,60-69,Feminino,Centro-Oeste,Médio incompleto,96,0,0,0,19,21,0,0.0,0.0,0.0,110.53,0.0
+202011,Novembro/2020,60-69,Feminino,Centro-Oeste,Superior completo,230,0,1,0,68,72,1,0.0,0.43,0.0,105.88,0.43
+202011,Novembro/2020,60-69,Masculino,Centro-Oeste,Fundamental completo,170,0,1,0,75,83,0,0.0,0.59,0.0,110.67,0.0
+202011,Novembro/2020,60-69,Masculino,Centro-Oeste,Superior completo,192,2,3,0,96,105,2,1.04,1.56,0.0,109.38,1.04
+202011,Novembro/2020,60-69,Feminino,Centro-Oeste,Fundamental completo,193,0,1,0,27,29,0,0.0,0.52,0.0,107.41,0.0
+202011,Novembro/2020,60-69,Masculino,Centro-Oeste,Médio completo,352,0,1,0,156,175,1,0.0,0.28,0.0,112.18,0.28
+202011,Novembro/2020,60-69,Masculino,Centro-Oeste,Pós-graduação,51,0,0,0,28,33,0,0.0,0.0,0.0,117.86,0.0
+202011,Novembro/2020,60-69,Masculino,Centro-Oeste,Superior incompleto,37,0,1,0,23,23,0,0.0,2.7,0.0,100.0,0.0
+202011,Novembro/2020,60-69,Masculino,Centro-Oeste,Fundamental incompleto,778,3,5,0,332,347,5,0.39,0.64,0.0,104.52,0.64
+202011,Novembro/2020,60-69,Feminino,Centro-Oeste,Pós-graduação,86,1,1,0,26,29,0,1.16,1.16,0.0,111.54,0.0
+202011,Novembro/2020,60-69,Feminino,Centro-Oeste,Sem instrução,208,0,1,0,14,12,0,0.0,0.48,0.0,85.71,0.0
+202011,Novembro/2020,60-69,Masculino,Centro-Oeste,Médio incompleto,82,0,0,0,36,37,0,0.0,0.0,0.0,102.78,0.0
+202011,Novembro/2020,60-69,Feminino,Centro-Oeste,Fundamental incompleto,862,2,6,0,116,104,0,0.23,0.7,0.0,89.66,0.0
+202011,Novembro/2020,60-69,Feminino,Centro-Oeste,Superior incompleto,37,0,1,0,4,6,0,0.0,2.7,0.0,150.0,0.0
+202011,Novembro/2020,60-69,Feminino,Centro-Oeste,Médio completo,414,0,3,0,89,103,1,0.0,0.72,0.0,115.73,0.24
+202011,Novembro/2020,70+,Feminino,Centro-Oeste,Superior completo,112,0,1,0,6,6,0,0.0,0.89,0.0,100.0,0.0
+202011,Novembro/2020,70+,Feminino,Centro-Oeste,Superior incompleto,7,0,0,0,1,1,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,70+,Feminino,Centro-Oeste,Fundamental completo,173,0,2,0,10,9,1,0.0,1.16,0.0,90.0,0.58
+202011,Novembro/2020,70+,Masculino,Centro-Oeste,Superior completo,110,0,0,0,25,26,0,0.0,0.0,0.0,104.0,0.0
+202011,Novembro/2020,70+,Feminino,Centro-Oeste,Pós-graduação,21,0,0,0,2,2,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,70+,Masculino,Centro-Oeste,Pós-graduação,19,0,0,0,5,5,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,70+,Masculino,Centro-Oeste,Superior incompleto,17,0,0,0,4,4,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,70+,Masculino,Centro-Oeste,Fundamental completo,121,1,1,0,12,11,0,0.83,0.83,0.0,91.67,0.0
+202011,Novembro/2020,70+,Masculino,Centro-Oeste,Médio completo,141,0,1,0,15,16,1,0.0,0.71,0.0,106.67,0.71
+202011,Novembro/2020,70+,Feminino,Centro-Oeste,Médio incompleto,41,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,70+,Feminino,Centro-Oeste,Fundamental incompleto,658,1,3,0,21,15,1,0.15,0.46,0.0,71.43,0.15
+202011,Novembro/2020,70+,Masculino,Centro-Oeste,Sem instrução,265,0,1,0,23,22,0,0.0,0.38,0.0,95.65,0.0
+202011,Novembro/2020,70+,Feminino,Centro-Oeste,Médio completo,217,0,0,0,5,5,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,70+,Feminino,Centro-Oeste,Sem instrução,325,0,3,0,4,2,0,0.0,0.92,0.0,50.0,0.0
+202011,Novembro/2020,70+,Masculino,Centro-Oeste,Médio incompleto,46,0,0,0,8,8,2,0.0,0.0,0.0,100.0,4.35
+202011,Novembro/2020,70+,Masculino,Centro-Oeste,Fundamental incompleto,589,3,1,0,86,76,0,0.51,0.17,0.0,88.37,0.0
+202011,Novembro/2020,0-17,Masculino,Nordeste,Fundamental completo,216,0,0,0,10,8,0,0.0,0.0,0.0,80.0,0.0
+202011,Novembro/2020,0-17,Masculino,Nordeste,Médio completo,82,0,0,0,12,7,0,0.0,0.0,0.0,58.33,0.0
+202011,Novembro/2020,0-17,Masculino,Nordeste,Sem instrução,4136,3,21,2,3,3,0,0.07,0.51,0.05,100.0,0.0
+202011,Novembro/2020,0-17,Feminino,Nordeste,Médio incompleto,1892,0,6,0,92,55,0,0.0,0.32,0.0,59.78,0.0
+202011,Novembro/2020,0-17,Feminino,Nordeste,Fundamental completo,209,0,0,0,4,1,0,0.0,0.0,0.0,25.0,0.0
+202011,Novembro/2020,0-17,Masculino,Nordeste,Fundamental incompleto,9075,1,21,0,169,95,1,0.01,0.23,0.0,56.21,0.01
+202011,Novembro/2020,0-17,Feminino,Nordeste,Médio completo,95,0,2,0,11,10,0,0.0,2.11,0.0,90.91,0.0
+202011,Novembro/2020,0-17,Feminino,Nordeste,Fundamental incompleto,8669,3,24,1,46,15,2,0.03,0.28,0.01,32.61,0.02
+202011,Novembro/2020,0-17,Masculino,Nordeste,Superior incompleto,9,0,0,0,2,1,0,0.0,0.0,0.0,50.0,0.0
+202011,Novembro/2020,0-17,Feminino,Nordeste,Superior incompleto,19,0,0,0,2,2,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,0-17,Feminino,Nordeste,Sem instrução,4044,2,18,0,1,0,0,0.05,0.45,0.0,0.0,0.0
+202011,Novembro/2020,0-17,Masculino,Nordeste,Médio incompleto,1758,0,6,1,177,105,3,0.0,0.34,0.06,59.32,0.17
+202011,Novembro/2020,18-29,Masculino,Nordeste,Fundamental incompleto,1656,0,3,0,755,642,7,0.0,0.18,0.0,85.03,0.42
+202011,Novembro/2020,18-29,Feminino,Nordeste,Pós-graduação,123,0,1,0,84,88,3,0.0,0.81,0.0,104.76,2.44
+202011,Novembro/2020,18-29,Feminino,Nordeste,Sem instrução,62,0,0,0,3,3,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,18-29,Feminino,Nordeste,Médio completo,4555,1,17,0,1326,1263,17,0.02,0.37,0.0,95.25,0.37
+202011,Novembro/2020,18-29,Masculino,Nordeste,Sem instrução,80,0,0,0,13,12,0,0.0,0.0,0.0,92.31,0.0
+202011,Novembro/2020,18-29,Masculino,Nordeste,Pós-graduação,41,0,1,0,28,30,0,0.0,2.44,0.0,107.14,0.0
+202011,Novembro/2020,18-29,Feminino,Nordeste,Fundamental incompleto,1065,1,2,0,167,127,1,0.09,0.19,0.0,76.05,0.09
+202011,Novembro/2020,18-29,Feminino,Nordeste,Superior completo,865,0,3,1,499,515,10,0.0,0.35,0.12,103.21,1.16
+202011,Novembro/2020,18-29,Feminino,Nordeste,Médio incompleto,1736,0,6,0,298,268,5,0.0,0.35,0.0,89.93,0.29
+202011,Novembro/2020,18-29,Feminino,Nordeste,Superior incompleto,1667,0,6,0,586,586,8,0.0,0.36,0.0,100.0,0.48
+202011,Novembro/2020,18-29,Masculino,Nordeste,Médio completo,3811,0,8,0,2093,1956,20,0.0,0.21,0.0,93.45,0.52
+202011,Novembro/2020,18-29,Masculino,Nordeste,Fundamental completo,515,0,1,0,275,248,4,0.0,0.19,0.0,90.18,0.78
+202011,Novembro/2020,18-29,Feminino,Nordeste,Fundamental completo,400,0,1,0,91,75,1,0.0,0.25,0.0,82.42,0.25
+202011,Novembro/2020,18-29,Masculino,Nordeste,Superior incompleto,1358,0,8,1,534,523,10,0.0,0.59,0.07,97.94,0.74
+202011,Novembro/2020,18-29,Masculino,Nordeste,Superior completo,550,0,1,0,359,370,6,0.0,0.18,0.0,103.06,1.09
+202011,Novembro/2020,18-29,Masculino,Nordeste,Médio incompleto,2048,0,2,0,850,750,14,0.0,0.1,0.0,88.24,0.68
+202011,Novembro/2020,30-39,Feminino,Nordeste,Pós-graduação,404,1,4,0,326,345,7,0.25,0.99,0.0,105.83,1.73
+202011,Novembro/2020,30-39,Masculino,Nordeste,Médio incompleto,852,0,2,0,587,571,10,0.0,0.23,0.0,97.27,1.17
+202011,Novembro/2020,30-39,Masculino,Nordeste,Pós-graduação,189,0,3,0,165,172,4,0.0,1.59,0.0,104.24,2.12
+202011,Novembro/2020,30-39,Masculino,Nordeste,Superior incompleto,386,0,0,0,298,305,11,0.0,0.0,0.0,102.35,2.85
+202011,Novembro/2020,30-39,Feminino,Nordeste,Médio incompleto,800,1,2,0,260,245,2,0.13,0.25,0.0,94.23,0.25
+202011,Novembro/2020,30-39,Masculino,Nordeste,Fundamental completo,572,0,3,0,394,367,6,0.0,0.52,0.0,93.15,1.05
+202011,Novembro/2020,30-39,Feminino,Nordeste,Médio completo,3453,2,14,0,1450,1468,25,0.06,0.41,0.0,101.24,0.72
+202011,Novembro/2020,30-39,Masculino,Nordeste,Fundamental incompleto,2418,2,2,0,1500,1375,21,0.08,0.08,0.0,91.67,0.87
+202011,Novembro/2020,30-39,Masculino,Nordeste,Superior completo,785,1,7,0,658,685,11,0.13,0.89,0.0,104.1,1.4
+202011,Novembro/2020,30-39,Masculino,Nordeste,Sem instrução,243,0,0,0,97,82,0,0.0,0.0,0.0,84.54,0.0
+202011,Novembro/2020,30-39,Feminino,Nordeste,Sem instrução,168,0,0,0,24,18,0,0.0,0.0,0.0,75.0,0.0
+202011,Novembro/2020,30-39,Feminino,Nordeste,Fundamental incompleto,1965,2,6,0,490,396,11,0.1,0.31,0.0,80.82,0.56
+202011,Novembro/2020,30-39,Masculino,Nordeste,Médio completo,2714,0,13,0,1991,1994,36,0.0,0.48,0.0,100.15,1.33
+202011,Novembro/2020,30-39,Feminino,Nordeste,Fundamental completo,571,0,0,0,192,169,3,0.0,0.0,0.0,88.02,0.53
+202011,Novembro/2020,30-39,Feminino,Nordeste,Superior incompleto,497,1,4,0,284,302,4,0.2,0.8,0.0,106.34,0.8
+202011,Novembro/2020,30-39,Feminino,Nordeste,Superior completo,1437,0,14,1,995,1053,26,0.0,0.97,0.07,105.83,1.81
+202011,Novembro/2020,40-49,Feminino,Nordeste,Pós-graduação,400,1,4,0,322,357,4,0.25,1.0,0.0,110.87,1.0
+202011,Novembro/2020,40-49,Feminino,Nordeste,Fundamental completo,634,0,1,1,225,229,4,0.0,0.16,0.16,101.78,0.63
+202011,Novembro/2020,40-49,Masculino,Nordeste,Médio incompleto,481,0,2,0,337,342,2,0.0,0.42,0.0,101.48,0.42
+202011,Novembro/2020,40-49,Feminino,Nordeste,Médio completo,2516,1,11,2,1203,1238,14,0.04,0.44,0.08,102.91,0.56
+202011,Novembro/2020,40-49,Feminino,Nordeste,Médio incompleto,538,0,4,1,226,215,6,0.0,0.74,0.19,95.13,1.12
+202011,Novembro/2020,40-49,Masculino,Nordeste,Superior completo,569,0,7,1,492,518,12,0.0,1.23,0.18,105.28,2.11
+202011,Novembro/2020,40-49,Feminino,Nordeste,Sem instrução,344,0,0,0,74,41,0,0.0,0.0,0.0,55.41,0.0
+202011,Novembro/2020,40-49,Masculino,Nordeste,Pós-graduação,179,0,2,0,163,165,3,0.0,1.12,0.0,101.23,1.68
+202011,Novembro/2020,40-49,Masculino,Nordeste,Fundamental incompleto,3018,1,6,0,1987,1819,22,0.03,0.2,0.0,91.55,0.73
+202011,Novembro/2020,40-49,Masculino,Nordeste,Superior incompleto,203,0,0,0,172,176,1,0.0,0.0,0.0,102.33,0.49
+202011,Novembro/2020,40-49,Masculino,Nordeste,Fundamental completo,564,0,3,0,400,388,8,0.0,0.53,0.0,97.0,1.42
+202011,Novembro/2020,40-49,Masculino,Nordeste,Médio completo,1828,2,10,0,1399,1435,18,0.11,0.55,0.0,102.57,0.98
+202011,Novembro/2020,40-49,Feminino,Nordeste,Superior completo,1049,0,9,0,743,809,13,0.0,0.86,0.0,108.88,1.24
+202011,Novembro/2020,40-49,Feminino,Nordeste,Fundamental incompleto,2956,1,11,0,877,717,13,0.03,0.37,0.0,81.76,0.44
+202011,Novembro/2020,40-49,Feminino,Nordeste,Superior incompleto,240,0,2,0,141,152,0,0.0,0.83,0.0,107.8,0.0
+202011,Novembro/2020,40-49,Masculino,Nordeste,Sem instrução,570,1,1,0,292,242,3,0.18,0.18,0.0,82.88,0.53
+202011,Novembro/2020,50-59,Feminino,Nordeste,Fundamental completo,603,0,3,0,194,184,2,0.0,0.5,0.0,94.85,0.33
+202011,Novembro/2020,50-59,Masculino,Nordeste,Fundamental completo,496,0,1,0,293,295,3,0.0,0.2,0.0,100.68,0.6
+202011,Novembro/2020,50-59,Feminino,Nordeste,Fundamental incompleto,3117,1,3,0,785,601,8,0.03,0.1,0.0,76.56,0.26
+202011,Novembro/2020,50-59,Masculino,Nordeste,Superior completo,349,0,4,0,265,274,5,0.0,1.15,0.0,103.4,1.43
+202011,Novembro/2020,50-59,Masculino,Nordeste,Superior incompleto,113,0,0,0,79,86,1,0.0,0.0,0.0,108.86,0.88
+202011,Novembro/2020,50-59,Feminino,Nordeste,Superior incompleto,111,0,1,0,56,64,1,0.0,0.9,0.0,114.29,0.9
+202011,Novembro/2020,50-59,Masculino,Nordeste,Médio incompleto,322,0,0,0,205,211,1,0.0,0.0,0.0,102.93,0.31
+202011,Novembro/2020,50-59,Masculino,Nordeste,Pós-graduação,126,0,1,0,109,115,2,0.0,0.79,0.0,105.5,1.59
+202011,Novembro/2020,50-59,Masculino,Nordeste,Sem instrução,861,1,1,0,418,330,6,0.12,0.12,0.0,78.95,0.7
+202011,Novembro/2020,50-59,Feminino,Nordeste,Médio completo,1614,1,6,0,640,686,8,0.06,0.37,0.0,107.19,0.5
+202011,Novembro/2020,50-59,Feminino,Nordeste,Sem instrução,746,1,5,0,128,75,1,0.13,0.67,0.0,58.59,0.13
+202011,Novembro/2020,50-59,Masculino,Nordeste,Médio completo,1206,3,5,1,799,835,15,0.25,0.41,0.08,104.51,1.24
+202011,Novembro/2020,50-59,Feminino,Nordeste,Pós-graduação,338,0,8,0,226,253,4,0.0,2.37,0.0,111.95,1.18
+202011,Novembro/2020,50-59,Masculino,Nordeste,Fundamental incompleto,2873,1,6,0,1697,1488,25,0.03,0.21,0.0,87.68,0.87
+202011,Novembro/2020,50-59,Feminino,Nordeste,Superior completo,768,1,4,0,448,520,6,0.13,0.52,0.0,116.07,0.78
+202011,Novembro/2020,50-59,Feminino,Nordeste,Médio incompleto,374,0,1,0,120,120,4,0.0,0.27,0.0,100.0,1.07
+202011,Novembro/2020,60-69,Feminino,Nordeste,Fundamental completo,431,1,1,0,47,48,0,0.23,0.23,0.0,102.13,0.0
+202011,Novembro/2020,60-69,Feminino,Nordeste,Médio completo,830,0,5,0,155,183,2,0.0,0.6,0.0,118.06,0.24
+202011,Novembro/2020,60-69,Masculino,Nordeste,Fundamental incompleto,1897,1,4,0,624,493,9,0.05,0.21,0.0,79.01,0.47
+202011,Novembro/2020,60-69,Feminino,Nordeste,Superior incompleto,66,0,1,0,15,18,1,0.0,1.52,0.0,120.0,1.52
+202011,Novembro/2020,60-69,Masculino,Nordeste,Pós-graduação,48,0,0,0,26,31,1,0.0,0.0,0.0,119.23,2.08
+202011,Novembro/2020,60-69,Masculino,Nordeste,Fundamental completo,334,0,0,0,120,124,0,0.0,0.0,0.0,103.33,0.0
+202011,Novembro/2020,60-69,Masculino,Nordeste,Superior incompleto,63,0,1,0,25,31,1,0.0,1.59,0.0,124.0,1.59
+202011,Novembro/2020,60-69,Feminino,Nordeste,Fundamental incompleto,2238,2,10,0,228,137,5,0.09,0.45,0.0,60.09,0.22
+202011,Novembro/2020,60-69,Masculino,Nordeste,Médio incompleto,151,0,0,0,53,48,1,0.0,0.0,0.0,90.57,0.66
+202011,Novembro/2020,60-69,Masculino,Nordeste,Médio completo,558,1,5,0,199,223,2,0.18,0.9,0.0,112.06,0.36
+202011,Novembro/2020,60-69,Feminino,Nordeste,Sem instrução,995,3,3,0,72,37,3,0.3,0.3,0.0,51.39,0.3
+202011,Novembro/2020,60-69,Feminino,Nordeste,Médio incompleto,190,0,1,0,29,28,0,0.0,0.53,0.0,96.55,0.0
+202011,Novembro/2020,60-69,Feminino,Nordeste,Pós-graduação,122,0,1,0,44,52,1,0.0,0.82,0.0,118.18,0.82
+202011,Novembro/2020,60-69,Masculino,Nordeste,Sem instrução,1006,1,1,0,291,175,4,0.1,0.1,0.0,60.14,0.4
+202011,Novembro/2020,60-69,Feminino,Nordeste,Superior completo,478,0,4,0,134,164,1,0.0,0.84,0.0,122.39,0.21
+202011,Novembro/2020,60-69,Masculino,Nordeste,Superior completo,259,0,2,0,135,143,3,0.0,0.77,0.0,105.93,1.16
+202011,Novembro/2020,70+,Feminino,Nordeste,Superior completo,262,1,0,0,16,20,0,0.38,0.0,0.0,125.0,0.0
+202011,Novembro/2020,70+,Feminino,Nordeste,Médio incompleto,100,0,0,0,5,4,0,0.0,0.0,0.0,80.0,0.0
+202011,Novembro/2020,70+,Masculino,Nordeste,Superior completo,154,0,2,0,29,34,0,0.0,1.3,0.0,117.24,0.0
+202011,Novembro/2020,70+,Masculino,Nordeste,Médio completo,267,0,0,0,34,38,0,0.0,0.0,0.0,111.76,0.0
+202011,Novembro/2020,70+,Masculino,Nordeste,Sem instrução,1426,2,6,0,120,44,4,0.14,0.42,0.0,36.67,0.28
+202011,Novembro/2020,70+,Masculino,Nordeste,Fundamental incompleto,1478,2,4,0,175,96,2,0.14,0.27,0.0,54.86,0.14
+202011,Novembro/2020,70+,Masculino,Nordeste,Superior incompleto,23,0,1,0,3,3,0,0.0,4.35,0.0,100.0,0.0
+202011,Novembro/2020,70+,Feminino,Nordeste,Fundamental incompleto,1843,2,9,0,51,24,0,0.11,0.49,0.0,47.06,0.0
+202011,Novembro/2020,70+,Masculino,Nordeste,Médio incompleto,64,0,0,0,7,8,0,0.0,0.0,0.0,114.29,0.0
+202011,Novembro/2020,70+,Feminino,Nordeste,Médio completo,423,1,3,0,15,16,0,0.24,0.71,0.0,106.67,0.0
+202011,Novembro/2020,70+,Feminino,Nordeste,Sem instrução,1693,0,7,0,34,11,1,0.0,0.41,0.0,32.35,0.06
+202011,Novembro/2020,70+,Feminino,Nordeste,Pós-graduação,40,0,0,0,5,7,0,0.0,0.0,0.0,140.0,0.0
+202011,Novembro/2020,70+,Masculino,Nordeste,Fundamental completo,210,0,2,0,12,11,0,0.0,0.95,0.0,91.67,0.0
+202011,Novembro/2020,70+,Feminino,Nordeste,Superior incompleto,17,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,70+,Masculino,Nordeste,Pós-graduação,28,0,1,0,9,8,0,0.0,3.57,0.0,88.89,0.0
+202011,Novembro/2020,70+,Feminino,Nordeste,Fundamental completo,341,0,1,0,5,4,0,0.0,0.29,0.0,80.0,0.0
+202011,Novembro/2020,0-17,Masculino,Norte,Fundamental completo,116,0,0,0,3,1,0,0.0,0.0,0.0,33.33,0.0
+202011,Novembro/2020,0-17,Masculino,Norte,Sem instrução,1923,3,6,0,0,0,0,0.16,0.31,0.0,0.0,0.0
+202011,Novembro/2020,0-17,Feminino,Norte,Médio completo,34,1,0,0,5,3,0,2.94,0.0,0.0,60.0,0.0
+202011,Novembro/2020,0-17,Feminino,Norte,Sem instrução,1767,1,5,0,1,0,0,0.06,0.28,0.0,0.0,0.0
+202011,Novembro/2020,0-17,Masculino,Norte,Fundamental incompleto,3895,0,12,0,79,31,0,0.0,0.31,0.0,39.24,0.0
+202011,Novembro/2020,0-17,Feminino,Norte,Fundamental incompleto,3697,0,11,0,26,5,0,0.0,0.3,0.0,19.23,0.0
+202011,Novembro/2020,0-17,Feminino,Norte,Fundamental completo,110,0,0,0,7,2,0,0.0,0.0,0.0,28.57,0.0
+202011,Novembro/2020,0-17,Feminino,Norte,Médio incompleto,927,0,4,0,56,32,4,0.0,0.43,0.0,57.14,0.43
+202011,Novembro/2020,0-17,Feminino,Norte,Superior incompleto,2,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,0-17,Masculino,Norte,Médio completo,36,0,0,0,6,3,0,0.0,0.0,0.0,50.0,0.0
+202011,Novembro/2020,0-17,Masculino,Norte,Médio incompleto,824,1,0,0,86,58,1,0.12,0.0,0.0,67.44,0.12
+202011,Novembro/2020,0-17,Masculino,Norte,Superior incompleto,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,18-29,Masculino,Norte,Superior completo,316,0,0,0,222,230,4,0.0,0.0,0.0,103.6,1.27
+202011,Novembro/2020,18-29,Feminino,Norte,Superior completo,479,1,2,0,247,271,4,0.21,0.42,0.0,109.72,0.84
+202011,Novembro/2020,18-29,Feminino,Norte,Fundamental completo,133,1,0,0,26,20,1,0.75,0.0,0.0,76.92,0.75
+202011,Novembro/2020,18-29,Feminino,Norte,Sem instrução,25,0,0,0,3,3,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,18-29,Feminino,Norte,Fundamental incompleto,316,0,3,0,48,34,0,0.0,0.95,0.0,70.83,0.0
+202011,Novembro/2020,18-29,Feminino,Norte,Superior incompleto,833,0,3,0,292,285,9,0.0,0.36,0.0,97.6,1.08
+202011,Novembro/2020,18-29,Feminino,Norte,Médio incompleto,740,0,4,0,161,131,2,0.0,0.54,0.0,81.37,0.27
+202011,Novembro/2020,18-29,Masculino,Norte,Médio completo,1912,0,6,1,1058,997,16,0.0,0.31,0.05,94.23,0.84
+202011,Novembro/2020,18-29,Feminino,Norte,Pós-graduação,57,0,1,0,39,42,1,0.0,1.75,0.0,107.69,1.75
+202011,Novembro/2020,18-29,Feminino,Norte,Médio completo,1988,0,9,0,615,584,9,0.0,0.45,0.0,94.96,0.45
+202011,Novembro/2020,18-29,Masculino,Norte,Pós-graduação,31,0,0,0,27,27,1,0.0,0.0,0.0,100.0,3.23
+202011,Novembro/2020,18-29,Masculino,Norte,Superior incompleto,719,0,6,0,313,309,10,0.0,0.83,0.0,98.72,1.39
+202011,Novembro/2020,18-29,Masculino,Norte,Médio incompleto,867,0,1,0,426,386,7,0.0,0.12,0.0,90.61,0.81
+202011,Novembro/2020,18-29,Masculino,Norte,Fundamental completo,176,0,1,0,100,95,2,0.0,0.57,0.0,95.0,1.14
+202011,Novembro/2020,18-29,Masculino,Norte,Sem instrução,43,0,0,0,5,5,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,18-29,Masculino,Norte,Fundamental incompleto,512,1,1,0,283,236,2,0.2,0.2,0.0,83.39,0.39
+202011,Novembro/2020,30-39,Feminino,Norte,Médio completo,1488,0,4,0,666,655,12,0.0,0.27,0.0,98.35,0.81
+202011,Novembro/2020,30-39,Masculino,Norte,Pós-graduação,103,0,1,0,89,93,1,0.0,0.97,0.0,104.49,0.97
+202011,Novembro/2020,30-39,Masculino,Norte,Médio completo,1384,1,3,1,1013,1022,16,0.07,0.22,0.07,100.89,1.16
+202011,Novembro/2020,30-39,Masculino,Norte,Médio incompleto,363,0,0,0,275,266,4,0.0,0.0,0.0,96.73,1.1
+202011,Novembro/2020,30-39,Feminino,Norte,Superior completo,699,2,4,1,454,492,11,0.29,0.57,0.14,108.37,1.57
+202011,Novembro/2020,30-39,Masculino,Norte,Fundamental completo,228,0,3,0,160,159,5,0.0,1.32,0.0,99.38,2.19
+202011,Novembro/2020,30-39,Masculino,Norte,Fundamental incompleto,680,0,0,0,498,477,3,0.0,0.0,0.0,95.78,0.44
+202011,Novembro/2020,30-39,Feminino,Norte,Pós-graduação,176,0,4,1,140,148,4,0.0,2.27,0.57,105.71,2.27
+202011,Novembro/2020,30-39,Feminino,Norte,Médio incompleto,299,0,2,0,102,104,1,0.0,0.67,0.0,101.96,0.33
+202011,Novembro/2020,30-39,Masculino,Norte,Sem instrução,56,0,0,0,23,22,0,0.0,0.0,0.0,95.65,0.0
+202011,Novembro/2020,30-39,Feminino,Norte,Sem instrução,49,0,1,0,5,3,0,0.0,2.04,0.0,60.0,0.0
+202011,Novembro/2020,30-39,Feminino,Norte,Fundamental completo,200,0,0,0,79,64,0,0.0,0.0,0.0,81.01,0.0
+202011,Novembro/2020,30-39,Feminino,Norte,Fundamental incompleto,505,0,2,1,159,125,2,0.0,0.4,0.2,78.62,0.4
+202011,Novembro/2020,30-39,Feminino,Norte,Superior incompleto,308,0,3,0,157,170,3,0.0,0.97,0.0,108.28,0.97
+202011,Novembro/2020,30-39,Masculino,Norte,Superior completo,452,0,5,0,371,397,7,0.0,1.11,0.0,107.01,1.55
+202011,Novembro/2020,30-39,Masculino,Norte,Superior incompleto,205,0,1,0,159,165,5,0.0,0.49,0.0,103.77,2.44
+202011,Novembro/2020,40-49,Feminino,Norte,Sem instrução,73,0,0,0,19,16,0,0.0,0.0,0.0,84.21,0.0
+202011,Novembro/2020,40-49,Masculino,Norte,Sem instrução,132,0,0,0,77,71,1,0.0,0.0,0.0,92.21,0.76
+202011,Novembro/2020,40-49,Feminino,Norte,Médio incompleto,231,0,1,0,102,100,0,0.0,0.43,0.0,98.04,0.0
+202011,Novembro/2020,40-49,Masculino,Norte,Superior incompleto,116,0,2,0,89,93,2,0.0,1.72,0.0,104.49,1.72
+202011,Novembro/2020,40-49,Masculino,Norte,Fundamental incompleto,936,0,3,0,699,685,6,0.0,0.32,0.0,98.0,0.64
+202011,Novembro/2020,40-49,Feminino,Norte,Médio completo,1205,0,7,0,566,575,12,0.0,0.58,0.0,101.59,1.0
+202011,Novembro/2020,40-49,Masculino,Norte,Médio completo,983,0,6,0,764,774,15,0.0,0.61,0.0,101.31,1.53
+202011,Novembro/2020,40-49,Feminino,Norte,Fundamental completo,240,0,0,0,100,92,2,0.0,0.0,0.0,92.0,0.83
+202011,Novembro/2020,40-49,Feminino,Norte,Pós-graduação,193,0,2,0,144,164,1,0.0,1.04,0.0,113.89,0.52
+202011,Novembro/2020,40-49,Masculino,Norte,Fundamental completo,246,0,0,0,182,183,4,0.0,0.0,0.0,100.55,1.63
+202011,Novembro/2020,40-49,Masculino,Norte,Médio incompleto,236,0,1,0,177,180,3,0.0,0.42,0.0,101.69,1.27
+202011,Novembro/2020,40-49,Masculino,Norte,Superior completo,353,0,2,0,308,325,5,0.0,0.57,0.0,105.52,1.42
+202011,Novembro/2020,40-49,Feminino,Norte,Superior completo,616,0,2,0,414,456,6,0.0,0.32,0.0,110.14,0.97
+202011,Novembro/2020,40-49,Feminino,Norte,Fundamental incompleto,810,0,3,0,288,242,6,0.0,0.37,0.0,84.03,0.74
+202011,Novembro/2020,40-49,Feminino,Norte,Superior incompleto,148,0,1,0,73,80,0,0.0,0.68,0.0,109.59,0.0
+202011,Novembro/2020,40-49,Masculino,Norte,Pós-graduação,105,0,0,0,92,97,1,0.0,0.0,0.0,105.43,0.95
+202011,Novembro/2020,50-59,Masculino,Norte,Fundamental incompleto,956,1,1,0,653,649,10,0.1,0.1,0.0,99.39,1.05
+202011,Novembro/2020,50-59,Masculino,Norte,Médio completo,582,1,0,0,387,407,4,0.17,0.0,0.0,105.17,0.69
+202011,Novembro/2020,50-59,Feminino,Norte,Superior incompleto,58,0,3,0,27,31,1,0.0,5.17,0.0,114.81,1.72
+202011,Novembro/2020,50-59,Masculino,Norte,Fundamental completo,207,0,0,0,133,141,2,0.0,0.0,0.0,106.02,0.97
+202011,Novembro/2020,50-59,Feminino,Norte,Pós-graduação,135,1,0,0,79,94,1,0.74,0.0,0.0,118.99,0.74
+202011,Novembro/2020,50-59,Masculino,Norte,Superior incompleto,51,0,0,0,31,33,0,0.0,0.0,0.0,106.45,0.0
+202011,Novembro/2020,50-59,Masculino,Norte,Pós-graduação,66,0,1,0,58,60,1,0.0,1.52,0.0,103.45,1.52
+202011,Novembro/2020,50-59,Masculino,Norte,Médio incompleto,169,0,1,0,108,113,2,0.0,0.59,0.0,104.63,1.18
+202011,Novembro/2020,50-59,Feminino,Norte,Superior completo,394,0,4,0,211,254,3,0.0,1.02,0.0,120.38,0.76
+202011,Novembro/2020,50-59,Feminino,Norte,Sem instrução,168,0,0,0,33,26,0,0.0,0.0,0.0,78.79,0.0
+202011,Novembro/2020,50-59,Feminino,Norte,Médio completo,770,0,5,0,310,339,7,0.0,0.65,0.0,109.35,0.91
+202011,Novembro/2020,50-59,Masculino,Norte,Sem instrução,176,0,0,0,98,96,4,0.0,0.0,0.0,97.96,2.27
+202011,Novembro/2020,50-59,Feminino,Norte,Fundamental incompleto,881,0,4,0,252,195,4,0.0,0.45,0.0,77.38,0.45
+202011,Novembro/2020,50-59,Masculino,Norte,Superior completo,242,0,2,0,169,197,1,0.0,0.83,0.0,116.57,0.41
+202011,Novembro/2020,50-59,Feminino,Norte,Médio incompleto,163,0,0,0,54,53,0,0.0,0.0,0.0,98.15,0.0
+202011,Novembro/2020,50-59,Feminino,Norte,Fundamental completo,266,0,2,0,81,71,1,0.0,0.75,0.0,87.65,0.38
+202011,Novembro/2020,60-69,Masculino,Norte,Superior incompleto,24,0,0,0,14,17,1,0.0,0.0,0.0,121.43,4.17
+202011,Novembro/2020,60-69,Feminino,Norte,Médio completo,388,0,4,0,68,94,2,0.0,1.03,0.0,138.24,0.52
+202011,Novembro/2020,60-69,Masculino,Norte,Pós-graduação,36,0,0,0,19,21,0,0.0,0.0,0.0,110.53,0.0
+202011,Novembro/2020,60-69,Feminino,Norte,Médio incompleto,81,0,0,0,12,16,1,0.0,0.0,0.0,133.33,1.23
+202011,Novembro/2020,60-69,Masculino,Norte,Sem instrução,204,0,1,0,73,70,2,0.0,0.49,0.0,95.89,0.98
+202011,Novembro/2020,60-69,Feminino,Norte,Superior completo,159,0,2,0,38,48,2,0.0,1.26,0.0,126.32,1.26
+202011,Novembro/2020,60-69,Feminino,Norte,Fundamental incompleto,740,0,3,0,75,73,2,0.0,0.41,0.0,97.33,0.27
+202011,Novembro/2020,60-69,Feminino,Norte,Sem instrução,190,0,0,0,19,9,1,0.0,0.0,0.0,47.37,0.53
+202011,Novembro/2020,60-69,Masculino,Norte,Médio completo,274,0,2,0,97,108,3,0.0,0.73,0.0,111.34,1.09
+202011,Novembro/2020,60-69,Masculino,Norte,Médio incompleto,75,0,0,0,25,29,1,0.0,0.0,0.0,116.0,1.33
+202011,Novembro/2020,60-69,Masculino,Norte,Fundamental completo,155,0,1,0,61,59,0,0.0,0.65,0.0,96.72,0.0
+202011,Novembro/2020,60-69,Feminino,Norte,Pós-graduação,46,1,0,0,13,18,0,2.17,0.0,0.0,138.46,0.0
+202011,Novembro/2020,60-69,Feminino,Norte,Superior incompleto,16,0,0,0,5,5,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,60-69,Masculino,Norte,Fundamental incompleto,727,1,2,0,289,276,6,0.14,0.28,0.0,95.5,0.83
+202011,Novembro/2020,60-69,Feminino,Norte,Fundamental completo,173,0,1,0,25,22,2,0.0,0.58,0.0,88.0,1.16
+202011,Novembro/2020,60-69,Masculino,Norte,Superior completo,135,0,1,0,66,79,0,0.0,0.74,0.0,119.7,0.0
+202011,Novembro/2020,70+,Feminino,Norte,Fundamental completo,144,0,0,0,3,1,0,0.0,0.0,0.0,33.33,0.0
+202011,Novembro/2020,70+,Feminino,Norte,Pós-graduação,11,0,0,0,3,2,0,0.0,0.0,0.0,66.67,0.0
+202011,Novembro/2020,70+,Feminino,Norte,Superior incompleto,12,0,1,0,2,2,0,0.0,8.33,0.0,100.0,0.0
+202011,Novembro/2020,70+,Masculino,Norte,Sem instrução,297,0,0,0,31,22,0,0.0,0.0,0.0,70.97,0.0
+202011,Novembro/2020,70+,Masculino,Norte,Fundamental completo,117,0,0,0,15,13,0,0.0,0.0,0.0,86.67,0.0
+202011,Novembro/2020,70+,Masculino,Norte,Médio incompleto,40,0,0,0,9,6,0,0.0,0.0,0.0,66.67,0.0
+202011,Novembro/2020,70+,Masculino,Norte,Fundamental incompleto,504,0,0,0,65,54,2,0.0,0.0,0.0,83.08,0.4
+202011,Novembro/2020,70+,Feminino,Norte,Sem instrução,374,0,2,0,5,2,1,0.0,0.53,0.0,40.0,0.27
+202011,Novembro/2020,70+,Masculino,Norte,Superior completo,50,0,1,0,8,7,0,0.0,2.0,0.0,87.5,0.0
+202011,Novembro/2020,70+,Feminino,Norte,Superior completo,67,0,0,0,1,2,0,0.0,0.0,0.0,200.0,0.0
+202011,Novembro/2020,70+,Masculino,Norte,Superior incompleto,9,0,0,0,3,3,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,70+,Masculino,Norte,Pós-graduação,12,0,0,0,3,5,0,0.0,0.0,0.0,166.67,0.0
+202011,Novembro/2020,70+,Masculino,Norte,Médio completo,133,1,0,0,11,13,0,0.75,0.0,0.0,118.18,0.0
+202011,Novembro/2020,70+,Feminino,Norte,Médio completo,171,0,2,0,3,6,0,0.0,1.17,0.0,200.0,0.0
+202011,Novembro/2020,70+,Feminino,Norte,Fundamental incompleto,517,2,1,0,8,5,0,0.39,0.19,0.0,62.5,0.0
+202011,Novembro/2020,70+,Feminino,Norte,Médio incompleto,33,0,0,0,4,2,0,0.0,0.0,0.0,50.0,0.0
+202011,Novembro/2020,0-17,Masculino,Sudeste,Fundamental incompleto,6502,0,15,0,56,40,1,0.0,0.23,0.0,71.43,0.02
+202011,Novembro/2020,0-17,Feminino,Sudeste,Fundamental completo,196,0,0,0,3,3,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,0-17,Masculino,Sudeste,Sem instrução,3467,0,13,0,0,0,0,0.0,0.37,0.0,0.0,0.0
+202011,Novembro/2020,0-17,Masculino,Sudeste,Fundamental completo,210,0,0,0,15,12,0,0.0,0.0,0.0,80.0,0.0
+202011,Novembro/2020,0-17,Feminino,Sudeste,Médio incompleto,1641,0,12,0,109,111,2,0.0,0.73,0.0,101.83,0.12
+202011,Novembro/2020,0-17,Feminino,Sudeste,Superior incompleto,7,0,0,0,1,1,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,0-17,Masculino,Sudeste,Médio completo,54,0,0,0,7,6,0,0.0,0.0,0.0,85.71,0.0
+202011,Novembro/2020,0-17,Masculino,Sudeste,Superior incompleto,4,0,0,0,3,3,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,0-17,Masculino,Sudeste,Médio incompleto,1577,0,8,0,170,148,3,0.0,0.51,0.0,87.06,0.19
+202011,Novembro/2020,0-17,Feminino,Sudeste,Sem instrução,3331,1,21,0,0,0,0,0.03,0.63,0.0,0.0,0.0
+202011,Novembro/2020,0-17,Feminino,Sudeste,Fundamental incompleto,6122,0,13,0,20,16,1,0.0,0.21,0.0,80.0,0.02
+202011,Novembro/2020,0-17,Feminino,Sudeste,Médio completo,54,0,0,0,10,10,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,18-29,Feminino,Sudeste,Superior incompleto,1726,1,26,0,723,737,23,0.06,1.51,0.0,101.94,1.33
+202011,Novembro/2020,18-29,Masculino,Sudeste,Sem instrução,61,0,0,0,5,6,0,0.0,0.0,0.0,120.0,0.0
+202011,Novembro/2020,18-29,Masculino,Sudeste,Fundamental incompleto,725,0,4,0,440,430,4,0.0,0.55,0.0,97.73,0.55
+202011,Novembro/2020,18-29,Feminino,Sudeste,Fundamental incompleto,385,1,2,0,79,83,2,0.26,0.52,0.0,105.06,0.52
+202011,Novembro/2020,18-29,Feminino,Sudeste,Sem instrução,39,0,0,0,3,3,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,18-29,Feminino,Sudeste,Pós-graduação,139,0,1,0,99,106,1,0.0,0.72,0.0,107.07,0.72
+202011,Novembro/2020,18-29,Feminino,Sudeste,Médio incompleto,1073,0,10,0,254,256,5,0.0,0.93,0.0,100.79,0.47
+202011,Novembro/2020,18-29,Masculino,Sudeste,Superior completo,727,0,9,0,558,560,12,0.0,1.24,0.0,100.36,1.65
+202011,Novembro/2020,18-29,Masculino,Sudeste,Superior incompleto,1418,0,13,0,725,729,12,0.0,0.92,0.0,100.55,0.85
+202011,Novembro/2020,18-29,Feminino,Sudeste,Fundamental completo,312,0,4,0,93,93,2,0.0,1.28,0.0,100.0,0.64
+202011,Novembro/2020,18-29,Masculino,Sudeste,Pós-graduação,68,0,0,0,50,52,0,0.0,0.0,0.0,104.0,0.0
+202011,Novembro/2020,18-29,Masculino,Sudeste,Médio completo,3699,1,24,0,2343,2350,36,0.03,0.65,0.0,100.3,0.97
+202011,Novembro/2020,18-29,Feminino,Sudeste,Superior completo,1121,0,12,0,768,809,10,0.0,1.07,0.0,105.34,0.89
+202011,Novembro/2020,18-29,Masculino,Sudeste,Fundamental completo,396,0,2,0,260,261,8,0.0,0.51,0.0,100.38,2.02
+202011,Novembro/2020,18-29,Masculino,Sudeste,Médio incompleto,1489,0,9,0,706,706,13,0.0,0.6,0.0,100.0,0.87
+202011,Novembro/2020,18-29,Feminino,Sudeste,Médio completo,3728,2,36,0,1560,1593,27,0.05,0.97,0.0,102.12,0.72
+202011,Novembro/2020,30-39,Masculino,Sudeste,Fundamental completo,535,0,5,1,404,420,7,0.0,0.93,0.19,103.96,1.31
+202011,Novembro/2020,30-39,Feminino,Sudeste,Superior incompleto,547,1,4,0,338,360,8,0.18,0.73,0.0,106.51,1.46
+202011,Novembro/2020,30-39,Masculino,Sudeste,Superior completo,1356,2,19,0,1155,1185,24,0.15,1.4,0.0,102.6,1.77
+202011,Novembro/2020,30-39,Masculino,Sudeste,Fundamental incompleto,1061,0,3,0,795,812,13,0.0,0.28,0.0,102.14,1.23
+202011,Novembro/2020,30-39,Masculino,Sudeste,Médio incompleto,648,1,4,0,519,529,10,0.15,0.62,0.0,101.93,1.54
+202011,Novembro/2020,30-39,Feminino,Sudeste,Fundamental incompleto,899,0,8,0,341,335,6,0.0,0.89,0.0,98.24,0.67
+202011,Novembro/2020,30-39,Feminino,Sudeste,Médio incompleto,615,0,2,0,269,283,3,0.0,0.33,0.0,105.2,0.49
+202011,Novembro/2020,30-39,Masculino,Sudeste,Médio completo,3019,1,12,0,2440,2515,33,0.03,0.4,0.0,103.07,1.09
+202011,Novembro/2020,30-39,Masculino,Sudeste,Sem instrução,69,0,0,0,14,14,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,30-39,Masculino,Sudeste,Pós-graduação,387,1,7,0,352,361,12,0.26,1.81,0.0,102.56,3.1
+202011,Novembro/2020,30-39,Feminino,Sudeste,Sem instrução,57,0,0,0,10,10,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,30-39,Feminino,Sudeste,Fundamental completo,544,0,3,0,234,236,6,0.0,0.55,0.0,100.85,1.1
+202011,Novembro/2020,30-39,Masculino,Sudeste,Superior incompleto,528,0,6,0,426,447,15,0.0,1.14,0.0,104.93,2.84
+202011,Novembro/2020,30-39,Feminino,Sudeste,Médio completo,3217,1,17,1,1665,1739,19,0.03,0.53,0.03,104.44,0.59
+202011,Novembro/2020,30-39,Feminino,Sudeste,Superior completo,1934,1,19,0,1425,1524,26,0.05,0.98,0.0,106.95,1.34
+202011,Novembro/2020,30-39,Feminino,Sudeste,Pós-graduação,603,2,4,0,490,523,15,0.33,0.66,0.0,106.73,2.49
+202011,Novembro/2020,40-49,Masculino,Sudeste,Médio incompleto,468,0,0,0,356,363,2,0.0,0.0,0.0,101.97,0.43
+202011,Novembro/2020,40-49,Feminino,Sudeste,Médio completo,2842,1,18,1,1524,1600,25,0.04,0.63,0.04,104.99,0.88
+202011,Novembro/2020,40-49,Feminino,Sudeste,Superior incompleto,383,0,1,0,231,244,2,0.0,0.26,0.0,105.63,0.52
+202011,Novembro/2020,40-49,Feminino,Sudeste,Sem instrução,111,0,0,0,27,25,2,0.0,0.0,0.0,92.59,1.8
+202011,Novembro/2020,40-49,Feminino,Sudeste,Pós-graduação,584,0,7,0,486,502,12,0.0,1.2,0.0,103.29,2.05
+202011,Novembro/2020,40-49,Masculino,Sudeste,Sem instrução,151,0,0,0,76,78,0,0.0,0.0,0.0,102.63,0.0
+202011,Novembro/2020,40-49,Masculino,Sudeste,Pós-graduação,382,0,1,0,347,354,8,0.0,0.26,0.0,102.02,2.09
+202011,Novembro/2020,40-49,Masculino,Sudeste,Superior incompleto,340,0,5,0,273,280,7,0.0,1.47,0.0,102.56,2.06
+202011,Novembro/2020,40-49,Masculino,Sudeste,Fundamental completo,760,0,2,0,588,609,1,0.0,0.26,0.0,103.57,0.13
+202011,Novembro/2020,40-49,Feminino,Sudeste,Fundamental incompleto,1981,1,12,1,832,797,9,0.05,0.61,0.05,95.79,0.45
+202011,Novembro/2020,40-49,Masculino,Sudeste,Superior completo,1001,0,7,0,863,891,8,0.0,0.7,0.0,103.24,0.8
+202011,Novembro/2020,40-49,Feminino,Sudeste,Médio incompleto,558,0,1,0,270,278,9,0.0,0.18,0.0,102.96,1.61
+202011,Novembro/2020,40-49,Masculino,Sudeste,Fundamental incompleto,2081,1,9,0,1608,1623,21,0.05,0.43,0.0,100.93,1.01
+202011,Novembro/2020,40-49,Masculino,Sudeste,Médio completo,2507,0,10,0,2035,2105,23,0.0,0.4,0.0,103.44,0.92
+202011,Novembro/2020,40-49,Feminino,Sudeste,Fundamental completo,762,0,8,0,352,356,5,0.0,1.05,0.0,101.14,0.66
+202011,Novembro/2020,40-49,Feminino,Sudeste,Superior completo,1553,0,11,0,1100,1172,8,0.0,0.71,0.0,106.55,0.52
+202011,Novembro/2020,50-59,Masculino,Sudeste,Médio incompleto,472,0,1,1,309,330,3,0.0,0.21,0.21,106.8,0.64
+202011,Novembro/2020,50-59,Masculino,Sudeste,Superior completo,768,1,4,0,576,602,10,0.13,0.52,0.0,104.51,1.3
+202011,Novembro/2020,50-59,Masculino,Sudeste,Superior incompleto,221,0,0,0,165,170,0,0.0,0.0,0.0,103.03,0.0
+202011,Novembro/2020,50-59,Feminino,Sudeste,Médio incompleto,478,0,4,0,162,167,2,0.0,0.84,0.0,103.09,0.42
+202011,Novembro/2020,50-59,Masculino,Sudeste,Médio completo,1877,1,8,0,1259,1320,9,0.05,0.43,0.0,104.85,0.48
+202011,Novembro/2020,50-59,Masculino,Sudeste,Pós-graduação,251,0,1,0,197,202,2,0.0,0.4,0.0,102.54,0.8
+202011,Novembro/2020,50-59,Feminino,Sudeste,Pós-graduação,398,0,4,0,289,309,8,0.0,1.01,0.0,106.92,2.01
+202011,Novembro/2020,50-59,Feminino,Sudeste,Fundamental incompleto,2656,0,11,0,932,903,19,0.0,0.41,0.0,96.89,0.72
+202011,Novembro/2020,50-59,Feminino,Sudeste,Superior completo,1270,1,10,0,769,818,14,0.08,0.79,0.0,106.37,1.1
+202011,Novembro/2020,50-59,Masculino,Sudeste,Fundamental incompleto,2564,0,12,0,1734,1781,25,0.0,0.47,0.0,102.71,0.98
+202011,Novembro/2020,50-59,Feminino,Sudeste,Sem instrução,215,0,1,0,35,30,1,0.0,0.47,0.0,85.71,0.47
+202011,Novembro/2020,50-59,Feminino,Sudeste,Fundamental completo,952,1,2,0,345,349,5,0.11,0.21,0.0,101.16,0.53
+202011,Novembro/2020,50-59,Feminino,Sudeste,Médio completo,2146,0,19,0,945,1028,24,0.0,0.89,0.0,108.78,1.12
+202011,Novembro/2020,50-59,Masculino,Sudeste,Fundamental completo,853,1,8,0,589,618,10,0.12,0.94,0.0,104.92,1.17
+202011,Novembro/2020,50-59,Masculino,Sudeste,Sem instrução,218,0,0,0,108,105,2,0.0,0.0,0.0,97.22,0.92
+202011,Novembro/2020,50-59,Feminino,Sudeste,Superior incompleto,228,1,5,0,106,117,2,0.44,2.19,0.0,110.38,0.88
+202011,Novembro/2020,60-69,Masculino,Sudeste,Sem instrução,278,1,0,0,88,80,1,0.36,0.0,0.0,90.91,0.36
+202011,Novembro/2020,60-69,Feminino,Sudeste,Pós-graduação,224,0,5,0,79,91,3,0.0,2.23,0.0,115.19,1.34
+202011,Novembro/2020,60-69,Masculino,Sudeste,Médio completo,1198,0,4,0,438,473,6,0.0,0.33,0.0,107.99,0.5
+202011,Novembro/2020,60-69,Masculino,Sudeste,Pós-graduação,180,0,2,0,101,106,1,0.0,1.11,0.0,104.95,0.56
+202011,Novembro/2020,60-69,Masculino,Sudeste,Fundamental completo,707,2,3,0,233,243,3,0.28,0.42,0.0,104.29,0.42
+202011,Novembro/2020,60-69,Feminino,Sudeste,Médio incompleto,307,0,0,0,47,50,2,0.0,0.0,0.0,106.38,0.65
+202011,Novembro/2020,60-69,Feminino,Sudeste,Fundamental incompleto,2555,1,14,0,370,354,8,0.04,0.55,0.0,95.68,0.31
+202011,Novembro/2020,60-69,Masculino,Sudeste,Superior incompleto,161,1,1,0,67,71,0,0.62,0.62,0.0,105.97,0.0
+202011,Novembro/2020,60-69,Feminino,Sudeste,Superior completo,953,0,8,0,217,251,6,0.0,0.84,0.0,115.67,0.63
+202011,Novembro/2020,60-69,Masculino,Sudeste,Fundamental incompleto,2243,1,14,0,842,862,9,0.04,0.62,0.0,102.38,0.4
+202011,Novembro/2020,60-69,Masculino,Sudeste,Médio incompleto,255,0,0,0,100,101,3,0.0,0.0,0.0,101.0,1.18
+202011,Novembro/2020,60-69,Feminino,Sudeste,Sem instrução,398,0,1,0,33,27,1,0.0,0.25,0.0,81.82,0.25
+202011,Novembro/2020,60-69,Feminino,Sudeste,Médio completo,1485,0,17,0,262,287,6,0.0,1.14,0.0,109.54,0.4
+202011,Novembro/2020,60-69,Feminino,Sudeste,Fundamental completo,934,0,6,0,120,132,4,0.0,0.64,0.0,110.0,0.43
+202011,Novembro/2020,60-69,Feminino,Sudeste,Superior incompleto,168,0,1,0,40,43,0,0.0,0.6,0.0,107.5,0.0
+202011,Novembro/2020,60-69,Masculino,Sudeste,Superior completo,693,2,6,0,303,335,5,0.29,0.87,0.0,110.56,0.72
+202011,Novembro/2020,70+,Feminino,Sudeste,Superior incompleto,51,0,0,0,2,2,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,70+,Masculino,Sudeste,Médio incompleto,117,0,0,0,11,10,0,0.0,0.0,0.0,90.91,0.0
+202011,Novembro/2020,70+,Feminino,Sudeste,Superior completo,551,1,6,0,37,35,1,0.18,1.09,0.0,94.59,0.18
+202011,Novembro/2020,70+,Masculino,Sudeste,Superior incompleto,76,0,0,0,13,14,1,0.0,0.0,0.0,107.69,1.32
+202011,Novembro/2020,70+,Feminino,Sudeste,Sem instrução,900,4,1,0,14,6,0,0.44,0.11,0.0,42.86,0.0
+202011,Novembro/2020,70+,Feminino,Sudeste,Médio incompleto,140,0,0,0,7,5,0,0.0,0.0,0.0,71.43,0.0
+202011,Novembro/2020,70+,Masculino,Sudeste,Fundamental completo,579,1,1,0,71,71,1,0.17,0.17,0.0,100.0,0.17
+202011,Novembro/2020,70+,Masculino,Sudeste,Sem instrução,524,2,1,0,39,25,1,0.38,0.19,0.0,64.1,0.19
+202011,Novembro/2020,70+,Feminino,Sudeste,Fundamental completo,890,1,0,0,28,25,0,0.11,0.0,0.0,89.29,0.0
+202011,Novembro/2020,70+,Masculino,Sudeste,Superior completo,490,1,2,0,91,101,0,0.2,0.41,0.0,110.99,0.0
+202011,Novembro/2020,70+,Feminino,Sudeste,Pós-graduação,84,1,0,0,15,19,0,1.19,0.0,0.0,126.67,0.0
+202011,Novembro/2020,70+,Masculino,Sudeste,Fundamental incompleto,1845,4,8,0,244,217,5,0.22,0.43,0.0,88.93,0.27
+202011,Novembro/2020,70+,Masculino,Sudeste,Médio completo,626,1,5,0,63,66,1,0.16,0.8,0.0,104.76,0.16
+202011,Novembro/2020,70+,Feminino,Sudeste,Fundamental incompleto,2511,3,11,0,84,65,1,0.12,0.44,0.0,77.38,0.04
+202011,Novembro/2020,70+,Feminino,Sudeste,Médio completo,838,2,4,0,27,27,1,0.24,0.48,0.0,100.0,0.12
+202011,Novembro/2020,70+,Masculino,Sudeste,Pós-graduação,89,0,1,0,25,25,1,0.0,1.12,0.0,100.0,1.12
+202011,Novembro/2020,0-17,Masculino,Sul,Médio completo,38,0,0,0,9,9,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,0-17,Feminino,Sul,Médio incompleto,951,0,2,0,108,87,2,0.0,0.21,0.0,80.56,0.21
+202011,Novembro/2020,0-17,Feminino,Sul,Superior incompleto,9,0,1,0,3,4,1,0.0,11.11,0.0,133.33,11.11
+202011,Novembro/2020,0-17,Masculino,Sul,Superior incompleto,7,0,0,0,1,2,0,0.0,0.0,0.0,200.0,0.0
+202011,Novembro/2020,0-17,Feminino,Sul,Sem instrução,1919,0,4,0,0,0,0,0.0,0.21,0.0,0.0,0.0
+202011,Novembro/2020,0-17,Masculino,Sul,Sem instrução,2082,0,11,0,0,0,0,0.0,0.53,0.0,0.0,0.0
+202011,Novembro/2020,0-17,Masculino,Sul,Fundamental completo,92,0,0,0,11,9,0,0.0,0.0,0.0,81.82,0.0
+202011,Novembro/2020,0-17,Feminino,Sul,Fundamental incompleto,3461,0,9,0,26,11,0,0.0,0.26,0.0,42.31,0.0
+202011,Novembro/2020,0-17,Feminino,Sul,Médio completo,40,0,0,0,8,8,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,0-17,Feminino,Sul,Fundamental completo,87,0,0,0,5,4,0,0.0,0.0,0.0,80.0,0.0
+202011,Novembro/2020,0-17,Masculino,Sul,Médio incompleto,932,0,2,0,162,126,2,0.0,0.21,0.0,77.78,0.21
+202011,Novembro/2020,0-17,Masculino,Sul,Fundamental incompleto,3728,0,6,0,53,28,3,0.0,0.16,0.0,52.83,0.08
+202011,Novembro/2020,18-29,Feminino,Sul,Superior incompleto,1210,1,6,0,650,659,9,0.08,0.5,0.0,101.38,0.74
+202011,Novembro/2020,18-29,Feminino,Sul,Sem instrução,13,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,18-29,Feminino,Sul,Médio incompleto,570,0,3,0,212,210,3,0.0,0.53,0.0,99.06,0.53
+202011,Novembro/2020,18-29,Masculino,Sul,Superior incompleto,1018,1,18,0,635,627,17,0.1,1.77,0.0,98.74,1.67
+202011,Novembro/2020,18-29,Masculino,Sul,Pós-graduação,61,0,1,0,48,49,0,0.0,1.64,0.0,102.08,0.0
+202011,Novembro/2020,18-29,Feminino,Sul,Superior completo,764,1,12,0,595,613,23,0.13,1.57,0.0,103.03,3.01
+202011,Novembro/2020,18-29,Masculino,Sul,Superior completo,529,0,2,0,430,427,7,0.0,0.38,0.0,99.3,1.32
+202011,Novembro/2020,18-29,Masculino,Sul,Médio incompleto,778,0,2,0,487,476,6,0.0,0.26,0.0,97.74,0.77
+202011,Novembro/2020,18-29,Masculino,Sul,Fundamental incompleto,356,1,1,0,240,244,4,0.28,0.28,0.0,101.67,1.12
+202011,Novembro/2020,18-29,Masculino,Sul,Fundamental completo,308,0,2,0,227,225,3,0.0,0.65,0.0,99.12,0.97
+202011,Novembro/2020,18-29,Feminino,Sul,Fundamental incompleto,211,0,1,0,67,62,5,0.0,0.47,0.0,92.54,2.37
+202011,Novembro/2020,18-29,Feminino,Sul,Pós-graduação,141,0,3,0,118,121,3,0.0,2.13,0.0,102.54,2.13
+202011,Novembro/2020,18-29,Feminino,Sul,Médio completo,1634,0,10,0,928,939,11,0.0,0.61,0.0,101.19,0.67
+202011,Novembro/2020,18-29,Feminino,Sul,Fundamental completo,212,0,1,0,101,92,4,0.0,0.47,0.0,91.09,1.89
+202011,Novembro/2020,18-29,Masculino,Sul,Sem instrução,37,0,0,0,4,4,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,18-29,Masculino,Sul,Médio completo,1797,0,10,0,1390,1363,24,0.0,0.56,0.0,98.06,1.34
+202011,Novembro/2020,30-39,Feminino,Sul,Sem instrução,30,0,0,0,1,2,0,0.0,0.0,0.0,200.0,0.0
+202011,Novembro/2020,30-39,Masculino,Sul,Pós-graduação,260,1,2,0,239,249,6,0.38,0.77,0.0,104.18,2.31
+202011,Novembro/2020,30-39,Masculino,Sul,Sem instrução,32,0,0,0,2,2,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,30-39,Masculino,Sul,Fundamental incompleto,510,0,2,0,422,428,8,0.0,0.39,0.0,101.42,1.57
+202011,Novembro/2020,30-39,Masculino,Sul,Médio completo,1637,0,14,0,1418,1441,25,0.0,0.86,0.0,101.62,1.53
+202011,Novembro/2020,30-39,Masculino,Sul,Médio incompleto,382,0,0,0,325,333,4,0.0,0.0,0.0,102.46,1.05
+202011,Novembro/2020,30-39,Masculino,Sul,Fundamental completo,373,0,0,0,315,320,0,0.0,0.0,0.0,101.59,0.0
+202011,Novembro/2020,30-39,Feminino,Sul,Fundamental completo,309,0,0,0,186,170,2,0.0,0.0,0.0,91.4,0.65
+202011,Novembro/2020,30-39,Masculino,Sul,Superior incompleto,383,0,4,0,338,340,10,0.0,1.04,0.0,100.59,2.61
+202011,Novembro/2020,30-39,Feminino,Sul,Pós-graduação,431,0,8,0,368,389,9,0.0,1.86,0.0,105.71,2.09
+202011,Novembro/2020,30-39,Feminino,Sul,Médio completo,1614,0,16,1,1028,1040,20,0.0,0.99,0.06,101.17,1.24
+202011,Novembro/2020,30-39,Feminino,Sul,Fundamental incompleto,422,0,1,0,222,203,8,0.0,0.24,0.0,91.44,1.9
+202011,Novembro/2020,30-39,Feminino,Sul,Médio incompleto,353,0,2,0,196,194,2,0.0,0.57,0.0,98.98,0.57
+202011,Novembro/2020,30-39,Feminino,Sul,Superior completo,1189,0,11,0,907,968,13,0.0,0.93,0.0,106.73,1.09
+202011,Novembro/2020,30-39,Feminino,Sul,Superior incompleto,411,0,6,0,278,294,8,0.0,1.46,0.0,105.76,1.95
+202011,Novembro/2020,30-39,Masculino,Sul,Superior completo,834,0,11,0,746,758,19,0.0,1.32,0.0,101.61,2.28
+202011,Novembro/2020,40-49,Masculino,Sul,Pós-graduação,247,0,5,0,219,225,5,0.0,2.02,0.0,102.74,2.02
+202011,Novembro/2020,40-49,Feminino,Sul,Superior completo,844,1,9,0,659,688,8,0.12,1.07,0.0,104.4,0.95
+202011,Novembro/2020,40-49,Masculino,Sul,Fundamental incompleto,1239,0,2,0,1039,1054,14,0.0,0.16,0.0,101.44,1.13
+202011,Novembro/2020,40-49,Feminino,Sul,Médio incompleto,322,1,2,0,186,185,2,0.31,0.62,0.0,99.46,0.62
+202011,Novembro/2020,40-49,Feminino,Sul,Pós-graduação,396,1,5,0,352,362,7,0.25,1.26,0.0,102.84,1.77
+202011,Novembro/2020,40-49,Masculino,Sul,Sem instrução,66,0,0,0,29,29,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,40-49,Masculino,Sul,Médio completo,1270,0,5,0,1089,1121,11,0.0,0.39,0.0,102.94,0.87
+202011,Novembro/2020,40-49,Feminino,Sul,Superior incompleto,254,0,2,0,167,174,2,0.0,0.79,0.0,104.19,0.79
+202011,Novembro/2020,40-49,Masculino,Sul,Superior incompleto,225,0,1,0,192,200,1,0.0,0.44,0.0,104.17,0.44
+202011,Novembro/2020,40-49,Masculino,Sul,Superior completo,606,0,4,0,542,557,9,0.0,0.66,0.0,102.77,1.49
+202011,Novembro/2020,40-49,Feminino,Sul,Sem instrução,38,0,0,0,9,9,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,40-49,Masculino,Sul,Médio incompleto,282,0,2,0,225,235,3,0.0,0.71,0.0,104.44,1.06
+202011,Novembro/2020,40-49,Feminino,Sul,Fundamental completo,526,1,3,1,321,317,8,0.19,0.57,0.19,98.75,1.52
+202011,Novembro/2020,40-49,Feminino,Sul,Médio completo,1423,1,12,0,935,942,21,0.07,0.84,0.0,100.75,1.48
+202011,Novembro/2020,40-49,Feminino,Sul,Fundamental incompleto,1153,0,3,0,638,578,9,0.0,0.26,0.0,90.6,0.78
+202011,Novembro/2020,40-49,Masculino,Sul,Fundamental completo,527,0,2,0,436,449,4,0.0,0.38,0.0,102.98,0.76
+202011,Novembro/2020,50-59,Masculino,Sul,Sem instrução,80,0,0,0,31,35,0,0.0,0.0,0.0,112.9,0.0
+202011,Novembro/2020,50-59,Feminino,Sul,Médio incompleto,256,0,2,0,120,118,2,0.0,0.78,0.0,98.33,0.78
+202011,Novembro/2020,50-59,Masculino,Sul,Médio completo,1091,2,5,0,802,831,8,0.18,0.46,0.0,103.62,0.73
+202011,Novembro/2020,50-59,Masculino,Sul,Fundamental incompleto,1667,2,4,0,1185,1205,18,0.12,0.24,0.0,101.69,1.08
+202011,Novembro/2020,50-59,Feminino,Sul,Fundamental completo,689,1,4,0,293,281,3,0.15,0.58,0.0,95.9,0.44
+202011,Novembro/2020,50-59,Feminino,Sul,Pós-graduação,299,0,1,0,203,207,5,0.0,0.33,0.0,101.97,1.67
+202011,Novembro/2020,50-59,Masculino,Sul,Pós-graduação,187,0,2,0,151,156,3,0.0,1.07,0.0,103.31,1.6
+202011,Novembro/2020,50-59,Masculino,Sul,Fundamental completo,628,1,6,0,437,459,7,0.16,0.96,0.0,105.03,1.11
+202011,Novembro/2020,50-59,Masculino,Sul,Superior incompleto,162,0,0,0,117,125,1,0.0,0.0,0.0,106.84,0.62
+202011,Novembro/2020,50-59,Feminino,Sul,Fundamental incompleto,1827,1,9,0,773,659,10,0.05,0.49,0.0,85.25,0.55
+202011,Novembro/2020,50-59,Feminino,Sul,Sem instrução,101,0,0,0,17,14,1,0.0,0.0,0.0,82.35,0.99
+202011,Novembro/2020,50-59,Feminino,Sul,Superior completo,668,0,6,0,411,430,9,0.0,0.9,0.0,104.62,1.35
+202011,Novembro/2020,50-59,Feminino,Sul,Superior incompleto,160,0,1,0,92,95,4,0.0,0.63,0.0,103.26,2.5
+202011,Novembro/2020,50-59,Feminino,Sul,Médio completo,1290,1,19,0,640,675,8,0.08,1.47,0.0,105.47,0.62
+202011,Novembro/2020,50-59,Masculino,Sul,Médio incompleto,273,1,2,0,200,206,3,0.37,0.73,0.0,103.0,1.1
+202011,Novembro/2020,50-59,Masculino,Sul,Superior completo,485,0,3,0,392,399,6,0.0,0.62,0.0,101.79,1.24
+202011,Novembro/2020,60-69,Feminino,Sul,Fundamental completo,508,1,3,0,80,75,1,0.2,0.59,0.0,93.75,0.2
+202011,Novembro/2020,60-69,Feminino,Sul,Pós-graduação,151,0,1,0,55,53,0,0.0,0.66,0.0,96.36,0.0
+202011,Novembro/2020,60-69,Masculino,Sul,Superior completo,325,0,3,0,163,165,2,0.0,0.92,0.0,101.23,0.62
+202011,Novembro/2020,60-69,Masculino,Sul,Pós-graduação,94,0,1,0,54,55,1,0.0,1.06,0.0,101.85,1.06
+202011,Novembro/2020,60-69,Masculino,Sul,Sem instrução,118,0,0,0,32,31,1,0.0,0.0,0.0,96.88,0.85
+202011,Novembro/2020,60-69,Masculino,Sul,Superior incompleto,128,0,0,0,53,58,0,0.0,0.0,0.0,109.43,0.0
+202011,Novembro/2020,60-69,Feminino,Sul,Superior completo,405,1,3,0,123,118,2,0.25,0.74,0.0,95.93,0.49
+202011,Novembro/2020,60-69,Feminino,Sul,Médio incompleto,170,1,1,0,33,30,1,0.59,0.59,0.0,90.91,0.59
+202011,Novembro/2020,60-69,Feminino,Sul,Médio completo,766,1,3,0,143,144,1,0.13,0.39,0.0,100.7,0.13
+202011,Novembro/2020,60-69,Feminino,Sul,Fundamental incompleto,1841,2,8,0,299,235,4,0.11,0.43,0.0,78.6,0.22
+202011,Novembro/2020,60-69,Masculino,Sul,Fundamental incompleto,1666,1,5,0,603,603,14,0.06,0.3,0.0,100.0,0.84
+202011,Novembro/2020,60-69,Masculino,Sul,Fundamental completo,482,1,3,0,182,187,5,0.21,0.62,0.0,102.75,1.04
+202011,Novembro/2020,60-69,Feminino,Sul,Superior incompleto,94,0,1,0,27,31,0,0.0,1.06,0.0,114.81,0.0
+202011,Novembro/2020,60-69,Feminino,Sul,Sem instrução,175,0,0,0,12,8,0,0.0,0.0,0.0,66.67,0.0
+202011,Novembro/2020,60-69,Masculino,Sul,Médio incompleto,151,0,1,0,58,62,0,0.0,0.66,0.0,106.9,0.0
+202011,Novembro/2020,60-69,Masculino,Sul,Médio completo,654,0,4,0,242,254,2,0.0,0.61,0.0,104.96,0.31
+202011,Novembro/2020,70+,Masculino,Sul,Superior incompleto,40,0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0
+202011,Novembro/2020,70+,Feminino,Sul,Fundamental completo,452,1,1,0,16,12,0,0.22,0.22,0.0,75.0,0.0
+202011,Novembro/2020,70+,Masculino,Sul,Médio completo,260,0,0,0,30,29,0,0.0,0.0,0.0,96.67,0.0
+202011,Novembro/2020,70+,Feminino,Sul,Sem instrução,408,2,2,0,4,2,0,0.49,0.49,0.0,50.0,0.0
+202011,Novembro/2020,70+,Feminino,Sul,Superior incompleto,35,0,0,0,1,1,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,70+,Feminino,Sul,Pós-graduação,53,0,0,0,6,5,0,0.0,0.0,0.0,83.33,0.0
+202011,Novembro/2020,70+,Masculino,Sul,Pós-graduação,38,0,0,0,10,10,0,0.0,0.0,0.0,100.0,0.0
+202011,Novembro/2020,70+,Feminino,Sul,Superior completo,220,0,0,0,14,16,0,0.0,0.0,0.0,114.29,0.0
+202011,Novembro/2020,70+,Feminino,Sul,Médio completo,402,0,0,0,28,23,1,0.0,0.0,0.0,82.14,0.25
+202011,Novembro/2020,70+,Feminino,Sul,Fundamental incompleto,1829,1,8,0,86,55,2,0.05,0.44,0.0,63.95,0.11
+202011,Novembro/2020,70+,Masculino,Sul,Fundamental incompleto,1443,4,9,0,185,154,7,0.28,0.62,0.0,83.24,0.49
+202011,Novembro/2020,70+,Feminino,Sul,Médio incompleto,77,0,0,0,4,3,0,0.0,0.0,0.0,75.0,0.0
+202011,Novembro/2020,70+,Masculino,Sul,Fundamental completo,316,0,1,0,44,42,0,0.0,0.32,0.0,95.45,0.0
+202011,Novembro/2020,70+,Masculino,Sul,Sem instrução,214,0,1,0,15,12,0,0.0,0.47,0.0,80.0,0.0
+202011,Novembro/2020,70+,Masculino,Sul,Superior completo,208,1,0,0,46,45,0,0.48,0.0,0.0,97.83,0.0
+202011,Novembro/2020,70+,Masculino,Sul,Médio incompleto,76,0,0,0,11,9,0,0.0,0.0,0.0,81.82,0.0
