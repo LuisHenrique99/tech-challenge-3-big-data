@@ -9,6 +9,8 @@
 
 ### PNAD-COVID-19 (IBGE) · Setembro a Novembro de 2020 · 1.149.197 registros
 
+**Autores:** Luis Henrique Silva · Thayna da Conceição Nicacio
+
 > **Objetivo:** Analisar os microdados da pesquisa PNAD-COVID-19, respondendo a questionamentos sobre sintomas clínicos, busca por atendimento, perfil socioeconômico, comportamento da população e distribuição regional da pandemia — utilizando um pipeline de dados em nuvem (AWS S3 + Athena) com arquitetura em camadas.
 
 ---
@@ -29,6 +31,7 @@
   - [6. Impacto Econômico](#6-qual-o-impacto-econômico-na-população)
   - [7. Comportamento na Pandemia](#7-como-a-população-se-comportou)
 - [Conclusões e Recomendações](#-conclusões)
+- [Checklist de Requisitos](#-checklist-de-requisitos)
 - [Como Executar](#-como-executar)
 - [Estrutura do Repositório](#-estrutura-do-repositório)
 - [Tecnologias](#-tecnologias)
@@ -284,12 +287,6 @@ Em números absolutos: **47** internados em setembro (de 9.444 sintomáticos), *
   <img src="https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27Norte%27%2C%27Nordeste%27%2C%27Centro-Oeste%27%2C%27Sudeste%27%2C%27Sul%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Set%2F2020%27%2Cdata%3A%5B2.89%2C2.40%2C3.00%2C2.07%2C2.47%5D%2CbackgroundColor%3A%27%23EF5350%27%2CborderRadius%3A4%7D%2C%7Blabel%3A%27Out%2F2020%27%2Cdata%3A%5B2.59%2C2.08%2C2.23%2C1.88%2C2.01%5D%2CbackgroundColor%3A%27%23FFA726%27%2CborderRadius%3A4%7D%2C%7Blabel%3A%27Nov%2F2020%27%2Cdata%3A%5B2.29%2C2.18%2C2.19%2C2.36%2C2.58%5D%2CbackgroundColor%3A%27%2342A5F5%27%2CborderRadius%3A4%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Btitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Taxa+de+Sintom%C3%A1ticos+por+Regi%C3%A3o+(%25)%27%2Cfont%3A%7Bsize%3A16%7D%7D%2Clegend%3A%7Bposition%3A%27bottom%27%7D%2Cdatalabels%3A%7Bdisplay%3Atrue%2Canchor%3A%27end%27%2Calign%3A%27top%27%2Cfont%3A%7Bweight%3A%27bold%27%7D%7D%7D%2Cscales%3A%7By%3A%7BbeginAtZero%3Atrue%2Cmax%3A3.5%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27%25+da+popula%C3%A7%C3%A3o%27%7D%7D%7D%7D%7D&w=700&h=400&bkg=%23ffffff" alt="Sintomáticos por Região" width="700">
 </p>
 
-#### 🗺️ Mapa do Brasil — Taxa de Sintomáticos por Região (Nov/2020)
-
-<p align="center">
-  <img src="docs/evidencias/mapa_brasil_sintomaticos_nov2020.svg" alt="Mapa do Brasil - Taxa de Sintomáticos por Região Nov/2020" width="600">
-</p>
-
 #### Variação Out → Nov (pontos percentuais)
 
 | Região | Out/2020 | Nov/2020 | **Δ (p.p.)** | Alerta |
@@ -380,13 +377,61 @@ graph TD
 | **Economia** | Ocupação cresceu (+1,13 p.p.) mas auxílio emergencial subiu mais (+1,41 p.p.). |
 | **Comportamento** | Sintomáticos trabalhando subiram 22% em novembro (0,60%). Isolamento rigoroso ficou estável. |
 
-### Recomendações
+### Impacto do Plano de Saúde e Vulnerabilidade Regional
 
-1. **Preparar capacidade hospitalar** em meses de reversão de tendência — novembro reverteu outubro com margem de +0,23 p.p.
-2. **Priorizar Sul e Sudeste** em triagem respiratória — maior aceleração regional
+A cobertura de plano de saúde na base PNAD-COVID é extremamente desigual entre as UFs. As regiões Norte e Nordeste concentram os piores indicadores, expondo populações a maior risco em caso de novo surto:
+
+| UF | Região | % Plano de Saúde (Nov/2020) | % Sintomáticos | % Auxílio Emergencial |
+|----|--------|:--------------------------:|:--------------:|:--------------------:|
+| **Acre** | Norte | 3,67% | 1,49% | 5,08% |
+| **Rondônia** | Norte | 2,17% | 1,93% | 6,23% |
+| **Santa Catarina** | Sul | 2,14% | 2,21% | 8,57% |
+| **Bahia** | Nordeste | 2,26% | 2,24% | 8,03% |
+| **Piauí** | Nordeste | 2,84% | 2,11% | 7,64% |
+| **Mato Grosso do Sul** | Centro-Oeste | 2,81% | 2,09% | 10,57% |
+| **Paraná** | Sul | 2,64% | 2,70% | 10,02% |
+| **Rio Grande do Sul** | Sul | 3,12% | 2,87% | 10,20% |
+
+> Estados com baixa cobertura de plano de saúde e alta dependência de auxílio emergencial representam o maior risco em um novo surto — a população depende exclusivamente do SUS e possui menor capacidade financeira para lidar com afastamentos.
+
+### Indicadores Econômicos Complementares
+
+| Indicador | Set/2020 | Nov/2020 | Leitura |
+|-----------|:--------:|:--------:|---------|
+| Ocupação | 36,27% | 37,40% | Recuperação tímida (+1,13 p.p.) — a maioria seguia sem trabalho formal |
+| Trabalho remoto (entre ocupados) | 36,66% | 37,29% | Estável — 1/3 dos ocupados manteve home office |
+| Auxílio emergencial | 6,67% | **8,08%** | Crescimento contínuo — revelando dependência, não melhoria |
+| Bolsa Família | ~5% | ~5% | Rede permanente estável |
+| **Mato Grosso do Sul — auxílio** | 8,40% | **10,57%** | Maior crescimento de dependência entre as UFs |
+| **Pará — auxílio** | 7,73% | **9,66%** | Norte com alta vulnerabilidade econômica |
+
+### Recomendações para o Hospital
+
+1. **Ampliar cobertura de triagem no SUS** — UFs como Acre (3,67%), Rondônia (2,17%) e Bahia (2,26%) têm cobertura mínima de planos privados; toda a demanda recai sobre a rede pública
+2. **Priorizar Sul e Sudeste em capacidade hospitalar** — retomada mais agressiva em novembro (Sul +0,57 p.p., Sudeste +0,48 p.p.)
 3. **Expandir telemonitoramento** — 1,06% procurou saúde, mas apenas 0,01% internou (maioria é triável remotamente)
-4. **Monitorar sintomáticos em atividade laboral** — 0,60% com febre/tosse continuou trabalhando
-5. **Integrar risco social no cuidado** — 8,08% dependem de auxílio emergencial, populações vulneráveis postergam atendimento
+4. **Monitorar sintomáticos em atividade laboral** — 0,60% com febre/tosse continuou trabalhando, elevando risco de transmissão ocupacional
+5. **Integrar risco socioeconômico na gestão de surtos** — estados com alta dependência de auxílio (MS 10,57%, PA 9,66%) tendem a ter populações que postergam busca por atendimento
+
+---
+
+## ✅ Checklist de Requisitos
+
+Validação do projeto com base nas exigências do [Tech Challenge Fase 3](Postech%20-%20Tech%20Challenge%20-%20Fase%203.pdf):
+
+| # | Requisito | Status | Evidência |
+|:-:|-----------|:------:|-----------|
+| 1 | Utilizar base PNAD-COVID-19 do IBGE | ✅ | Dados de [covid19.ibge.gov.br](https://covid19.ibge.gov.br/pnad-covid/) — 3 CSVs originais |
+| 2 | No máximo 20 questionamentos da pesquisa | ✅ | **20 variáveis** selecionadas (seções A, B, C, D, E, F) — detalhadas na seção [Dicionário PNAD-COVID](#-uso-do-dicionário-pnad-covid) |
+| 3 | Utilizar 3 meses para construção da solução | ✅ | **Setembro, Outubro e Novembro de 2020** — 1.149.197 registros |
+| 4 | Caracterização dos sintomas clínicos | ✅ | Seções [1 (Evolução dos Sintomas)](#1-como-evoluíram-os-sintomas-clínicos-ao-longo-do-trimestre) e [2 (Perfil Demográfico)](#2-qual-o-perfil-demográfico-mais-afetado-por-sintomas) |
+| 5 | Comportamento da população na pandemia | ✅ | Seções [3 (Atendimento)](#3-as-pessoas-procuraram-atendimento-médico), [4 (Internações)](#4-quantos-foram-internados) e [7 (Comportamento)](#7-como-a-população-se-comportou) |
+| 6 | Características econômicas da sociedade | ✅ | Seção [6 (Impacto Econômico)](#6-qual-o-impacto-econômico-na-população) + indicadores complementares nas Conclusões |
+| 7 | Banco de Dados em Nuvem | ✅ | **AWS S3** (armazenamento) + **Amazon Athena** (consultas SQL) — prints na seção [Infraestrutura AWS](#-infraestrutura-aws) |
+| 8 | Organização do banco (pipeline) | ✅ | Arquitetura **SOR → SOT → SPEC** com scripts Python/PySpark e DDLs Athena |
+| 9 | Perguntas selecionadas justificadas | ✅ | Tabela de variáveis com mapeamento do dicionário IBGE |
+| 10 | Análise e recomendações para novo surto | ✅ | Seção [Conclusões e Recomendações](#-conclusões) com ações para o hospital |
+| 11 | Trabalho em grupo | ✅ | Luis Henrique Silva · Thayna da Conceição Nicacio |
 
 ---
 
@@ -432,6 +477,7 @@ Após upload dos Parquets para o S3 (`s3://analise-covid/`), execute os DDLs:
 tech-challenge-3-big-data/
 ├── README.md
 ├── .gitignore
+├── Postech - Tech Challenge - Fase 3.pdf
 ├── sor/
 │   ├── script_sor.py
 │   ├── create_sor_pnad_covid.sql
@@ -446,9 +492,9 @@ tech-challenge-3-big-data/
 │   ├── querys_analise_spec.sql
 │   └── preview/
 └── docs/
-    ├── ESTRUTURA_DADOS.md
-    ├── insights_spec.md
     └── evidencias/
+        ├── print_bucket_analise_covid.png
+        └── print_tabelas_athena.png
 ```
 
 ### 🔗 Links Rápidos
@@ -459,7 +505,7 @@ tech-challenge-3-big-data/
 | **SOT** | [🐍 script_sot.py](sot/script_sot.py) | [📝 athena_create_table_sot.sql](sot/athena_create_table_sot.sql) | — | [📂 preview/](sot/preview/) |
 | **SPEC** | [🐍 script_spec.py](spec/script_spec.py) | [📝 athena_create_table_spec.sql](spec/athena_create_table_spec.sql) | [🔎 querys_analise_spec.sql](spec/querys_analise_spec.sql) | [📂 preview/](spec/preview/) |
 
-📚 **Documentação:** [ESTRUTURA_DADOS.md](docs/ESTRUTURA_DADOS.md) · [insights_spec.md](docs/insights_spec.md)
+📚 **Requisitos:** [Postech - Tech Challenge - Fase 3.pdf](Postech%20-%20Tech%20Challenge%20-%20Fase%203.pdf)
 
 ---
 
@@ -479,5 +525,6 @@ tech-challenge-3-big-data/
 <p align="center">
   <b>FIAP — Pós-Graduação em Data Analytics</b><br>
   Tech Challenge · Fase 3 · Big Data<br>
+  <b>Autores:</b> Luis Henrique Silva · Thayna da Conceição Nicacio<br>
   <i>Dados: PNAD-COVID-19 (IBGE) · Set–Nov/2020</i>
 </p>
