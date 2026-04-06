@@ -31,7 +31,6 @@
   - [6. Impacto Econômico](#6-qual-o-impacto-econômico-na-população)
   - [7. Comportamento na Pandemia](#7-como-a-população-se-comportou)
 - [Conclusões e Recomendações](#-conclusões)
-- [Checklist de Requisitos](#-checklist-de-requisitos)
 - [Como Executar](#-como-executar)
 - [Estrutura do Repositório](#-estrutura-do-repositório)
 - [Tecnologias](#-tecnologias)
@@ -412,26 +411,6 @@ A cobertura de plano de saúde na base PNAD-COVID é extremamente desigual entre
 3. **Expandir telemonitoramento** — 1,06% procurou saúde, mas apenas 0,01% internou (maioria é triável remotamente)
 4. **Monitorar sintomáticos em atividade laboral** — 0,60% com febre/tosse continuou trabalhando, elevando risco de transmissão ocupacional
 5. **Integrar risco socioeconômico na gestão de surtos** — estados com alta dependência de auxílio (MS 10,57%, PA 9,66%) tendem a ter populações que postergam busca por atendimento
-
----
-
-## ✅ Checklist de Requisitos
-
-Validação do projeto com base nas exigências do [Tech Challenge Fase 3](Postech%20-%20Tech%20Challenge%20-%20Fase%203.pdf):
-
-| # | Requisito | Status | Evidência |
-|:-:|-----------|:------:|-----------|
-| 1 | Utilizar base PNAD-COVID-19 do IBGE | ✅ | Dados de [covid19.ibge.gov.br](https://covid19.ibge.gov.br/pnad-covid/) — 3 CSVs originais |
-| 2 | No máximo 20 questionamentos da pesquisa | ✅ | **20 variáveis** selecionadas (seções A, B, C, D, E, F) — detalhadas na seção [Dicionário PNAD-COVID](#-uso-do-dicionário-pnad-covid) |
-| 3 | Utilizar 3 meses para construção da solução | ✅ | **Setembro, Outubro e Novembro de 2020** — 1.149.197 registros |
-| 4 | Caracterização dos sintomas clínicos | ✅ | Seções [1 (Evolução dos Sintomas)](#1-como-evoluíram-os-sintomas-clínicos-ao-longo-do-trimestre) e [2 (Perfil Demográfico)](#2-qual-o-perfil-demográfico-mais-afetado-por-sintomas) |
-| 5 | Comportamento da população na pandemia | ✅ | Seções [3 (Atendimento)](#3-as-pessoas-procuraram-atendimento-médico), [4 (Internações)](#4-quantos-foram-internados) e [7 (Comportamento)](#7-como-a-população-se-comportou) |
-| 6 | Características econômicas da sociedade | ✅ | Seção [6 (Impacto Econômico)](#6-qual-o-impacto-econômico-na-população) + indicadores complementares nas Conclusões |
-| 7 | Banco de Dados em Nuvem | ✅ | **AWS S3** (armazenamento) + **Amazon Athena** (consultas SQL) — prints na seção [Infraestrutura AWS](#-infraestrutura-aws) |
-| 8 | Organização do banco (pipeline) | ✅ | Arquitetura **SOR → SOT → SPEC** com scripts Python/PySpark e DDLs Athena |
-| 9 | Perguntas selecionadas justificadas | ✅ | Tabela de variáveis com mapeamento do dicionário IBGE |
-| 10 | Análise e recomendações para novo surto | ✅ | Seção [Conclusões e Recomendações](#-conclusões) com ações para o hospital |
-| 11 | Trabalho em grupo | ✅ | Luis Henrique Silva · Thayna da Conceição Nicacio |
 
 ---
 
