@@ -492,9 +492,13 @@ tech-challenge-3-big-data/
 │   ├── querys_analise_spec.sql
 │   └── preview/
 └── docs/
-    └── evidencias/
-        ├── print_bucket_analise_covid.png
-        └── print_tabelas_athena.png
+    ├── evidencias/
+    │   ├── print_bucket_analise_covid.png
+    │   └── print_tabelas_athena.png
+    └── dados_originais/          ← Dicionários e tabulações IBGE
+        ├── 202009/
+        ├── 202010/
+        └── 202011/
 ```
 
 ### 🔗 Links Rápidos
@@ -505,7 +509,7 @@ tech-challenge-3-big-data/
 | **SOT** | [🐍 script_sot.py](sot/script_sot.py) | [📝 athena_create_table_sot.sql](sot/athena_create_table_sot.sql) | — | [📂 preview/](sot/preview/) |
 | **SPEC** | [🐍 script_spec.py](spec/script_spec.py) | [📝 athena_create_table_spec.sql](spec/athena_create_table_spec.sql) | [🔎 querys_analise_spec.sql](spec/querys_analise_spec.sql) | [📂 preview/](spec/preview/) |
 
-📚 **Requisitos:** [Postech - Tech Challenge - Fase 3.pdf](Postech%20-%20Tech%20Challenge%20-%20Fase%203.pdf)
+📚 **Requisitos:** [Postech - Tech Challenge - Fase 3.pdf](Postech%20-%20Tech%20Challenge%20-%20Fase%203.pdf) · **Dados IBGE:** [docs/dados_originais/](docs/dados_originais/)
 
 ---
 
